@@ -2208,7 +2208,7 @@ As the deity is indivisible from my own mind,
 chöying nyukmé ngang du zhak
 I settle within the original state of dharmadhatu.
 
-<small>ཅེས་གནས་ལུགས་ཀྱི་ལྟ་བ་བསྐྱང༌།</small>
+<small>ཅེས་གནས་ལུགས་ཀྱི་ལྟ་བ་བསྐྱངས།</small>
 <small>Thus, foster the view of the true nature.</small>
 
 དགེ་བ་འདི་ཡིས་མྱུར་དུ་བདག །
