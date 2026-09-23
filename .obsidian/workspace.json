@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "1df70feb481c22f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/bo-མཎྜལ་བཞི་ཆོག.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bo-མཎྜལ་བཞི་ཆོག"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 412.22735595703125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +213,29 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d066ca5c15f520a5",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "1-SOURCES/Text/bo-མཎྜལ་བཞི་ཆོག.md",
+    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "README.md",
+    "1-SOURCES/Text/ཅོན་ཏ་རའི་སྒྲོལ་ཆོག་གི་འདོན་ཆ།.pdf",
+    "1-SOURCES/Text/zh-Chinese_Pecha_Text_Only.md",
+    "1-SOURCES/Text/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
+    "1-SOURCES/Text/zh-21_Tara_reorder_notes.md",
+    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
+    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-reorder.md",
+    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-blank-align.md",
+    "1-SOURCES/Text/review_report_low_confidence_matches.tsv",
+    "1-SOURCES/Text/review_report_blank_align_content_diffs.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Transliteration.md",
+    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
+    "1-SOURCES/Text/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Sadhana/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Text/bo-zabtig-drolchok.md",
     "1-SOURCES/Text/bo-phon-zabtig-drolchok.md",
-    "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -214,26 +246,10 @@
     "gemini-scribe/Prompts",
     "gemini-scribe",
     "CLAUDE.md",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
     "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
-    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
-    "4-SYSTEM/Skills/glossary-combine/SKILL.md",
-    "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md"
+    "4-SYSTEM/Skills/source-property-extractor/SKILL.md"
   ]
 }
