@@ -249,11 +249,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "46f3964aa49ed9ad",
+  "active": "8a74d140487355ac",
   "lastOpenFiles": [
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "0-INBOX/vault-audit-2026-09-23.md",
     "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-reorder.md",
@@ -285,7 +286,6 @@
     "4-SYSTEM/Skills/spine-map/SKILL.md",
     "4-SYSTEM/Skills/plan-day-translate/references/requirements-examples.md",
     "4-SYSTEM/Skills/plan-day-translate/SKILL.md",
-    "4-SYSTEM/Skills/plan-day-qa/SKILL.md",
-    "4-SYSTEM/Skills/plan-day-package/templates/day-package.md"
+    "4-SYSTEM/Skills/plan-day-qa/SKILL.md"
   ]
 }

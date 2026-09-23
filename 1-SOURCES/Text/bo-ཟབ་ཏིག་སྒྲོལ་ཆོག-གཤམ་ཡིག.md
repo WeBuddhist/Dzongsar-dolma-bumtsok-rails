@@ -255,8 +255,8 @@ To you I pray, grant me siddhis, common and supreme!
 beró namtrul gyurmé tsewang tsal
 beró namtrul gyurmé tsewang tsal
 ཀུན་གཟིགས་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་དང། །
-kunzig jamyang chökyi lodö and
 kunzig jamyang chökyi lodö dang
+kunzig jamyang chökyi lodö and
 སྨིན་གྲོལ་སྩོལ་མཛད་ཁྱབ་བདག་མངྒ་ལར། །
 mindrol tsolzé khyabdak manga lar
 mindrol tsolzé khyabdak manga lar
