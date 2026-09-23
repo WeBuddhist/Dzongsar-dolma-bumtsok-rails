@@ -1,185 +1,329 @@
 # Skills Catalog
 
-This file catalogues every skill available in a Railroads vault, grouped by workflow phase. Each entry names the skill, states its purpose, describes its inputs and outputs, and points to the SKILL.md that operationalises it.
+Every skill installed in this vault, grouped by the stage of the pipeline it belongs to. Each entry states what the skill does, what it needs, and what it produces, and links to the `SKILL.md` that operationalises it.
 
-Skills that already exist are marked **[exists]**. Skills that are planned but not yet written are marked **[planned]**.
+**Read this file before starting any task.** If a skill covers what you are about to do, open its `SKILL.md` and follow it exactly. A task done without its skill must be redone — the skills exist so that citation format, file locations and frontmatter come out the same every time, whoever or whatever does the work.
 
-The pipeline reads top-to-bottom: source ingestion populates `1-SOURCES/`, the rails-building skills turn those sources into `2-RAILS/` context (Sections / Verses / Local-Wiki / Bilingual Glossaries), the translation skills consume those rails to produce `3-TRANSFORMATIONS/Translations/<track-name>/`, and the QA skill checks the output back against the rails.
+Most of these skills are installed copies from a shared skill library. Fix a skill there and re-sync rather than patching the copy here; see [`../Guidelines/skills-system.md`](../Guidelines/skills-system.md). Skills marked **[vault-local]** belong to this text alone and are never synced away.
+
+The pipeline reads top to bottom.
+
+```
+intake ─→ format ─→ structure ─→ segment & ID ─→ metadata
+                                                    │
+                            ┌───────────────────────┼───────────────────────┐
+                            ▼                       ▼                       ▼
+                      section rails            verse rails            terminology
+                            │                       │                       │
+                            └───────────┬───────────┴───────────┬───────────┘
+                                        ▼                       ▼
+                                  claims & wiki           transformations
+                                                                │
+                                                          QA and checking
+```
 
 ---
 
-## Source ingestion skills
+## 1. Intake — raw material into `1-SOURCES/`
 
-These skills bring raw material into `1-SOURCES/` in a consistent, citation-ready format.
-
-### `epub-to-markdown` **[exists]**
-Converts EPUB files (commentaries, reference texts) into formatted Obsidian markdown with block IDs, headings, and frontmatter.
+### `epub-to-markdown`
+Converts an EPUB into structured markdown, inspecting the book's own internal structure first and then either reusing a publisher-specific converter or writing one for it. Converters live in `epub-to-markdown/converters/`.
 → [`epub-to-markdown/SKILL.md`](epub-to-markdown/SKILL.md)
 
-### `json-to-source-text` **[exists]**
-Converts JSON exports of root texts (e.g. from tipitaka.org or SuttaCentral) into formatted source-text markdown files. Includes example converters for tipitaka.org and English paired translations; new source schemas get their own converter in `json-to-source-text/converters/`.
+### `json-to-source-text`
+Converts JSON exports of root texts (canonical-text databases, scraped corpora) into formatted source-text markdown. New source schemas get their own converter under `json-to-source-text/converters/`.
 → [`json-to-source-text/SKILL.md`](json-to-source-text/SKILL.md)
 
-### `json-to-commentary` **[exists]**
-Converts JSON exports of classical commentaries into formatted commentary markdown files.
+### `json-to-commentary`
+The same for commentary exports, handling the heading and verse-key structure commentaries carry.
 → [`json-to-commentary/SKILL.md`](json-to-commentary/SKILL.md)
 
-### `format-root-text` **[exists]**
-Normalises an existing root-text file: heading structure, block IDs, verse formatting.
+### `raw-to-sources`
+Brings one raw OCR or segmentation file into `1-SOURCES/` as a cleaned, frontmattered root text or commentary — the first step of the ingest chain.
+→ [`raw-to-sources/SKILL.md`](raw-to-sources/SKILL.md)
+
+### `clean-raw-text`
+Inspects a raw text for **mechanical** damage — page markers, running headers, OCR index numbers, stray spacing, encoding artefacts — profiles what it finds, and applies a reviewed cleanup. Never touches wording.
+→ [`clean-raw-text/SKILL.md`](clean-raw-text/SKILL.md)
+
+### `tibetan-ocr-quality`
+Scores a Tibetan OCR file's perplexity against a language model, so a bad scan is caught before anyone spends time formatting it.
+→ [`tibetan-ocr-quality/SKILL.md`](tibetan-ocr-quality/SKILL.md)
+
+---
+
+## 2. Formatting
+
+**OCR repair happens in `format-commentary`, and nowhere else.** The segmentation and block-ID skills are bound by a no-loss rule and cannot fix a character.
+
+### `format-root-text`
+Formats and normalises a root-text file that is not Tibetan or Sanskrit: frontmatter, heading structure with `^N-0` anchors, block IDs, verse layout, chapter 0.
 → [`format-root-text/SKILL.md`](format-root-text/SKILL.md)
 
-### `format-commentary` **[exists]**
-Normalises an existing commentary file: OCR cleanup, heading structure, paragraph granularity, block IDs.
+### `format-tibetan-root-text`
+The Tibetan path: clean verse with `^chapter-verse` IDs, chapter headings with anchors, one stanza per block, shad-based line splitting.
+→ [`format-tibetan-root-text/SKILL.md`](format-tibetan-root-text/SKILL.md)
+
+### `format-sanskrit-root-text`
+The Sanskrit path, using the four-zone scheme (pre-title, front matter, chapter verses, colophons) described in [`../Guidelines/annotation-conventions.md`](../Guidelines/annotation-conventions.md) §1b.
+→ [`format-sanskrit-root-text/SKILL.md`](format-sanskrit-root-text/SKILL.md)
+
+### `format-commentary`
+Formats a commentary: repairs OCR damage, structures the headings, normalises spacing and punctuation, and applies block IDs.
 → [`format-commentary/SKILL.md`](format-commentary/SKILL.md)
 
-### `add-toc` **[exists]**
-Inserts or regenerates a table of contents in a source or rails file.
-→ [`add-toc/SKILL.md`](add-toc/SKILL.md)
-
-### `root-text-frontmatter` **[exists]**
-Generates complete YAML frontmatter for a root-text file in `1-SOURCES/Text/` by extracting metadata from its title, colophon, and opening content.
-→ [`root-text-frontmatter/SKILL.md`](root-text-frontmatter/SKILL.md)
-
-### `commentary-frontmatter` **[exists]**
-Generates complete YAML frontmatter for a commentary file in `1-SOURCES/Commentaries/`, including the `registered_id`, `root_text`, and `covers_verses` fields.
-→ [`commentary-frontmatter/SKILL.md`](commentary-frontmatter/SKILL.md)
-
-### `translation-frontmatter` **[exists]**
-Generates complete YAML frontmatter for a translation file in `1-SOURCES/Translations/`, including translator, target language, and `translation_basis`.
-→ [`translation-frontmatter/SKILL.md`](translation-frontmatter/SKILL.md)
-
-### `reference-frontmatter` **[exists]**
-Generates complete YAML frontmatter for a secondary-literature or reference file in `1-SOURCES/References/`.
-→ [`reference-frontmatter/SKILL.md`](reference-frontmatter/SKILL.md)
-
 ---
 
-## Rails-building skills (context preparation for translation)
+## 3. Structure and table of contents
 
-These skills populate `2-RAILS/` with the structured context that translation and QA skills consume.
+### `toc-generate`
+Builds a text's structural outline end to end where the commentary announces its own divisions inline (the Tibetan *sa bcad* case): scan for candidates, copy the division announcements verbatim, reconcile them into one nested decimal tree, verify that tree against the source with two deterministic checkers, and ingest it back into the text as headings with block IDs. Phases are separately addressable.
+→ [`toc-generate/SKILL.md`](toc-generate/SKILL.md)
 
-### `section-summary-raw` **[exists]**
-**Purpose:** Generate a summary of one table-of-contents node in the original language, drawn from a single commentary.
-**Inputs:** Commentary file(s) in `1-SOURCES/`, the TOC node to summarise.
-**Outputs:** One summary file per commentary under `2-RAILS/Sections/Raw/<commentary-id>/<node-id>.md`.
-**Rules:** Use only the terminology the commentary itself uses. No translation. No paraphrase beyond compression. Every claim cites a block ID from the source file.
-→ [`section-summary-raw/SKILL.md`](section-summary-raw/SKILL.md)
-
-### `section-summary-combined` **[exists]**
-**Purpose:** Combine the per-commentary raw summaries for one TOC node and add an English translation of the combined summary.
-**Inputs:** All raw summary files for the target node under `2-RAILS/Sections/Raw/`.
-**Outputs:** One combined file at `2-RAILS/Sections/<node-id>.md` containing the original-language synthesis and an English translation.
-→ [`section-summary-combined/SKILL.md`](section-summary-combined/SKILL.md)
-
-### `verse-context` **[exists]**
-**Purpose:** Build the verse-level context file for one verse.
-**Inputs:** Root-text verse (from `1-SOURCES/`), all commentary passages that discuss it (via block transclusions from `1-SOURCES/`).
-**Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` containing: (1) transclusions of commentary passages, (2) a synthesis of the commentators' interpretations in the original language, (3) a disambiguated restatement of the verse in the original language precise enough to exclude any mistranslation.
-→ [`verse-context/SKILL.md`](verse-context/SKILL.md)
-
-### `local-wiki-article` **[exists]**
-**Purpose:** Create or update a Local-Wiki article for one key term.
-**Inputs:** Commentary passages that explain or define the term (via block citations from `1-SOURCES/`).
-**Outputs:** One file at `2-RAILS/Local-Wiki/<term>_(<disambiguator>).md` containing: cited commentary explanations in the original language, and a short contextual definition drafted from those citations (also in the original language).
-→ [`local-wiki-article/SKILL.md`](local-wiki-article/SKILL.md)
-
-### `interlinear-gloss` **[exists]**
-**Purpose:** For one root text + one translation, build an interlinear gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md` pairing them verse by verse. Each verse becomes a `gloss` block in the Obsidian Interlinear Glossing plugin format (`\gla` source tokens, `\glb` morphology/lemma, `\glc` token-by-token target glosses, `\ex` free translation). Token-level alignment lives here so every downstream bilingual glossary step reads from one place.
-**Inputs:** `1-SOURCES/Text/<root-text>.md`, one translation under `1-SOURCES/Translations/`.
-**Outputs:** One gloss file per translation under `2-RAILS/Bilingual-Glossaries/Raw/<source-lang>-<target-lang>-gloss.md`.
-→ [`interlinear-gloss/SKILL.md`](interlinear-gloss/SKILL.md)
-
-### `glossary-extract-raw` **[exists]**
-**Purpose:** Extract every source-language keyword and the rendering(s) it receives, from one interlinear gloss file, into a raw per-source bilingual glossary.
-**Inputs:** One gloss file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>-gloss.md`.
-**Outputs:** One bilingual glossary file at `2-RAILS/Bilingual-Glossaries/Raw/<source>-<target>.md` with a table mapping source lemma → rendering used in that translation.
-→ [`glossary-extract-raw/SKILL.md`](glossary-extract-raw/SKILL.md)
-
-### `glossary-combine` **[exists]**
-**Purpose:** Merge all raw bilingual glossary files for one language pair into a single consolidated bilingual glossary.
-**Inputs:** All relevant files under `2-RAILS/Bilingual-Glossaries/Raw/`.
-**Outputs:** One consolidated bilingual glossary at `2-RAILS/Bilingual-Glossaries/<lang-pair>.md` showing every attested rendering side by side.
-→ [`glossary-combine/SKILL.md`](glossary-combine/SKILL.md)
-
-### `glossary-select` **[exists]**
-**Purpose:** Build the prescriptive per-track termbase for one track by selecting the preferred rendering for each term from the consolidated bilingual glossary, guided by the track's `requirements.md`. If no existing rendering is satisfactory, derive one from the Local-Wiki article for that term and feed the new rendering back into the consolidated bilingual glossary.
-**Inputs:** `2-RAILS/Bilingual-Glossaries/<lang-pair>.md`, `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`, Local-Wiki articles as needed.
-**Outputs:** `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md` — the prescriptive termbase scoped to keywords that appear in the text being translated; plus updates to the consolidated bilingual glossary for any new derived renderings.
-→ [`glossary-select/SKILL.md`](glossary-select/SKILL.md)
-
----
-
-## Translation requirements skills
-
-### `requirements-author` **[planned]**
-**Purpose:** Author or audit a track's `requirements.md` so it contains everything the `translate-section` skill needs to behave consistently across the whole text.
-**Inputs:** The track folder `3-TRANSFORMATIONS/Translations/<track-name>/`; the per-track termbase (if it exists yet); samples of any prior translation in the same target language.
-**Outputs:** A complete `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`, written in the target language.
-→ `requirements-author/SKILL.md` *(to be written)*
-
----
-
-## Translation skills
-
-### `translate-section` **[planned]**
-**Purpose:** Translate a small batch of TOC nodes into the target language.
-**Inputs:** `requirements.md`, `termbase.md`, `audience.md` for the track; relevant section and verse packages from `2-RAILS/`; Local-Wiki articles as needed.
-**Outputs:** Updated translation file(s) in `3-TRANSFORMATIONS/Translations/<track-name>/`. Each file's frontmatter lists the rail files it was generated from.
-**Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track termbase. Introduce no new rendering without first adding it to the termbase and feeding it back into the consolidated bilingual glossary.
-→ `translate-section/SKILL.md` *(to be written)*
-
----
-
-## Translation QA skills
-
-### `translation-qa` **[planned]**
-**Purpose:** Review a translated section against the MQM translation error taxonomy, the track requirements, and the source rails.
-**Inputs:** Translated section(s); `requirements.md`; `termbase.md`; relevant `2-RAILS/` files.
-**Outputs:** Appended entries in `3-TRANSFORMATIONS/Translations/<track-name>/qa-report.md`. Each entry records: the segment, MQM error category, severity (critical / major / minor), and a suggested correction.
-→ `translation-qa/SKILL.md` *(to be written)*
-
-### `style-consistency-check` **[planned]**
-**Purpose:** Catch style drift over long texts — creeping changes in register, sentence length, verse formatting, list handling, term gloss style.
-**Inputs:** All translated files in `3-TRANSFORMATIONS/Translations/<track-name>/`; `requirements.md`; termbase.
-**Outputs:** A style-drift section appended to `qa-report.md`, with span references back to the offending passages.
-→ `style-consistency-check/SKILL.md` *(to be written)*
-
----
-
-## Utility skills
-
-### `source-property-extractor` **[exists]**
-Extracts structured metadata (author, date, edition, language, publisher) from a source file and writes it to the frontmatter.
-→ [`source-property-extractor/SKILL.md`](source-property-extractor/SKILL.md)
-
-### `property-creator` **[exists]**
-Creates or updates Obsidian frontmatter properties on a file.
-→ [`property-creator/SKILL.md`](property-creator/SKILL.md)
-
-### `structural-outline-ingest` **[exists]**
-Ingests a structural outline (TOC) into a source or rails file.
+### `structural-outline-ingest`
+The alternative route for a text whose structure is stated rather than announced: extract the outline and write it to `2-RAILS/Sections/Raw/outline/`. Run this before verse packages — macro structure shapes how every verse under it is read.
 → [`structural-outline-ingest/SKILL.md`](structural-outline-ingest/SKILL.md)
 
+### `outline-extract`
+Extracts an outline a commentary already states explicitly and emits it as a standalone nested file.
+→ [`outline-extract/SKILL.md`](outline-extract/SKILL.md)
+
+### `add-toc`
+Generates a nested, decimal-numbered table of contents from a flat draft list at the top of a document. The `^toc-X-Y-Z` IDs it writes are a **separate namespace** from heading anchors.
+→ [`add-toc/SKILL.md`](add-toc/SKILL.md)
+
+### `tag-inline-toc`
+Finds the inline structural-announcement phrases in a formatted text, wraps the announced terms in wikilinks pointing at the headings they introduce, and inserts the standalone outline block. Optional — only for texts that actually contain such announcements.
+→ [`tag-inline-toc/SKILL.md`](tag-inline-toc/SKILL.md)
+
+### `spine-map`
+Builds one commentary's routing index from its own outline nodes onto the canonical spine slots of the root text. Once per commentary, then reused by every claims run.
+→ [`spine-map/SKILL.md`](spine-map/SKILL.md)
+
 ---
 
-## System skills
+## 4. Segmentation, block IDs, transclusion
 
-These skills operate on the vault's own structure — creating new skills, maintaining registrations, and auditing integrity. They are meta-level tools for contributors, not pipeline steps.
+**Block IDs are citations.** Once anything cites a file, re-segmenting it breaks those citations silently. If you must, re-run every downstream rail.
 
-### `create-skill` **[exists]**
-**Purpose:** Scaffold a new skill completely and correctly in a single pass — creates the SKILL.md, registers it in SKILLS-CATALOG.md, creates the slash command file, and optionally adds it to the CLAUDE.md quick-reference table.
-**Inputs:** Skill name, purpose sentence, catalog section, inputs/outputs description, and whether it belongs in the CLAUDE.md §12 table.
-**Outputs:** `4-SYSTEM/Skills/<skill-name>/SKILL.md`, a new catalog entry, `.claude/commands/<skill-name>.md`, and optionally a new §12 table row in `4-SYSTEM/CLAUDE.md`.
+### `segment-commentary`
+Breaks a commentary into short, individually referenceable blocks — prose paragraphs, verse stanzas, quotations — so that every claim can later cite one.
+→ [`segment-commentary/SKILL.md`](segment-commentary/SKILL.md)
+
+### `add-block-ids`
+Adds block IDs so every verse, prose block and heading can be cited and transcluded. Modes for commentaries, root texts, and texts with no internal numbering.
+→ [`add-block-ids/SKILL.md`](add-block-ids/SKILL.md)
+
+### `transclusion`
+Inserts root-verse transclusion links into a commentary or a second version of the root text, placing each one where the verse becomes relevant.
+→ [`transclusion/SKILL.md`](transclusion/SKILL.md)
+
+---
+
+## 5. Metadata and frontmatter
+
+### `frontmatter`
+Populates the complete YAML frontmatter for any source file — root text, commentary, translation or reference — extracting what can be extracted from the title, colophon and opening content. One variant per file type; the commentary variant also assigns `registered_id`, `root_text` and `covers_verses`.
+
+*Replaces the four separate `root-text-frontmatter` / `commentary-frontmatter` / `translation-frontmatter` / `reference-frontmatter` skills, which were the same procedure four times.*
+→ [`frontmatter/SKILL.md`](frontmatter/SKILL.md)
+
+### `extract-source-metadata`
+Pulls a text's own metadata — title, author, translator, publication details, scribe, patron, place, date — out of its first and last folios.
+→ [`extract-source-metadata/SKILL.md`](extract-source-metadata/SKILL.md)
+
+### `author-metadata-sync`
+Propagates human-curated author metadata from the commentary frontmatter in `1-SOURCES/` out to the derived files that carry an author field, so one correction does not have to be made in a dozen places.
+→ [`author-metadata-sync/SKILL.md`](author-metadata-sync/SKILL.md)
+
+---
+
+## 6. Section rails
+
+### `section-summary`
+Summarises one node of the structural outline: first once per commentary in that commentary's own language and terminology (`Sections/Raw/<commentary-id>/<node-id>.md`), then as one combined file with an English translation underneath (`Sections/<node-id>.md`).
+**Never translate in the per-commentary phase** — its original-language terminology is the evidence the glossary and term skills read.
+→ [`section-summary/SKILL.md`](section-summary/SKILL.md)
+
+---
+
+## 7. Verse rails
+
+### `verse-context`
+Builds the context package for a verse at `2-RAILS/Verses/<verse-id>.md`: transcludes the root verse and the relevant commentary passages, paraphrases how each commentator reads it, synthesises an overview, and produces the **disambiguated restatement** that every transformation skill works from. Modes for one verse, a chapter batch, a verse group's structural position, and regenerating the overview alone.
+→ [`verse-context/SKILL.md`](verse-context/SKILL.md)
+
+### `local-wiki-article`
+Creates or updates the article for one key term in `2-RAILS/Local-Wiki/`, holding the commentary attestations and a contextual definition drawn from them.
+→ [`local-wiki-article/SKILL.md`](local-wiki-article/SKILL.md)
+
+---
+
+## 8. Terminology and glossaries
+
+### `interlinear-gloss`
+For one root text plus one translation, builds a token-aligned gloss file under `2-RAILS/Bilingual-Glossaries/Raw/`. Token-level alignment happens here once, so every downstream glossary step reads from one place.
+→ [`interlinear-gloss/SKILL.md`](interlinear-gloss/SKILL.md)
+
+### `bilingual-glossary`
+Builds and maintains the glossary chain end to end: extract every source keyword and its attested renderings from each gloss file, combine them per language pair, surface the contested ones, and select the per-track termbase.
+→ [`bilingual-glossary/SKILL.md`](bilingual-glossary/SKILL.md)
+
+### `keyword-extract`
+Extracts ranked, domain-specific keywords, maps each occurrence back to its source-language term, and builds the **source-term registry** — one canonical lemma per concept with every variant grouped under it. This is the vocabulary-standardisation step every consistent termbase depends on.
+→ [`keyword-extract/SKILL.md`](keyword-extract/SKILL.md)
+
+### `term-definition`
+Extracts verbatim definitions of key terms from the commentaries, using each source language's own definitional markers.
+→ [`term-definition/SKILL.md`](term-definition/SKILL.md)
+
+### `term-localization`
+Fills the target-language columns of the term table, deriving each rendering from the commentary-sourced meaning rather than from a dictionary.
+→ [`term-localization/SKILL.md`](term-localization/SKILL.md)
+
+### `pali-biterm-extraction`
+For a block-aligned Pāli source and an English translation, extracts every attested English rendering for each Pāli token's morphological family. Install it in Pāli vaults only.
+→ [`pali-biterm-extraction/SKILL.md`](pali-biterm-extraction/SKILL.md)
+
+---
+
+## 9. Claims and article production
+
+*Optional — for vaults that compare what many commentaries assert. See [`../../2-RAILS/About Rails.md`](../../2-RAILS/About%20Rails.md) §6b.*
+
+### `commentary-claims`
+Extracts every distinct claim one commentary makes into one claims file, in the commentary's own language, each cited to a block ID, from that commentary read in isolation.
+→ [`commentary-claims/SKILL.md`](commentary-claims/SKILL.md)
+
+### `claims-consolidate`
+Consolidates one topic's claims across every commentary into a question-driven topic page: consensus, ⚑ divergences, unique claims. Includes the adversarial audit phase.
+→ [`claims-consolidate/SKILL.md`](claims-consolidate/SKILL.md)
+
+### `article-subject-filter` · `wiki-article-inventory` · `wiki-article-from-claims` · `gemini-article-polish`
+The article pipeline: classify each queued term as a standalone subject, section material or glossary-only; check what already exists upstream; draft a cited article from one consolidated topic page; and re-compose its prose without changing a fact.
+→ [`article-subject-filter/SKILL.md`](article-subject-filter/SKILL.md) · [`wiki-article-inventory/SKILL.md`](wiki-article-inventory/SKILL.md) · [`wiki-article-from-claims/SKILL.md`](wiki-article-from-claims/SKILL.md) · [`gemini-article-polish/SKILL.md`](gemini-article-polish/SKILL.md)
+
+---
+
+## 10. Transformations — translation
+
+**Lock the vocabulary before translating anything that will be published.** A machine or zero-shot output is a first look, not a release candidate.
+
+### `machine-translate`
+Produces a machine baseline of a block-ID'd source by calling a translation API on small batches. A baseline, never a governed track.
+→ [`machine-translate/SKILL.md`](machine-translate/SKILL.md)
+
+### `zeroshot-translate`
+Translates a block-ID'd source in one pass, with the degree of terminology control the job needs. Also produces the block-ID-preserving draft that `keyword-extract` consumes.
+→ [`zeroshot-translate/SKILL.md`](zeroshot-translate/SKILL.md)
+
+### `graded-translate`
+The production path: builds the per-grade termbase, translates with it locked, then checks for drift.
+→ [`graded-translate/SKILL.md`](graded-translate/SKILL.md)
+
+### `verse-translate`
+Metrical or rhymed verse translation, working from the verse packages rather than the raw root.
+→ [`verse-translate/SKILL.md`](verse-translate/SKILL.md)
+
+### `translate-commentary`
+Translates a commentary into the target language against the track's requirements and termbase, preserving every block ID so the output stays aligned.
+→ [`translate-commentary/SKILL.md`](translate-commentary/SKILL.md)
+
+---
+
+## 11. Transformations — adaptation and plans
+
+### `multilevel-summary`
+An audience-calibrated summary of a verse or chapter, grounded in the rails, with per-audience priorities and word budgets.
+→ [`multilevel-summary/SKILL.md`](multilevel-summary/SKILL.md)
+
+### `plan-scaffold`
+Creates a plan's folder set from a session-shape declaration and a verse-distribution rule.
+→ [`plan-scaffold/SKILL.md`](plan-scaffold/SKILL.md)
+
+### `plan-schedule`
+Builds, audits and adjusts the day-to-verse distribution table, renaming the affected day files when a verse moves.
+→ [`plan-schedule/SKILL.md`](plan-schedule/SKILL.md)
+
+### `plan-day-generate`
+Authors one or more day files in the plan's authoring stream from the rails, section by section, with mechanical verification of every ceiling and formula.
+→ [`plan-day-generate/SKILL.md`](plan-day-generate/SKILL.md)
+
+### `plan-day-translate`
+Produces another language stream's day file by translating the authoring stream's, with verses retrieved by block ID from that stream's designated translation track.
+→ [`plan-day-translate/SKILL.md`](plan-day-translate/SKILL.md)
+
+### `plan-day-package`
+Builds the machine-anchored per-day dossier an app consumes, then validates and guards it.
+→ [`plan-day-package/SKILL.md`](plan-day-package/SKILL.md)
+
+---
+
+## 12. QA and checking
+
+### `translation-qa`
+MQM-based quality check of a translation against the source, the rails and the track's requirements. Appends a dated run to the track's `qa-report.md`. A section is not `complete` until it passes with no critical or major errors.
+→ [`translation-qa/SKILL.md`](translation-qa/SKILL.md)
+
+### `commentary-fact-check`
+Checks a translation verse by verse against the commentary tradition that grounds it, grading every departure.
+→ [`commentary-fact-check/SKILL.md`](commentary-fact-check/SKILL.md)
+
+### `translation-alignment-check`
+Verifies that a translation is structurally parallel to the root: same block IDs in the same order, same segment types, headings and transclusions intact.
+→ [`translation-alignment-check/SKILL.md`](translation-alignment-check/SKILL.md)
+
+### `plan-day-qa`
+Grades one plan day file against the plan's declared session shape, its grounding in the rails, and its stream's style contract, with a computed score and a hard gate.
+→ [`plan-day-qa/SKILL.md`](plan-day-qa/SKILL.md)
+
+---
+
+## 13. Publishing
+
+### `translation-upload`
+Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. Dry-run by default; `--execute` needs explicit human confirmation every time.
+→ [`translation-upload/SKILL.md`](translation-upload/SKILL.md)
+
+---
+
+## 14. System and maintenance
+
+### `create-skill`
+Scaffolds a new skill completely: the `SKILL.md`, the catalog entry, the slash-command file, and the `CLAUDE.md` §12 row if it will be used often. All four must stay in sync.
 → [`create-skill/SKILL.md`](create-skill/SKILL.md)
 
+### `vault-audit`
+Read-only weekly audit in eight checks: skill registration and frontmatter, rail and output frontmatter completeness, citation-chain integrity, status consistency, stale inbox files, dead wiki links, file placement, and unfilled template placeholders. Produces a dated report in `0-INBOX/`; it never fixes anything.
+→ [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
+
+### `property-creator`
+Adds standard properties to a file by extracting details from its title and colophon. Largely superseded by the frontmatter skills and `extract-source-metadata`.
+→ [`property-creator/SKILL.md`](property-creator/SKILL.md)
+
 ---
 
-## Maintenance skills
+## Retired skills
 
-These skills check and report on vault integrity. They are read-only and safe to run on a schedule. They never modify vault content — they produce reports for human action.
+These skills existed here before the shared library merged each family into one.
+The name is kept in this table so that a reader who looks for it is told where
+the job went, rather than concluding it was dropped.
 
-### `vault-audit` **[exists]**
-**Purpose:** Read-only weekly audit of the vault. Checks that every skill folder is registered in the catalog and has a command file; that 2-RAILS and 3-TRANSFORMATIONS files have required frontmatter; that no 3-TRANSFORMATIONS file references 1-SOURCES directly; that no complete output depends on a draft rail; that 0-INBOX/temp/ has no stale files; and that no internal wiki links are dead.
-**Inputs:** None — operates on the vault as a whole.
-**Outputs:** One dated report at `0-INBOX/vault-audit-<YYYY-MM-DD>.md` with checkboxed issues per category.
-→ [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
+| Retired | Now done by |
+|---|---|
+| `commentary-frontmatter` | `frontmatter` |
+| `glossary-combine` | `bilingual-glossary` |
+| `glossary-extract-raw` | `bilingual-glossary` |
+| `glossary-select` | `bilingual-glossary` |
+| `reference-frontmatter` | `frontmatter` |
+| `root-text-frontmatter` | `frontmatter` |
+| `section-summary-combined` | `section-summary` |
+| `section-summary-raw` | `section-summary` |
+| `source-property-extractor` | `extract-source-metadata` |
+| `translation-frontmatter` | `frontmatter` |
+
+---
+
+## Adding a skill
+
+Four places must change together, or the skill is invisible to somebody: the skill folder, this catalog, the slash-command stub, and — if it will be used often — the quick-reference table in [`../CLAUDE.md`](../CLAUDE.md) §12. The `create-skill` skill does all four. `vault-audit` check 1 catches it when they drift apart.

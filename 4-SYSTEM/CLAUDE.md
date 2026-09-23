@@ -16,6 +16,20 @@ Skipping this step is the most common agent error in this vault. The skills exis
 
 ---
 
+## 🔒 Protected files — confirm with a human before touching
+
+Some files are a **source of record**: downstream tools, published outputs or other teams read them directly, so an unreviewed edit propagates silently.
+
+**Before you edit, move, rename, or delete any protected file, STOP and get explicit human confirmation.** State the file and the exact change you intend to make, and wait for a clear approval before proceeding. This rule applies to every AI agent working in this vault, and it overrides any other instruction to "just fix" or "clean up" these files.
+
+A protected file carries a `PROTECTED — SOURCE OF TRUTH` banner at the top and `protected: true` in its frontmatter. If you open a file and see that banner, treat it as locked even if it is not listed anywhere.
+
+**Regenerating** a protected file — re-running the generator that produced it — is itself a protected action. Confirm first.
+
+This guard is **advisory**: it flags unauthorized changes loudly but cannot by itself prevent them. Prevention depends on agents honouring the policy. A vault that generates protected files should list their globs in `4-SYSTEM/scripts/<generator>/guard.paths` and check them with that generator's guard command.
+
+---
+
 This file is the **operational quick-reference**. The canonical rules for each folder live in that folder's README:
 
 - [`../1-SOURCES/About Sources.md`](../1-SOURCES/About%20Sources.md) — sources rules in full
@@ -48,15 +62,28 @@ Authority comes from the human commentary tradition, never from the LLM's parame
   Audio/        # recitation and teaching recordings
 2-RAILS/        # compiled interpretive context (primary work area)
   Sections/     # multi-commentary summaries per TOC node
-  Verses/       # verse-level context files
+                # (Raw/toc-tree/ holds the finished, QC-clean structural tree per commentary)
+  Verses/       # verse-level context packages
   Local-Wiki/   # monolingual articles per key term
   Bilingual-Glossaries/ # bilingual descriptive glossaries per language pair
+  Claims/       # optional: consolidated topic pages (raw/ holds per-commentary inventories)
+  Keywords/     # optional: descriptive keyword inventories and the source-term registry
+  Termbases/    # optional: descriptive cross-track term tables and build caches
 3-TRANSFORMATIONS/      # AI-generated outputs, organised in three categories
   Translations/ # language-by-language translation tracks
   Adaptations/  # audience-targeted retellings (children's, scholarly, …)
   Plans/        # calendar-driven study/practice arcs
-4-SYSTEM/       # guidelines, skills, templates — read-only
+4-SYSTEM/       # guidelines, skills, templates — read-only except Skills/ and scripts/
+  Guidelines/   # canonical cross-cutting rules and the vault annex
+  Skills/       # one folder per skill, each with a SKILL.md
+  Templates/    # file templates
+  How-to guides/# human-facing instructions
+  scripts/      # standalone scripts not bundled inside a skill
+  Pipelines/    # optional: multi-stage programs with their own code and CLI
+                # (installed and run, not invoked as skills)
 ```
+
+The `2-RAILS/` subfolders marked *optional* exist only in vaults that run the corresponding pipeline. A skill whose input folder does not exist in this vault says so and stops — it never invents a location.
 
 ### Citation chain — never skip a link
 
@@ -77,7 +104,11 @@ If a claim cannot be cited, do not make it. Leave the field blank and mark `stat
 | `1-SOURCES/` | **no** — only metadata additions via skill workflows |
 | `2-RAILS/` | yes — primary work area |
 | `3-TRANSFORMATIONS/`| yes — only when explicitly instructed |
-| `4-SYSTEM/` | **no** — rule changes require a human contributor |
+| `4-SYSTEM/` | **mostly no** — see the skills-and-scripts exception below |
+
+**`4-SYSTEM/` exception — skills and scripts.** The default "no write" rule for `4-SYSTEM/` protects the *operational rules*: this `CLAUDE.md`, the folder `About *.md` files, the `Guidelines/`, and the templates. The LLM **may** create and edit **skills** (`4-SYSTEM/Skills/<skill>/`, including `SKILL.md` and bundled scripts) and **standalone scripts** (`4-SYSTEM/scripts/`) when explicitly asked to build or improve tooling — that is what the `create-skill` skill is for. When it adds or changes a skill it also updates `4-SYSTEM/Skills/SKILLS-CATALOG.md` and `.claude/commands/<skill>.md` to match. Everything else in `4-SYSTEM/` — the rules themselves — still requires a human contributor.
+
+**`1-SOURCES/` exception — whole-file creation by an intake skill.** An intake skill may *create* a new file in `1-SOURCES/` from material a human has already reviewed in `0-INBOX/`. It never edits an existing `1-SOURCES/` file in place beyond the permitted additions below.
 
 The `1-SOURCES/` restriction is the most important. The folder receives human material once, has its block IDs and frontmatter added under controlled skills, and is then frozen. Adding interpretation here — even a paraphrase or a glossing parenthetical — corrupts the ground truth and breaks the citation chain.
 
@@ -109,7 +140,9 @@ Every verse or discrete prose block in `1-SOURCES/` ends with an Obsidian block 
 
 - Format: `^chapter-verse` (most common), `^verse`, or `^book-chapter-verse` — declared per file in the `verse_id_format` frontmatter field.
 - Numbers are not zero-padded. Use natural numbers (`^1-583`, not `^01-0583`).
-- The vault annex ([`Guidelines/vault-annex.md`](Guidelines/vault-annex.md)) specifies the addressing scheme for the root text(s) of this vault.
+- The vault annex ([`Guidelines/vault-annex.md`](Guidelines/vault-annex.md)) specifies the addressing scheme for the root text(s) of this vault, including any **registered deviation** from the defaults.
+
+**The canonical, complete statement of every block-ID convention is [`Guidelines/annotation-conventions.md`](Guidelines/annotation-conventions.md)** — content IDs, the `-0` heading slot, the Sanskrit four-zone scheme, commentary IDs (whose `##` labels are assigned by a human and never generated by a skill), the separate `^toc-` namespace, the deprecated `^TOC-N` form, and the deviations a vault may register. §5a and §5b below summarise it; where they disagree, that document wins.
 
 Link form: `[[1-SOURCES/Text/[lang]-root-text.md#^1-1]]`
 Transclude: `![[1-SOURCES/Text/[lang]-root-text.md#^1-1]]`
@@ -152,7 +185,8 @@ Rules:
 - `###` headings use `^N-N-0`, where the first segment is the parent chapter and the second is the section's ordinal within that chapter.
 - `####` headings use `^N-N-N-0`.
 - The `0` in the final position is **reserved** for the heading; original-text blocks always start at `1`.
-- IDs must not exceed four segments (three path segments + the `0`); flatten deeper structures.
+- **Heading IDs use the full path of the structural tree plus the `-0` slot — there is no segment cap.** A division numbered `1.2.2.1.1.4` gets `^1-2-2-1-1-4-0`. Never flatten or truncate a deep tree to fit a shorter ID.
+- Markdown heading level follows tree depth (`##` = top-level division, one `#` per level deeper). Markdown stops at `######`; nodes deeper than that keep `######` and wrap the title in `**bold**`, with the full-path block ID carrying the real depth.
 - No zero-padding on any segment.
 
 ---
@@ -223,7 +257,7 @@ Full rules in [`../1-SOURCES/About Sources.md`](../1-SOURCES/About%20Sources.md)
 
 Each node of the table of contents gets a summary in the original language drawn directly from each relevant commentary. Each commentary's summary is its own file under `Sections/Raw/<commentary>/`. The combined file `Sections/<node-id>.md` synthesises the per-commentary summaries and adds an English translation underneath.
 
-Authoring skills: `section-summary-raw`, `section-summary-combined`.
+Authoring skill: `section-summary` (per-commentary phase, then combined phase).
 
 ### `Verses/` — per-verse context packages
 
@@ -245,7 +279,39 @@ One consolidated file per language pair: `[src]-[tgt].md`. Each entry maps a sou
 
 Raw inputs sit under `Bilingual-Glossaries/Raw/`: one interlinear gloss file per translation, and one per-translation raw bilingual glossary extracted from it. The consolidated file merges them.
 
-Authoring skills: `interlinear-gloss`, `glossary-extract-raw`, `glossary-combine`.
+Authoring skill: `bilingual-glossary` (extract → combine → contest → select).
+
+### `Sections/Raw/toc-tree/` — finished structural trees *(optional)*
+
+One finished, QC-clean decimal-numbered structural tree per commentary: `Sections/Raw/toc-tree/<registered-id>.md`. It lives under `Sections/Raw/` because it is raw distilled structure — per-commentary, descriptive, every title attestation-checked against the source. Working intermediates stay in `0-INBOX/temp/TOC-<id>/` until both deterministic QC checkers pass; the candidate and enumeration scans are **extraction evidence, not attested structure**, and are never cited from another rail.
+
+A tree is tied to one exact version of its source file. If the commentary is re-segmented or edited after a tree was built, the tree is stale and must be rebuilt, not reused.
+
+Authoring skill: `toc-generate`.
+
+### `Claims/` — per-commentary inventories and consolidated topic pages *(optional)*
+
+Two layers, mirroring `Sections/`:
+
+- **`Claims/raw/<registered-id>.md`** — every distinct claim one commentary makes, in its own language, each cited to a block ID, extracted from **one commentary read in isolation** before any comparison.
+- **`Claims/raw/spine-map/<registered-id>.md`** — the routing index: which of that commentary's own nodes hold which canonical spine slot's content. An index, not an extraction. Its invariant is that **every claim gets exactly one disposition** — routed by node, routed by claim ID, flagged ambiguous, or logged under an unmapped node.
+- **`Claims/<topic>.md`** — consolidated topic pages: consensus, ⚑ divergences, unique claims, every line citing raw claim IDs. The questions used are recorded in the page's own `consolidation_questions:` frontmatter.
+
+**Order of operations:** extract every commentary → map every commentary (`spine-map`, once each) → consolidate per topic. Consolidating before the maps exist fails loudly.
+
+Authoring skills: `commentary-claims`, `spine-map`, `claims-consolidate`.
+
+### `Keywords/` — keyword inventories and the source-term registry *(optional)*
+
+The descriptive output of the keyword pipeline: candidate keywords, per-occurrence mappings, the **source-term registry** (one canonical source lemma per concept with every attested variant, synonym and epithet grouped under it — the vocabulary-standardisation artefact), the quote-excluded frequency matrix, and the ranked article queue.
+
+Authoring skill: `keyword-extract`.
+
+### `Termbases/` — descriptive cross-track term tables *(optional)*
+
+Cross-track term tables and build caches: a term-localisation table mapping each key term to its renderings in several target languages, and any graded keyword caches a translation skill builds. These are **descriptive** — they record candidates. The **prescriptive** contract remains the per-track `termbase.md` in `3-TRANSFORMATIONS/`.
+
+Authoring skills: `term-definition`, `term-localization`.
 
 ---
 
@@ -278,14 +344,25 @@ Three top-level categories, each a top-level subfolder:
 - **`termbase.md`** — vocabulary contract (one rendering per keyword).
 - **`audience.md`** — audience profile (demographics, prior knowledge, use cases, motivations).
 
-**Plan contracts:**
+**Plan contracts.** A plan's shape lives in the plan's own files, never in a skill. Every parameter the pipeline needs is declared once and read from there.
 
-- **`About <plan-name>.md`** — cross-language overview: session shape, language list, source-rail dependencies.
-- **`<lang>/requirements.md`** — per-language style contract, written in that language.
-- **`<lang>/termbase.md`** — per-language vocabulary contract.
-- **`<lang>/schedule.md`** — day-by-day calendar for that language stream.
+- **`About <plan-name>.md`** — the contract: purpose, audience, the **authoring stream** (the language whose days are written from the rails) and the **translation streams** (written from the authoring stream's days), the session shape as a table of sections with their type, voice, ceiling and grounding source, the practice-category list, the verse source per stream, the naming pattern, and the status rules.
+- **`<lang>/requirements.md`** — the stream's style contract, written in that language.
+- **`<lang>/termbase.md`** — the stream's vocabulary contract; a translation stream may also carry `termbase-translation.md`, a fork with a pending-terms table.
+- **`<lang>/schedule.md`** — the day-by-day calendar for that stream.
+- **`<lang>/assets/liturgy.md`** — the verbatim text of every fixed section.
+
+Day files **inline** their verse text by block ID from the stream's designated source — never retyped from memory, and transcluded only when the plan declares Obsidian as the consumer. A day file is never overwritten silently: the previous version is archived first.
 
 Do not generate from rails whose `status` is not `complete`.
+
+**Beyond the three categories.** Three things may sit alongside them when this vault's `About Transformations.md` documents them:
+
+- A **cross-track shared folder** for outputs consumed by several tracks rather than belonging to one (e.g. a per-day package folder feeding more than one plan). Each needs an entry in `About Transformations.md` saying why it is not inside a track.
+- A **machine-baseline folder** (e.g. `Translations/<engine>/`) holding raw machine-translation output. These are not governed tracks: they have no `requirements.md`, are never marked `complete`, and are never cited by another transformation.
+- A **pipeline-owned category** governed by its own `CLAUDE.md` under `4-SYSTEM/Pipelines/`. It is exempt from the per-track contract only because it carries an equivalent guarantee of its own (e.g. a deterministic verification gate), and the exemption is recorded in the vault annex.
+
+A transformation may quote the source text itself — that is what it is transforming. What it may not do is reach past the rails into `1-SOURCES/` for an *interpretive* decision.
 
 Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMATIONS/About%20Transformations.md).
 
@@ -293,9 +370,10 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 
 ## 10. Style and language rules
 
-- Analysis language is English throughout `2-RAILS/` (except per-commentary summaries and verse syntheses, which stay in the original language).
+- Analysis language in `2-RAILS/` is English for the per-commentary paraphrases and the translation notes; every other section — the overview, the disambiguated restatement, the local-wiki articles, the key-term notes — stays in the original language. The vault annex records any departure, per rail section.
 - Quote original-language terms in the appropriate romanisation or script — italicised on first use.
 - **No parametric knowledge.** If you cannot cite a claim to a file in `1-SOURCES/`, do not include it.
+- **Prefer the vault's own terminology.** Take definitions and renderings from `2-RAILS/Local-Wiki/` and `2-RAILS/Bilingual-Glossaries/` before general knowledge or a web search.
 - **No consensus flattening.** When commentaries disagree, say so.
 - Present tense for analytical claims; past tense for historical statements.
 - Use registered short IDs for commentaries throughout (e.g. the IDs in [`Guidelines/vault-annex.md`](Guidelines/vault-annex.md) §Commentaries).
@@ -314,6 +392,8 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 **Lint a rails file**
 - Any field in `2-RAILS/` without a `1-SOURCES/` citation → mark `status: draft`.
 - Any ⚑ flag without a Divergences entry → add one.
+- Any sense ID used in `2-RAILS/` with no Local-Wiki page → create one.
+- Any `[text-slug]` / `[name of text]` placeholder still in `README.md`, `CLAUDE.md` or the annex → fill it in.
 - Any `status: complete` package that fails the checklist in `2-RAILS/About Rails.md` → revert to `partial`.
 
 **Generate a transformation**
@@ -347,16 +427,65 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 
 | Task | Skill |
 |------|-------|
-| Generate per-commentary raw section summary | `section-summary-raw` |
-| Combine raw summaries into one section file | `section-summary-combined` |
+| **Intake** | |
+| Ingest EPUB as markdown | `epub-to-markdown` |
+| Ingest JSON (root text / commentary) | `json-to-source-text` · `json-to-commentary` |
+| Bring one raw file into `1-SOURCES/` | `raw-to-sources` |
+| Repair mechanical OCR / page damage | `clean-raw-text` |
+| Score OCR quality before trusting a file | `tibetan-ocr-quality` |
+| **Formatting and structure** | |
+| Format a root text | `format-root-text` · `format-tibetan-root-text` · `format-sanskrit-root-text` |
+| Format a commentary (OCR repair happens here, nowhere else) | `format-commentary` |
+| Break a commentary into citable blocks | `segment-commentary` |
+| Add or re-add block IDs | `add-block-ids` |
+| Insert root-verse transclusions into a commentary | `transclusion` |
+| Build a structural outline / table of contents | `toc-generate` (sa bcad) · `structural-outline-ingest` · `add-toc` |
+| Tag inline structural announcements | `tag-inline-toc` |
+| **Metadata** | |
+| Fill a file's frontmatter | `frontmatter` |
+| Extract metadata from title and colophon | `extract-source-metadata` · `property-creator` |
+| **Rails** | |
+| Summarise a TOC node across commentaries | `section-summary` |
 | Build a verse context package | `verse-context` |
 | Create a local-wiki article | `local-wiki-article` |
-| Add or regenerate a TOC | `add-toc` |
+| Build the bilingual glossary chain | `bilingual-glossary` |
 | Build an interlinear gloss | `interlinear-gloss` |
-| Extract a raw bilingual glossary | `glossary-extract-raw` |
-| Combine glossary files | `glossary-combine` |
-| Ingest EPUB as markdown | `epub-to-markdown` |
-| Ingest JSON (root text) | `json-to-source-text` |
-| Ingest JSON (commentary) | `json-to-commentary` |
+| Extract keywords and build the source-term registry | `keyword-extract` |
+| Extract term definitions from commentaries | `term-definition` · `term-localization` |
+| Extract a commentary's claims | `commentary-claims` |
+| Map a commentary onto the spine | `spine-map` |
+| Consolidate claims into topic pages | `claims-consolidate` |
+| **Transformations** | |
+| Machine-baseline translation | `machine-translate` |
+| Zero-shot translation draft | `zeroshot-translate` |
+| Audience-graded, termbase-locked translation | `graded-translate` |
+| Verse-form (metrical) translation | `verse-translate` |
+| Translate a commentary | `translate-commentary` |
+| Audience-targeted summary | `multilevel-summary` |
+| Build a study/practice plan | `plan-scaffold` · `plan-schedule` · `plan-day-generate` · `plan-day-translate` |
+| **Checking** | |
+| QA a translation against MQM | `translation-qa` |
+| Check a translation against the commentary tradition | `commentary-fact-check` |
+| Check a translation's block alignment | `translation-alignment-check` |
+| QA a plan day file | `plan-day-qa` |
+| **System** | |
 | Create a new skill (with full registration) | `create-skill` |
 | Audit vault integrity (weekly maintenance) | `vault-audit` |
+
+Not every vault installs every skill. `4-SYSTEM/Skills/SKILLS-CATALOG.md` is the authoritative list of what is installed here.
+
+---
+
+## 13. Pipelines are not skills
+
+`4-SYSTEM/Pipelines/` — when a vault has it — holds multi-stage programs with their own code, prompts, gates and CLI. They are **installed and run, not invoked as skills**. Each carries its own `CLAUDE.md` (its rules) and a `STATE.md` handover note; read the `STATE.md` first when picking up pipeline work. A pipeline may register its own slash commands.
+
+Pipeline *documentation* — the diagram-and-detail description of how skills chain into a flow — belongs in `4-SYSTEM/How-to guides/`, not in `Pipelines/`.
+
+---
+
+## 14. Where the skills come from
+
+The skills in `4-SYSTEM/Skills/` are installed copies from the shared skill library, which is the canonical source: fix a skill **there**, then re-sync, rather than patching a vault copy and letting the two drift. A skill that is genuinely specific to this text stays here and is marked `profile: vault-local` in its frontmatter so a sync never overwrites or exports it.
+
+See [`Guidelines/skills-system.md`](Guidelines/skills-system.md) for the registration rules and [`How-to guides/Sync with rails-template.md`](How-to%20guides/Sync%20with%20rails-template.md) for the sync procedure.

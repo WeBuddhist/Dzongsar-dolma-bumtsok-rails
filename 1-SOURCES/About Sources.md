@@ -63,6 +63,15 @@ One script per file. Alternative script forms always go in a separate edition fi
 - Script-only editions (no named editor) are named by script: `iast-sk-iast.md`, `wylie-bo-wy.md`.
 - Devanāgarī is never an edition for Sanskrit — it is the root text script; IAST goes as a separate file.
 
+**Two accepted alternatives to the ASCII rule**, each declared once in the vault annex and then applied consistently:
+
+- **Native-script filenames** — the file is named with the work's or author's title in its own script. Vaults working in a single non-Latin script often find this more navigable than transliterated slugs. If you adopt it, adopt it for the whole folder; a mix is worse than either.
+- **Catalog-code filenames** — the file is named by its `book_id` (§3a), e.g. `[ROOT][C][century]_[AUTHOR]_[lang].md`. This sorts all language editions of one work together and survives re-titling.
+
+**No staging subfolders inside `1-SOURCES/`.** Folders such as `Raw/`, `Transcluded/`, `formatted/` or `New raw data/` inside a source folder break the flat-file rule and blur what is canonical. Staging belongs in `0-INBOX/` — `raw-data/`, `temp/<SKILL>-<id>/`, `resegmented/`. The only subfolders allowed under `1-SOURCES/` are the five typed ones above, plus any additional **typed** folder the annex declares (for example a `Sadhana/` folder for ritual texts that are neither commentary nor translation).
+
+**Catalog files.** A folder may carry a catalog listing every known resource of its type, ingested or not — a human-readable `📑 <Type>_catalog.md` (`file_type: reference`, with a `generated_from:` field if it is built from a spreadsheet) and, for a collection vault, a machine-readable `<corpus>-catalog.json`. A catalog is a navigation aid; the files themselves remain the ground truth.
+
 ---
 
 ## 3. Source identification and external IDs
@@ -86,6 +95,23 @@ other_ids:
 
 Include only the fields that apply. Leave inapplicable fields out entirely. `source_description` is required for every file — all others are conditional.
 
+**An empty value is a statement.** If a field exists but the source records no value, leave it empty rather than deleting it or guessing: an empty key means "not recorded upstream", and a guess becomes a fabrication that propagates.
+
+### Publication fields
+
+A vault whose texts are published to a library or reading platform carries a further set, defined in full in [`../4-SYSTEM/Templates/FILE_YAML_PROPERTIES.md`](../4-SYSTEM/Templates/FILE_YAML_PROPERTIES.md):
+
+| Field | Meaning |
+| ----- | ------- |
+| `category_id` | The work's identifier in the publishing system |
+| `license` | Copyright status |
+| `source` | URL of the edition used |
+| `edition_type` | `critical`, `diplomatic`, or `collated` |
+| `alt_titles` | Alternative titles the work is known by |
+| `text_id` / `edition_id` / `toc_id` | Written **back** into the file after the text, edition and table of contents are created upstream |
+
+Author names in these fields carry their authority identifier inline — `Author Name [bdrc:P1583]` or `[op:ID]`, semicolon-separated for several — because a name without an identifier cannot be resolved automatically. An AI translator is recorded the same way, by model name and identifier.
+
 ### Key external databases
 
 | Database | Scope | Field |
@@ -98,6 +124,28 @@ Include only the fields that apply. Leave inapplicable fields out entirely. `sou
 | ACIP | Tibetan | `acip_id` |
 | VIAF | Authors and works | in `other_ids` |
 | Wikidata | Works and concepts | in `other_ids` |
+
+---
+
+## 3a. Book IDs — the vault-internal catalog code
+
+Alongside the external identifiers above, every source file may carry a **vault-internal catalog code** in the `book_id` frontmatter field. This is recommended for any vault that will hold more than a handful of resources: it identifies a work's root text, resource type, century, author and language in one string, independent of any external database, and it keeps the collection sortable as it grows.
+
+```
+[Root Title][Resource Type][Century]_[Author Code]_[language]
+```
+
+| Block | Form | Meaning |
+| ----- | ---- | ------- |
+| Root title | 3 uppercase letters | The root text this resource belongs to. Each root text the vault adopts gets one unique code. |
+| Resource type | 1 uppercase letter | `V` version or direct translation of the root text · `C` commentary on it |
+| Century | 2 digits | The century the work or translation was made — `12`, `21` |
+| Author code | uppercase initials, after an underscore | The author, commentator or translator |
+| Language | 2 lowercase letters, after a final underscore | Placed last so every language edition of one work sorts together |
+
+Example shape: `ABCC12_TZ_bo` — a 12th-century **C**ommentary on the root text `ABC`, by an author with initials `TZ`, in Tibetan. `ABCV21_DK_en` — a 21st-century **V**ersion (translation) by `DK`, in English.
+
+Like `registered_id`, **a `book_id` never changes once assigned.** Register each one against the source roster in the vault annex ([`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md)) as it is issued.
 
 ---
 
@@ -272,7 +320,34 @@ This applies even when the source edition uses continuous verse numbering across
 [Ed: continuous verse number 1 in <edition>]
 ```
 
+**Interpolated verses.** When a source edition repeats a verse number — the same number printed twice — the first occurrence keeps the plain ID and the duplicate takes an `x` counter: `^6-24`, then `^6-24x1`, then `^6-24x2`. The counter always starts at `1`, even for a single duplicate; there is never a bare `^6-24x`.
+
 **Exception: Bible-style addressing.** Some texts in some vaults use continuous numbering per book. The rules for these are in the vault annex.
+
+### The `^toc-` namespace is separate
+
+A standalone decimal outline block placed at the top of a document uses `^toc-X-Y-Z` IDs. **This is not the same namespace as the `^N-0` heading anchors, and the two must never be conflated:** `^toc-1-2-0` indexes a line in the outline block, `^1-2-0` indexes the actual body heading. An outline entry may link to its heading; it never replaces it.
+
+An older convention used `^TOC-N` for chapter anchors. **It is wrong.** A parser expecting `^N-0` does not recognise a `^TOC-N` anchor, so the text silently ends up with no table of contents and no error. Correct any `^TOC-N` you encounter before using the file.
+
+### Four-zone addressing — for texts with substantial front and back matter
+
+Some editions carry front matter, chapter introductions and colophons that the flat `^chapter-verse` scheme cannot address. Those texts use zones, declared in the annex:
+
+| Zone | Symbol | Content ID | Heading ID |
+| ---- | ------ | ---------- | ---------- |
+| Pre-title | `T` | `^T-1`, `^T-2` … | — |
+| Front matter | Roman numeral | `^I-1`, `^I-2` … | `^I-0`, `^II-0` … |
+| Chapter introduction | — | `^N-I`, `^N-II` … (chapter-relative) | — |
+| Main verses | Arabic numeral | `^N-V` (`^1-1`, `^6-134`) | `^N-0` |
+| Chapter colophon | lowercase letter | `^N-a`, `^N-b` … | — |
+| Book back matter | lowercase letter | `^a`, `^b` … | `^a-0` |
+
+**Zone by content, not by position** — a colophon is a colophon wherever it sits. **Verse numbers come from the source, not from a counter**: read the edition's own verse markers rather than numbering sequentially, so that a source's own gaps and repetitions survive into the IDs.
+
+Where this scheme is in use, the `#` title line takes `^0` when the book *is* the root text. When the book sits inside a larger collection — so `##` is the book level — the `#` line goes unlabelled as usual.
+
+The full specification of every scheme, including the deviations a vault may register, is in [`../4-SYSTEM/Guidelines/annotation-conventions.md`](../4-SYSTEM/Guidelines/annotation-conventions.md).
 
 ### Pre-chapter content — Chapter 0
 
@@ -426,6 +501,8 @@ A commentary is an independent authored work. It has:
 
 Use whatever system the commentary author defined. If the commentary has no internal numbering, use sequential `verse` format.
 
+**A commentary's `##` heading IDs are assigned by a human, never generated.** The contributor chooses the label that keys each top-level section to the root text's structure — `^1-0`, `^I-0`, `^a-0`, or any short stable token — because only a reader who knows both texts can say which root section a commentary section is about. Everything beneath a `##` heading is then *derived* from that same label: `^1-1-0` for its subsections, `^1-1`, `^1-2` … for its body blocks. A skill may derive; it may not invent or change the label.
+
 ### Format — with transclusions
 
 Transclusions anchor the commentary to the root text. They are placed where root verses become relevant — not mechanically at the top of every section.
@@ -455,6 +532,17 @@ Transclusions anchor the commentary to the root text. They are placed where root
 ```
 
 **Obsidian note:** block ID range transclusion (`#^1-1:#^1-5`) is not supported. Always use sequential individual transclusions.
+
+### Transclusion placement rules
+
+- **Sections with no root verse reference** (e.g. a general chapter introduction): no transclusion. Commentary block IDs only.
+- **Sections introducing a group of verses**: transclude all verses in the group in sequence at the opening of the section, before the commentary text.
+- **Verse-by-verse sections**: one transclusion immediately before the commentary on each verse. A blank line separates the transclusion from the commentary text.
+- **A transclusion line is structural, not content.** It never takes a block ID of its own and never advances the commentary's body counter.
+
+The commentary's own block IDs are always independent of the root verse IDs. Where a passage's coverage is not obvious from the transclusions, an editorial note records which root verses it covers. This is what feeds `coarser_groupings:` in the `2-RAILS/` verse packages.
+
+**Reading a grouped run.** Some commentaries place several consecutive transclusions together and then comment on the whole group after the last one. When collecting a verse's commentary, scan forward through *all* consecutive transclusion lines until the first line of actual prose — the prose after the run belongs to every verse in it.
 
 **Language:** original language only in `1-SOURCES/`. No translation or paraphrase here.
 
@@ -493,6 +581,18 @@ Use full paths in all `1-SOURCES/` and `2-RAILS/` files. Short wiki-links are ac
 
 - `root_text` — the root text they derive from or comment on
 - `covers_verses` — verse range in block ID format, e.g. `1-1–10-58`
+
+---
+
+## 10a. Verse-to-resource mapping
+
+To locate every resource that treats a specific verse, e.g. `^6-33`:
+
+- **Dataview:** query the `covers_verses` ranges in commentary and translation frontmatter for every file whose range includes `6-33`.
+- **By hand in Obsidian:** open the root text's frontmatter, follow the `related_commentaries` links, and navigate to `^6-33` in each commentary.
+- **From a skill or script:** read the root text's `related_*` lists, fetch each file, and resolve the `^6-33` block.
+
+This is why `related_commentaries` / `related_translations` on the root text and `root_text` / `covers_verses` on every derived file are required rather than decorative: together they are the machine-readable map of the verse-to-resource network.
 
 ---
 
@@ -552,6 +652,7 @@ All files use ISO 639-1 base codes with script or system suffixes where needed.
 | `-zh-hans` | Simplified Chinese | PRC editions |
 | `-zh-hant` | Traditional Chinese | Taiwan / Hong Kong editions |
 | `-zh-cbeta` | CBETA digital encoding | CBETA corpus files |
+| `-zh-modern` | Modern vernacular Chinese | Modern-language renderings of a classical text |
 
 ### Other languages
 
@@ -596,6 +697,9 @@ For languages not listed, use the appropriate ISO 639-1 code. When a resource is
 - [ ] Default scripts used per language (Devanāgarī for Sanskrit root, PTS for Pāli root, Unicode for Tibetan/Chinese root).
 - [ ] Alternative scripts go in separate edition files.
 - [ ] Verse numbers restart per chapter (unless the vault annex specifies a continuous-numbering scheme).
+- [ ] `book_id` assigned per §3a and registered in the vault annex (if this vault uses catalog codes).
+- [ ] Publication fields filled where the vault publishes (`category_id`, `license`, `source`, `edition_type`); empty where upstream records nothing, never guessed.
+- [ ] No staging subfolder created inside `1-SOURCES/` — staging stayed in `0-INBOX/`.
 - [ ] No interpretation — `[Ed:...]` factual notes only.
 
 ---
@@ -605,6 +709,8 @@ For languages not listed, use the appropriate ISO 639-1 code. When a resource is
 - [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
 - [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](../4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and the citation chain.
 - [`../2-RAILS/About Rails.md`](../2-RAILS/About%20Rails.md) — what rails do with the material in this folder.
+- [`../4-SYSTEM/Guidelines/annotation-conventions.md`](../4-SYSTEM/Guidelines/annotation-conventions.md) — the canonical block-ID and tag specification; it wins over this file where they disagree.
 - [`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md) — vault-specific addressing, commentary roster, language tracks.
+- [`../4-SYSTEM/Guidelines/vault-variants.md`](../4-SYSTEM/Guidelines/vault-variants.md) — how these rules adapt for a collection, a multi-book canon, or a parallel-witness corpus.
 - [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) §4–6 — the operational quick-reference for source-file rules.
 - [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.md) §"Source ingestion skills" — the skills that bring material into this folder.

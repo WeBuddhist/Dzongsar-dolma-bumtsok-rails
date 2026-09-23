@@ -14,6 +14,8 @@ Skills live at:
 4-SYSTEM/Skills/<skill-name>/SKILL.md
 ```
 
+Alongside the `SKILL.md`, a skill folder may bundle everything it needs: `scripts/` it runs, `prompts/` it sends, `templates/` it copies from, and `references/` a reader may need. **A skill should be self-contained** — if it depends on a file, the file travels with it, so the skill can be installed into any vault and work. A skill that points at a vault document which may not exist there is broken by design.
+
 Every skill that exists is listed in the catalog:
 
 ```
@@ -54,6 +56,12 @@ Claude Code auto-loads `CLAUDE.md` from the git root at the start of every sessi
 
 Current commands mirror every skill in `SKILLS-CATALOG.md`. When you add a new skill, add a matching command file (see below).
 
+### Claude Code — native skills
+
+Some setups discover skills from `.claude/skills/<skill-name>/SKILL.md` instead of, or as well as, the command stubs. Both mechanisms are supported. The canonical body of a skill always stays at `4-SYSTEM/Skills/<skill-name>/SKILL.md`; the `.claude/` entry is a pointer or a copy, never the only version. `vault-audit` accepts either registration.
+
+For this to work at all, **every `SKILL.md` needs YAML frontmatter with at least `name:` and `description:`.** A skill with no frontmatter cannot be discovered or triggered automatically — it is invisible, however good it is. Add `profile:` too: `rails-vault` (needs a vault layout), `any` (works anywhere), or `vault-local` (specific to this text; a sync never exports it).
+
 ### Gemini Scribe — `AGENTS.md`
 
 `4-SYSTEM/gemini-scribe/AGENTS.md` is the system prompt loaded by the Gemini Scribe plugin. It opens with the same skills-first gate as `CLAUDE.md`: read the catalog, open the matching `SKILL.md`, follow it exactly. Gemini has file-read tools and can retrieve any `SKILL.md` from the vault during a session.
@@ -66,7 +74,7 @@ Every `SKILL.md` must include:
 
 | Section | Required | Notes |
 |---|---|---|
-| YAML frontmatter | yes | `name:` and `description:` at minimum |
+| YAML frontmatter | yes | `name:`, `description:` and `profile:` at minimum; `supersedes:` if it replaces older skills |
 | Purpose paragraph | yes | One short paragraph stating what the skill does and why it exists |
 | Inputs | yes | List every input the skill needs before it can start |
 | Output | yes | Exact file path(s) the skill produces |
@@ -150,6 +158,18 @@ This makes the skill available as `/<skill-name>` in any Claude Code session.
 5. **Apply the rules** — the Rules section lists invariants that must hold throughout. Check them as you go.
 6. **Tick the completion checklist** — if the skill has a completion checklist, verify every item before writing the output.
 7. **Write the output** — to the path specified in the Output section. If the file already exists, update in place rather than overwriting unless the skill says otherwise.
+
+---
+
+## Where the skills come from
+
+Most skills here are installed copies from a **shared skill library** used across several vaults. That library is the canonical source: the same job is not re-implemented per vault, and a bug fixed in one place is fixed everywhere.
+
+The consequence for daily work: **fix a skill in the library, then re-sync — do not patch the vault copy and let the two drift.** A local patch that the library never receives is lost at the next sync and invisible to every other vault in the meantime.
+
+Two things stay local: a skill that is genuinely specific to this text (mark it `profile: vault-local`), and this vault's own `vault-annex.md`, which is what the shared skills read for anything text-specific. That division is what makes a shared skill possible at all — the skill holds the procedure, the annex holds the facts.
+
+A pipeline under `4-SYSTEM/Pipelines/` is not a skill and is not registered here; it may register its own slash commands directly.
 
 ---
 
