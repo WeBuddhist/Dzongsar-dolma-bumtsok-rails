@@ -312,8 +312,7 @@ Grant the supreme and common accomplishments!
 <small>Composed by Shechen Kongtrul.</small>
 
 ## ༈ དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། ཕྱི་སྒྲུབ་རྒྱས་པའི་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
-The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practice
-From the mind Treasure cycle The Profound Essence of Tara
+The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practice From the mind Treasure cycle The Profound Essence of Tara
 
 ན་མོ་གུ་རུ་ཨཱརྻ་ཏཱ་རཱ་ཡེ།
 Namo Gurvya aryatarayai!
