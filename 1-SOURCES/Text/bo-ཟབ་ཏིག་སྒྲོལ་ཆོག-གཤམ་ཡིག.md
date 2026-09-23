@@ -1,4 +1,5 @@
 # ༄༅། །དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
+The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practice From the mind Treasure cycle The Profound Essence of Tara
 
 ## ༄༅། །བཅོམ་ལྡན་འདས་ཤཱཀྱའི་རྒྱལ་པོ་ལ་གསོལ་བ་འདེབས་པའི་ཚིགས་སུ་བཅད་པ་བཅོ་ལྔ་པ།
 A fifteen-verse prayer to the King of the Śākyas
@@ -252,9 +253,12 @@ To you I pray, grant me siddhis, common and supreme!
 
 བེ་རོའི་རྣམ་འཕྲུལ་འགྱུར་མེད་ཚེ་དབང་རྩལ། །
 beró namtrul gyurmé tsewang tsal
+beró namtrul gyurmé tsewang tsal
 ཀུན་གཟིགས་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་དང། །
+kunzig jamyang chökyi lodö and
 kunzig jamyang chökyi lodö dang
 སྨིན་གྲོལ་སྩོལ་མཛད་ཁྱབ་བདག་མངྒ་ལར། །
+mindrol tsolzé khyabdak manga lar
 mindrol tsolzé khyabdak manga lar
 གསོལ་བ་འདེབས་སོ་མཆོག་ཐུན་དངོས་གྲུབ་སྩོལ། །
 solwa deb so choktün ngödrub tsol
