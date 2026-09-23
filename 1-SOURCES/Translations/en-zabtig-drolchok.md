@@ -36,7 +36,7 @@ file_type: translation
 genre: sadhana
 lang_tag: en
 verse_id_format: chapter-verse
-category_id:
+category_id: LCorCb2K98p3TICt3UCDm
 license: public
 source: https://webuddhist.com
 edition_type: critical
