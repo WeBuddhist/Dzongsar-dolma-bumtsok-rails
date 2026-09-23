@@ -30,8 +30,16 @@ authors:
   - name: དོལ་པོ་པ
     name_in_english: Dolpopa
     section: Closing verse (g)
-file_type: sadhana
-language_tag: Tibetan
+language: Tibetan
+script: Unicode Tibetan
+file_type: root-text
+genre: sadhana
+lang_tag: bo
+chapters: 12
+total_verses: 424
+verse_id_format: chapter-verse
+related_translations:
+  - 1-SOURCES/Translations/en-zabtig-drolchok.md
 make_available: Dzongsar Institute
 source_description: "Compiled anthology: an opening fifteen-verse prayer to the Buddha by Sakya Paṇḍita, a supplement by Pema Dongak Lingpa, auspicious verses by Shechen Kongtrul, the core mandala-ritual chapters (elaborate and abbreviated) with no internal colophon, and a series of appended aspiration/dedication prayers individually signed by Yönten Gyatso, Jamyang Khyentse Wangpo (x2), the vidyādhara Mañjughoṣa, Chökyi Lodrö (colophon: written at Vajrāsana/Bodhgayā, India), Khenchen Kunga Wangchuk, and Dolpopa."
 ---
