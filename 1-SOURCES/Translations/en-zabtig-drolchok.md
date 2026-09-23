@@ -44,6 +44,10 @@ root_text: 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md
 covers_verses: 0–g-7
 make_available: Dzongsar Institute
 source_description: "Compiled anthology: an opening fifteen-verse prayer to the Buddha by Sakya Paṇḍita (tr. Christian Bernert), a supplement by Pema Dongak Lingpa (tr. Rigpa Translations, 2014), auspicious verses by Shechen Kongtrul, the core mandala-ritual chapters with no internal colophon, and appended aspiration/dedication prayers signed by Yönten Gyatso (tr. Khyentse Vision Project), Jamyang Khyentse Wangpo (x2), the vidyādhara Mañjughoṣa, Chökyi Lodrö (colophon: written at Vajrāsana/Bodhgayā, India; tr. Adam Pearcey, 2007), Khenchen Kunga Wangchuk, and Dolpopa."
+text_id: orjbLospsr8CT8lBzKCNn
+edition_id: CE8nq0BSKILMJvyjUx9Kt
+aligned_to_edition_id: 1JX1dsVsP8pphHvSwuvOV
+toc_id: 8AWqZrT3uYQABbnxWtyLX
 ---
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^0]]

@@ -3720,7 +3720,6 @@ The Sweet-Sounding Song That Fulfills All Aims
 
 ཨོཾ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་སྭཱ་ཧཱ།
 om taré tuttaré turé soha
-OṂ TĀRE TUTTĀRE TURE SVĀHĀ
 
 ཨོཾ༷་གྱིས་ཐར་དང་འདོད་རྒུའི་ནོར་སྟེར། །
 om gyi tar dang dö gü nor ter

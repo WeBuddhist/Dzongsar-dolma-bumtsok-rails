@@ -1,1 +1,37 @@
-{}
+{
+  "en-zabtig-drolchok": {
+    "aligned_to_edition_id": "1JX1dsVsP8pphHvSwuvOV",
+    "edition_id": "CE8nq0BSKILMJvyjUx9Kt",
+    "lang_tag": "en",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "orjbLospsr8CT8lBzKCNn",
+        "ts": "2026-09-23T23:48:13"
+      },
+      {
+        "chars": 64922,
+        "edition_id": "CE8nq0BSKILMJvyjUx9Kt",
+        "segments": 424,
+        "step": "edition",
+        "ts": "2026-09-23T23:48:13"
+      },
+      {
+        "pairs": 424,
+        "root_edition_id": "1JX1dsVsP8pphHvSwuvOV",
+        "step": "alignment",
+        "ts": "2026-09-23T23:48:15"
+      },
+      {
+        "step": "toc",
+        "subsections": 12,
+        "toc_id": "8AWqZrT3uYQABbnxWtyLX",
+        "ts": "2026-09-23T23:48:15"
+      }
+    ],
+    "root_edition_id": "1JX1dsVsP8pphHvSwuvOV",
+    "root_text_id": "AMXt6wYXNvRR2WanncXaq",
+    "text_id": "orjbLospsr8CT8lBzKCNn",
+    "toc_id": "8AWqZrT3uYQABbnxWtyLX"
+  }
+}
