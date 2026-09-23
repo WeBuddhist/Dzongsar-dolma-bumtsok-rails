@@ -13,3 +13,8 @@
 
 # Claude Code worktrees (local only)
 .claude/worktrees/
+
+# Upload tooling: generated lint/parse payloads and bytecode
+4-SYSTEM/Skills/*/scripts/linter-root-text/output/
+4-SYSTEM/Skills/*/scripts/parser-root-text/output/
+4-SYSTEM/Skills/*/scripts/**/__pycache__/
