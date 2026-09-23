@@ -50,7 +50,8 @@
               "title": "En-Tārā’s_Profound_Essence_Translation"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c402d9c3ec4e832f",
@@ -248,12 +249,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "46f3964aa49ed9ad",
+  "active": "07e2dbd4e0d7e59d",
   "lastOpenFiles": [
-    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
+    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_ledger.json",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py",
