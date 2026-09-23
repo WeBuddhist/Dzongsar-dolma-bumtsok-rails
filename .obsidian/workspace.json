@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9e6b5b99b208c52",
+        "id": "e51d027a1a5dfe2c",
         "type": "tabs",
         "children": [
           {
-            "id": "da804d16c70e2df1",
+            "id": "40203bc3760fd80b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 318.7158889770508
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -178,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625
+    "width": 306.7728271484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,43 +197,42 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "40203bc3760fd80b",
   "lastOpenFiles": [
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
-    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
-    "conflict-files-obsidian-git.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-corrected.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-change-log.md",
-    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "conflict-files-obsidian-git.md",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_ledger.json",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py",
     "4-SYSTEM/Skills/root-text-upload/SKILL.md",
     "4-SYSTEM/Skills/root-text-upload/scripts",
     "4-SYSTEM/Skills/root-text-upload",
-    "0-INBOX/vault-audit-2026-09-23.md",
-    "1-SOURCES/Text/En-Tārā’s_Profound_Essence.md",
-    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-reorder.md",
-    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-blank-align.md",
-    "4-SYSTEM/scripts/README.md",
-    "4-SYSTEM/scripts/install-skills.py",
-    "4-SYSTEM/scripts",
-    "4-SYSTEM/Skills/zeroshot-translate/scripts/merge_chapters.py",
-    "4-SYSTEM/Skills/zeroshot-translate/SKILL.md",
-    "4-SYSTEM/Skills/zeroshot-translate/scripts",
-    "4-SYSTEM/Skills/zeroshot-translate",
-    "4-SYSTEM/Skills/wiki-article-inventory/SKILL.md",
-    "4-SYSTEM/Skills/wiki-article-inventory",
-    "4-SYSTEM/Skills/wiki-article-from-claims/references/wikitext-spec.md",
-    "4-SYSTEM/Skills/wiki-article-from-claims/SKILL.md",
-    "4-SYSTEM/Skills/verse-translate/SKILL.md",
     "4-SYSTEM/Skills/verse-context/templates/verse-package.md",
-    "4-SYSTEM/Skills/translation-qa/SKILL.md",
-    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/README.md",
-    "4-SYSTEM/Skills/translation-alignment-check/SKILL.md",
-    "4-SYSTEM/Skills/translate-commentary/SKILL.md",
-    "4-SYSTEM/Skills/transclusion/SKILL.md",
+    "4-SYSTEM/Skills/verse-context/templates",
+    "4-SYSTEM/Skills/verse-context/references/examples-bo.md",
+    "4-SYSTEM/Skills/verse-context/references/ai-overview-prompt.md",
+    "4-SYSTEM/Skills/verse-context/references",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/README.md",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/parser.py",
+    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/validate.py",
+    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/requirements.txt",
+    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/README.md",
+    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/lookup.py",
+    "4-SYSTEM/Skills/translation-upload/SKILL.md",
+    "4-SYSTEM/Skills/term-definition/SKILL.md",
     "4-SYSTEM/Skills/tag-inline-toc/SKILL.md",
-    "4-SYSTEM/Skills/spine-map/templates/spine-map.md"
+    "4-SYSTEM/Skills/spine-map/templates/spine-map.md",
+    "4-SYSTEM/Skills/spine-map/SKILL.md",
+    "4-SYSTEM/Skills/plan-day-translate/references/requirements-examples.md",
+    "4-SYSTEM/Skills/plan-day-translate/SKILL.md",
+    "4-SYSTEM/Skills/plan-day-qa/SKILL.md",
+    "4-SYSTEM/Skills/plan-day-package/templates/day-package.md",
+    "4-SYSTEM/Skills/plan-day-package/SKILL.md",
+    "4-SYSTEM/Skills/plan-day-generate/references/worked-example.md",
+    "4-SYSTEM/Skills/plan-day-generate/SKILL.md",
+    "4-SYSTEM/Skills/pali-biterm-extraction/SKILL.md",
+    "4-SYSTEM/Skills/outline-extract/SKILL.md",
+    "4-SYSTEM/Skills/multilevel-summary/SKILL.md"
   ]
 }
