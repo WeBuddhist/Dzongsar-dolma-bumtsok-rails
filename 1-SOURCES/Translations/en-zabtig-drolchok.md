@@ -30,12 +30,16 @@ authors:
   - name: དོལ་པོ་པ
     name_in_english: Dolpopa
     section: Closing verse (g)
-translator: Bernert, Christian; Rigpa Translations; Khyentse Vision Project; Pearcey, Adam
+translator: Christian Bernert; Rigpa Translations; Khyentse Vision Project; Adam Pearcey
 language: English
 file_type: translation
 genre: sadhana
 lang_tag: en
 verse_id_format: chapter-verse
+category_id:
+license: public
+source: https://webuddhist.com
+edition_type: critical
 root_text: 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md
 covers_verses: 0–g-7
 make_available: Dzongsar Institute
