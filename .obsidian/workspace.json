@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625
+    "width": 286.1666259765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,15 +251,15 @@
   },
   "active": "8a74d140487355ac",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
+    "conflict-files-obsidian-git.md",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py",
     "4-SYSTEM/Skills/root-text-upload/SKILL.md",
     "4-SYSTEM/Skills/root-text-upload/scripts",
     "4-SYSTEM/Skills/root-text-upload",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "0-INBOX/vault-audit-2026-09-23.md",
-    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Text/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-reorder.md",
