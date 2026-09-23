@@ -24,10 +24,12 @@ The fix is to separate the two specialists, then let them collaborate.
 
 **Each track in `3-TRANSFORMATIONS/` is a target-language specialist for one audience.** A Translation track is a specialist in writing for a particular language and readership. An Adaptation track is a specialist in writing for a particular format (children's, scholarly, sermon). A Plan track is a specialist in pacing a study arc along a calendar. Each one is bound by its own `requirements.md` (style contract) and `termbase.md` (vocabulary contract).
 
+The two specialists also work on different timescales. The source specialist's job is **bounded and stable**: the source corpus is finite — a known set of commentaries on a known text — so once each verse and section is compiled and reviewed, the heavy lifting is done. The rails are refined as scholarship improves, but they are not redone for each new output. The target specialists' work is **open-ended**: each track's termbase grows as new keywords surface, its requirements evolve as the audience is better understood, and new tracks come online whenever a new audience is commissioned.
+
 Two principles hold the collaboration together:
 
 - **Descriptive rails, prescriptive transformations.** The source specialist *describes* what the tradition attests: every commentator, every translator, every attested rendering. Each target specialist *prescribes* what *their* output does for *their* audience.
-- **One-way citation chain.** `1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`. Target specialists cite the source specialist; they never reach past the rails into raw commentary.
+- **One-way citation chain.** `1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`. Target specialists cite the source specialist; they never reach past the rails into raw commentary. If a claim cannot be cited, it is not made.
 
 This is what makes the methodology scale. The expensive interpretive work happens once, in `2-RAILS/`, and is amortised over every output ever produced from the vault. **Lay the rails once; run many transformations on them.**
 
@@ -72,6 +74,11 @@ This vault serves **[name of text]**. Vault-specific conventions (addressing sch
 9. [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md) — the conventions specific to *this* vault.
 10. [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill, grouped by pipeline stage.
 
+Two more, when you need them:
+
+- [`4-SYSTEM/Guidelines/annotation-conventions.md`](4-SYSTEM/Guidelines/annotation-conventions.md) — the canonical block-ID specification. It wins over every other document when they disagree.
+- [`4-SYSTEM/Guidelines/vault-variants.md`](4-SYSTEM/Guidelines/vault-variants.md) — if this vault is a collection of short texts, a multi-book canon, or a parallel-witness corpus rather than a single treatise.
+
 For day-to-day workflows not in the Skills catalog, see the rest of [`4-SYSTEM/How-to guides/`](4-SYSTEM/How-to%20guides/).
 
 ### If you are an AI agent
@@ -81,4 +88,12 @@ For day-to-day workflows not in the Skills catalog, see the rest of [`4-SYSTEM/H
 3. [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md) — vault-specific conventions.
 4. The relevant `4-SYSTEM/Skills/<skill>/SKILL.md` for the specific task.
 
-`AGENTS.md` files exist for tooling that expects them ([`4-SYSTEM/gemini-scribe/AGENTS.md`](4-SYSTEM/gemini-scribe/AGENTS.md)) — they are thin pointers to `CLAUDE.md` and the folder docs.
+`AGENTS.md` files exist for tooling that reads them rather than `CLAUDE.md` — [`AGENTS.md`](AGENTS.md) at the repo root and [`4-SYSTEM/gemini-scribe/AGENTS.md`](4-SYSTEM/gemini-scribe/AGENTS.md) for the Gemini Scribe plugin. Both are thin pointers to the same rules.
+
+## Provenance and current state
+
+*(Optional sections, worth adding once the vault holds real material.)*
+
+**Provenance** — where the source material came from: the editions, the digitisation projects, the institutional partners, and any upstream identifiers the texts carry. A reader should be able to tell, from this section alone, what the vault is a copy of.
+
+**Current state** — a short status table: how many source files, how many rails at each `status`, which transformation tracks are live and how far each has got. Keep it short and dated; the frontmatter on each file remains the source of truth.

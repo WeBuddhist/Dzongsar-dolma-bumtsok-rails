@@ -41,12 +41,23 @@ The LLM is the compiler. Human domain specialists are the reviewers. Nothing in 
 ├── Local-Wiki/ # one page per attested sense ID
 │ ├── <term>_(<disambiguating-phrase>).md # e.g. term_(disambiguating-phrase).md
 │ └──...
-└── Bilingual-Glossaries/ # bilingual glossaries per language pair
- ├── <src>-<tgt>.md # consolidated per-language-pair bilingual glossary
- └── Raw/
- ├── <src>-<tgt>-gloss.md # interlinear gloss per translation
- └── <src>-<tgt>.md # raw bilingual glossary extracted from one gloss file
+├── Bilingual-Glossaries/ # bilingual glossaries per language pair
+│ ├── <src>-<tgt>.md # consolidated per-language-pair bilingual glossary
+│ └── Raw/
+│ ├── <src>-<tgt>-gloss.md # interlinear gloss per translation
+│ └── <src>-<tgt>.md # raw bilingual glossary extracted from one gloss file
+├── Claims/ # OPTIONAL — see §6b
+│ ├── <topic>.md # consolidated topic pages
+│ └── raw/
+│ ├── <registered-id>.md # per-commentary claims inventory
+│ └── spine-map/<registered-id>.md # per-commentary routing index onto the spine
+├── Keywords/ # OPTIONAL — see §6c
+└── Termbases/ # OPTIONAL — see §6d
 ```
+
+`Sections/Raw/` additionally holds the structural trees and their evidence trail when this vault runs the `toc-generate` pipeline — see §6a.
+
+**The optional folders exist only in vaults that run the corresponding pipeline.** A skill whose input folder is absent says so and stops; it never invents a location. A **collection vault** replaces `Verses/` with `Texts/` (one package per short text) — see [`../4-SYSTEM/Guidelines/vault-variants.md`](../4-SYSTEM/Guidelines/vault-variants.md).
 
 ### Naming
 
@@ -66,24 +77,42 @@ Create a consolidated bilingual glossary file for every source→target combinat
 Each verse package contains layered analysis. Each layer resolves a different type of ambiguity that would otherwise be left to the LLM at generation time.
 
 | Layer | Resolves | Key fields |
-| --------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| --- | --- | --- |
 | Structural outline | How the text is divided and what each section does | Headings-as-tree with study notes per node (in `Sections/`) |
-| Section summary | Functional, cultural, and rhetorical context for a passage | Translator study notes per section (in `Sections/`) |
-| *(foundation)* Source text | Which edition, which variants, cross-tradition witnesses | Transclusions from `1-SOURCES/` |
-| Traditional Interpretation | What commentaries say is happening | Paraphrase per commentary + Synthesis + Divergences |
-| Disambiguated restatement | A version of the verse in the original language precise enough to exclude all misreadings | A short rewrite of the verse, drawing on the synthesis |
-| Word Analysis (optional) | Compound analysis, sense disambiguation, inflection — only where commentary makes a non-obvious choice | Token-level notes with citations |
-| Translation Notes | Figures of speech, idioms, honorifics, culturally bound expressions | Per-figure prose with rendering strategies |
+| Section summary | Functional, cultural and rhetorical context for a passage | Translator study notes per section (in `Sections/`) |
+| *(foundation)* Source text | Which edition, which variants, cross-tradition witnesses | Transclusions from `1-SOURCES/`, one per source language |
+| Traditional Interpretation | What the commentaries say is happening | Paraphrase per commentary + Synthesis + Divergences |
+| AI Overview | A scannable answer to "what does this verse say", compiled from all commentaries | One headline reading + key points, original language, each cited |
+| Disambiguated restatement | A version of the verse precise enough to exclude every misreading | A short rewrite of the verse, drawing on the synthesis |
 
-The structural outline and section summaries sit above the verse-level layers because macro context precedes micro analysis — knowing what a section is doing in the text's overall argument shapes how every verse within it is read.
+Those six are the **core**. Every package has them; a package missing any of them is not `complete`.
 
-Within the verse package, Traditional Interpretation is always the anchor — it comes first because it contains the commentary reading that all subsequent layers encode. The disambiguated restatement comes next because it is the artefact that most transformation skills actually consume (and without which output can drift). Word Analysis and Translation Notes are last because they only need to be populated where the commentary makes a non-obvious choice or a figure of speech requires guidance.
+### Optional layers — declared per package
 
-### Optional formal layers
+Everything below is populated only where the commentaries supply the material, and only where the text's tradition works that way. The order is declared per package in the frontmatter `layer_order:` field and followed at assembly time; sections with no content are omitted entirely rather than left empty.
 
-Some texts and some commentary traditions warrant heavier formal apparatus — full morphological tables, UCCA-style syntactic trees, interlinear semantic glosses. These are **optional layers** layered on top of the core stack above. When they are used, they slot in between Traditional Interpretation and Translation Notes, in an order declared per-package by frontmatter `layer_order:` and followed by the resolver script at assembly time.
+| Layer | Resolves | Typical for |
+| --- | --- | --- |
+| Word Commentary | The verse re-presented as a running word-gloss, annotation woven into the root words | Traditions with a native word-commentary genre |
+| Word-by-word Disambiguation | Per-token sense, compound and referent resolution where a commentary makes a non-obvious choice | Any text with word-level commentary |
+| Key Concepts | Concepts the verse introduces, and further concepts the commentaries raise | Any doctrinal text |
+| Stories | Narratives the commentaries attach to the verse | Traditions with a story-commentary genre |
+| Metaphors | Figures and similes, and how the commentaries unpack them | Any figurative text |
+| Quotations | Scriptural passages the commentaries adduce on this verse | Scholastic commentary |
+| Translation Notes | Idioms, honorifics, culturally bound expressions, with rendering strategies | Any text being translated |
+| Practical Application | What the commentaries say the verse asks of a practitioner | Practice texts, plan tracks |
+| Structural Position | Where the verse sits in the commentary's own outline, stated in prose | Texts with an explicit structural outline |
+| Morphology · Syntax · Semantic Gloss | Formal linguistic apparatus | Languages whose commentaries are word-by-word |
 
-The optional formal-layer order is language-specific. For Sanskrit (word-by-word commentaries), morphology grounds syntax. For Tibetan (holistic commentaries), the syntactic reading from the paraphrase precedes word-level analysis. Pāli sits closer to Sanskrit. Declare per package.
+**The optional set is language- and tradition-shaped, not arbitrary.** Where a tradition supplies a native word-commentary genre, that layer does the work a formal syntactic tree would do elsewhere — use the one the tradition actually has, and say which in the annex. For a language whose commentaries parse word by word, morphology grounds syntax and both precede the semantic gloss.
+
+### Heading names are English; labels may be local
+
+Each section's heading is its **English name**, optionally followed by the original-language label in parentheses — `## AI Overview (བསྡུས་དོན།)`. Skills and scripts match on the English name, so it must be present and spelled as in the tables above; the parenthetical keeps the file readable for the specialists who work in the source language.
+
+### Language per section
+
+Traditional Interpretation paraphrases and Translation Notes are in English, so that a reader working in any target language can use them. **Every other section is in the original language**, including the AI Overview and the Disambiguated Restatement. A vault may invert this in its annex (for example, a vault whose reviewers all work in the source language may write the paraphrases in it too) — the annex records the choice; the skill does not decide it.
 
 ### Multi-traditional by design
 
@@ -178,22 +207,30 @@ coarser_groupings:
 template_ref: # for instance type only
 commentary_coverage: [[commentary-id-1], [commentary-id-2]]
 tradition_coverage: [theravada] # traditions represented in Traditional Interpretation
-concepts: [term (disambiguating-phrase), citta (mind), …]
-# Optional formal-layer ordering (only if optional formal layers are used)
-layer_order: [traditional, morphological, syntactic, semantic-gloss, translation-notes]
+concepts_in_verse: [term (disambiguating-phrase), …]   # concepts the verse itself introduces
+concepts_in_commentary: [term (disambiguating-phrase), …] # further concepts the commentaries raise
+stories: [story-name, …]          # narratives the commentaries attach to this verse
+# Which optional layers this package carries, in the order they are assembled
+layer_order: [word-commentary, word-disambiguation, concepts, stories, metaphors, quotations, translation-notes]
 # Status fields
 status: draft | partial | complete
 ---
 ```
 
+`concepts_in_verse:` and `concepts_in_commentary:` are what a termbase or keyword build reads to know which terms this verse actually turns on, so fill them even when the Key Concepts section is omitted.
+
 Only `status: complete` packages are used to generate transformations. Domain specialists set `complete`; the LLM never marks its own output complete.
 
-### Body — the minimum required structure
+### Body — the required structure
 
 ```markdown
 ## Source Text
 
+### [Source language 1]
 ![[1-SOURCES/Text/[lang]-root-text.md#^1-1]]
+
+### [Source language 2, if the vault has a second witness]
+![[1-SOURCES/Text/[lang2]-root-text.md#^1-1]]
 
 **Variants**
 [Ed: alternative reading found in <edition>, noted but not adopted here.]
@@ -203,43 +240,76 @@ Only `status: complete` packages are used to generate transformations. Domain sp
 ### [commentary-id-1] — [Commentary full name] ([language])
 [Paraphrase of this commentary's reading of the verse. English. Every claim
 cites the commentary block that grounds it.]
-(1-SOURCES/Commentaries/pi-[commentary-id-1].md#^1-1)
+(1-SOURCES/Commentaries/[lang]-[commentary-id-1].md#^1-1)
 
 ### [commentary-id-2] — [Commentary full name] ([language])
 [Paraphrase, citations.]
-(1-SOURCES/Commentaries/pi-[commentary-id-2].md#^1-1)
+(1-SOURCES/Commentaries/[lang]-[commentary-id-2].md#^1-1)
 
 ### Synthesis
 [What all sources agree on. Do not flatten disagreement here.]
 
 ### Divergences
-[Where commentaries genuinely disagree, attributed and flagged ⚑.]
+[Where commentaries genuinely disagree, attributed and flagged ⚑. Omit if none.]
 
-## Disambiguated Restatement (original language)
+## AI Overview ([original-language label])
 
-[A short rewrite of the verse in the original language, precise enough that
-no misreading or mistranslation is possible. Transformation skills work
-from this restatement, not from the raw verse. Cite the synthesis above.]
+[The reader-facing compression of Traditional Interpretation above, in the
+original language: one or two sentences answering directly what the verse says
+according to the commentaries as a whole, then a short list of key points.
+Every sentence and every bullet carries the source it draws on. ⚑ marks any
+point on which the commentaries split.]
 
-## Word Analysis
-[Token-level notes only where the commentary makes a non-obvious choice —
-compound analysis, sense disambiguation, inflection ambiguity. Each note
-cites the commentary that determines the reading. Omit this section entirely
-if there are no non-obvious choices.]
+**[Headline reading — one or two sentences.]**
+(1-SOURCES/Commentaries/[lang]-[commentary-id-1].md#^1-1)
 
-## Translation Notes
-[Figures of speech, idioms, honorifics, cultural references — each with
-rendering strategies for different audiences. Cite the commentary that
-explains the figure. Minimum two rendering strategies per figure.]
+**Key points**
+- [key point] (1-SOURCES/Commentaries/[lang]-[commentary-id-1].md#^1-1)
+- [key point] (1-SOURCES/Commentaries/[lang]-[commentary-id-2].md#^1-1)
+
+## Disambiguated Restatement
+
+[A short rewrite of the verse in the original language, precise enough that no
+misreading or mistranslation is possible: referents fixed, senses chosen,
+compounds parsed. Transformation skills work from this restatement, not from
+the raw verse. Cite the blocks that authorise each choice.]
+
+<!-- Optional layers follow here, in `layer_order`. Delete the heading of any
+     layer with no cited material for this verse. -->
 
 ## Concept Links
 - [[2-RAILS/Local-Wiki/<term>_(<disambiguator>).md]]
 - …
 ```
 
+The optional layers use these headings, each populated only where cited material exists:
+
+| Heading | Contents |
+| --- | --- |
+| `## Word Commentary` | Each phrase of the root verse followed by its gloss, woven so the verse reads continuously with the annotation inline. |
+| `## Word-by-word Disambiguation` | One bullet per token whose reading is non-obvious: the token, the disambiguating gloss, the citation. Omit obvious tokens. |
+| `## Key Concepts` | Two sub-sections — concepts the verse introduces, and further concepts the commentaries raise. Each term links to its Local-Wiki article and carries a citation. **A key term is a word or a short phrase, never a whole verse line.** Where commentaries gloss a term differently, give both and flag ⚑. |
+| `## Stories` | One short précis per narrative: the story's name, which phrase of the verse it illustrates, the citation. |
+| `## Metaphors` | Per figure: the image, what it stands for, how the commentaries unpack it. |
+| `## Quotations` | Verbatim quotations the commentaries adduce, attributed to the scripture as the commentary names it, plus the commentary block that adduces it. |
+| `## Translation Notes` | Per figure or idiom: the difficulty and at least two rendering strategies for different audiences. |
+| `## Practical Application` | What the commentaries say the verse asks of a practitioner. |
+| `## Structural Position` | Where the verse sits in the commentary's own outline, in prose, tracing the full path. |
+| `## Morphology` · `## Syntax` · `## Semantic Gloss` | Formal apparatus, where the tradition's commentaries supply it. |
+
+### Two edge cases every builder hits
+
+**Grouped transclusions.** Some commentaries place several consecutive verse transclusions together and comment on the whole group after the last one. Scan forward through *all* consecutive transclusion lines to the first line of prose; that prose belongs to every verse in the run.
+
+**A commentary with no block IDs of its own.** Some segmented commentaries carry IDs only on their transclusion anchors. Cite such material to the verse-transclusion anchor, and record the fallback in the package's frontmatter `note:` field so a later reader knows the citation is anchor-level rather than block-level.
+
+### After an LLM writes the synthesis, verify its citations
+
+The AI Overview is a second-pass compression of material already cited above it. Every citation it carries must exist in the Traditional Interpretation section it was compiled from — check them one by one before saving. A synthesis that cites a block nobody paraphrased is a fabrication, however plausible it reads.
+
 Keep the body in prose. No quoting commentaries at length — paraphrase. English throughout (except Disambiguated Restatement, which stays in the original language). Original-language terms italicised on first use.
 
-Authoring skill: `verse-context`.
+Authoring skill: `verse-context`. A blank copy-me skeleton in this format lives at [`Verses/_TEMPLATE.md`](Verses/_TEMPLATE.md).
 
 ---
 
@@ -292,6 +362,84 @@ citations to each verse package where it appears.]
 All content in the original language (per the descriptive principle — the local wiki records what the commentaries themselves say, not how a translator would render it). The target-language side of each term lives in per-transformation files in `3-TRANSFORMATIONS/`.
 
 Authoring skill: `local-wiki-article`.
+
+---
+
+## 6a. Structural trees (`Sections/Raw/toc-tree/`) — optional
+
+Vaults whose commentaries carry an explicit structural outline build one finished tree per commentary: `Sections/Raw/toc-tree/<registered-id>.md`. It sits under `Sections/Raw/` because it is raw distilled structure — per-commentary, descriptive, every title checked against the source.
+
+Only a tree that has passed both deterministic checks belongs here: one against the extraction's own candidate and enumeration corpus, one against the commentary file itself. Working intermediates stay in `0-INBOX/temp/TOC-<id>/` and are never promoted.
+
+Once both checks pass, the **evidence trail is promoted alongside the tree** so that no `complete` rail depends on a file in scratch: the merged candidate scan, the merged enumeration blocks, and the two QC reports, which the tree's `qc_reports:` frontmatter cites by path.
+
+⚠️ The candidate and enumeration files are **extraction evidence, not attested structure.** Candidate extraction is deliberately recall-first, so they contain false positives by design. Never cite them from another rail or a transformation — the QC-clean tree is the only citable structural artefact.
+
+A tree is tied to one exact version of its source file: its pointers are positions in that file. If the commentary is re-segmented or edited after the tree was built, **the tree is stale and must be rebuilt, not reused.**
+
+```yaml
+---
+registered_id: <registered-id>
+source_file: 1-SOURCES/Commentaries/<filename>.md
+qc_reports: [<path>, <path>]
+status: draft | complete
+---
+```
+
+Authoring skill: `toc-generate`. Consumed by: `toc-generate` Phase E (places the headings into the source file), `commentary-claims`.
+
+---
+
+## 6b. Claims (`Claims/`) — optional
+
+Where a vault needs to compare what many commentaries assert — to write encyclopedia articles, to audit coverage, to find genuine disagreement across a corpus — it extracts claims. The folder has **two layers**, mirroring `Sections/`.
+
+### `Claims/raw/` — per-commentary extractions
+
+An inventory of every distinct assertion one commentary makes, in that commentary's own language, each cited to a block ID, extracted from **one commentary read in isolation** before any comparison or merging. Extraction methods may coexist in separate subfolders when they are genuinely different techniques being compared rather than revisions of one another.
+
+### `Claims/raw/spine-map/` — per-commentary routing indexes
+
+One file per commentary, recording **which of that commentary's own nodes hold which canonical spine slot's content** — addresses only, never claim content. It is an index layer, not another extraction: it adds no claims, and regenerating it never changes what was extracted.
+
+Its invariant is what makes consolidation trustworthy: **every claim in the commentary's raw file gets exactly one disposition** — routed to a slot by node, routed by claim ID, flagged ambiguous, or logged under an unmapped node. Neither zero (the claim vanishes from every topic page) nor two (it is duplicated into two packets) is allowed.
+
+The canonical slot list lives in the vault annex; slots are never coined locally. Material that belongs to no slot — a commentary's own front matter, colophon, ritual appendices — is dispositioned as *unmapped*. That is a legitimate outcome, not a coverage failure: the claims stay in `Claims/raw/`, they simply feed no topic page.
+
+### `Claims/<topic>.md` — consolidated topic pages
+
+One page per topic, merging the raw claims across the corpus: consensus statements with per-commentary attestation, a ⚑ Divergences section, and a Unique-claims section — every line citing raw claim IDs, which cite `1-SOURCES/`.
+
+- **The questions used to consolidate are recorded in the page itself**, in frontmatter (`consolidation_questions:`) and echoed in a visible section, so a later reader can see exactly what was asked and spot what was not.
+- Topic pages cite `Claims/raw/` claim IDs, **never the source files directly** — consolidation reads claims, not commentaries.
+- Consolidation is **always redoable**: deleting and regenerating a topic page never touches `Claims/raw/`.
+- File names come from the text's spine plus the topic, never from claim content, so identity is stable across re-runs. When a topic page exceeds roughly 40–50 claims, split it one spine level down.
+
+**Order of operations:** extract every commentary → map every commentary → consolidate per topic. Consolidating before the maps exist fails loudly, by design.
+
+Authoring skills: `commentary-claims`, `spine-map`, `claims-consolidate`.
+
+---
+
+## 6c. Keywords (`Keywords/`) — optional
+
+The descriptive output of the keyword pipeline, which answers "which terms does this text actually turn on, and what is each one called in the source language". It holds the candidate keyword pool, the per-occurrence mappings, the **source-term registry**, the frequency matrix and the ranked article queue.
+
+The **source-term registry** is the vocabulary-standardisation artefact: one canonical source-language lemma per concept, with every attested variant, synonym and epithet grouped under it. It is built by mapping each keyword occurrence back to the source term that produced it — splitting one target word that renders two different source terms, and merging two target words that render one — and it is what makes every downstream termbase consistent.
+
+Everything here is **descriptive**: it records what the corpus contains and how often. Nothing here prescribes a rendering.
+
+Authoring skill: `keyword-extract`.
+
+---
+
+## 6d. Termbases (`Termbases/`) — optional
+
+Cross-track term tables that several transformation tracks share: a term-localisation table mapping each key term to its renderings across target languages, and any graded caches a translation skill builds.
+
+These are still **descriptive** — a table of candidates derived from the commentaries and the attested translations. The **prescriptive** contract is always the per-track `termbase.md` in `3-TRANSFORMATIONS/`, which picks one rendering per term for one audience. Keep the two apart: a shared table that starts prescribing is a track contract in the wrong folder.
+
+Authoring skills: `term-definition`, `term-localization`.
 
 ---
 
@@ -479,7 +627,8 @@ Build the rails for any new section of text in this order:
 2. **Commentary ingest per verse** — author the verse packages (`Verses/<verse-id>.md`), populating Traditional Interpretation, the Disambiguated Restatement, and the optional Word Analysis / Translation Notes / formal layers.
 3. **Term ingest** — author or update Local-Wiki articles (`Local-Wiki/<term>_(<disambiguator>).md`) for any new sense IDs surfaced during verse-package work.
 4. **Bilingual Glossary build** — author interlinear glosses (`Bilingual-Glossaries/Raw/<src>-<tgt>-gloss.md`), extract raw bilingual glossaries, then combine into the consolidated `Bilingual-Glossaries/<src>-<tgt>.md`.
-5. **Domain-specialist review** — every file is reviewed claim-by-claim. The reviewer sets `status: complete` only when every field is cited and every divergence is flagged.
+5. **Optional pipelines**, where this vault runs them — structural trees (§6a) before claims extraction; claims (§6b) and keywords (§6c) after the verse packages they read from.
+6. **Domain-specialist review** — every file is reviewed claim-by-claim. The reviewer sets `status: complete` only when every field is cited and every divergence is flagged.
 
 Transformations in `3-TRANSFORMATIONS/` consume `complete` rails to derive their own prescriptive rails (per-track termbases) and to produce their outputs. See [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMATIONS/About Transformations.md).
 
@@ -498,6 +647,9 @@ Transformations in `3-TRANSFORMATIONS/` consume `complete` rails to derive their
 - [ ] `tradition_coverage:` frontmatter field lists all traditions represented.
 - [ ] Textual witnesses from other languages recorded in the Source Text Variants block.
 - [ ] Disambiguated Restatement written in the original language.
+- [ ] AI Overview written, and every citation in it verified to exist in the Traditional Interpretation above.
+- [ ] `layer_order:` lists exactly the optional layers present; every optional layer with no cited material was deleted, not left empty.
+- [ ] `concepts_in_verse:` and `concepts_in_commentary:` filled, so termbase and keyword builds can read them.
 - [ ] Word Analysis populated only where the commentary makes a non-obvious choice — otherwise omitted.
 - [ ] Translation Notes populated for every figure of speech, idiom, or culturally bound expression — minimum two rendering strategies per figure.
 - [ ] Concept Links added at the bottom of the file for every key term that appears.
@@ -511,4 +663,8 @@ Transformations in `3-TRANSFORMATIONS/` consume `complete` rails to derive their
 - [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
 - [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) — the rules for the source material that rails cite.
 - [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMATIONS/About Transformations.md) — the rules for the outputs that consume rails.
-- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](../4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the archit
+- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](../4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and citation chain.
+- [`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md) — vault-specific commentary roster, tier order, analysis language, and addressing conventions.
+- [`../4-SYSTEM/Guidelines/vault-variants.md`](../4-SYSTEM/Guidelines/vault-variants.md) — how these rails adapt for a collection vault, where `Texts/` replaces `Verses/`.
+- [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill that reads from or writes to this folder.
+- [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) — the operational quick-reference.

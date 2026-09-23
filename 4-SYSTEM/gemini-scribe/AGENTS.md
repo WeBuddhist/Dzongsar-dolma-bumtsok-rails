@@ -31,10 +31,17 @@ The vault uses a four-stage pipeline:
 
 ---
 
+## Working rules
+
+- **Check the catalog first.** Read `4-SYSTEM/Skills/SKILLS-CATALOG.md` before starting any task and follow the matching `SKILL.md` exactly. A task done without its skill must be redone.
+- **Prefer the vault's own terminology.** Take definitions and renderings from `2-RAILS/Local-Wiki/` and `2-RAILS/Bilingual-Glossaries/` before general knowledge or a web search. That is what those files are for.
+- **Draft in `0-INBOX/`** when you are unsure where something belongs; move it out once it is formatted and verified.
+
 ## Do not do these things
 
 - Do not write to `1-SOURCES/` (except adding block IDs and frontmatter via skills).
-- Do not write to `4-SYSTEM/` (read-only; rule changes require a human contributor).
+- Do not write to `4-SYSTEM/` — the one exception is skills and scripts, when explicitly asked to build tooling.
+- Do not edit or regenerate a file marked `PROTECTED — SOURCE OF TRUTH` without explicit human confirmation.
 - Do not introduce parametric knowledge — every claim must cite a `1-SOURCES/` file.
 - Do not mark your own output `status: complete` — domain specialists do that.
 - Preserve all diacritics and non-ASCII characters exactly as given.

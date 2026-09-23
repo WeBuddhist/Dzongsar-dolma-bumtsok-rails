@@ -31,7 +31,7 @@ Required. Written in the working language of the adaptation team. Must cover:
 
 ### `termbase.md`
 
-Many adaptations work directly from the rails without a separate locked-rendering termbase — the adaptation is doing freer work than a translation and benefits from picking the right word for each context rather than enforcing a single mapping. Include a `termbase.md` only when an adaptation locks specific renderings.
+Include a `termbase.md` only when the adaptation locks specific renderings — a children's series that fixes one plain-language rendering for a key term and never varies it, for instance. Many adaptations work directly from the rails without a separate locked-rendering termbase — the adaptation is doing freer work than a translation and benefits from picking the right word for each context rather than enforcing a single mapping. Include a `termbase.md` only when an adaptation locks specific renderings.
 
 When present, the termbase follows the same format as a translation termbase — see [`../Translations/About Translations.md`](../Translations/About Translations.md).
 
@@ -39,7 +39,7 @@ When present, the termbase follows the same format as a translation termbase —
 
 ## Current tracks
 
-No tracks exist yet — the folder is reserved for the next round of work. Add new tracks as they are commissioned.
+No tracks exist yet — the folder is reserved for the next round of work. Add new tracks as they are commissioned. Likely candidates for most texts: a children's retelling, a scholarly summary, a teacher-led sermon or class cycle, and a practice manual.
 
 ---
 
