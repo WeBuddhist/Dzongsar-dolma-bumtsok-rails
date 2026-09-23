@@ -46,6 +46,9 @@ related_translations:
   - 1-SOURCES/Translations/en-zabtig-drolchok.md
 make_available: Dzongsar Institute
 source_description: "Compiled anthology: an opening fifteen-verse prayer to the Buddha by Sakya Paṇḍita, a supplement by Pema Dongak Lingpa, auspicious verses by Shechen Kongtrul, the core mandala-ritual chapters (elaborate and abbreviated) with no internal colophon, and a series of appended aspiration/dedication prayers individually signed by Yönten Gyatso, Jamyang Khyentse Wangpo (x2), the vidyādhara Mañjughoṣa, Chökyi Lodrö (colophon: written at Vajrāsana/Bodhgayā, India), Khenchen Kunga Wangchuk, and Dolpopa."
+text_id: AMXt6wYXNvRR2WanncXaq
+edition_id: 1JX1dsVsP8pphHvSwuvOV
+toc_id: QoUe82UadztzikX6H92zA
 ---
 
 # ༄༅། །དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ། ། ^0
