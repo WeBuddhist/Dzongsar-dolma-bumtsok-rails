@@ -76,6 +76,20 @@ Scratch space. Anything not yet ready to be placed in its proper folder lives he
 
 **Nothing in `0-INBOX/` is authoritative.** Files here are not cited by anything in `2-RAILS/` or `3-TRANSFORMATIONS/`. They move out of inbox as they are formatted and verified.
 
+Recognised conventions inside it:
+
+| Path | Holds |
+| ---- | ----- |
+| `raw-data/` | Original-format arrivals, untouched — EPUBs, JSON dumps, scans, exports |
+| `temp/` | Working drafts. A skill that needs scratch space makes `temp/<SKILL>-<id>/` and cleans up after itself |
+| `migration-backups/<date>/` | The pre-change state of any file whose addressing scheme was altered |
+| `<file>-backup-pre-<operation>-<date>.md` | A single-file backup before a destructive reformat |
+| `vault-audit-<YYYY-MM-DD>.md` and other generated reports | Reports live here, never in `4-SYSTEM/` |
+
+Files in `temp/` older than about a week are surfaced by `vault-audit` for human review. The audit lists them; it never deletes them.
+
+**One inversion worth knowing.** In a vault whose `1-SOURCES/` is *generated* by script from expert-prepared material — a collection vault, typically — the inbox holds the master copy and the sources are derived. That reverses this folder's usual meaning, so it is declared in the annex, and it carries one consequence: a hand-edit to a generated source file is lost at the next regeneration, so you fix the formatter, not the output. See [`vault-variants.md`](vault-variants.md).
+
 ### `1-SOURCES/`
 
 Human-produced material exactly as received. This is the ground truth — every claim in the rails ultimately cites a passage here. The folder is **append-only and read-only for the LLM**: it adds block IDs, frontmatter, and navigation links, but never interpretive content.
@@ -186,7 +200,7 @@ The `1-SOURCES/` restriction is the most important. The folder receives the huma
 
 ## 6. Language Tags and Filenames
 
-Every file carrying language-specific content carries a language tag suffix on its filename: `-sk` (Sanskrit IAST default), `-pi` (Pāli PTS default), `-bo` (Tibetan Unicode default), `-zh` (Chinese Unicode default), `-en` (English), and so on. When a non-default script or encoding is used, a script suffix is added: `-sk-iast`, `-bo-wy`, `-zh-cbeta`.
+Every file carrying language-specific content carries a language tag suffix on its filename: `-sk` (Sanskrit Devanāgarī default), `-pi` (Pāli PTS default), `-bo` (Tibetan Unicode default), `-zh` (Chinese Unicode default), `-en` (English), and so on. When a non-default script or encoding is used, a script suffix is added: `-sk-iast`, `-bo-wy`, `-zh-cbeta`.
 
 Filenames are lowercase, hyphenated, and use no diacritics. Diacritics appear freely inside file content and frontmatter, but never in filenames — this keeps the vault portable across filesystems and friendly to scripts that traverse it.
 
@@ -207,4 +221,60 @@ Every verse or discrete prose block in `1-SOURCES/` ends with an Obsidian block 
 - Verse numbers restart at 1 each chapter.
 - Pre-chapter material (homage, colophons, title lines) is placed under a `## 0. Introduction` heading with IDs `^0-1`, `^0-2`, etc.
 
-Headings in source-text files also carry block IDs, distinguished from content IDs by a trailing `-0` (the zero slot is reserved for headings; content always starts at `1`). The full heading-ID hierarchy is specified in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About Sources
+Headings in source-text files also carry block IDs, distinguished from content IDs by a trailing `-0` (the zero slot is reserved for headings; content always starts at `1`). The full heading-ID hierarchy is specified in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §5 and summarised in [`../CLAUDE.md`](../CLAUDE.md) §5a. The single canonical statement of every block-ID and tag convention — content IDs, the `-0` heading slot, commentary IDs, the separate `^toc-` namespace, the deprecated `^TOC-N` form, and the registered per-vault deviations — is [`annotation-conventions.md`](annotation-conventions.md).
+
+The vault annex ([`vault-annex.md`](vault-annex.md)) specifies the addressing scheme and heading hierarchy for the root text(s) of this vault, including any registered deviation from the defaults (intro / back-matter zones such as `^I-*` and `^a-*`, Bible-style `book-verse`, letter sub-namespaces, flat `^N` for collections of short texts).
+
+Block IDs are how everything connects:
+
+- A rails file transcludes a verse: `![[1-SOURCES/Text/[lang]-root-text.md#^1-1]]`
+- A commentary citation: `(1-SOURCES/Commentaries/[lang]-[commentary-name].md#^1-1)`
+- A wiki link to a section heading: `[[1-SOURCES/Text/[lang]-root-text.md#^1-0]]`
+
+---
+
+## 8. Status Lifecycle
+
+Files in `2-RAILS/` (and the output files in `3-TRANSFORMATIONS/`) carry a `status` field in frontmatter:
+
+| Status | Meaning |
+|---|---|
+| `draft` | LLM-generated, not yet reviewed; may contain uncited claims |
+| `partial` | reviewed in part; some sections complete, others still draft |
+| `complete` | domain specialist has reviewed every claim; ready for use |
+
+Only `complete` packages are used to generate transformations. Domain specialists set `complete` — the LLM never marks its own output complete.
+
+---
+
+## 9. Adding a New Text — Vault Setup Checklist
+
+To start a new Railroads vault for a different text, create it from the `rails-template` repository (GitHub "Use this template", or clone and re-initialise), then:
+
+- [ ] Name the repo `[text-slug]-rails`.
+- [ ] Replace every `[text-slug]` / `[name of text]` placeholder in `README.md`, `4-SYSTEM/CLAUDE.md`, `4-SYSTEM/gemini-scribe/AGENTS.md` and `4-SYSTEM/Guidelines/vault-annex.md`.
+- [ ] Fill in `4-SYSTEM/Guidelines/vault-annex.md`: addressing scheme (and any registered deviations), commentary roster with `registered_id`s and `book_id`s, language tracks, glossary pairs, analysis language per rail section.
+- [ ] Keep `1-SOURCES/About Sources.md`, `2-RAILS/About Rails.md`, `3-TRANSFORMATIONS/About Transformations.md` and the `4-SYSTEM/Guidelines/` docs unchanged — they are text-agnostic. Record vault-specific rules in the annex, not in these files.
+- [ ] Keep `4-SYSTEM/Skills/` as shipped; add vault-specific skills with `create-skill` and mark them `profile: vault-local` in their frontmatter.
+- [ ] Delete the "Using this template" note at the top of `README.md`.
+- [ ] Begin ingest by dropping source material into `0-INBOX/raw-data/` and running the intake skills (`epub-to-markdown`, `raw-to-sources`, `json-to-source-text`, …).
+- [ ] Run `vault-audit` once; it flags any leftover placeholders and unregistered skills.
+
+The `Guidelines/`, `Skills/`, `Templates/` and `How-to guides/` folders are deliberately text-agnostic so they can be carried across vaults without modification — and kept in sync with the template afterwards (see [`../How-to guides/Sync with rails-template.md`](../How-to%20guides/Sync%20with%20rails-template.md)). The only files that need per-text adaptation are `README.md`, the placeholders in `CLAUDE.md` / `AGENTS.md`, and `vault-annex.md`.
+
+---
+
+## 10. Reading Order for New Contributors
+
+For a human contributor or LLM new to a Railroads vault:
+
+1. `README.md` — what this specific vault is for
+2. `4-SYSTEM/Guidelines/why-rails.md` — why the methodology works (specialist-pair and Wikipedia analogies)
+3. `4-SYSTEM/Guidelines/0-VAULT-Structure.md` — this file: the architecture
+4. `1-SOURCES/About Sources.md` — source file rules
+5. `2-RAILS/About Rails.md` — rails compilation schema
+6. `3-TRANSFORMATIONS/About Transformations.md` — transformation track rules
+7. `4-SYSTEM/CLAUDE.md` — operational instructions
+8. `4-SYSTEM/Guidelines/vault-annex.md` — text-specific conventions
+
+After these eight files, a contributor has the complete picture of how the vault works and can begin productive work in `1-SOURCES/` or `2-RAILS/`.

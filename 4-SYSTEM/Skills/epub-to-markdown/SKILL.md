@@ -1,3 +1,20 @@
+---
+name: epub-to-markdown
+description: >
+  Convert an EPUB into structured markdown, adaptively: inspect the epub's own
+  internal structure first, then either reuse an existing publisher-specific
+  converter or generate a new one tailored to that epub's conventions.
+
+  Also carries the `.docx` intake route (docx_to_markdown.py, bundled), which
+  preserves Word auto-numbering, footnotes and highlighting.
+
+  Trigger on "convert this epub", "turn this epub into markdown", "extract the
+  text from this ebook", "ingest this epub", "convert this docx", or whenever
+  an `.epub` or `.docx` arrives as source material.
+
+  An intake skill — its output is a raw file for `clean-raw-text`, not a
+  finished source.
+---
 # EPUB to Markdown Extraction Skill
 
 This skill converts EPUB files to structured Markdown. It is **adaptive**: for each new epub it first inspects the epub's internal structure, then either reuses an existing publisher-specific converter or generates a new one tailored to that epub's conventions.
@@ -30,7 +47,7 @@ Step 2: Check converters/ for matching publisher slug
 Run the inspector to extract a full structural profile of the epub:
 
 ```bash
-python 4-SYSTEM/Skills/epub-to-markdown/epub_inspector.py path/to/source.epub
+python3 4-SYSTEM/Skills/epub-to-markdown/epub_inspector.py path/to/source.epub
 ```
 
 The inspector outputs JSON containing:
@@ -164,7 +181,7 @@ Write a docstring at the top of the generated script explaining:
 
 ## Step 4 — Run the Converter
 
-Run via `importlib` to avoid stale `.pyc` bytecode on the mounted filesystem. Write output to `0-INBOX/temp/` first for review, then move to `0-INBOX/md-texts/` once confirmed:
+Run via `importlib` to avoid stale `.pyc` bytecode on the mounted filesystem. Write output to `0-INBOX/temp/` first for review, then move to `0-INBOX/temp/md-texts/` once confirmed:
 
 ```bash
 python3 - << 'EOF'
@@ -177,7 +194,7 @@ lk.convert_epub_to_markdown("path/to/source.epub", "0-INBOX/temp/<output>.md")
 EOF
 ```
 
-Once reviewed and confirmed correct, move the file to `0-INBOX/md-texts/`.
+Once reviewed and confirmed correct, move the file to `0-INBOX/temp/md-texts/`.
 
 ---
 
@@ -218,16 +235,60 @@ Tibetan epubs sometimes mark root-text syllables with `༷` (U+0F37, TIBETAN MAR
 **Standalone re-processing** — if you have an existing MD file that still contains `༷` markers (e.g. produced by an older converter), run:
 
 ```bash
-python 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
+python3 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
   0-INBOX/temp/<file>.md          # edits in place
 
-python 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
+python3 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
   0-INBOX/temp/<input>.md 0-INBOX/temp/<output>.md   # write to separate file
 ```
 
 **Logic:** the text is tokenised at tsheg `་`, shad `།`, space, and newline boundaries. Each token is classified as marked (contains `༷`) or unmarked. Consecutive marked tokens are joined into one `**...**` span; `༷` is stripped from all output.
 
 **When writing new converters:** call `convert_root_markers(text)` on any text string before emitting it as a Markdown block. Import or copy the function from `root_marker_to_bold.py`.
+
+---
+
+## `.docx` intake
+
+An `.docx` is a different container with different annotations, so it gets its
+own converter rather than a publisher profile: `4-SYSTEM/Skills/epub-to-markdown/docx_to_markdown.py`,
+standard-library only (a `.docx` is a zip whose `word/document.xml` holds the
+content).
+
+```bash
+python3 4-SYSTEM/Skills/epub-to-markdown/docx_to_markdown.py <file.docx> > 0-INBOX/temp/md-texts/<name>.md
+python3 4-SYSTEM/Skills/epub-to-markdown/docx_to_markdown.py <a.docx> <b.docx>     # concatenated to stdout
+```
+
+What it preserves, and why each one matters:
+
+- **Word auto-numbering.** Many documents number every segment through Word's
+  numbering engine (`<w:numPr>`), so the numbers exist only as a numbering
+  definition plus a counter — they are **not** in the text runs. Where two
+  witnesses of the same work carry the same count, those numbers *are* the
+  alignment layer. A converter that reads only `<w:t>` silently discards it.
+  This one reconstructs the counters the way Word does and emits each number
+  both visibly (`3.`) and as a block ID (`^s3`), so a segment can be addressed
+  across files as `[[<other-file>#^s3]]`.
+- **Footnotes** → Obsidian footnotes (`[^3]` inline, definitions at the end),
+  rather than dropped.
+- **Highlighting** → `==text==`. In a reviewed document this usually marks
+  passages somebody flagged.
+- **Tabs and explicit breaks** inside a paragraph.
+
+Word splits one visible word across several `<w:t>` runs whenever formatting
+changes mid-word, so runs are joined with no separator between them.
+
+Two things to check before trusting the output:
+
+- The `^sN` anchors it emits are **intake anchors in the converter's own
+  namespace**, not vault block IDs. They are restamped into the canonical
+  `^chapter-verse` scheme when the file is promoted into `1-SOURCES/` — see
+  `raw-to-sources` and `add-block-ids`. Do not cite an `^sN` anchor from a rail.
+- The converter assumes the document has no Heading styles and no TOC field —
+  its structure is the numbered segmentation itself. If your `.docx` does use
+  real Heading styles, they will be flattened; check the output before running
+  a heading skill over it.
 
 ---
 

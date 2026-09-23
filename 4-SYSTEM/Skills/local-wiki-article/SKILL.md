@@ -5,7 +5,7 @@ description: Create or update a Local-Wiki article in 2-RAILS/Local-Wiki/<term>.
 
 # local-wiki-article
 
-The Local-Wiki holds one article per **key term** explained in the commentary tradition of this text. Its purpose is narrow: when the per-track bilingual glossary does not yet have a satisfactory rendering for a term, the `glossary-select` skill consults the Local-Wiki article for that term to derive a better one. Local-Wiki articles are also the long-form definition that the translator falls back on when the bilingual glossary line alone is too compressed to disambiguate.
+The Local-Wiki holds one article per **key term** explained in the commentary tradition of this text. Its purpose is narrow: when the per-track bilingual glossary does not yet have a satisfactory rendering for a term, the `bilingual-glossary` (Phase 4) skill consults the Local-Wiki article for that term to derive a better one. Local-Wiki articles are also the long-form definition that the translator falls back on when the bilingual glossary line alone is too compressed to disambiguate.
 
 Local-Wiki articles are **monolingual** — they are in the original language of the commentaries (Pali for the Dhammasaṅgaṇī). They are not a translation aid in themselves; they are a primary-source-grounded definition of the term as the commentators use it.
 

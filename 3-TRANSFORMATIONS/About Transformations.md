@@ -36,7 +36,7 @@ See [`Adaptations/About Adaptations.md`](Adaptations/About Adaptations.md) for t
 
 A plan track organises engagement with the text along a calendar — daily readings, weekly retreat sessions, a year-long course, a chanting preparation arc. Each day or session is generated from rails (and often from completed Translation or Adaptation outputs), then arranged into a publishable schedule with surrounding communications and assets.
 
-Plans are language-stratified: each published language gets its own subfolder inside the plan folder, with its own `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communication/`, and `assets/`. Language streams can be at different completion stages independently.
+Plans are language-stratified: each published language gets its own subfolder inside the plan folder, with its own `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communications/`, and `assets/`. Language streams can be at different completion stages independently.
 
 The plan's governing files are:
 
@@ -46,6 +46,14 @@ The plan's governing files are:
 - **`<lang>/schedule.md`** — day-by-day calendar for one language stream.
 
 See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and per-file schemas.
+
+### What may sit beside the three categories
+
+Three kinds of folder may sit at this level without being a track. Each one needs an entry in this file saying what it is and why it is not inside a track — an undocumented folder here is a defect.
+
+- **Cross-track shared output.** A folder of artefacts consumed by several tracks rather than belonging to one — for example a per-day package built once and read by more than one plan, or a per-day text used to generate shareable images. It sits at the top level precisely because no single track owns it. These are often **protected files** (see [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md)): downstream tools read them directly, so an unreviewed edit propagates silently.
+- **Machine-baseline output.** Raw machine-translation output, kept for comparison and as a starting point — `Translations/<engine>/`. A baseline is **not a governed track**: it has no `requirements.md`, it is never marked `complete`, and no other transformation cites it. Its value is that it is honest about what it is.
+- **Pipeline-owned output.** A category produced and governed by a pipeline under `4-SYSTEM/Pipelines/`, following that pipeline's own `CLAUDE.md` rather than the per-track contract here. This is only legitimate when the pipeline carries an equivalent guarantee of its own — typically a deterministic verification gate that checks every quotation against its cited source before an output may pass — and when the vault annex records the exemption. A pipeline that simply skips the contract is a violation, not an exemption.
 
 ---
 
@@ -76,7 +84,7 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and p
  ├── days/ # per-session output files
  │ ├── day-1.md # intro + text transclusion + notifications
  │ └── day-N.md
- ├── communication/  # cross-day outreach content
+ ├── communications/  # cross-day outreach content
  │ └── announcements.md
  └── assets/
  └── images/
@@ -143,7 +151,7 @@ status: draft | partial | complete
 
 Hard rules:
 
-- An output may only cite `2-RAILS/`. It must never reach past the rails to cite `1-SOURCES/` directly.
+- An output may only cite `2-RAILS/`. It must never reach past the rails to cite `1-SOURCES/` directly. It may of course **quote the source text itself** — that is what it is transforming. The rule is about interpretive decisions: what a term means, how a clause is read, which commentator is right. Those come from the rails.
 - An output may only consume rails whose `status` is `complete`. Drafts and partials are not used.
 - An output may not introduce a keyword rendering not in the per-track termbase. If a new term must be introduced, the termbase is updated first, *and* the new rendering is written back to the consolidated bilingual glossary in `2-RAILS/Bilingual-Glossaries/` as a new attestation row.
 - Plan tracks may also cite completed outputs of other tracks (e.g. [plan-id] embeds the English Translation track's output for the Reading-for-Meaning step). Citation is recorded the same way in `context_packages:`.
@@ -171,7 +179,10 @@ See [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.m
 - `glossary-select` — builds the per-track `termbase.md` from the consolidated bilingual glossary plus `requirements.md`.
 - `requirements-author` *(planned)* — authors or audits a track's `requirements.md`.
 - `translate-section` *(planned)* — translates a small batch of TOC nodes for a Translation track.
-- `translation-qa` *(planned)* — reviews a translated section against MQM, the track requirements, and the source rails.
+- `translation-qa` — reviews a translated section against the MQM error taxonomy, the track requirements, and the source rails; appends a dated run to the track's `qa-report.md`.
+- `commentary-fact-check` — checks a translation verse by verse against the commentary tradition that grounds it.
+- `zeroshot-translate` · `graded-translate` · `verse-translate` · `translate-commentary` — the generation skills, by output shape.
+- `plan-scaffold` · `plan-schedule` · `plan-day-generate` · `plan-day-translate` · `plan-day-qa` — the plan pipeline.
 - `style-consistency-check` *(planned)* — catches style drift across many sections of a track.
 
 Adaptation and Plan skills are not yet catalogued; they will be added as those tracks come online.
@@ -196,7 +207,7 @@ Adaptation and Plan skills are not yet catalogued; they will be added as those t
 - [ ] Run `glossary-select` to produce `<lang>/termbase.md` for each stream.
 - [ ] Build `<lang>/schedule.md` for each stream.
 - [ ] Generate day-1 for each stream as `draft`; review; iterate until `complete` before proceeding to day-2.
-- [ ] Add communications content to `<lang>/communication/` as the plan rolls out.
+- [ ] Add communications content to `<lang>/communications/` as the plan rolls out.
 
 ---
 
