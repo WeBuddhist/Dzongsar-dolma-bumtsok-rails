@@ -36,6 +36,27 @@
             }
           },
           {
+            "id": "af3d003d290e26d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "67423b5602878ac3",
+        "type": "tabs",
+        "children": [
+          {
             "id": "2b2b8c3d4ba52484",
             "type": "leaf",
             "state": {
@@ -49,8 +70,7 @@
               "title": "21 Tara Chinese based on Obsidian file"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625
+    "width": 286.1666259765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,13 +250,13 @@
   },
   "active": "2b2b8c3d4ba52484",
   "lastOpenFiles": [
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
     "1-SOURCES/Text/ཅོན་ཏ་རའི་སྒྲོལ་ཆོག་གི་འདོན་ཆ།.pdf",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
     "conflict-files-obsidian-git.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-corrected.md",
