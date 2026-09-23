@@ -626,8 +626,7 @@ gang nam chok chü jikten drönma nam
 You who are like beacons of light shining through the worlds,
 བྱང་ཆུབ་རིམ་པར་སངས་རྒྱས་མ་ཆགས་བརྙེས། །
 jangchup rimpar sangyé ma chak nyé
-Who passed through the stages of enlightenment to attain buddhahood, from all
-attachment free at last—
+Who passed through the stages of enlightenment to attain buddhahood, from all attachment free at last—
 མགོན་པོ་དེ་དག་བདག་གིས་ཐམས་ཅད་ལ། །
 gönpo dé dak dak gi tamché la
 Protectors, I exhort you all:
