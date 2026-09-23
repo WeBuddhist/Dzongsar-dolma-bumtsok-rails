@@ -91,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.22735595703125
+    "width": 306.7728271484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +212,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "1df70feb481c22f2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "4-SYSTEM/Skills/verse-context/templates/verse-package.md",
