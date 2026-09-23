@@ -281,6 +281,12 @@ Grades one plan day file against the plan's declared session shape, its groundin
 
 ## 13. Publishing
 
+The root text is published first: its translations need its `text_id` and `edition_id`.
+
+### `root-text-upload`
+Uploads a root text to the library backend: lint, parse, then create the text, edition and table of contents. Three calls, no alignment — a root text is the target of alignments, not a side of one. Dry-run by default; `--execute` needs explicit human confirmation every time.
+→ [`root-text-upload/SKILL.md`](root-text-upload/SKILL.md)
+
 ### `translation-upload`
 Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. Dry-run by default; `--execute` needs explicit human confirmation every time.
 → [`translation-upload/SKILL.md`](translation-upload/SKILL.md)
