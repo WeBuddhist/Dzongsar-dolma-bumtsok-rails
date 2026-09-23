@@ -4042,7 +4042,6 @@ And thus may the beautiful picture of all desired aims be perfected.
 <small>These small flowers of auspicious supplication were scattered by the vidyādhara Mañjughoṣa to grant some relief to those living in dread of the decline of these dark times. Grant your blessings that these aspirations be fulfilled! Sarvadā śreyo bhavatu.</small>
 
 ## ༄༅། །ཀུན་མཁྱེན་ཐུབ་པའི་བསྟན་པ་རྒྱས་པའི་སྨོན་ལམ་དྲང་སྲོང་ལྷ་ཡི་བདེན་ཚིག་ཅེས་བྱ་བ་བཞུགས་སོ། །
-
 The Sage's Powerful Words of Truth: A Prayer for the Spread of the Omniscient Buddha's Teachings
 
 བླ་མ་དང་སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །
@@ -4241,7 +4240,6 @@ tenpé gyaltsen chok chur dreng gyur chik
 And may the victory banner of the teachings be raised in all directions!
 
 <small>ཅེས་པའང་ཆོས་ཀྱི་བློ་གྲོས་པས་འཕགས་ཡུལ་རྡོ་རྗེ་གདན་གྱི་བྱང་ཆུབ་ཤིང་དྲུང་དུ་གང་དྲན་ཤར་མར་བྲིས་པ་འདི་བཞིན་འགྲུབ་པར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། སརྦ་དཱ་མངྒ་ལཾ།། །།</small>
-
 <small>Chökyi Lodrö wrote down whatever came to mind at the foot of the bodhi tree in Vajrāsana (Bodhgayā) in the noble land of India. May these words be blessed so that they all come true. Sarvadā maṅgalaṃ! Translated by Adam Pearcey, 2007.</small>
 
 ## ༈ ཇ་མཆོད།
@@ -4300,8 +4298,7 @@ jampal yang ngö khyentsé wangpo yi
 Khyentse Wangpo, Manjushri in person—
 རིང་ལུགས་བསྟན་པ་དར་རྒྱས་བཀྲ་ཤིས་ཤོག །
 ringluk tenpa dargyé trashi shok
-May your tradition and teachings spread and flourish—may there be aus
-piciousness!
+May your tradition and teachings spread and flourish—may there be auspiciousness!
 
 འཆི་མེད་གྲུབ་པའི་རིག་འཛིན་བི་མ་ལའི། །
 chimé drubpé rikdzin bima lé
@@ -4353,4 +4350,3 @@ May at least a little of it weigh on my mind.
 
 <small>ཀུན་མཁྱེེན་དོལ་པོོའིི་གསུང་ངོ༌། །</small>
 <small>The words of the omniscient Dolpopa.</small>
-
