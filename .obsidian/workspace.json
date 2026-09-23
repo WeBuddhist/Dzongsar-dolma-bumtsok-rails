@@ -197,8 +197,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8a74d140487355ac",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/root-text-upload/scripts",
+    "4-SYSTEM/Skills/root-text-upload",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "conflict-files-obsidian-git.md",
@@ -224,7 +226,6 @@
     "gemini-scribe",
     "CLAUDE.md",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
     "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/reference-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md"
   ]
 }
