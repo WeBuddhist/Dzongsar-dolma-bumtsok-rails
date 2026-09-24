@@ -35,8 +35,7 @@
               "title": "English-Translation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc6b368100f53ab9",
@@ -48,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "གནས་སྐབས།.md",
+                "file": "1-SOURCES/Text/གནས་སྐབས།.md",
                 "mode": "source",
                 "source": false
               },
@@ -130,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.8333435058594,
-    "collapsed": true
+    "width": 350.8333435058594
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -251,11 +249,11 @@
   },
   "active": "b6d90c0a6f170f1b",
   "lastOpenFiles": [
-    "1-SOURCES/Text/English-Translation.md",
-    "གནས་སྐབས།.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "1-SOURCES/Text/English-Translation.md",
     "1-SOURCES/Text/English-Transliteration.md",
+    "1-SOURCES/Text/གནས་སྐབས།.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "conflict-files-obsidian-git.md",
     "4-SYSTEM/scripts/strip_small_print.py",
     "4-SYSTEM/scripts/UPSTREAM.md",
