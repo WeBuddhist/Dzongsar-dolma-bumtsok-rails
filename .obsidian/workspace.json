@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+                "file": "1-SOURCES/Translations/en-zabtig-drolchok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "En-Tārā’s_Profound_Essence"
+              "title": "en-zabtig-drolchok"
             }
           }
         ]
@@ -197,13 +197,25 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "fd13220e5030ff1c",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/En-Tārā’s_Profound_Essence.lint.errors.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.alignment.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.toc.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.edition.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.text.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/En-Tārā’s_Profound_Essence.lint.json",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+    "1-SOURCES/Translations/bo-phon-zabtig-drolchok.md",
+    "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
+    "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Transliteration.md",
+    "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
+    "3-TRANSFORMATIONS/Translations/About Translations.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md",
     "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-    "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
     "0-INBOX/temp/review_report_blank_align_content_diffs.md",
     "0-INBOX/temp/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
     "0-INBOX/temp/zh-Chinese_Pecha_Text_Only.md",
@@ -211,11 +223,7 @@
     "0-INBOX/temp/vault-audit-2026-09-23.md",
     "1-SOURCES/Translations/WeBuddhist Tara Sadhna translation.md",
     "conflict-files-obsidian-git.md",
-    "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
-    "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
-    "1-SOURCES/Translations/bo-phon-zabtig-drolchok.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Text/ཅོན་ཏ་རའི་སྒྲོལ་ཆོག་གི་འདོན་ཆ།.pdf",
@@ -225,15 +233,7 @@
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-change-log.md",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_ledger.json",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py",
-    "4-SYSTEM/Skills/root-text-upload/SKILL.md",
     "4-SYSTEM/Skills/root-text-upload/scripts",
-    "4-SYSTEM/Skills/root-text-upload",
-    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-reorder.md",
-    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-blank-align.md",
-    "4-SYSTEM/scripts/install-skills.py",
-    "4-SYSTEM/scripts",
-    "4-SYSTEM/Skills/zeroshot-translate/scripts/merge_chapters.py",
-    "4-SYSTEM/Skills/zeroshot-translate/scripts",
-    "4-SYSTEM/Skills/zeroshot-translate"
+    "4-SYSTEM/Skills/root-text-upload"
   ]
 }
