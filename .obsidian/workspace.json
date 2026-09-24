@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/Chinese-Translation.md",
+                "file": "1-SOURCES/Text/གནས་སྐབས།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chinese-Translation"
+              "title": "གནས་སྐབས།"
             }
           }
         ],
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625,
-    "collapsed": true
+    "width": 286.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,18 +228,19 @@
   },
   "active": "7bee3233b13fa8ab",
   "lastOpenFiles": [
-    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
-    "1-SOURCES/Translations/Chinese-Transliteration.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "1-SOURCES/Text/གནས་སྐབས།.md",
     "1-SOURCES/Translations/Chinese-Translation.md",
+    "1-SOURCES/Translations/Chinese-Transliteration.md",
+    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Translations/WeBuddhist Tara Sadhna translation.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration Subtitle.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -263,7 +263,6 @@
     "1-SOURCES/Translations/bo-phon-zabtig-drolchok.md",
     "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
     "3-TRANSFORMATIONS/Translations/About Translations.md",
-    "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md",
-    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md"
+    "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md"
   ]
 }
