@@ -23,3 +23,7 @@
 .env
 *.env
 !*.env.example
+
+# Python bytecode anywhere (the auto-commit picks it up otherwise)
+__pycache__/
+*.pyc
