@@ -39,6 +39,41 @@
     "text_id": "ensaae8K1Hi0n1Wv2JF6o",
     "toc_id": "e5Ovlr4L4JSHpxXvjfMRK"
   },
+  "Zh-Tārā’s_Profound_Essence_Translation": {
+    "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "edition_id": "1gfClgjnPh1FMN5g8bqHa",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "0p3GTH3UR8tOnIZpyxN9L",
+        "ts": "2026-09-24T20:51:51"
+      },
+      {
+        "chars": 11502,
+        "edition_id": "1gfClgjnPh1FMN5g8bqHa",
+        "segments": 332,
+        "step": "edition",
+        "ts": "2026-09-24T20:51:53"
+      },
+      {
+        "pairs": 332,
+        "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+        "step": "alignment",
+        "ts": "2026-09-24T20:51:54"
+      },
+      {
+        "step": "toc",
+        "subsections": 11,
+        "toc_id": "bIN4OJZmG2ltECeujVdmy",
+        "ts": "2026-09-24T20:51:54"
+      }
+    ],
+    "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "root_text_id": "AMXt6wYXNvRR2WanncXaq",
+    "text_id": "0p3GTH3UR8tOnIZpyxN9L",
+    "toc_id": "bIN4OJZmG2ltECeujVdmy"
+  },
   "en-zabtig-drolchok": {
     "aligned_to_edition_id": "1JX1dsVsP8pphHvSwuvOV",
     "edition_id": "CE8nq0BSKILMJvyjUx9Kt",
