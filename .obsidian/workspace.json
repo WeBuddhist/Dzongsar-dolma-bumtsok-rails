@@ -8,35 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f05e911fc1453df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག"
-            }
-          },
-          {
             "id": "7bee3233b13fa8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
+                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Transliteration"
+              "title": "Zh-Tārā’s_Profound_Essence_Translation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1a8f472e00e150e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cb224f0250a2e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625
+    "width": 286.1666259765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,9 +220,10 @@
   },
   "active": "7bee3233b13fa8ab",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -224,7 +231,6 @@
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
-    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
     "4-SYSTEM/Skills/yigchung-transfer/SKILL.md",
     "4-SYSTEM/Skills/bilingual-to-transclusion/SKILL.md",
     "4-SYSTEM/Skills/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
