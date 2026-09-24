@@ -4,7 +4,7 @@ The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practic
 ## ༄༅། །བཅོམ་ལྡན་འདས་ཤཱཀྱའི་རྒྱལ་པོ་ལ་གསོལ་བ་འདེབས་པའི་ཚིགས་སུ་བཅད་པ་བཅོ་ལྔ་པ།
 A fifteen-verse prayer to the King of the Śākyas
 
-༄༅། །བླ་མ་དང་འཇམ་པའི་དབྱངས་ལ་གུས་པས་ཕྱག་འཚལ་ལོ། །
+<small>༄༅། །བླ་མ་དང་འཇམ་པའི་དབྱངས་ལ་གུས་པས་ཕྱག་འཚལ་ལོ། །</small>
 lama dang jampé yang la güpé chagtsal lo
 In devotion I prostrate to the guru and Mañjughoṣa.
 
@@ -352,6 +352,9 @@ Arousing bodhicitta in aspiration,
 ཟབ་མོའི་ལམ་ལ་འཇུག་པར་བགྱི། །
 zapmö lam la jukpar gyi
 I will enter the profound path!
+
+<small>ཚར་གསུམ།</small>
+<small>Recite three times.</small>
 
 <small>ཚོགས་བསགས་པ་ནི།</small>
 <small>To gather the accumulations, recite:</small>
@@ -2178,28 +2181,6 @@ om supratishta benza yé soha
 
 <small>ཞེས་མེ་ཏོག་འཐོར་ཞིང་བརྟན་བཞུགས་བྱ།</small>
 <small>Thus, scatter flowers and offer the request to remain.</small>
-
-<small>རྟེན་མེད་ན།</small>
-<small>If there is no support,</small>
-
-ཨོཾ། ཁྱེད་ཀྱིས་སེམས་ཅན་དོན་ཀུན་མཛད། །
-om, khyé kyi semchen dön kün dzé
-Om. You, who act for the welfare of sentient beings
-རྗེས་སུ་མཐུན་པའི་དངོས་གྲུབ་སྩོལ། །
-jesu tünpé ngödrup tsöl
-And bestow accomplishment accordingly—
-སངས་རྒྱས་ཡུལ་དུ་གཤེགས་ནས་ཀྱང༌། །
-sangyé yül du shek né kyang
-Please depart for your buddhafields,
-སླར་ཡང་འབྱོན་པར་མཛད་དུ་གསོལ། །
-lar yang jönpar dzé du söl
-But return, again and again!
-
-བཛྲ་མུཿ
-benza muh
-
-<small>ཞེས་བརྗོད་ལ་མགྲོན་ཐབས་ཀྱི་ལྷ་རྣམས་གཤེགས།</small>
-<small>Thus, let the invited deities to depart.</small>
 
 ལྷ་དང་རང་སེམས་དབྱེར་མེད་པ། །
 lha dang rangsem yermé pa
