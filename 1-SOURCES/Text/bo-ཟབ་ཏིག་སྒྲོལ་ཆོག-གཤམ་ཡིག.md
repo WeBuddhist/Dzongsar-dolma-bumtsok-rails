@@ -2048,8 +2048,22 @@ And bestow all accomplishments without exception!༔
 <small>ཞེས་འདོད་དོན་གསོལ།</small>
 <small>Pray like this for the fulfillment of your wishes.</small>
 
-ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ། པཱདྱཱཾ། པུཥྤེ། དྷུ་པེ། ཨ་ལོ་ཀེ། གནྡྷེ། ནཻ་ཝི་དྱ། ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
-om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naividyé shapda pratitsa soha
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པཱདྱཱཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པུཥྤེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་དྷུ་པེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨ་ལོ་ཀེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་གནྡྷེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ནཻ་ཝི་དྱ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
+om arya taré sapariwara benza argham pratitsa soha
+om arya taré sapariwara benza padam pratitsa soha
+om arya taré sapariwara benza pushpé pratitsa soha
+om arya taré sapariwara benza düpé pratitsa soha
+om arya taré sapariwara benza aloké pratitsa soha
+om arya taré sapariwara benza gendhé pratitsa soha
+om arya taré sapariwara benza naividyé pratitsa soha
+om arya taré sapariwara benza shapda pratitsa soha
 
 <small>སྔགས་ཙམ་གྱིས་མཆོད།</small>
 <small>Thus make offerings with this mantra.</small>
@@ -2234,7 +2248,7 @@ As the deity is indivisible from my own mind,
 chöying nyukmé ngang du zhak
 I settle within the original state of dharmadhatu.
 
-<small>ཅེས་གནས་ལུགས་ཀྱི་ལྟ་བ་བསྐྱངས།</small>
+<small>ཅེས་གནས་ལུགས་ཀྱི་ལྟ་བ་བསྐྱང་།</small>
 <small>Thus, foster the view of the true nature.</small>
 
 དགེ་བ་འདི་ཡིས་མྱུར་དུ་བདག །
@@ -2850,8 +2864,8 @@ And grant your grace so I bring the twofold benefit to completion!
 ## ༄༅། །འཕགས་མ་སྒྲོལ་མ་ལ་རྩ་སྔགས་དང་སྦྱར་བའི་སྒོ་ནས་གསོལ་བ་འདེབས་པ་དོན་ཀུན་གྲུབ་པའི་དབྱངས་སྙན་ཞེས་བྱ་བ་བཞུགས་སོ། །
 The Sweet-Sounding Song That Fulfills All Aims
 
-ཨོཾ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་སྭཱ་ཧཱ།
-om taré tuttaré turé soha
+<small>ཨོཾ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་སྭཱ་ཧཱ།</small>
+<small>om taré tuttaré turé soha</small>
 
 ཨོཾ༷་གྱིས་ཐར་དང་འདོད་རྒུའི་ནོར་སྟེར། །
 om gyi tar dang dö gü nor ter
@@ -2950,8 +2964,8 @@ I may accomplish the twofold benefit—for myself and others.
 ## ༄༅། །འཕགས་མ་སྒྲོལ་མ་ཡིད་བཞིན་འཁོར་ལོ་ལ་ཕྱག་འཚལ་བའི་ཚིགས་སུ་བཅད་པ་དོན་ཀུན་གྲུབ་པ་བིལྦའི་ལྗོན་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། །
 The Excellent Bilva Tree of the Accomplishment of All Aims: Verses of Homage to the Noble Lady Tārā Wish-Fulfilling Wheel.
 
-ན་མོ་ཨཱརྻཱ་ཏཱ་ར་ཡེ།
-Namo Āryā Tārāye
+<small>ན་མོ་ཨཱརྻཱ་ཏཱ་ར་ཡེ།</small>
+<small>Namo Āryā Tārāye</small>
 
 གང་གི་ཐུགས་རྗེ་རྡུལ་བྲལ་རིན་ཆེན་གྲུས། །
 gang gi tugjé düldral rinchen drü
@@ -3063,8 +3077,8 @@ Spreading an abundant feast of joy and benefit.
 ## ༄༅། །རྗེ་བཙུན་སྒྲོལ་མ་ལ་བསྔགས་པ་འདོད་དོན་འགྲུབ་པའི་ཤིས་བརྗོད་ཅེས་བྱ་བ་བཞུགས་སོ། །
 Words of Auspiciousness to Accomplish One’s Aims
 
-ན་མསྟཱ་ར་ཡེ།
-Namastāraye!
+<small>ན་མསྟཱ་ར་ཡེ།</small>
+<small>Namastāraye!</small>
 
 ཁྱོད་མཚན་ཐོས་པ་ཙམ་གྱིས་ཀྱང་། །
 khyö tsen tö pa tsam gyi kyang
@@ -3176,9 +3190,9 @@ And thus may the beautiful picture of all desired aims be perfected.
 ## ༄༅། །ཀུན་མཁྱེན་ཐུབ་པའི་བསྟན་པ་རྒྱས་པའི་སྨོན་ལམ་དྲང་སྲོང་ལྷ་ཡི་བདེན་ཚིག་ཅེས་བྱ་བ་བཞུགས་སོ། །
 The Sage's Powerful Words of Truth: A Prayer for the Spread of the Omniscient Buddha's Teachings
 
-བླ་མ་དང་སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །
-lama dang sangye changchub sempa thamché la chagtsal lo
-Homage to the guru and all the buddhas and bodhisattvas!
+<small>བླ་མ་དང་སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</small>
+<small>lama dang sangye changchub sempa thamché la chagtsal lo</small>
+<small>Homage to the guru and all the buddhas and bodhisattvas!</small>
 
 བསྐལ་བཟང་སངས་རྒྱས་སྟོང་ལས་ཁྱད་པར་དུ། །
 kalzang sangye tong lé khyepardu
@@ -3438,7 +3452,7 @@ The worry that the teachings may decline—
 sem trel tsam yang jungwar shok
 May at least a little of it weigh on my mind.
 
-<small>ཀུན་མཁྱེན་དོལ་པོའི་གསུང་ངོ་༌། །</small>
+<small>ཀུན་མཁྱེན་དོལ་པོ་པའི་གསུང་ངོ་༌། །</small>
 <small>The words of the omniscient Dolpopa.</small>
 
 ## ༈ ཇ་མཆོད།
