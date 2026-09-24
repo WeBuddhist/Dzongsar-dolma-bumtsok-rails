@@ -199,12 +199,12 @@
   },
   "active": "2b2b8c3d4ba52484",
   "lastOpenFiles": [
-    "1-SOURCES/Text/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
-    "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
+    "1-SOURCES/Text/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
+    "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
@@ -233,7 +233,6 @@
     "4-SYSTEM/Skills/verse-translate/SKILL.md",
     "4-SYSTEM/Skills/verse-context/templates/verse-package.md",
     "4-SYSTEM/Skills/translation-qa/SKILL.md",
-    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/README.md",
-    "4-SYSTEM/Skills/translation-alignment-check/SKILL.md"
+    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/README.md"
   ]
 }
