@@ -2320,7 +2320,7 @@ And grant your grace so I bring the twofold benefit to completion! ^a-35
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^b-1]]
 
-OṂ TĀRE TUTTĀRE TURE SVĀHĀ ^b-1
+om taré tuttaré turé soha ^b-1
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^b-2]]
 
