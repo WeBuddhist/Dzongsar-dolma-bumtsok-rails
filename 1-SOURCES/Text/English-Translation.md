@@ -1,7 +1,7 @@
 ---
 title: Tārā’s Profound Essence
 title_in_the_text: "Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practice from the Mind Treasure, “Tārā’s Profound Essence”"
-title_in_english:
+title_in_tibetan: ༄༅། །དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
 authors:
   - name: ས་སྐྱ་པཎྜྀ་ཏ
     name_in_english: Sakya Paṇḍita
@@ -39,7 +39,8 @@ chapters:
 total_verses:
 verse_id_format: chapter-verse
 category_id: LCorCb2K98p3TICt3UCDm
-tag_ids: [FZ5STsdU0eLvo7Nb2CpvH]
+tag_ids:
+  - FZ5STsdU0eLvo7Nb2CpvH
 license: public
 source: https://webuddhist.com
 edition_type: critical
