@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.7728271484375,
-    "collapsed": true
+    "width": 306.7728271484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +220,10 @@
   "active": "1f4c17aeb20a6f9f",
   "lastOpenFiles": [
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
+    "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "1-SOURCES/Translations/bo-phon-zabtig-drolchok.md",
@@ -240,7 +241,6 @@
     "0-INBOX/temp/review_report_blank_align_content_diffs.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-corrected.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-change-log.md",
-    "conflict-files-obsidian-git.md",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_ledger.json",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py",
     "4-SYSTEM/Skills/root-text-upload/SKILL.md",
@@ -251,7 +251,6 @@
     "4-SYSTEM/Skills/verse-context/references/examples-bo.md",
     "4-SYSTEM/Skills/verse-context/references/ai-overview-prompt.md",
     "4-SYSTEM/Skills/verse-context/references",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/README.md",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/parser.py",
     "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/validate.py",
     "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/requirements.txt",
