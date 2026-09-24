@@ -269,6 +269,12 @@ Produces another language stream's day file by translating the authoring stream'
 Builds the machine-anchored per-day dossier an app consumes, then validates and guards it.
 → [`plan-day-package/SKILL.md`](plan-day-package/SKILL.md)
 
+### `tara-plan-creator` **[exists]** **[vault-local]**
+**Purpose:** Generates one day's trilingual (Tibetan / English / Chinese) 21-Taras day-plan — today's Tara image, name and introduction; the day's praise stanza from the Twenty-One Praises to Tara; and a never-repeating story from the Khenpo Tsulnam story anthology — as three parallel, language-matched files.
+**Inputs:** Day number(s) requested by the human contributor; the 21 Surya Gupta Tara images, the 21 trilingual Drolma introductions, the trilingual Twenty-One Praises to Tara, and the trilingual Khenpo Tsulnam story anthology (28 stories).
+**Outputs:** `3-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-<N> Tara Plan.md`, `.../en-21-Day-Plans/Day-<N> Tara Plan.md`, `.../zh-21-Day-Plans/Day-<N> Tara Plan.md`.
+→ [`tara-plan-creator/SKILL.md`](tara-plan-creator/SKILL.md)
+
 ---
 
 ## 12. QA and checking

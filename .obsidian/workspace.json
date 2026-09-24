@@ -11,10 +11,14 @@
             "id": "01307f67cb981f3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "En-Tārā’s_Profound_Essence"
             }
           }
         ]
@@ -193,8 +197,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "01307f67cb981f3a",
   "lastOpenFiles": [
+    "Claude outputs/tara-plan-creator.md",
+    "Claude outputs",
+    "4-SYSTEM/Skills/tara-plan-creator/SKILL.md",
+    "4-SYSTEM/Skills/tara-plan-creator",
+    "4-SYSTEM/Skills/Tara-Plan-Creator/SKILL.md",
     "3-TRANSFORMATIONS/Plans/zh-21-Day-Plans",
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
@@ -222,8 +231,6 @@
     "0-INBOX/21-Drolma-Introductions/18 Tara the Great Peacock (Tibetan).md",
     "0-INBOX/21-Drolma-Introductions/18 Tara the Great Peacock (English).md",
     "0-INBOX/21-Drolma-Introductions/18 Tara the Great Peacock (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/17 Tara Who Subdues the Immeasurable (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/17 Tara Who Subdues the Immeasurable (English).md",
     "0-INBOX/21-Drolma-Introductions",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/18_NAMPAR GYALWAY DROLMA རྣམ་པར་རྒྱལ་བའི་སྒྲོལ་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
@@ -237,9 +244,6 @@
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/12_DROLMA TASHI NANGWA སྒྲོལ་མ་བཀྲ་ཤིས་སྣང་བ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images",
     "0-INBOX/21-Tara's-Images",
-    "4-SYSTEM/Skills/Tara-Plan-Creator",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks"
+    "4-SYSTEM/Skills/Tara-Plan-Creator"
   ]
 }
