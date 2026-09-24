@@ -1,3 +1,56 @@
+---
+title: Zabtig Drolchok
+title_in_the_text: "Gongter Drolmé Zaptik Lé: Mandal Choga Tsoknyi Nyingpo Zhé Jawa Zhukso"
+title_in_english: "Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practice from the Mind Treasure, “Tārā’s Profound Essence”"
+authors:
+  - name: ས་སྐྱ་པཎྜྀ་ཏ
+    name_in_english: Sakya Paṇḍita
+    section: Prayer to the King of the Śākyas (I)
+  - name: པདྨ་མདོ་སྔགས་གླིང་པ
+    name_in_english: Pema Dongak Lingpa
+    section: Supplement (II)
+  - name: ཞེ་ཆེན་ཀོང་སྤྲུལ
+    name_in_english: Shechen Kongtrul
+    section: Auspicious verses (III)
+  - name: ཡོན་ཏན་རྒྱ་མཚོ
+    name_in_english: Yönten Gyatso
+    section: Aspiration prayer (a)
+  - name: འཇམ་དབྱངས་མཁྱེན་བརྩེ་དབང་པོ
+    name_in_english: Jamyang Khyentse Wangpo
+    section: Aspiration prayers (b, c)
+  - name: རིག་པ་འཛིན་པ་མཉྫུ་གྷོ་ཥ
+    name_in_english: Vidyādhara Mañjughoṣa (epithet)
+    section: Aspiration prayer (d)
+  - name: ཆོས་ཀྱི་བློ་གྲོས
+    name_in_english: Chökyi Lodrö
+    section: Prayer for the teachings (e)
+  - name: མཁན་ཆེན་ཀུན་དགའ་དབང་ཕྱུག
+    name_in_english: Khenchen Kunga Wangchuk
+    section: Prayers for conclusion (f)
+  - name: དོལ་པོ་པ
+    name_in_english: Dolpopa
+    section: Closing verse (f)
+language: Tibetan
+script: English-based phonetic transliteration
+file_type: edition
+genre: sadhana
+lang_tag: bo-phon
+chapters:
+total_verses:
+verse_id_format: chapter-verse
+category_id: LCorCb2K98p3TICt3UCDm
+tag_ids: [FZ5STsdU0eLvo7Nb2CpvH]
+license: public
+source: https://webuddhist.com
+edition_type: critical
+related_translations:
+make_available: Dzongsar Institute
+source_description: "Compiled anthology: an opening fifteen-verse prayer to the Buddha by Sakya Paṇḍita, a supplement by Pema Dongak Lingpa, auspicious verses by Shechen Kongtrul, the core mandala-ritual chapters with no internal colophon, and appended aspiration/dedication prayers signed by Yönten Gyatso, Jamyang Khyentse Wangpo (x2), the vidyādhara Mañjughoṣa, Chökyi Lodrö (colophon: written at Vajrāsana/Bodhgayā, India), Khenchen Kunga Wangchuk, and Dolpopa. Phonetic transliteration accompanying Adam Pearcey’s 2007 English translation."
+text_id:
+edition_id:
+toc_id:
+---
+
 # The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practice From the mind Treasure cycle The Profound Essence of Tara
 
 ## A fifteen-verse prayer to the King of the Śākyas
