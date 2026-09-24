@@ -8,7 +8,7 @@ A fifteen-verse prayer to the King of the Śākyas
 <small>lama dang jampé yang la güpé chagtsal lo</small>
 <small>In devotion I prostrate to the guru and Mañjughoṣa.</small>
 
-གང་ཞིག་བྱང་ཆུབ་ཤིང་དབང་དྲུང་དུ་བདུད་སྡེ་དཔུང་བཅས་ས་དང་མཁའ་ལ་ཀུན་ཁྱབ་ཅིང༌། །
+གང་ཞིག་བྱང་ཆུབ་ཤིང་དབང་དྲུང་དུ་བདུད་སྡེ་དཔུང་བཅས་ས་དང་མཁའ་ལ་ཀུན་ཁྱབ་ཅིང་། །
 gang zhik jangchub shingwang drung du dü dé pung ché sa dang kha la künkhyab ching
 When you sat under the great Bodhi Tree and the earth and sky were filled with hordes of māras,
 རྡོ་རྗེ་མདུང་ཐུང་དང་ནི་འཁོར་ལོ་མེ་དང་རི་དང་གངས་རིའི་ཕྲེང་བས་ཆར་འབེབས་པ། །
@@ -34,7 +34,7 @@ You gave rise to the noble resolve to attain supreme awakening,
 sa yang nampa druk tu yö
 Even the earth shook in six motions.
 
-སྦྱིན་དང་ཚུལ་ཁྲིམས་ལེགས་བསྒྲུབས་ཤིང༌། །
+སྦྱིན་དང་ཚུལ་ཁྲིམས་ལེགས་བསྒྲུབས་ཤིང་། །
 jin dang tsültrim lek drub shing
 You mastered generosity and discipline,
 བཟོད་དང་བརྩོན་འགྲུས་གོམས་པར་མཛད། །
@@ -86,7 +86,7 @@ Brahmā and Viṣṇu were speechless,
 lha yi lama wa tar zhum
 And the teacher of the godsowered like a fox.
 
-ཐུབ་པ་རྐང་མིག་གྲོག་མཁར་དང༌། །
+ཐུབ་པ་རྐང་མིག་གྲོག་མཁར་དང་། །
 tubpa kang mik drogkhar dang
 Sages, like Akṣapāda and Vālmīki,
 དྲང་སྲོང་རྒྱས་པ་གནས་འཇོག་སོགས། །
@@ -108,7 +108,7 @@ You accomplished beings’ benefit in the most wondrous ways;
 སྲིད་པའི་སྲེད་ལས་མ་གྲོལ་བར། །
 sipé sélema drölwar
 And for as long as you were not yet free from the thirst for existence,
-སྐུ་སྲོག་བཏང་བས་བ་སྤུ་ལྡང༌། །
+སྐུ་སྲོག་བཏང་བས་བ་སྤུ་ལྡང་། །
 kusok tangwe bapu dang
 You gave your body and life – this fills me with awe!
 
@@ -125,10 +125,10 @@ And so you hold us, who are without protection, in your care.
 gönpo khyö la dak kyab chi
 Protector, in you I take refuge.
 
-རྒྱལ་བས་བདུད་སྡེ་བཏུལ་བ་དང༌། །
+རྒྱལ་བས་བདུད་སྡེ་བཏུལ་བ་དང་། །
 gyalwé dü dé tülwa dang
 Victorious One, you tamed the hosts of māras,
-མུ་སྟེགས་མ་ལུས་ཕམ་མཛད་དང༌། །
+མུ་སྟེགས་མ་ལུས་ཕམ་མཛད་དང་། །
 mutek malü pam dzé dang
 Disarmed all those who proclaimed mistaken paths,
 ཉན་ཐོས་སློབ་མ་གྲངས་མེད་བཀྲོལ། །
@@ -222,7 +222,7 @@ Sublime mother Tara, nirmāṇakāya’s magical display;
 solwa deb so choktün ngödrub tsol
 To you I pray, grant me siddhis, common and supreme!
 
-སངས་རྒྱས་གཉིས་པ་པདྨ་ཀཱ་ར་དང༌། །
+སངས་རྒྱས་གཉིས་པ་པདྨ་ཀཱ་ར་དང་། །
 sangye nyipa pema kara dang
 Padmākara, our ‘second buddha’,
 གསང་སྔགས་མཛོད་འཛིན་ཌཱ་ཀི་འབུམ་གྱི་རྗེ། །
@@ -235,13 +235,13 @@ Bodhisattva prince Yeshé Rolpa Tsal,
 solwa deb so choktün ngödrub tsol
 To you I pray, grant me siddhis, common and supreme!
 
-ཟབ་གཏེར་སྒོ་འབྱེད་མཆོག་གྱུར་བདེ་ཆེན་གླིང༌། །
+ཟབ་གཏེར་སྒོ་འབྱེད་མཆོག་གྱུར་བདེ་ཆེན་གླིང་། །
 zabter gojé chokgyur dechen ling
 Chokgyur Dechen Lingpa, revealer of profound termas;
 བཀའ་བབས་བདུན་ལྡན་རྡོ་རྗེ་གཟི་བརྗིད་རྩལ། །
 kabab dün den dorjé ziji tsal
 Dorjé Ziji Tsal, holder of the seven direct blessings;
-རྒྱལ་བསྟན་གསལ་མཛད་པདྨ་གར་གྱི་དབང༌། །
+རྒྱལ་བསྟན་གསལ་མཛད་པདྨ་གར་གྱི་དབང་། །
 gyalten sal dzé pema gar gyi wang
 Pema Garwang, elucidator of the buddhas’ teachings;
 གསོལ་བ་འདེབས་སོ་མཆོག་ཐུན་དངོས་གྲུབ་སྩོལ། །
@@ -254,7 +254,7 @@ To you I pray, grant me siddhis, common and supreme!
 བེ་རོའི་རྣམ་འཕྲུལ་འགྱུར་མེད་ཚེ་དབང་རྩལ། །
 beró namtrul gyurmé tsewang tsal
 beró namtrul gyurmé tsewang tsal
-ཀུན་གཟིགས་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་དང། །
+ཀུན་གཟིགས་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་དང་། །
 kunzig jamyang chökyi lodö dang
 kunzig jamyang chökyi lodö and
 སྨིན་གྲོལ་སྩོལ་མཛད་ཁྱབ་བདག་མངྒ་ལར། །
@@ -264,7 +264,7 @@ mindrol tsolzé khyabdak manga lar
 solwa deb so choktün ngödrub tsol
 To you I pray, grant me siddhis, common and supreme!
 
-<small>མངྒ་ལའི་གསུང།</small>
+<small>མངྒ་ལའི་གསུང་།</small>
 <small>Composed by Mangala</small>
 
 གཞན་ཡང་ཟབ་རྒྱས་སྨིན་གྲོལ་མཛོད་འཛིན་པའི། །
@@ -330,10 +330,10 @@ The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practic
 <small>བྱ་སྤྱོད་དང་མཐུན་ཉམས་ལེན་བཤད། །</small>
 <small>I set out here the practice according to Kriya and Carya.</small>
 
-<small>དེའང་ཟབ་ཏིག་འདི་ཉམས་ལེན་ཡང་ཟབ་སྙིང་པོ་བསྡུས་པ་ཡིན་པས་སྤྲོས་བཅས་མང་དུ་མི་དགོས་ཀྱང༌། ཅུང་ཟད་སྤྲོས་པ་དང༌། རྒྱུན་ཁྱེར་དུ་བྱ་བ་སྟེ་རྒྱས་བསྡུས་གཉིས་ལས།</small>
+<small>དེའང་ཟབ་ཏིག་འདི་ཉམས་ལེན་ཡང་ཟབ་སྙིང་པོ་བསྡུས་པ་ཡིན་པས་སྤྲོས་བཅས་མང་དུ་མི་དགོས་ཀྱང་། ཅུང་ཟད་སྤྲོས་པ་དང་། རྒྱུན་ཁྱེར་དུ་བྱ་བ་སྟེ་རྒྱས་བསྡུས་གཉིས་ལས།</small>
 <small>Since this Profound Essence is a condensation of every quintessential profundity, it is not necessary to resort to much elaboration. Nevertheless there are two degrees of detail: one slightly elaborate and the other as a daily practice.</small>
 
-<small>དང་པོ་ནི། རྗེ་བཙུན་སྒྲོལ་མའི་སྐུ་བརྙན་བྲིས་འབུར་སོགས་དཀོན་མཆོག་གི་རྟེན་གང་འཛོམ་གྱི་མདུན་དུ། སྟེགས་བུ་གཙང་མར་ཆུ་གཉིས་ཉེར་སྤྱོད། དཀར་ཟླུམ། བསང་ཆུ། མཆོད་པའི་མཎྜལ། འཐོར་ནས་སོགས་འདུ་བྱ། འགྲུབ་ན་ཁྲུས་དང་གཙང་སྦྲའི་ཀུན་སྤྱོད་བྱ་ཞིང༌། མི་ལྕོགས་ན་ཤ་ཆང་མ་འཐུང་བའི་སྔ་དྲོའི་ཆ་ལྟ་བུར་སྲིད་ལས་ངེས་འབྱུང་དང༌། བྱང་ཆུབ་སེམས་ཀྱི་ཀུན་སློང་དང་ལྡན་པས་སྐྱབས་སེམས་ནི།</small>
+<small>དང་པོ་ནི། རྗེ་བཙུན་སྒྲོལ་མའི་སྐུ་བརྙན་བྲིས་འབུར་སོགས་དཀོན་མཆོག་གི་རྟེན་གང་འཛོམ་གྱི་མདུན་དུ། སྟེགས་བུ་གཙང་མར་ཆུ་གཉིས་ཉེར་སྤྱོད། དཀར་ཟླུམ། བསང་ཆུ། མཆོད་པའི་མཎྜལ། འཐོར་ནས་སོགས་འདུ་བྱ། འགྲུབ་ན་ཁྲུས་དང་གཙང་སྦྲའི་ཀུན་སྤྱོད་བྱ་ཞིང་། མི་ལྕོགས་ན་ཤ་ཆང་མ་འཐུང་བའི་སྔ་དྲོའི་ཆ་ལྟ་བུར་སྲིད་ལས་ངེས་འབྱུང་དང་། བྱང་ཆུབ་སེམས་ཀྱི་ཀུན་སློང་དང་ལྡན་པས་སྐྱབས་སེམས་ནི།</small>
 <small>For the first, in front of a painting or statue of the noble Lady Tara, or whatever image of the Three Jewels you can acquire, arrange, on a clean surface, the two waters, the general offerings, the round white torma, the cleansing water, the offering mandala, grain for tossing, and other articles. If you can, keep the conduct of bathing and cleanliness. If unable to do that, at least perform the practice when you have not consumed meat or alcohol, such as in the morning. With an attitude of renunciation and bodhicitta, recite these verses of refuge and bodhicitta:</small>
 
 མདུན་གྱི་ནམ་མཁར་རྗེ་བཙུན་མ་མངོན་སུམ་དུ་བཞུགས་པར་གྱུར།
@@ -359,7 +359,7 @@ I will enter the profound path!
 <small>ཚོགས་བསགས་པ་ནི།</small>
 <small>To gather the accumulations, recite:</small>
 
-རྗེ་བཙུན་འཕགས་མ་སྒྲོལ་མ་དང༌། །
+རྗེ་བཙུན་འཕགས་མ་སྒྲོལ་མ་དང་༌། །
 jetsün pakma drolma dang
 To the noble Lady Tara,
 ཕྱོགས་བཅུ་དུས་གསུམ་བཞུགས་པ་ཡི། །
@@ -407,11 +407,11 @@ Created throughout the three times
 དུས་གསུམ་དགེ་བ་ཅི་བསགས་པའི། །
 dü sum gewa chi sakpé
 By shravakas, pratyeka-buddhas and bodhisattvas,
-བསོད་ནམས་ལ་ནི་བདག་ཡི་རང༌། །
+བསོད་ནམས་ལ་ནི་བདག་ཡི་རང་། །
 sönam la ni dak yi rang
 By ordinary beings, and all others.
 
-སེམས་ཅན་རྣམས་ཀྱི་བསམ་པ་དང༌། །
+སེམས་ཅན་རྣམས་ཀྱི་བསམ་པ་དང་། །
 semchen nam kyi sampa dang
 In accordance with the capabilities
 བློ་ཡི་བྱེ་བྲག་ཇི་ལྟ་བར། །
@@ -459,10 +459,10 @@ om benza amrita kundali hana hana hung pé
 ཨོཾ་སྭ་བྷཱ་ཝ་ཤུདྡྷོ་སརྦ་དྷརྨ་སྭ་བྷཱ་ཝ་ཤུདྡྷོ྅ཧཾ།
 om sobhava shuddho sarva dharma sobhava shuddho hang
 
-<small>ཞེས་བསང་སྦྱང༌།</small>
+<small>ཞེས་བསང་སྦྱང་།</small>
 <small>Thereby cleanse and purify.</small>
 
-གནས་ཡུལ་པདྨོ་བཀོད་པའི་ཞིང༌། །
+གནས་ཡུལ་པདྨོ་བཀོད་པའི་ཞིང་༌། །
 neyül pemo köpé zhing
 Here, in the Realm of Lotus Array,
 དབྱིབས་དང་རྒྱན་བཀོད་ཚད་མེད་པར། །
@@ -488,7 +488,7 @@ om benza saparana kham
 chok chu dü zhi lama gyelwa sé dang chepa tamché dün gyi namkhar benza sa ma dza
 The masters, the conquerors, and their heirs of the ten directions and four times are in the sky before me, vajra-samaja!
 
-མ་ལུས་སེམས་ཅན་ཀུན་གྱི་མགོན་གྱུར་ཅིང༌། །
+མ་ལུས་སེམས་ཅན་ཀུན་གྱི་མགོན་གྱུར་ཅིང་། །
 malü semchen kün gyi gön gyur ching
 Protector of all sentient beings without exception,
 བདུད་སྡེ་དཔུང་བཅས་མི་བཟད་འཇོམས་མཛད་ལྷ། །
@@ -552,17 +552,17 @@ Saluting them with an endless ocean of praise,
 དབྱངས་ཀྱི་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་ཀུན་གྱིས། །
 yang kyi yenlak gyamtso dra kün gyi
 An ocean of sounds of different melodies,
-རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་རབ་བརྗོད་ཅིང༌། །
+རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་རབ་བརྗོད་ཅིང་། །
 gyelwa kün gyi yönten rap jö ching
 I sing of the buddhas’ noble qualities
 བདེ་བར་གཤེགས་པ་ཐམས་ཅད་བདག་གིས་བསྟོད། །
 dewar shekpa tamché dak gi tö
 And praise all those who have gone to perfect bliss.
 
-མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང༌། །
+མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང་། །
 métok dampa trengwa dampa dang
 To every buddha, I make offerings:
-སིལ་སྙན་རྣམས་དང་བྱུག་པ་གདུགས་མཆོག་དང༌། །
+སིལ་སྙན་རྣམས་དང་བྱུག་པ་གདུགས་མཆོག་དང་། །
 silnyen nam dang jukpa duk chok dang
 Of the loveliest flowers, of beautiful garlands,
 མར་མེ་མཆོག་དང་བདུག་སྤོས་དམ་པ་ཡིས། །
@@ -572,10 +572,10 @@ Of music and perfumed ointments, the best of parasols,
 gyelwa dé dak la ni chöpar gyi
 The brightest lamps, and finest incense.
 
-ན་བཟའ་དམ་པ་རྣམས་དང་དྲི་མཆོག་དང༌། །
+ན་བཟའ་དམ་པ་རྣམས་དང་དྲི་མཆོག་དང་། །
 naza dampa nam dang dri chok dang
 To every buddha, I make offerings:
-ཕྱེ་མ་ཕུར་མ་རི་རབ་མཉམ་པ་དང༌། །
+ཕྱེ་མ་ཕུར་མ་རི་རབ་མཉམ་པ་དང་། །
 chéma purma rirap nyampa dang
 Exquisite garments and the most fragrant scents,
 བཀོད་པ་ཁྱད་པར་འཕགས་པའི་མཆོག་ཀུན་གྱིས། །
@@ -601,7 +601,7 @@ I prostrate in offering to all you victorious ones.
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དབང་གིས་ནི། །
 döchak zhédang timuk wang gi ni
 Whatever negative acts I have committed,
-ལུས་དང་ངག་དང་དེ་བཞིན་ཡིད་ཀྱིས་ཀྱང༌། །
+ལུས་དང་ངག་དང་དེ་བཞིན་ཡིད་ཀྱིས་ཀྱང་། །
 lü dang ngak dang dézhin yi kyi kyang
 While driven by desire, anger, and ignorance,
 སྡིག་པ་བདག་གིས་བགྱིས་པ་ཅི་མཆིས་པ། །
@@ -614,13 +614,13 @@ Before you, I confess and purify each and every one.
 ཕྱོགས་བཅུའི་རྒྱལ་བ་ཀུན་དང་སངས་རྒྱས་སྲས། །
 chok chü gyelwa kün dang sangyé sé
 With a heart full of delight, I rejoice at all the merits
-རང་རྒྱལ་རྣམས་དང་སློབ་དང་མི་སློབ་དང༌། །
+རང་རྒྱལ་རྣམས་དང་སློབ་དང་མི་སློབ་དང་། །
 rangyel nam dang lop dang mi lop dang
 Of buddhas and bodhisattvas,
-འགྲོ་བ་ཀུན་གྱི་བསོད་ནམས་གང་ལ་ཡང༌། །
+འགྲོ་བ་ཀུན་གྱི་བསོད་ནམས་གང་ལ་ཡང་། །
 drowa kün gyi sönam gang la yang
 Pratyeka-buddhas, those in training, and arhats beyond training,
-དེ་དག་ཀུན་གྱི་རྗེས་སུ་བདག་ཡི་རང༌། །
+དེ་དག་ཀུན་གྱི་རྗེས་སུ་བདག་ཡི་རང་། །
 dé dak kün gyi jésu dak yirang
 And every living being, throughout the entire universe.
 
@@ -643,14 +643,14 @@ Joining my palms together,
 འགྲོ་བ་ཀུན་ལ་ཕན་ཞིང་བདེ་བའི་ཕྱིར། །
 drowa kün la pen zhing dewé chir
 I pray to you who intend to pass into nirvana,
-བསྐལ་པ་ཞིང་གི་རྡུལ་སྙེད་བཞུགས་པར་ཡང༌། །
+བསྐལ་པ་ཞིང་གི་རྡུལ་སྙེད་བཞུགས་པར་ཡང་། །
 kelpa zhing gi dül nyé zhukpar yang
 Please remain, for as many aeons as there are atoms in this world,
 བདག་གིས་ཐལ་མོ་རབ་སྦྱར་གསོལ་བར་བགྱི། །
 dak gi telmo rap jar sölwar gyi
 And bring well-being and happiness to us all!
 
-ཕྱག་འཚལ་བ་དང་མཆོད་ཅིང་བཤགས་པ་དང༌། །
+ཕྱག་འཚལ་བ་དང་མཆོད་ཅིང་བཤགས་པ་དང་། །
 chaktselwa dang chö ching shakpa dang
 What little virtue I have gathered through my homage,
 རྗེས་སུ་ཡི་རང་བསྐུལ་ཞིང་གསོལ་བ་ཡི། །
@@ -957,7 +957,7 @@ Homage to you, praised by Indra,
 རླུང་ལྷ་སྣ་ཚོགས་དབང་ཕྱུག་མཆོད་མ། །
 lunglha natsok wangchuk chöma
 By Agni, Brahma, Maruts, and Shiva;
-འབྱུང་པོ་རོ་ལངས་དྲི་ཟ་རྣམས་དང༌། །
+འབྱུང་པོ་རོ་ལངས་དྲི་ཟ་རྣམས་དང་། །
 jungpo rolang driza nam dang
 All the hosts of bhutas, vetalas,
 གནོད་སྦྱིན་ཚོགས་ཀྱིས་མདུན་ནས་བསྟོད་མ། །
@@ -1159,7 +1159,7 @@ Turé supreme, you completely destroy
 jompa turé rap chok nyima
 The hordes of grahas, vetalas, and yakshas.
 
-རྩ་བའི་སྔགས་ཀྱི་བསྟོད་པ་འདི་དང༌། །
+རྩ་བའི་སྔགས་ཀྱི་བསྟོད་པ་འདི་དང་། །
 tsawé ngak kyi töpa di dang
 This Praise with the twenty-one verses of homage
 ཕྱག་འཚལ་བ་ནི་ཉི་ཤུ་རྩ་གཅིག །
@@ -1169,7 +1169,7 @@ Is, in itself, the root mantra.
 <small>ཚར་གཉིས་བརྗོད། </small>
 <small>Recite twice.</small>
 
-<small>སླར་ཡང།</small>
+<small>སླར་ཡང་།</small>
 <small>Then again.</small>
 
 ཨོཾ༔ དངོས་འབྱོར་ཡིད་ལས་བྱུང་བ་ཡི༔
@@ -1328,7 +1328,7 @@ Homage to you, praised by Indra,
 རླུང་ལྷ་སྣ་ཚོགས་དབང་ཕྱུག་མཆོད་མ། །
 lunglha natsok wangchuk chöma
 By Agni, Brahma, Maruts, and Shiva;
-འབྱུང་པོ་རོ་ལངས་དྲི་ཟ་རྣམས་དང༌། །
+འབྱུང་པོ་རོ་ལངས་དྲི་ཟ་རྣམས་དང་། །
 jungpo rolang driza nam dang
 All the hosts of bhutas, vetalas,
 གནོད་སྦྱིན་ཚོགས་ཀྱིས་མདུན་ནས་བསྟོད་མ། །
@@ -1530,7 +1530,7 @@ Turé supreme, you completely destroy
 jompa turé rap chok nyima
 The hordes of grahas, vetalas, and yakshas.
 
-རྩ་བའི་སྔགས་ཀྱི་བསྟོད་པ་འདི་དང༌། །
+རྩ་བའི་སྔགས་ཀྱི་བསྟོད་པ་འདི་དང་། །
 tsawé ngak kyi töpa di dang
 This Praise with the twenty-one verses of homage
 ཕྱག་འཚལ་བ་ནི་ཉི་ཤུ་རྩ་གཅིག །
@@ -1540,7 +1540,7 @@ Is, in itself, the root mantra.
 <small>ཚར་གསུམ་བརྗོད། </small>
 <small>Recite three times.</small>
 
-<small>སླར་ཡང།</small>
+<small>སླར་ཡང་།</small>
 <small>Then again.</small>
 
 ཨོཾ༔ དངོས་འབྱོར་ཡིད་ལས་བྱུང་བ་ཡི༔
@@ -1699,7 +1699,7 @@ Homage to you, praised by Indra,
 རླུང་ལྷ་སྣ་ཚོགས་དབང་ཕྱུག་མཆོད་མ། །
 lunglha natsok wangchuk chöma
 By Agni, Brahma, Maruts, and Shiva;
-འབྱུང་པོ་རོ་ལངས་དྲི་ཟ་རྣམས་དང༌། །
+འབྱུང་པོ་རོ་ལངས་དྲི་ཟ་རྣམས་དང་། །
 jungpo rolang driza nam dang
 All the hosts of bhutas, vetalas,
 གནོད་སྦྱིན་ཚོགས་ཀྱིས་མདུན་ནས་བསྟོད་མ། །
@@ -1901,7 +1901,7 @@ Turé supreme, you completely destroy
 jompa turé rap chok nyima
 The hordes of grahas, vetalas, and yakshas.
 
-རྩ་བའི་སྔགས་ཀྱི་བསྟོད་པ་འདི་དང༌། །
+རྩ་བའི་སྔགས་ཀྱི་བསྟོད་པ་འདི་དང་། །
 tsawé ngak kyi töpa di dang
 This Praise with the twenty-one verses of homage
 ཕྱག་འཚལ་བ་ནི་ཉི་ཤུ་རྩ་གཅིག །
@@ -1937,7 +1937,7 @@ And quickly brings empowerment
 མྱུར་དུ་དབང་ནི་བསྐུར་བར་འགྱུར་ལ། །
 nyurdu wang ni kurwar gyur la
 From seven million conquerers.
-འདི་ལས་ཆེ་བ་ཉིད་ནི་ཐོབ་ཅིང༌། །
+འདི་ལས་ཆེ་བ་ཉིད་ནི་ཐོབ་ཅིང་། །
 di lé chewa nyi ni top ching
 In this life, one achieves superior qualities;
 སངས་རྒྱས་གོ་འཕང་མཐར་ཐུག་དེར་འགྲོ། །
@@ -1950,7 +1950,7 @@ By recalling it, even dreadful poisons,
 བརྟན་གནས་པའམ་གཞན་ཡང་འགྲོ་བ། །
 ten nepa am zhenyang drowa
 Locally found or transported from elsewhere,
-ཟོས་པ་དང་ནི་འཐུངས་པ་ཉིད་ཀྱང༌། །
+ཟོས་པ་དང་ནི་འཐུངས་པ་ཉིད་ཀྱང་། །
 zöpa dang ni tungpa nyi kyang
 Whether ingested or imbibed,
 དྲན་པས་རབ་ཏུ་སེལ་བ་ཉིད་ཐོབ། །
@@ -1970,7 +1970,7 @@ For other sentient beings too.
 གཉིས་གསུམ་བདུན་དུ་མངོན་པར་བརྗོད་ན། །
 nyi sum dün du ngönpar jö na
 By chanting it twice, thrice or seven times,
-བུ་འདོད་པས་ནི་བུ་ཐོབ་འགྱུར་ཞིང༌། །
+བུ་འདོད་པས་ནི་བུ་ཐོབ་འགྱུར་ཞིང་། །
 bu döpé ni bu top gyur zhing
 Those wanting children will have them,
 ནོར་འདོད་པས་ནི་ནོར་རྣམས་ཉིད་ཐོབ། །
@@ -1989,13 +1989,13 @@ Obstacles will vanish, and every problem will be overcome.
 <small>གཏོར་མ།</small>
 <small>Torma Offering</small>
 
-<small>གཏོར་མ་ཨ་མྲྀ་ཏས་བསང༌།</small>
+<small>གཏོར་མ་ཨ་མྲྀ་ཏས་བསང་༌།</small>
 <small>Sanctify the torma with the following:</small>
 
 ཨོཾ་བཛྲ་ཨ་མྲྀ་ཏ་ཀུཎྜ་ལཱི་ཧ་ན་ཧ་ན་ཧཱུྃ་ཕཊ།
 om benza amrita kundali hana hana hung pé
 
-<small>སྭ་བྷཱ་བས་སྦྱང༌།</small>
+<small>སྭ་བྷཱ་བས་སྦྱང་།</small>
 <small>And purify it with:</small>
 
 ཨོཾ་སྭ་བྷཱ་ཝ་ཤུདྡྷོ་སརྦ་དྷརྨ་སྭ་བྷཱ་ཝ་ཤུདྡྷོ྅ཧཾ།
@@ -2023,7 +2023,7 @@ om ah hung༔
 ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་ཨི་དཾ་བ་ལིཾ་ཏ་ཁ་ཁ་ཁཱ་ཧི་ཁཱ་ཧི།
 om arya taré sapariwara idam balingta kha kha khahi khahi
 
-<small>ལན་གསུམ་གྱིས་གཙོ་མོ་དང༌།</small>
+<small>ལན་གསུམ་གྱིས་གཙོ་མོ་དང་།</small>
 <small>Recite the above mantra three times— to make the offering to the principal Lady.</small>
 
 ཨོཾ་ཨ་ཀཱ་རོ་མུ་ཁཾ་སརྦ་དྷརྨཱ་ནཱཾ་ཨཱདྱ་ནུཏྤནྣ་ཏོཏྟ་ཨོཾ་ཨཱཿཧཱུྃ་ཕཊ་སྭཱ་ཧཱ།
@@ -2105,14 +2105,14 @@ May the Buddha’s teachings spread and flourish!
 བསྟན་འཛིན་ཐུགས་མཐུན་ཞབས་པད་བརྟན། །
 tendzin tuktün zhap pé ten
 May the holders of the teachings live in harmony and good health!
-ཉེར་འཚེའི་བར་ཆད་ཀུན་ཞི་ཞིང༌། །
+ཉེར་འཚེའི་བར་ཆད་ཀུན་ཞི་ཞིང་། །
 nyertsé barché kün zhi zhing
 May obstacles that threaten them subside!
 བཤད་སྒྲུབ་ཕྲིན་ལས་འཕེལ་བར་མཛོད། །
 shedrup trinlé pelwar dzö
 May their activities of teaching and practice prosper!
 
-ནད་མུག་འཁྲུག་རྩོད་ཞི་བ་དང༌། །
+ནད་མུག་འཁྲུག་རྩོད་ཞི་བ་དང་། །
 né muk truktsö zhiwa dang
 May all sickness and famine, fighting and strife, recede!
 ཆོས་ལྡན་དཔལ་འབྱོར་གོང་དུ་འཕེལ། །
@@ -2128,7 +2128,7 @@ May every country near and far be in harmony!
 འཇིགས་པ་བཅུ་དྲུག་དུས་མིན་འཆི། །
 jikpa chudruk dümin chi
 Protect us from untimely death and the sixteen threats,
-རྨི་ལམ་མཚན་ལྟས་ངན་པ་དང༌། །
+རྨི་ལམ་མཚན་ལྟས་ངན་པ་དང་། །
 milam tsen té ngenpa dang
 From menacing dreams and sinister omens,
 འཁོར་བ་ངན་སོང་སྡུག་བསྔལ་སོགས། །
@@ -2141,7 +2141,7 @@ From every peril, now and always!
 ཚེ་བསོད་དབང་ཐང་ཉམས་རྟོགས་འཕེལ། །
 tsesö wangtang nyamtok pel
 Increase our life, merit, capacity, experience and realization!
-མི་དགེའི་རྟོག་པ་མི་འབྱུང་ཞིང༌། །
+མི་དགེའི་རྟོག་པ་མི་འབྱུང་ཞིང་། །
 mi gé tokpa mi jung zhing
 May harmful notions not intrude!
 བྱང་ཆུབ་སེམས་གཉིས་རྩོལ་མེད་སྐྱེས། །
@@ -2282,7 +2282,7 @@ May we purify the two obscurations, swiftly perfect the two accumulations,
 dzokpé sangyé topar dzedu söl
 And so attain the state of perfect awakening!
 
-དེ་མ་ཐོབ་ཀྱི་ཚེ་རབས་ཀུན་ཏུ་ཡང༌། །
+དེ་མ་ཐོབ་ཀྱི་ཚེ་རབས་ཀུན་ཏུ་ཡང་། །
 dé matop kyi tserap kün tu yang
 Until then, throughout all of our lives,
 ལྷ་དང་མི་ཡི་བདེ་བ་མཆོག་ཐོབ་ནས། །
@@ -2295,10 +2295,10 @@ May all obstacles to the attainment of omniscience,
 barchö dön gek rim dang né la sok
 All harmful forces, all sickness and disease,
 
-དུས་མིན་འཆི་བར་གྱུར་པ་སྣ་ཚོགས་དང༌། །
+དུས་མིན་འཆི་བར་གྱུར་པ་སྣ་ཚོགས་དང་། །
 dümin chiwar gyurpa natsok dang
 All that brings untimely death,
-རྨི་ལམ་ངན་དང་མཚན་མ་ངན་པ་དང༌། །
+རྨི་ལམ་ངན་དང་མཚན་མ་ངན་པ་དང་། །
 milam ngen dang tsenma ngenpa dang
 All bad dreams and evil omens,
 འཇིགས་པ་བརྒྱད་སོགས་ཉེ་བར་འཚེ་བ་རྣམས།
@@ -2321,10 +2321,10 @@ Flourish and expand, and may all our wishes
 bemé lhün gyi drüpar dzedu söl
 Be effortlessly and spontaneously fulfilled!
 
-བསྒྲུབ་ལ་བརྩོན་ཞིང་དམ་ཆོས་འཕེལ་བ་དང༌། །
+བསྒྲུབ་ལ་བརྩོན་ཞིང་དམ་ཆོས་འཕེལ་བ་དང་། །
 drup la tsön zhing damchö pelwa dang
 May we endeavor in the practice, may the Dharma spread,
-རྟག་ཏུ་ཁྱེད་སྒྲུབ་ཞལ་མཆོག་མཐོང་བ་དང༌། །
+རྟག་ཏུ་ཁྱེད་སྒྲུབ་ཞལ་མཆོག་མཐོང་བ་དང་། །
 tak tu khyé drup zhel chok tongwa dang
 May we always meditate on you, and behold your perfect face;
 སྟོང་ཉིད་དོན་རྟོགས་བྱང་སེམས་རིན་པོ་ཆེ། །
@@ -2360,10 +2360,10 @@ Swift heroine, blue-green, with one face and two hands,
 yum gyur utpel nampé trashi shok
 Mother who holds an utpala flower—may all be auspicious!
 
-རྒྱལ་ཡུམ་སྒྲོལ་མ་ཁྱེད་སྐུ་ཅི་འདྲ་དང༌། །
+རྒྱལ་ཡུམ་སྒྲོལ་མ་ཁྱེད་སྐུ་ཅི་འདྲ་དང་། །
 gyel yum drölma khyé ku chindra dang
 Victorious mother Tara—with your noble form,
-འཁོར་དང་སྐུ་ཚེའི་ཚད་དང་ཞིང་ཁམས་དང༌། །
+འཁོར་དང་སྐུ་ཚེའི་ཚད་དང་ཞིང་ཁམས་དང་། །
 khor dang kutsé tsé dang zhing kham dang
 Your entourage, your lifespan and pure-land,
 ཁྱེད་ཀྱི་མཚན་མཆོག་བཟང་པོ་ཅི་འདྲ་བ། །
@@ -2379,7 +2379,7 @@ Through the power of our praise and supplication,
 བདག་སོགས་གང་ན་གནས་པའི་ས་ཕྱོགས་སུ། །
 dak sok gang na nepé sa chok su
 Bestow upon each one of us, no matter where we be,
-ནད་གདོན་དབུལ་ཕོངས་འཐབ་རྩོད་ཞི་བ་དང༌། །
+ནད་གདོན་དབུལ་ཕོངས་འཐབ་རྩོད་ཞི་བ་དང་། །
 né dön ül pong tap tsö zhiwa dang
 Freedom from illness, from harm, destitution, and conflict,
 ཆོས་དང་བཀྲ་ཤིས་འཕེལ་བར་མཛད་དུ་གསོལ། །
@@ -3183,7 +3183,7 @@ Homage to the guru and all the buddhas and bodhisattvas!
 བསྐལ་བཟང་སངས་རྒྱས་སྟོང་ལས་ཁྱད་པར་དུ། །
 kalzang sangye tong lé khyepardu
 Among the thousand buddhas of this fortunate age,
-ངོ་མཚར་ཨུ་དུམ་ཝཱ་ར་ལྟར་འཕགས་ཤིང༌། །
+ངོ་མཚར་ཨུ་དུམ་ཝཱ་ར་ལྟར་འཕགས་ཤིང་། །
 ngotsar u dum wa ra tar pak shing
 You are the most wondrous and majestic, as rare as an _uḍumbara_ flower,
 རྩོད་པའི་དུས་འདིར་ཞིང་ཁམས་ཡོངས་བཟུང་བ། །
@@ -3193,13 +3193,13 @@ You who care for our world during this age of conflict,
 tub chok dön kün drub la chaktsal lo
 Mighty sage, Siddhārtha, to you I pay homage!
 
-ཕྱོགས་བཅུའི་སངས་རྒྱས་བྱང་སེམས་ཉན་རང་དང༌། །
+ཕྱོགས་བཅུའི་སངས་རྒྱས་བྱང་སེམས་ཉན་རང་དང་། །
 chok chü sangye changsem nyenrang dang
 All you buddhas, bodhisattvas, śrāvakas and pratyekabuddhas in all directions,
 འཇམ་དབྱངས་སྤྱན་གཟིགས་ཕྱག་ན་རྡོ་རྗེ་འཛིན། །
 jamyang chenzik chak na dorjé dzin
 Great bodhisattvas, Mañjuśrī, Avalokiteśvara,
-བྱམས་པ་ལ་སོགས་བྱང་ཆུབ་སེམས་དཔའ་དང༌། །
+བྱམས་པ་ལ་སོགས་བྱང་ཆུབ་སེམས་དཔའ་དང་། །
 jampa lasok changchub sempa dang
 Vajrapāṇi, Maitreya and the rest,
 གནས་བརྟན་བཅུ་དྲུག་གཏད་རབས་ཆེན་པོ་བདུན། །
@@ -3212,7 +3212,7 @@ Six ornaments and two supreme ones of this world, the two marvellous ācāryas,
 རྣལ་འབྱོར་དབང་ཕྱུག་བརྒྱད་ཅུ་རྩ་བཞི་སོགས། །
 naljor wangchuk gyechu tsa zhi sok
 Eighty-four mahāsiddhas, and the rest,
-ཁྱད་པར་བཀའ་དྲིན་མཉམ་མེད་པདྨ་འབྱུང༌། །
+ཁྱད་པར་བཀའ་དྲིན་མཉམ་མེད་པདྨ་འབྱུང་། །
 khyepar kadrin nyammé pema jung
 And especially, the Lotus-born Guru, whose kindness is beyond compare,
 ཞི་འཚོ་ཁྲི་སྲོང་བཻ་རོ་ཨ་ཏི་ཤ། །
@@ -3225,7 +3225,7 @@ Five Sakya Patriarchs, Marpa, Milarepa and Gampopa,
 འཇམ་དབྱངས་བླ་མ་ལ་སོགས་རྒྱ་བོད་ཀྱི། །
 jamyang lama lasok gya bö kyi
 Lama Tsongkhapa, Mañjughoṣa in person, and all the rest,
-མཁས་དང་གྲུབ་པའི་རིག་འཛིན་ཚོགས་རྣམས་དང༌། །
+མཁས་དང་གྲུབ་པའི་རིག་འཛིན་ཚོགས་རྣམས་དང་། །
 khé dang drubpé rigdzin tsok nam dang
 All you great learned and accomplished vidyādharas of India and Tibet,
 ཡི་དམ་ཞི་ཁྲོ་མཁའ་འགྲོ་ཆོས་སྐྱོང་སོགས། །
@@ -3235,13 +3235,13 @@ And all you peaceful and wrathful _yidam_ deities, ḍākinīs and dharmapālas�
 tukdam né né kul lo tukjé gong
 We invoke you! Turn your wisdom minds towards us, and look upon us with compassion!
 
-ཐུབ་བསྟན་འདུལ་བ་མདོ་སྡེ་མངོན་པ་དང༌། །
+ཐུབ་བསྟན་འདུལ་བ་མདོ་སྡེ་མངོན་པ་དང་། །
 tubten dulwa dodé ngönpa dang
 All the teachings of the Buddha—Vinaya, Sūtra, Abhidharma,
 གསང་སྔགས་རྒྱུད་སྡེ་ཆེན་པོ་རྣམ་པ་བཞི། །
 sang ngak gyüdé chenpo nampa zhi
 The four classes of tantra within the Secret Mantra,
-གངས་ལྗོངས་བཤད་བརྒྱུད་ཀ་ཆེན་བཅུ་པོ་དང༌། །
+གངས་ལྗོངས་བཤད་བརྒྱུད་ཀ་ཆེན་བཅུ་པོ་དང་། །
 gangjong shé gyü ka chen chupo dang
 The teachings of the ten great pillars of the study lineage in the Land of Snows,
 སྒྲུབ་བརྒྱུད་ཤིང་རྟ་ཆེ་བརྒྱད་ལ་སོགས་པ། །
@@ -3257,10 +3257,10 @@ Look now and see the extent to which they have all declined!
 ངེས་འབྱུང་ཚུལ་ཁྲིམས་ངུར་སྨྲིག་རྒྱལ་མཚན་ཐོགས། །
 ngejung tsultrim ngurmik gyaltsen tok
 The saffron-robed saṅgha, upholders of the victory banner of discipline and renunciation,
-གཞན་ཕན་ཟོལ་མེད་བྱང་ཆུབ་སེམས་དཔའ་དང༌། །
+གཞན་ཕན་ཟོལ་མེད་བྱང་ཆུབ་སེམས་དཔའ་དང་། །
 zhenpen zolmé changchub sempa dang
 Bodhisattvas who, without pretense or deception, genuinely seek to benefit others,
-དམ་ཚིག་ལྡན་ཞིང་བསྐྱེད་རྫོགས་རིག་སྔགས་འཆང༌། །
+དམ་ཚིག་ལྡན་ཞིང་བསྐྱེད་རྫོགས་རིག་སྔགས་འཆང་། །
 damtsik den zhing kyedzok rik ngak chang
 And holders of awareness mantras who maintain the commitments, and practise generation and completion—
 མཚན་ཉིད་ལྡན་པ་རི་མོའི་མར་མེ་ལྟར། །
@@ -3312,7 +3312,7 @@ Why would you be discouraged by the sadness of these evil times?
 སྟོབས་བཅུའི་དབང་ཕྱུག་དབང་བཅུ་མངའ་བས་ན། །
 tob chü wangchuk wang chu ngawé na
 Since you are masters of the ten strengths and possessors of the ten powers,
-བསྟན་པ་ཉམས་པ་འདི་དག་སོར་ཆུད་ཅིང༌། །
+བསྟན་པ་ཉམས་པ་འདི་དག་སོར་ཆུད་ཅིང་། །
 tenpa nyampa didak sorchü ching
 You must surely heal and restore the teachings.
 མཁས་བཙུན་གྲུབ་ཐོབ་ཚད་མར་གྱུར་པ་ནི། །
@@ -3325,14 +3325,14 @@ To breathe fresh life into the Buddhadharma!
 འཕགས་བོད་གཉིས་སུ་རྫོགས་ལྡན་ཕྱི་མ་ཡི། །
 pak bö nyi su dzokden chima yi
 In both India and Tibet, may the precious lamps of joyful celebration,
-དགའ་སྟོན་རིན་ཆེན་སྒྲོན་མེ་སྦར་བ་དང༌། །
+དགའ་སྟོན་རིན་ཆེན་སྒྲོན་མེ་སྦར་བ་དང་། །
 gatön rinchen drönmé barwa dang
 Be set ablaze, to usher in another golden age,
 རྒྱལ་བསྟན་རིས་མེད་པད་ཚལ་དར་ལ་བབ། །
 gyalten rimé petsal dar la bab
 And may the non-sectarian, lotus-like teachings of the Buddha, flourish and blossom.
 
-དེ་ལ་འཁུ་བའི་ཚོགས་ཀྱི་སེམས་བསྒྱུར་ཞིང༌། །
+དེ་ལ་འཁུ་བའི་ཚོགས་ཀྱི་སེམས་བསྒྱུར་ཞིང་། །
 dé la khuwé tsok kyi sem gyur zhing
 May the minds of those who harbour ill-will towards the teachings be changed,
 ཀུན་ཀྱང་བསྟན་ལ་འདུན་དང་དགེ་བཅུར་སྤྱོད། །
@@ -3351,14 +3351,14 @@ May vast clouds of offerings fill all monasteries and temples,
 དམ་པའི་ཆོས་ཀྱི་རྔ་ཆེན་རབ་ཏུ་སྒྲོགས། །
 dampé chö kyi nga chen rabtu drok
 And the great drum of the Dharma resound far and wide,
-མུ་སྟེགས་གླང་པོའི་ཀླད་པ་འགེམས་བྱེད་ཅིང༌། །
+མུ་སྟེགས་གླང་པོའི་ཀླད་པ་འགེམས་བྱེད་ཅིང་། །
 mutek langpö lepa gem jé ching
 Annihilating the deluded arguments of the _tīrthikas_,
 ཐུབ་བསྟན་ཕྱོགས་ལས་རྣམ་པར་རྒྱལ་གྱུར་ཅིག །
 tubten chok lé nampar gyal gyur chik
 And sounding the victory of the Buddhadharma in all directions.
 
-བསྟན་འཛིན་སྐྱེས་རྣམས་ཞབས་པད་བརྟན་པ་དང༌། །
+བསྟན་འཛིན་སྐྱེས་རྣམས་ཞབས་པད་བརྟན་པ་དང་། །
 tendzin kyé nam zhabpé tenpa dang
 May the lives of all the holders of the teachings be secure,
 བསྟན་པའི་སྦྱིན་བདག་ཚེ་དང་བསོད་ནམས་འཕེལ། །
@@ -3428,7 +3428,7 @@ In all my lifetimes,
 བསྟན་པའི་ཁུར་ཆེན་ཁུར་བར་ཤོག །
 tenpé khurchen khurwar shok
 May I carry the great burden of the teachings.
-ཁུར་ཆེན་ཁུར་བར་མ་ནུས་ཀྱང། །
+ཁུར་ཆེན་ཁུར་བར་མ་ནུས་ཀྱང་། །
 khurchen khurwar ma nü kyang
 Even if I am unable to carry that great burden,
 བསྟན་པ་ཉམས་ཀྱི་དོགས་པ་ཡི། །
