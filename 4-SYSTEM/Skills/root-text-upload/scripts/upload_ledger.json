@@ -1,6 +1,6 @@
 {
   "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག": {
-    "edition_id": "1JX1dsVsP8pphHvSwuvOV",
+    "edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
     "file_type": "root-text",
     "lang_tag": "bo",
     "log": [
@@ -21,10 +21,23 @@
         "subsections": 12,
         "toc_id": "QoUe82UadztzikX6H92zA",
         "ts": "2026-09-23T23:47:48"
+      },
+      {
+        "chars": 38983,
+        "edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+        "segments": 332,
+        "step": "edition",
+        "ts": "2026-09-24T19:10:02"
+      },
+      {
+        "step": "toc",
+        "subsections": 11,
+        "toc_id": "iuqnOzmk6FH8xp6q4WMLw",
+        "ts": "2026-09-24T19:10:02"
       }
     ],
     "source_file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "text_id": "AMXt6wYXNvRR2WanncXaq",
-    "toc_id": "QoUe82UadztzikX6H92zA"
+    "toc_id": "iuqnOzmk6FH8xp6q4WMLw"
   }
 }

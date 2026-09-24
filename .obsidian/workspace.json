@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625,
-    "collapsed": true
+    "width": 286.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,15 +220,15 @@
   },
   "active": "8a4f85a01b1d5e44",
   "lastOpenFiles": [
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/གནས་སྐབས།.md",
     "4-SYSTEM/scripts/strip_small_print.py",

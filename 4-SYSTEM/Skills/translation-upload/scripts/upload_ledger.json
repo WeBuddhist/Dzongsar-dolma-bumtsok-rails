@@ -1,4 +1,44 @@
 {
+  "En-Tārā’s_Profound_Essence": {
+    "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "edition_id": "15wVPrtIrRTkGcJvzN4Jo",
+    "lang_tag": "en",
+    "log": [
+      {
+        "error": "HTTP 404 POST https://library.webuddhist.com/v2/texts\n         {\"error\":\"Work 'UoYLw7pdNCyYdkAyjwXuo' or Tag 'FZ5STsdU0eLvo7Nb2CpvH' not found\"}",
+        "step": "error",
+        "ts": "2026-09-24T19:10:36"
+      },
+      {
+        "step": "text",
+        "text_id": "ensaae8K1Hi0n1Wv2JF6o",
+        "ts": "2026-09-24T19:13:25"
+      },
+      {
+        "chars": 52742,
+        "edition_id": "15wVPrtIrRTkGcJvzN4Jo",
+        "segments": 332,
+        "step": "edition",
+        "ts": "2026-09-24T19:13:26"
+      },
+      {
+        "pairs": 332,
+        "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+        "step": "alignment",
+        "ts": "2026-09-24T19:13:27"
+      },
+      {
+        "step": "toc",
+        "subsections": 11,
+        "toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+        "ts": "2026-09-24T19:13:27"
+      }
+    ],
+    "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "root_text_id": "AMXt6wYXNvRR2WanncXaq",
+    "text_id": "ensaae8K1Hi0n1Wv2JF6o",
+    "toc_id": "e5Ovlr4L4JSHpxXvjfMRK"
+  },
   "en-zabtig-drolchok": {
     "aligned_to_edition_id": "1JX1dsVsP8pphHvSwuvOV",
     "edition_id": "CE8nq0BSKILMJvyjUx9Kt",
