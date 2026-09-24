@@ -193,26 +193,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "fd13220e5030ff1c",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/yigchung-transfer/SKILL.md",
+    "4-SYSTEM/Skills/bilingual-to-transclusion/SKILL.md",
+    "4-SYSTEM/Skills/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
+    "4-SYSTEM/Skills/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchungs.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.alignment.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.toc.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.edition.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.text.json",
+    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.lint.json",
+    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/__pycache__/parser.cpython-314.pyc",
+    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/__pycache__",
+    "4-SYSTEM/Skills/yigchung-transfer/scripts/yigchung_transfer.py",
+    "4-SYSTEM/Skills/yigchung-transfer/scripts",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/upload_ledger.json",
     "conflict-files-obsidian-git.md",
     "4-SYSTEM/Skills/yigchung-upload/SKILL.md",
     "4-SYSTEM/Skills/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchung-review.md",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchungs.json",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchungs.json",
     "4-SYSTEM/Skills/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchung-review.md",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/output",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/__pycache__/parser.cpython-314.pyc",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/__pycache__",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/__pycache__/yigchung_upload.cpython-314.pyc",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/__pycache__",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/yigchung_upload.py",
-    "4-SYSTEM/Skills/yigchung-upload/scripts",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
@@ -230,8 +234,6 @@
     "0-INBOX/temp/zh-21_Tara_reorder_notes.md",
     "0-INBOX/temp/vault-audit-2026-09-23.md",
     "1-SOURCES/Translations/WeBuddhist Tara Sadhna translation.md",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Transliteration.md",
-    "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md"
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md"
   ]
 }

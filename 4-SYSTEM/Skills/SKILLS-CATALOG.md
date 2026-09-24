@@ -118,6 +118,18 @@ Adds block IDs so every verse, prose block and heading can be cited and transclu
 Inserts root-verse transclusion links into a commentary or a second version of the root text, placing each one where the verse becomes relevant.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
 
+### `bilingual-to-transclusion` **[exists]**
+**Purpose:** Convert a translation that carries the root text inline (root, separator, translation per block) into transclusion form, after checking every inline root block against the root.
+**Inputs:** The root file and the interleaved translation file, whose block ids are the root's.
+**Outputs:** The translation file rewritten in place with `![[<root>#^<id>]]` above each translated block.
+→ [`bilingual-to-transclusion/SKILL.md`](bilingual-to-transclusion/SKILL.md)
+
+### `yigchung-transfer` **[exists]**
+**Purpose:** Carry the root's `<small>…</small>` yigchung marks over to a block-aligned translation — whole-block marks mechanically, partial ones by meaning from a worklist.
+**Inputs:** The root file and a translation in transclusion form that passes `translation-alignment-check`.
+**Outputs:** The translation file with `<small>` marks added; a worklist in `0-INBOX/temp/` when some root block is only partly small.
+→ [`yigchung-transfer/SKILL.md`](yigchung-transfer/SKILL.md)
+
 ---
 
 ## 5. Metadata and frontmatter
