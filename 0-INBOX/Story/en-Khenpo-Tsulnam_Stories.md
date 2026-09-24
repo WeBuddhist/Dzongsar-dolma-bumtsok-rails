@@ -26,29 +26,29 @@ Here, then, for the sake of increasing our own faith and acquainting us with the
 
 ## The Accounts Themselves
 
-### 1. Protection from the Fear of Enemies
+### 1. Protection from the Fear of Enemies ^1-1-0
 
-Long ago in India, a man of royal caste was sleeping in a pleasure grove when he found himself surrounded by a host of enemy soldiers bearing weapons. Having no other refuge, he remembered having heard of one called Tārā who protects from the sixteen fears. Thinking, "I will go to her for refuge," he called out Tārā's name and prayed to her. Immediately Tārā appeared in the sky before him, and a fierce wind rose from beneath her feet, scattering the soldiers in every direction — so that he is said to have reached his own home safely.
+Long ago in India, a man of royal caste was sleeping in a pleasure grove when he found himself surrounded by a host of enemy soldiers bearing weapons. Having no other refuge, he remembered having heard of one called Tārā who protects from the sixteen fears. Thinking, "I will go to her for refuge," he called out Tārā's name and prayed to her. Immediately Tārā appeared in the sky before him, and a fierce wind rose from beneath her feet, scattering the soldiers in every direction — so that he is said to have reached his own home safely. ^1-1
 
 ### 2. Protection from the Fear of Lions
 
 Long ago, in a certain region of India, a woodcutter went deep into a forest to gather wood. There he came upon a hungry lioness, who seized him in her mouth and began carrying him toward her den. As she neared it, he prayed one-pointedly to Tārā. At once a woman clad in leaves appeared before him, drew him from the lion's mouth, and set him down safely in the marketplace of a town.
 
-### 3. Protection from the Fear of Elephants
+### 3. Protection from the Fear of Elephants ^1-3-0
 
-A twelve-year-old girl had gone out alone to gather flowers when she met a savage elephant. It bound her tightly with its trunk, and as it raised its tusks to gore and kill her, she remembered Tārā's name and prayed to her. At once the elephant's fury turned to gentleness; it loosened its hold and is said to have carried her safely home.
+A twelve-year-old girl had gone out alone to gather flowers when she met a savage elephant. It bound her tightly with its trunk, and as it raised its tusks to gore and kill her, she remembered Tārā's name and prayed to her. At once the elephant's fury turned to gentleness; it loosened its hold and is said to have carried her safely home. ^1-3
 
 ### 4. Protection from the Fear of Fire
 
 A family with whom another had a blood feud had their house set on fire by their enemies in the night. As the household tried to flee, they found themselves surrounded by flames with no way out. At their wits' end, they called out the name of Jetsün Tārā and prayed to her. Clouds gathered in the sky above, and a heavy rain fell, extinguishing the fire.
 
-### 5. Protection from the Fear of Poisonous Snakes
+### 5. Protection from the Fear of Poisonous Snakes ^1-5-0
 
-Long ago in a certain city there lived a courtesan. Having arranged to meet a merchant at midnight, she was on her way to his house when she took hold of a tree branch overhanging the road. A venomous snake coiled in the tree wound itself around her body and seized her. Terrified, she remembered Tārā and prayed to her, and was freed from the danger — the snake, it is said, turning harmless and non-venomous before slipping away into the water.
+Long ago in a certain city there lived a courtesan. Having arranged to meet a merchant at midnight, she was on her way to his house when she took hold of a tree branch overhanging the road. A venomous snake coiled in the tree wound itself around her body and seized her. Terrified, she remembered Tārā and prayed to her, and was freed from the danger — the snake, it is said, turning harmless and non-venomous before slipping away into the water. ^1-5
 
-### 6. Protection from the Fear of Bandits
+### 6. Protection from the Fear of Bandits ^1-6-0
 
-Long ago there lived in a certain land a merchant of very great wealth. One day, traveling with his servants and a large quantity of goods, he was set upon by a band of robbers, who plundered the goods and began killing the servants. In great terror, with no other protector, the merchant prayed to Tārā. The bandits themselves grew afraid and fled, and so the merchants were freed from the danger of robbers.
+Long ago there lived in a certain land a merchant of very great wealth. One day, traveling with his servants and a large quantity of goods, he was set upon by a band of robbers, who plundered the goods and began killing the servants. In great terror, with no other protector, the merchant prayed to Tārā. The bandits themselves grew afraid and fled, and so the merchants were freed from the danger of robbers. ^1-6
 
 ### 7. Protection from Imprisonment
 
@@ -58,9 +58,9 @@ A chief among thieves, on his way to rob the king's treasury, drank some fine be
 
 Long ago many merchants sailed beyond the ocean south of India to trade, and having obtained jewels, sandalwood, and other goods on the far shore, they set out again upon the sea. A great ocean wind arose, churning the waves, which battered the ship until it was on the verge of breaking apart. At their wits' end, the merchants prayed to Brahmā, Viṣṇu, Śiva, and other gods, but to no avail. Then the ship's rope snapped, and as the goods began scattering into the water, one among the merchants — a lay devotee with faith in the Buddha — remembered Tārā, recited her ten-syllable mantra, and prayed to her. At once the winds died down, a wind favorable for sailing arose, and they arrived safely at the near shore of the ocean.
 
-### 9. Protection from the Fear of Flesh-Eating Demons
+### 9. Protection from the Fear of Flesh-Eating Demons ^1-9-0
 
-Long ago a great assembly of monks lived in a certain monastery. Once, several monks who had gone outside the monastery at night had died there, and one day a novice monk, out walking, was seized by the head by a flesh-eating demon — black, fanged, and terrible to behold. The novice, having heard that Tārā protects from the eight fears, called out her name and prayed to her. At once a dark goddess bearing a sword appeared and threatened the demon, who, terrified, begged the novice's forgiveness and released him. From that time on, harm to that monastery ceased entirely.
+Long ago a great assembly of monks lived in a certain monastery. Once, several monks who had gone outside the monastery at night had died there, and one day a novice monk, out walking, was seized by the head by a flesh-eating demon — black, fanged, and terrible to behold. The novice, having heard that Tārā protects from the eight fears, called out her name and prayed to her. At once a dark goddess bearing a sword appeared and threatened the demon, who, terrified, begged the novice's forgiveness and released him. From that time on, harm to that monastery ceased entirely. ^1-9
 
 ### 10. Protection from the Fear of Leprosy
 
@@ -78,9 +78,9 @@ Long ago a poor farmer, lacking food and clothing, was suffering greatly. He cal
 
 Long ago there was a wealthy brahmin with many close relatives — sons, a wife, and others. Later a great epidemic struck that land, and his sons, his wife, and all his relatives died, leaving him alone and overcome by grief. Wandering from place to place, he arrived in Varanasi, where he came upon a great festival at which many lay devotees with faith in the Buddha were making offerings to Tārā. He too offered handfuls of flowers and prayed one-pointedly, and afterward he obtained as his bride a princess of extraordinary beauty, through whom he gained sons and his lineage flourished.
 
-### 14. Protection from the Fear of Royal Punishment
+### 14. Protection from the Fear of Royal Punishment ^1-14-0
 
-Long ago, in a land of India called Ayorda, there lived a householder possessed of power, wealth, and comforts. The king of that land, displeased with him, sent four mighty strongmen who seized the householder and threw him into prison. The householder prayed one-pointedly to Tārā, and all manner of auspicious signs appeared, so that the king, astonished, released him from prison and did him no harm.
+Long ago, in a land of India called Ayorda, there lived a householder possessed of power, wealth, and comforts. The king of that land, displeased with him, sent four mighty strongmen who seized the householder and threw him into prison. The householder prayed one-pointedly to Tārā, and all manner of auspicious signs appeared, so that the king, astonished, released him from prison and did him no harm. ^1-14
 
 ### 15. Protection from the Fear of Lightning
 
@@ -100,9 +100,9 @@ Two men from the land of Nepal, while fording a river, were swept away by the po
 
 Also, long ago, a great epidemic broke out in a certain region of Tibet, and no medical treatment could halt it, so that many people of that land died. When it was investigated what method might help, a divination showed that raising many prayer flags of Tārā would be beneficial. Accordingly, they gathered a great deal of cloth, printed the Homage in Twenty-One Verses and Tārā's mantras upon it, and raised it on a mountain. As a great wind moved the prayer flags, that wind drove away the entire epidemic, so that the epidemic in that land ceased, and the sick, too, were freed from their illness.
 
-### 19. Freedom from Imprisonment in Iron Shackles
+### 19. Freedom from Imprisonment in Iron Shackles ^1-19-0
 
-Also, the king of Jang once had two thieves thrown into prison. One of them recited Tārā's mantra without ceasing, day and night. The other, having no faith in Tārā, found the sound grating and could not sleep, and told his companion to stop reciting and let him rest. But the first thief paid him no heed and continued reciting; after about six months, the iron shackles on his hands and feet melted away, an opening appeared in the wall of the cell, and he escaped. The doubting companion, however, remained behind, unfreed.
+Also, the king of Jang once had two thieves thrown into prison. One of them recited Tārā's mantra without ceasing, day and night. The other, having no faith in Tārā, found the sound grating and could not sleep, and told his companion to stop reciting and let him rest. But the first thief paid him no heed and continued reciting; after about six months, the iron shackles on his hands and feet melted away, an opening appeared in the wall of the cell, and he escaped. The doubting companion, however, remained behind, unfreed. ^1-20
 
 ### 20. The Pacification of Harm from Evil Spirits
 
@@ -118,9 +118,9 @@ The man's courage grew, and he again prayed to be freed from the cave, but for a
 
 Long ago a man kept a pet parrot. One day it was carried off by a hawk. The parrot cried out, "Tāre Tuttāre!" — whereupon the startled hawk let it drop, and the parrot escaped unharmed. The parrot had constantly heard its owner reciting Tārā's mantra, and the words had lodged in its ear; in its moment of terror, they came out of its own accord. This came to be cited as an example showing that, like a stray arrow that still finds its mark, the mantra's blessing works its power even when invoked without full understanding, or even by accident.
 
-### 23. The Story of the Prayer Flag
+### 23. The Story of the Prayer Flag ^1-23-0
 
-Long ago, on the summit of a mountain, many prayer flags had been planted, most of them dedicated to Tārā. At the corner of the flags was a hawk's nest, and the mother hawk and her six chicks constantly heard the sound of the flags fluttering. After all seven had died, they took rebirth as seven goddesses in Tārā's pure land, Turquoise Leaf.
+Long ago, on the summit of a mountain, many prayer flags had been planted, most of them dedicated to Tārā. At the corner of the flags was a hawk's nest, and the mother hawk and her six chicks constantly heard the sound of the flags fluttering. After all seven had died, they took rebirth as seven goddesses in Tārā's pure land, Turquoise Leaf. ^1-25
 
 ### 24. Protection from the Suffering of Having No Son
 
