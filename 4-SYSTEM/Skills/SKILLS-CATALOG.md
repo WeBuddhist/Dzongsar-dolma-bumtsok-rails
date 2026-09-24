@@ -291,6 +291,12 @@ Uploads a root text to the library backend: lint, parse, then create the text, e
 Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. Dry-run by default; `--execute` needs explicit human confirmation every time.
 → [`translation-upload/SKILL.md`](translation-upload/SKILL.md)
 
+### `yigchung-upload` **[exists]**
+**Purpose:** Parse the `<small>…</small>` yigchung marks out of an uploaded note and attach them to its live edition as yigchung annotations, one tag-free span each.
+**Inputs:** A root text or translation already uploaded (frontmatter carries `edition_id`), the upload parser, and the API key.
+**Outputs:** A span payload and a review file under `yigchung-upload/scripts/output/`; on `--execute`, yigchung ids in the skill's ledger.
+→ [`yigchung-upload/SKILL.md`](yigchung-upload/SKILL.md)
+
 ---
 
 ## 14. System and maintenance
