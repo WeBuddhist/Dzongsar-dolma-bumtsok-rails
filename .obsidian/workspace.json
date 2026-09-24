@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625,
-    "collapsed": true
+    "width": 286.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,11 +249,13 @@
   },
   "active": "1243d8fe6a9aef72",
   "lastOpenFiles": [
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration Subtitle.md",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle.md",
     "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
@@ -283,8 +284,6 @@
     "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "0-INBOX/temp/review_report_blank_align_content_diffs.md",
     "0-INBOX/temp/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
-    "0-INBOX/temp/zh-Chinese_Pecha_Text_Only.md",
-    "0-INBOX/temp/zh-21_Tara_reorder_notes.md",
-    "0-INBOX/temp/vault-audit-2026-09-23.md"
+    "0-INBOX/temp/zh-Chinese_Pecha_Text_Only.md"
   ]
 }
