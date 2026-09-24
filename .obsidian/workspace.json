@@ -25,14 +25,10 @@
             "id": "ee0b6fa2b37b6022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ],
@@ -214,6 +210,10 @@
   },
   "active": "ee0b6fa2b37b6022",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
@@ -235,16 +235,11 @@
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "1-SOURCES/Text/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
     "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Text/ཅོན་ཏ་རའི་སྒྲོལ་ཆོག་གི་འདོན་ཆ།.pdf",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-corrected.md",
-    "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-change-log.md",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_ledger.json",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py",
     "4-SYSTEM/Skills/root-text-upload/scripts",
