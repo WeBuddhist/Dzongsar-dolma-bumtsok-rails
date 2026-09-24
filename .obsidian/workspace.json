@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1bcb999e09081101",
+        "id": "324070907966778f",
         "type": "tabs",
-        "dimension": 59.06148867313916,
         "children": [
           {
-            "id": "9bdee6dd02a4fb2b",
+            "id": "3b1e4a770a2501cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,27 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག"
-            }
-          }
-        ]
-      },
-      {
-        "id": "324070907966778f",
-        "type": "tabs",
-        "dimension": 40.93851132686084,
-        "children": [
-          {
-            "id": "3b1e4a770a2501cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག"
             }
           }
         ]
@@ -220,7 +198,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9bdee6dd02a4fb2b",
+  "active": "3b1e4a770a2501cf",
   "lastOpenFiles": [
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
