@@ -44,7 +44,7 @@ license: public
 source: https://webuddhist.com
 edition_type: critical
 related_translations:
-  - 1-SOURCES/Translations/en-zabtig-drolchok.md
+  - 1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md
 make_available: Dzongsar Institute
 source_description: "Compiled anthology: an opening fifteen-verse prayer to the Buddha by Sakya Paṇḍita, a supplement by Pema Dongak Lingpa, auspicious verses by Shechen Kongtrul, the core mandala-ritual chapters (elaborate and abbreviated) with no internal colophon, and a series of appended aspiration/dedication prayers individually signed by Yönten Gyatso, Jamyang Khyentse Wangpo (x2), the vidyādhara Mañjughoṣa, Chökyi Lodrö (colophon: written at Vajrāsana/Bodhgayā, India), Khenchen Kunga Wangchuk, and Dolpopa."
 text_id: AMXt6wYXNvRR2WanncXaq
