@@ -475,8 +475,11 @@ There are offerings surpassing thought—
 chödzé sam mi khyapar gyur
 Divine articles created from samadhi.
 
-ཨོཾ་བཛྲ་ཨརྒྷཾ། པཱདྱཱཾ། པུཥྤེ། དྷུ་པེ། ཨ་ལོ་ཀེ། གནྡྷེ། ནཻ་ཝི་དྱ། ཤཔྡ་ཨཱཿཧཱུྃ།
-om benza argham padam pushpé düpé aloké gendhé naividyé shapda ah hung
+ཨོཾ་བཛྲ་ཨརྒྷཾ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་པཱདྱཱཾ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་པུཥྤེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་དྷུ་པེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་ཨ་ལོ་ཀེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་གནྡྷེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་ནཻ་ཝི་དྱ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་ཤཔྡ་ཨཱཿ ཧཱུྃ།
+om benza argham ah hung. om benza padam ah hung. om benza pushpé ah hung. om benza düpé ah hung. om benza aloké ah hung. om benza argham ah hung. om benza argham ah hung. om benza argham ah hung. 
+
+gendhé naividyé shapda
+
 
 ཨོཾ་བཛྲ་སྥ་ར་ཎ་ཁཾ།
 om benza saparana kham
@@ -2150,7 +2153,10 @@ om taré tuttaré turé soha
 ཨོཾ་བཛྲ་སཏྭ་ས་མ་ཡ། མ་ནུ་པཱ་ལ་ཡ། བཛྲ་སཏྭ་ཏྭེ་ནོ་པ་ཏིཥྛ་དྲྀ་ཌྷོ་མེ་བྷ་ཝ། སུ་ཏོ་ཥྱོ་མེ་བྷ་ཝ། སུ་པོ་ཥྱོ་མེ་བྷ་ཝ། ཨ་ནུ་རཀྟོ་མེ་བྷ་ཝ། སརྦ་སིདྡྷི་མྨེ་པྲ་ཡཙྪ། སརྦ་ཀརྨ་སུ་ཙ་མེ། ཙིཏྟཾ་ཤྲེ་ཡཾ། ཀུ་རུ་ཧཱུྂ། ཧ་ཧ་ཧ་ཧ་ཧོཿ བྷ་ག་ཝཱན། སརྦ་ཏ་ཐཱ་ག་ཏ་བཛྲ་མཱ་མེ་མུཉྩ་བཛྲཱི་བྷ་ཝ་མ་ཧཱ་ས་མ་ཡ་སཏྭ་ཨཱཿ
 om benza sato samaya manupalaya benza sato tenopa tishta dridho mé bhava sutohyo mé bhava supohyo mé bhava anurakto mé bhava sarva siddhi mé prayatsa sarva karma su tsa mé tsittam shri yang kuru hung ha ha ha ha ho bhagavan sarva tatagata benza ma mé muntsa benzi bhava maha samaya sato ah
 
-མ་རྙེད་ཡོངས་སུ་མ་ཚང་དང༌། །
+<small>ཚར་གསུམ།</small>
+<small>Recite three times.</small>
+
+མ་རྙེད་ཡོངས་སུ་མ་ཚང་དང་༌། །
 ma nyé yongsu ma tsang dang
 For anything lacking or incomplete,
 གང་ཡང་ནུས་པ་མ་མཆིས་པས། །
