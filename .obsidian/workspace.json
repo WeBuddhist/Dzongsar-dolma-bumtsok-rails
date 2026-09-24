@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/en-zabtig-drolchok.md",
+                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "en-zabtig-drolchok"
+              "title": "En-Tārā’s_Profound_Essence-Transliteration"
             }
           }
         ]
@@ -197,8 +197,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "fd13220e5030ff1c",
   "lastOpenFiles": [
+    "1-SOURCES/Translations/en-zabtig-drolchok.md",
+    "conflict-files-obsidian-git.md",
     "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/En-Tārā’s_Profound_Essence.lint.errors.json",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.alignment.json",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.toc.json",
@@ -222,10 +224,8 @@
     "0-INBOX/temp/zh-21_Tara_reorder_notes.md",
     "0-INBOX/temp/vault-audit-2026-09-23.md",
     "1-SOURCES/Translations/WeBuddhist Tara Sadhna translation.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Transliteration.md",
-    "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Text/ཅོན་ཏ་རའི་སྒྲོལ་ཆོག་གི་འདོན་ཆ།.pdf",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
@@ -233,7 +233,6 @@
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-change-log.md",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_ledger.json",
     "4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py",
-    "4-SYSTEM/Skills/root-text-upload/scripts",
-    "4-SYSTEM/Skills/root-text-upload"
+    "4-SYSTEM/Skills/root-text-upload/scripts"
   ]
 }
