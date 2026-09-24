@@ -195,6 +195,7 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "3-TRANSFORMATIONS/Plans/zh-21-Day-Plans",
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
@@ -239,7 +240,6 @@
     "4-SYSTEM/Skills/Tara-Plan-Creator",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions"
+    "gemini-scribe/Background-Tasks"
   ]
 }
