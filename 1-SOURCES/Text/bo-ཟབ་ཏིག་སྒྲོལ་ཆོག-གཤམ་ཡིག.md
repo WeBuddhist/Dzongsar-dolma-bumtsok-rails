@@ -4242,48 +4242,6 @@ And may the victory banner of the teachings be raised in all directions!
 <small>ཅེས་པའང་ཆོས་ཀྱི་བློ་གྲོས་པས་འཕགས་ཡུལ་རྡོ་རྗེ་གདན་གྱི་བྱང་ཆུབ་ཤིང་དྲུང་དུ་གང་དྲན་ཤར་མར་བྲིས་པ་འདི་བཞིན་འགྲུབ་པར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། སརྦ་དཱ་མངྒ་ལཾ།། །།</small>
 <small>Chökyi Lodrö wrote down whatever came to mind at the foot of the bodhi tree in Vajrāsana (Bodhgayā) in the noble land of India. May these words be blessed so that they all come true. Sarvadā maṅgalaṃ! Translated by Adam Pearcey, 2007.</small>
 
-## ༈ ཇ་མཆོད།
-Tea offering prayers
-
-ལྷ་དང་ལྷ་མིན་ཅོད་པན་གྱིས། །
-lha dang lhamin chöpen gyi
-Devas and asuras,with their crowned heads,
-ཞབས་ཀྱི་པདྨོ་ལ་བཏུད་དེ། །
-zhab kyi pemo la tü dé
-Bow to your lotus feet.
-ཕོངས་པ་ཀུན་ལས་སྒྲོལ་མཛད་མ། །
-pongpa kün lé dröl dzé ma
-You liberate from every form of destitution.
-སྒྲོལ་མ་ཡུམ་ལ་མཆོད་པ་འབུལ། །
-drölma yum la chöpa bül
-To you, Mother Tārā, I make this offering.
-
-༈ བདག་གིས་ཚེ་རབས་སྔོན་ནས་བསྒྲུབ་པའི་ལྷ། །
-dak gi tserab ngön né drubpé lha
-O goddess! Life after life, I have devoted my practice to you.
-དུས་གསུམ་སངས་རྒྱས་ཀུན་གྱི་ཕྲིན་ལས་མ། །
-düsum sangyé kün gyi trinlé ma
-You are the enlightened activity of all buddhas, past, present, and future;
-སྔོ་ལྗང་ཞལ་གཅིག་ཕྱག་གཉིས་མྱུར་ཞི་དཔའ། །
-ngojang zhal chik chak nyi nyur zhi pa
-Turquoise colored, with one face and two hands, you are swift, serene, and courageous;
-ཡུམ་གྱུར་ཨུཏྤལ་བསྣམས་ལ་མཆོད་པ་འབུལ། །
-yum gyur utpal nam la chöpa bül
-Mother of the buddhas, holder of the utpala flower, to you I make this offering.
-
-༈ ཞལ་ཟས་རོ་བརྒྱ་ལྡན་ཞིང་ཡིད་འཕྲོག་པ། །
-zhalzé rogya den zhing yitrogpa
-This exquisite food, with a hundred flavors,so perfectly prepared,
-ལེགས་སྦྱར་འདི་ནི་རྒྱལ་བ་སྲས་བཅས་ལ། །
-legjar di ni gyalwa sé ché la
-I offer with devotion to the victors and their heirs.
-དད་པས་ཕུལ་བས་འགྲོ་བ་འདི་དག་ཀུན། །
-depé pülwé drowa didak kün
-By the merit of this offering, may all beings
-འབྱོར་ལྡན་ཏིང་འཛིན་ཟས་ལ་སྤྱོད་པར་ཤོག །
-jorden tingdzin zé la chöpar shok
-Come to enjoy the nourishing food of samādhi.
-
 ## ༈ གྲོལ་འདོན།
 Prayers for conclusion
 
@@ -4348,5 +4306,47 @@ The worry that the teachings may decline—
 sem trel tsam yang jungwar shok
 May at least a little of it weigh on my mind.
 
-<small>ཀུན་མཁྱེེན་དོལ་པོོའིི་གསུང་ངོ༌། །</small>
+<small>ཀུན་མཁྱེན་དོལ་པོའི་གསུང་ངོ་༌། །</small>
 <small>The words of the omniscient Dolpopa.</small>
+
+## ༈ ཇ་མཆོད།
+Tea offering prayers
+
+ལྷ་དང་ལྷ་མིན་ཅོད་པན་གྱིས། །
+lha dang lhamin chöpen gyi
+Devas and asuras,with their crowned heads,
+ཞབས་ཀྱི་པདྨོ་ལ་བཏུད་དེ། །
+zhab kyi pemo la tü dé
+Bow to your lotus feet.
+ཕོངས་པ་ཀུན་ལས་སྒྲོལ་མཛད་མ། །
+pongpa kün lé dröl dzé ma
+You liberate from every form of destitution.
+སྒྲོལ་མ་ཡུམ་ལ་མཆོད་པ་འབུལ། །
+drölma yum la chöpa bül
+To you, Mother Tārā, I make this offering.
+
+༈ བདག་གིས་ཚེ་རབས་སྔོན་ནས་བསྒྲུབ་པའི་ལྷ། །
+dak gi tserab ngön né drubpé lha
+O goddess! Life after life, I have devoted my practice to you.
+དུས་གསུམ་སངས་རྒྱས་ཀུན་གྱི་ཕྲིན་ལས་མ། །
+düsum sangyé kün gyi trinlé ma
+You are the enlightened activity of all buddhas, past, present, and future;
+སྔོ་ལྗང་ཞལ་གཅིག་ཕྱག་གཉིས་མྱུར་ཞི་དཔའ། །
+ngojang zhal chik chak nyi nyur zhi pa
+Turquoise colored, with one face and two hands, you are swift, serene, and courageous;
+ཡུམ་གྱུར་ཨུཏྤལ་བསྣམས་ལ་མཆོད་པ་འབུལ། །
+yum gyur utpal nam la chöpa bül
+Mother of the buddhas, holder of the utpala flower, to you I make this offering.
+
+༈ ཞལ་ཟས་རོ་བརྒྱ་ལྡན་ཞིང་ཡིད་འཕྲོག་པ། །
+zhalzé rogya den zhing yitrogpa
+This exquisite food, with a hundred flavors,so perfectly prepared,
+ལེགས་སྦྱར་འདི་ནི་རྒྱལ་བ་སྲས་བཅས་ལ། །
+legjar di ni gyalwa sé ché la
+I offer with devotion to the victors and their heirs.
+དད་པས་ཕུལ་བས་འགྲོ་བ་འདི་དག་ཀུན། །
+depé pülwé drowa didak kün
+By the merit of this offering, may all beings
+འབྱོར་ལྡན་ཏིང་འཛིན་ཟས་ལ་སྤྱོད་པར་ཤོག །
+jorden tingdzin zé la chöpar shok
+Come to enjoy the nourishing food of samādhi.
