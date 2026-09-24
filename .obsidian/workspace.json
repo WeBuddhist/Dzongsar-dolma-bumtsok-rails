@@ -25,10 +25,14 @@
             "id": "ee0b6fa2b37b6022",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zh-Tārā’s_Profound_Essence_Translation"
             }
           }
         ],
