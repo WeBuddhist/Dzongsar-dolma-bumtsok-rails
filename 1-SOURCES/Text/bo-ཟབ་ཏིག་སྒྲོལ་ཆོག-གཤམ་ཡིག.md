@@ -5,8 +5,8 @@ The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practic
 A fifteen-verse prayer to the King of the Śākyas
 
 <small>༄༅། །བླ་མ་དང་འཇམ་པའི་དབྱངས་ལ་གུས་པས་ཕྱག་འཚལ་ལོ། །</small>
-lama dang jampé yang la güpé chagtsal lo
-In devotion I prostrate to the guru and Mañjughoṣa.
+<small>lama dang jampé yang la güpé chagtsal lo</small>
+<small>In devotion I prostrate to the guru and Mañjughoṣa.</small>
 
 གང་ཞིག་བྱང་ཆུབ་ཤིང་དབང་དྲུང་དུ་བདུད་སྡེ་དཔུང་བཅས་ས་དང་མཁའ་ལ་ཀུན་ཁྱབ་ཅིང༌། །
 gang zhik jangchub shingwang drung du dü dé pung ché sa dang kha la künkhyab ching
@@ -318,8 +318,8 @@ Grant the supreme and common accomplishments!
 ## ༈ དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། ཕྱི་སྒྲུབ་རྒྱས་པའི་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
 The Essence of the Two Accumulations: The Ritual for the Elaborate Outer Practice From the mind Treasure cycle The Profound Essence of Tara
 
-ན་མོ་གུ་རུ་ཨཱརྻ་ཏཱ་རཱ་ཡེ།
-Namo Gurvya aryatarayai!
+<small>ན་མོ་གུ་རུ་ཨཱརྻ་ཏཱ་རཱ་ཡེ།</small>
+<small>Namo Gurvya aryatarayai!</small>
 
 <small>དུས་གསུམ་འདྲེན་པ་སྲས་བཅས་ལས། །</small>
 <small>In honor of Tara, mother to all the guides</small>
@@ -476,10 +476,7 @@ chödzé sam mi khyapar gyur
 Divine articles created from samadhi.
 
 ཨོཾ་བཛྲ་ཨརྒྷཾ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་པཱདྱཱཾ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་པུཥྤེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་དྷུ་པེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་ཨ་ལོ་ཀེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་གནྡྷེ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་ནཻ་ཝི་དྱ་ཨཱཿ ཧཱུྃ། ཨོཾ་བཛྲ་ཤཔྡ་ཨཱཿ ཧཱུྃ།
-om benza argham ah hung. om benza padam ah hung. om benza pushpé ah hung. om benza düpé ah hung. om benza aloké ah hung. om benza argham ah hung. om benza argham ah hung. om benza argham ah hung. 
-
-gendhé naividyé shapda
-
+om benza argham ah hung. om benza padam ah hung. om benza pushpé ah hung. om benza düpé ah hung. om benza aloké ah hung. om benza gendhé ah hung. om benza naividyé ah hung. om benza shapda ah hung. 
 
 ཨོཾ་བཛྲ་སྥ་ར་ཎ་ཁཾ།
 om benza saparana kham
@@ -833,8 +830,22 @@ Lavishly filling the expanse of dharmadhatu—༔
 pakma drolma khor ché chö༔
 I offer to Noble Tara and her retinue!༔
 
-ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ། པཱདྱཱཾ། པུཥྤེ། དྷུ་པེ། ཨ་ལོ་ཀེ། གནྡྷེ། ནཻ་ཝི་དྱ། ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
-om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naividyé shapda pratitsa soha
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པཱདྱཱཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པུཥྤེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་དྷུ་པེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨ་ལོ་ཀེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་གནྡྷེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ནཻ་ཝི་དྱ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
+om arya taré sapariwara benza argham pratitsa soha
+om arya taré sapariwara benza padam pratitsa soha
+om arya taré sapariwara benza pushpé pratitsa soha
+om arya taré sapariwara benza düpé pratitsa soha
+om arya taré sapariwara benza aloké pratitsa soha
+om arya taré sapariwara benza gendhé pratitsa soha
+om arya taré sapariwara benza naividyé pratitsa soha
+om arya taré sapariwara benza shapda pratitsa soha
 
 <small>ཞེས་སྤྱན་དྲངས་ཤིང་མཆོད་པ་སྤྱིར་འབུལ།</small>
 <small>With this, invite the deities and make offerings.</small>
@@ -1174,8 +1185,22 @@ Lavishly filling the expanse of dharmadhatu—༔
 pakma drolma khor ché chö༔
 I offer to Noble Tara and her retinue!༔
 
-ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ། པཱདྱཱཾ། པུཥྤེ། དྷུ་པེ། ཨ་ལོ་ཀེ། གནྡྷེ། ནཻ་ཝི་དྱ། ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
-om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naividyé shapda pratitsa soha
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པཱདྱཱཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པུཥྤེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་དྷུ་པེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨ་ལོ་ཀེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་གནྡྷེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ནཻ་ཝི་དྱ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
+om arya taré sapariwara benza argham pratitsa soha
+om arya taré sapariwara benza padam pratitsa soha
+om arya taré sapariwara benza pushpé pratitsa soha
+om arya taré sapariwara benza düpé pratitsa soha
+om arya taré sapariwara benza aloké pratitsa soha
+om arya taré sapariwara benza gendhé pratitsa soha
+om arya taré sapariwara benza naividyé pratitsa soha
+om arya taré sapariwara benza shapda pratitsa soha
 
 <small>ཞེས་སྤྱན་དྲངས་ཤིང་མཆོད་པ་སྤྱིར་འབུལ།</small>
 <small>With this, invite the deities and make offerings.</small>
@@ -1531,8 +1556,22 @@ Lavishly filling the expanse of dharmadhatu—༔
 pakma drolma khor ché chö༔
 I offer to Noble Tara and her retinue!༔
 
-ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ། པཱདྱཱཾ། པུཥྤེ། དྷུ་པེ། ཨ་ལོ་ཀེ། གནྡྷེ། ནཻ་ཝི་དྱ། ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
-om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naividyé shapda pratitsa soha
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨརྒྷཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པཱདྱཱཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་པུཥྤེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་དྷུ་པེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཨ་ལོ་ཀེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་གནྡྷེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ནཻ་ཝི་དྱ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ། 
+ཨོཾ་ཨཱརྻ་ཏཱ་རེ་ས་པ་རི་ཝཱ་ར་བཛྲ་ཤཔྡ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།
+om arya taré sapariwara benza argham pratitsa soha
+om arya taré sapariwara benza padam pratitsa soha
+om arya taré sapariwara benza pushpé pratitsa soha
+om arya taré sapariwara benza düpé pratitsa soha
+om arya taré sapariwara benza aloké pratitsa soha
+om arya taré sapariwara benza gendhé pratitsa soha
+om arya taré sapariwara benza naividyé pratitsa soha
+om arya taré sapariwara benza shapda pratitsa soha
 
 <small>ཞེས་སྤྱན་དྲངས་ཤིང་མཆོད་པ་སྤྱིར་འབུལ།</small>
 <small>With this, invite the deities and make offerings.</small>
