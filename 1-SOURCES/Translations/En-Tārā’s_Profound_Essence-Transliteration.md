@@ -200,7 +200,7 @@ dak sok dro kün kyap su chi
 jangchup mönpé semkyé né
 zapmö lam la jukpar gyi ^1-6
 
-<small>Recite three times.</small> ^1-7
+<small>Recite three times.</small> return to 198^1-7
 
 <small>To gather the accumulations, recite:</small> ^1-8
 
@@ -533,7 +533,7 @@ jompa turé rap chok nyima ^1-84
 tsawé ngak kyi töpa di dang
 chaktselwa ni nyishu tsachik ^1-85
 
-<small>Recite twice.</small> ^1-86
+<small>Recite twice.</small> return to 421^1-86
 
 <small>Then again.</small> ^1-87
 
@@ -684,7 +684,7 @@ jompa turé rap chok nyima ^1-118
 tsawé ngak kyi töpa di dang
 chaktselwa ni nyishu tsachik ^1-119
 
-<small>Recite three times.</small> ^1-120
+<small>Recite three times.</small> return to 572 ^1-120
 
 <small>Then again.</small> ^1-121
 
@@ -835,7 +835,7 @@ jompa turé rap chok nyima ^1-152
 tsawé ngak kyi töpa di dang
 chaktselwa ni nyishu tsachik ^1-153
 
-<small>Seven times.</small> ^1-154
+<small>Seven times.</small> return to 723 ^1-154
 
 lhamo la gü yangdak denpé
 loden gang gi rap dang jö dé ^1-155
@@ -884,15 +884,15 @@ zakmé yeshe dütsir gyur༔ ^1-167
 
 om ah hung༔ ^1-168
 
-<small>Three times.</small> ^1-169
+<small>Three times.</small> return to 885 ^1-169
 
 om arya taré sapariwara idam balingta kha kha khahi khahi ^1-170
 
-<small>Recite the above mantra three times— to make the offering to the principal Lady.</small> ^1-171
+<small>Recite the above mantra three times— to make the offering to the principal Lady.</small> return to 889 ^1-171
 
 om akaro mukham sarva dharma nam adya nutpanen totta om ah hung pé soha ^1-172
 
-<small>Recite this mantra, also, three times— to make the offering to all the guests.</small> ^1-173
+<small>Recite this mantra, also, three times— to make the offering to all the guests.</small> return to 893 ^1-173
 
 om, chöjin torma dampa di༔
 yeshé chenpö jé gong la༔
@@ -971,7 +971,7 @@ om taré tuttaré turé soha ^1-191
 
 om benza sato samaya manupalaya benza sato tenopa tishta dridho mé bhava sutohyo mé bhava supohyo mé bhava anurakto mé bhava sarva siddhi mé prayatsa sarva karma su tsa mé tsittam shri yang kuru hung ha ha ha ha ho bhagavan sarva tatagata benza ma mé muntsa benzi bhava maha samaya sato ah ^1-193
 
-<small>Recite three times.</small> ^1-194
+<small>Recite three times.</small> return to 972 ^1-194
 
 ma nyé yongsu ma tsang dang
 gang yang nüpa machipé
@@ -1049,7 +1049,7 @@ dendra khonar dak sok gyurwar shok ^1-212
 khyé la tö ching sölwa tapé tü
 dak sok gang na nepé sa chok su
 né dön ül pong tap tsö zhiwa dang
-chö dang trashi pelwar dzedu söl ^1-213
+chö dang trashi pelwar dzedu söl return to 196^1-213
 
 ## The Tambura of Devotion: A Supplication Invokingthe Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel ^a-0
 
