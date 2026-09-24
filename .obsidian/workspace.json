@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 357.28515625
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -199,6 +199,12 @@
   },
   "active": "2b2b8c3d4ba52484",
   "lastOpenFiles": [
+    "1-SOURCES/Text/zh-Chinese_Pecha_Text_Only.md",
+    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
+    "1-SOURCES/Text/En-Tārā’s_Profound_Essence.md",
+    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Transliteration.md",
+    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
+    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC copy.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -209,9 +215,7 @@
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Text/ཅོན་ཏ་རའི་སྒྲོལ་ཆོག་གི་འདོན་ཆ།.pdf",
-    "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-    "1-SOURCES/Text/En-Tārā’s_Profound_Essence_Translation.md",
     "conflict-files-obsidian-git.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-corrected.md",
     "0-INBOX/bo-མཎྜལ་བཞི་ཆོག-change-log.md",
@@ -221,7 +225,6 @@
     "4-SYSTEM/Skills/root-text-upload/scripts",
     "4-SYSTEM/Skills/root-text-upload",
     "0-INBOX/vault-audit-2026-09-23.md",
-    "1-SOURCES/Text/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-reorder.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-blank-align.md",
     "4-SYSTEM/scripts/README.md",
@@ -231,8 +234,6 @@
     "4-SYSTEM/Skills/wiki-article-from-claims/references/wikitext-spec.md",
     "4-SYSTEM/Skills/wiki-article-from-claims/SKILL.md",
     "4-SYSTEM/Skills/verse-translate/SKILL.md",
-    "4-SYSTEM/Skills/verse-context/templates/verse-package.md",
-    "4-SYSTEM/Skills/translation-qa/SKILL.md",
-    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/README.md"
+    "4-SYSTEM/Skills/verse-context/templates/verse-package.md"
   ]
 }
