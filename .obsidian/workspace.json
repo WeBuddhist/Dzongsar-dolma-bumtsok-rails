@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+                "file": "4-SYSTEM/Skills/tara-plan-creator/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "En-Tārā’s_Profound_Essence"
+              "title": "SKILL"
+            }
+          },
+          {
+            "id": "dd6d7d0d07f7bc39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +208,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "01307f67cb981f3a",
+  "active": "dd6d7d0d07f7bc39",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/tara-plan-creator/SKILL.md",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
     "Claude outputs/tara-plan-creator.md",
     "Claude outputs",
-    "4-SYSTEM/Skills/tara-plan-creator/SKILL.md",
     "4-SYSTEM/Skills/tara-plan-creator",
     "4-SYSTEM/Skills/Tara-Plan-Creator/SKILL.md",
     "3-TRANSFORMATIONS/Plans/zh-21-Day-Plans",
@@ -230,7 +242,6 @@
     "0-INBOX/21-Drolma-Introductions/19 Tara Unconquerable, Full of Splendor (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/18 Tara the Great Peacock (Tibetan).md",
     "0-INBOX/21-Drolma-Introductions/18 Tara the Great Peacock (English).md",
-    "0-INBOX/21-Drolma-Introductions/18 Tara the Great Peacock (Chinese).md",
     "0-INBOX/21-Drolma-Introductions",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/18_NAMPAR GYALWAY DROLMA རྣམ་པར་རྒྱལ་བའི་སྒྲོལ་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
