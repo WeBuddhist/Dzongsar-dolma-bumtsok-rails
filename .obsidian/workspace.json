@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.8333435058594,
-    "collapsed": true
+    "width": 350.8333435058594
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -203,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625,
-    "collapsed": true
+    "width": 286.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +217,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9324f8e532cfa4f2",
+  "active": "3b1e4a770a2501cf",
   "lastOpenFiles": [
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "conflict-files-obsidian-git.md",
     "4-SYSTEM/scripts/strip_small_print.py",
     "4-SYSTEM/scripts/UPSTREAM.md",
