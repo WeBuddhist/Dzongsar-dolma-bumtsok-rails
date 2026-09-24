@@ -1049,7 +1049,7 @@ dendra khonar dak sok gyurwar shok ^1-212
 khyé la tö ching sölwa tapé tü
 dak sok gang na nepé sa chok su
 né dön ül pong tap tsö zhiwa dang
-chö dang trashi pelwar dzedu söl return to 196^1-213
+chö dang trashi pelwar dzedu söl. return to 196^1-213
 
 ## The Tambura of Devotion: A Supplication Invokingthe Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel ^a-0
 
