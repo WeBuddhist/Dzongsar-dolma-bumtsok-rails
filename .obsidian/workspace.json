@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
+                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "En-Tārā’s_Profound_Essence-Transliteration"
+              "title": "En-Tārā’s_Profound_Essence"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.8333435058594
+    "width": 447.171875
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -199,6 +199,10 @@
   },
   "active": "fd13220e5030ff1c",
   "lastOpenFiles": [
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
     "1-SOURCES/Translations/en-zabtig-drolchok.md",
     "conflict-files-obsidian-git.md",
     "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/En-Tārā’s_Profound_Essence.lint.errors.json",
@@ -207,15 +211,11 @@
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.edition.json",
     "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/En-Tārā’s_Profound_Essence.text.json",
     "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/En-Tārā’s_Profound_Essence.lint.json",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
     "1-SOURCES/Translations/bo-phon-zabtig-drolchok.md",
     "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
     "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
     "3-TRANSFORMATIONS/Translations/About Translations.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md",
     "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "0-INBOX/temp/review_report_blank_align_content_diffs.md",
