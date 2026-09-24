@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625,
-    "collapsed": true
+    "width": 286.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +199,12 @@
   },
   "active": "ef0ad40b473e6727",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/English-Translation.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Text/English-Transliteration.md",
-    "1-SOURCES/Text/English-Translation.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/གནས་སྐབས།.md",
     "4-SYSTEM/scripts/strip_small_print.py",
     "4-SYSTEM/scripts/UPSTREAM.md",
