@@ -55,7 +55,8 @@
               "title": "zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625,
-    "collapsed": true
+    "width": 286.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,11 +233,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "af3d003d290e26d2",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
-    "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/WeBuddhist Tara Sadhna translation.md",
+    "conflict-files-obsidian-git.md",
+    "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md",
     "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
     "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md",
