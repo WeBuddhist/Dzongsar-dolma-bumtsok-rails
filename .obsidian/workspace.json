@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5,
-    "collapsed": true
+    "width": 495.5
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -219,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625,
-    "collapsed": true
+    "width": 286.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,6 +235,7 @@
   },
   "active": "9bdee6dd02a4fb2b",
   "lastOpenFiles": [
+    "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
     "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
@@ -267,7 +266,6 @@
     "4-SYSTEM/Skills/root-text-upload",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-reorder.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.backup-before-blank-align.md",
-    "4-SYSTEM/scripts/README.md",
     "4-SYSTEM/scripts/install-skills.py",
     "4-SYSTEM/scripts",
     "4-SYSTEM/Skills/zeroshot-translate/scripts/merge_chapters.py",
