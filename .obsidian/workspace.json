@@ -199,6 +199,8 @@
   },
   "active": "2b2b8c3d4ba52484",
   "lastOpenFiles": [
+    "1-SOURCES/Text/WeBuddhist Tara Sadhna translation.md",
+    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "1-SOURCES/Text/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Transliteration.md",
     "1-SOURCES/Text/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
@@ -232,8 +234,6 @@
     "4-SYSTEM/Skills/wiki-article-from-claims/references/wikitext-spec.md",
     "4-SYSTEM/Skills/wiki-article-from-claims/SKILL.md",
     "4-SYSTEM/Skills/verse-translate/SKILL.md",
-    "4-SYSTEM/Skills/verse-context/templates/verse-package.md",
-    "4-SYSTEM/Skills/translation-qa/SKILL.md",
-    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/README.md"
+    "4-SYSTEM/Skills/verse-context/templates/verse-package.md"
   ]
 }
