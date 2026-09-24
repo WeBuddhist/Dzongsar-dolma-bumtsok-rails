@@ -86,9 +86,9 @@ Long ago, in a land of India called Ayorda, there lived a householder possessed 
 
 Long ago, in a region of Bengal, a Buddhist lay devotee went to sow grain in his field. On the way he trod upon the shrine of a yakṣa, and the enraged yakṣa sent down from the sky a bolt of molten iron and lightning. The moment the lay devotee merely thought of Tārā, every tongue of that fire turned into flowers, and he remained entirely unharmed.
 
-### 16. Protection from the Fear of War
+### 16. Protection from the Fear of War ^1-16-0
 
-Long ago, near the town of Sershkya close to Magadha in central India, King Ashvaka and King Kumitra went to war. King Ashvaka, confident because his own army and strength were greater, went into battle unafraid. King Kumitra, somewhat daunted, had his soldiers recite the Homage in Twenty-One Verses to Tārā a hundred thousand times over seven days before engaging in battle. Ashvaka's soldiers, the moment they merely caught sight of the opposing army, grew afraid, and some fled into the palace.
+Long ago, near the town of Sershkya close to Magadha in central India, King Ashvaka and King Kumitra went to war. King Ashvaka, confident because his own army and strength were greater, went into battle unafraid. King Kumitra, somewhat daunted, had his soldiers recite the Homage in Twenty-One Verses to Tārā a hundred thousand times over seven days before engaging in battle. Ashvaka's soldiers, the moment they merely caught sight of the opposing army, grew afraid, and some fled into the palace. ^1-16
 
 Some fainted outright and fled despite the king's reproach and threats of punishment. Ashvaka's soldiers explained it this way: "The enemy's troops were unlike anything we had seen before — countless dark, terrifying women bearing weapons and spears filled the whole space between heaven and earth, and we, with no courage left to fight, came fleeing."
 
@@ -106,9 +106,9 @@ Also, the king of Jang once had two thieves thrown into prison. One of them reci
 
 ### 20. The Pacification of Harm from Evil Spirits
 
-Long ago, in a certain district, there was a bridge over a river that had become a thoroughfare for evil spirits and demons, bringing misfortune to that land. Later, a cairn of stones carved with images of Tārā was placed along the bridge. The spirits no longer dared pass; their thoroughfare was cut off, and they were unable to travel through that place again — so that afterward all obstacles there are said to have been pacified.
+Long ago, in a certain district, there was a bridge over a river that had become a thoroughfare for evil spirits and demons, bringing misfortune to that land. Later, a cairn of stones carved with images of Tārā was placed along the bridge. The spirits no longer dared pass; their thoroughfare was cut off, and they were unable to travel through that place again — so that afterward all obstacles there are said to have been pacified. ^1-21
 
-### 21. Protection from the Fear of Tigers
+### 21. Protection from the Fear of Tigers ^1-21-0
 
 Also, long ago in Tibet, an old man who constantly took Tārā as his yidam deity was swept away by a river. He prayed to Tārā, and a wave carried him to the far side, to a narrow gorge in the rock, where he came upon a cave in the cliff face. But behind him and on either side were sheer rock walls, and before him the river, so he could find no way of escape. The cave turned out to be a tiger's den, and seeing this he was terrified, and prayed one-pointedly to Tārā. Jetsün Tārā blessed the tigers, so that they not only did him no harm but, out of affection, licked him with their tongues and wound their tails around his body.
 
