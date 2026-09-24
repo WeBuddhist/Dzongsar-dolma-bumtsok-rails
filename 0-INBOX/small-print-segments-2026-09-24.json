@@ -1,0 +1,379 @@
+{
+  "_about": "Which segments of the Zabtig Drolchok were marked <small> in the source as received, before the markup was stripped for publication. The markup is gone from the content; this is the only structured record of which segments carried it. Restore the pre-strip files with: git show <commit-before-strip>:<path>",
+  "recorded": "2026-09-24",
+  "editions": {
+    "bo": "1JX1dsVsP8pphHvSwuvOV",
+    "en": "CE8nq0BSKILMJvyjUx9Kt"
+  },
+  "whole_block_segments": [
+    "1-119",
+    "1-120",
+    "1-123",
+    "1-126",
+    "1-128",
+    "1-15",
+    "1-153",
+    "1-160",
+    "1-161",
+    "1-162",
+    "1-164",
+    "1-168",
+    "1-170",
+    "1-172",
+    "1-174",
+    "1-176",
+    "1-179",
+    "1-18",
+    "1-180",
+    "1-187",
+    "1-189",
+    "1-191",
+    "1-196",
+    "1-197",
+    "1-2",
+    "1-200",
+    "1-202",
+    "1-204",
+    "1-206",
+    "1-22",
+    "1-26",
+    "1-3",
+    "1-39",
+    "1-4",
+    "1-43",
+    "1-48",
+    "1-49",
+    "1-57",
+    "1-60",
+    "1-7",
+    "1-85",
+    "1-86",
+    "1-89",
+    "1-92",
+    "1-94",
+    "2-1",
+    "2-12",
+    "2-15",
+    "2-26",
+    "2-29",
+    "2-4",
+    "2-54",
+    "2-61",
+    "2-62",
+    "2-69",
+    "2-71",
+    "2-73",
+    "2-77",
+    "2-79",
+    "2-81",
+    "I-17",
+    "a-36",
+    "b-9",
+    "c-10",
+    "d-10",
+    "e-16",
+    "g-3",
+    "g-5",
+    "g-7",
+    "II-4",
+    "II-6",
+    "II-9",
+    "III-2"
+  ],
+  "count": 73,
+  "also_in_english": true,
+  "text": {
+    "I-17": {
+      "bo": "བཅོམ་ལྡན་འདས་ཤཱཀྱའི་རྒྱལ་པོ་ལ་གསོལ་བ་འདེབས་པའི་ཚིགས་སུ་བཅད་པ་བཅོ་ལྔ་པ། དཔལ་ལྡན་ས་སྐྱ་པཎྜྀ་ཏས་ལྷ་སའི་གཙུག་ལག་ཁང་དུ་སྦྱར་བའོ།། །།",
+      "en": "This prayer in fifteen stanzas to the Bhagavān King of Śākyas was composed by the glorious Sakya Paṇḍita at the Tsuklagkhang in Lhasa. Translated by Christian Bernert."
+    },
+    "II-4": {
+      "bo": "ཁ་སྐོང་ནི།",
+      "en": "Addition"
+    },
+    "II-6": {
+      "bo": "མངྒ་ལའི་གསུང།",
+      "en": "Composed by Mangala"
+    },
+    "II-9": {
+      "bo": "ཅེས་པ་འདི་ལྟར་ཀརྨ་མཁྱེན་བརྩེ་རབ་རྒྱས་ཀྱིས་ནན་བསྐུལ་ངོར་པདྨ་མདོ་སྔགས་གླིང་པས་བྲིས་པ་དགེ་ལེགས་འཕེལ།། །།",
+      "en": "This was written by Pema Dongak Lingpa on the request of Karma Khyentse Rabgye. May goodness abound! Rigpa Translations, 2014. Revised 2020 & 2025."
+    },
+    "III-2": {
+      "bo": "ཞེ་ཆེན་ཀོང་སྤྲུལ་པས་སོ། །",
+      "en": "Composed by Shechen Kongtrul."
+    },
+    "1-2": {
+      "bo": "དུས་གསུམ་འདྲེན་པ་སྲས་བཅས་ལས། །\nཐུགས་བསྐྱེད་ཕྲིན་ལས་ཕུལ་བྱུང་བ། །\nཡུམ་གྱུར་སྒྲོལ་མ་ལ་བཏུད་ནས། །\nབྱ་སྤྱོད་དང་མཐུན་ཉམས་ལེན་བཤད། །",
+      "en": "In honor of Tara, mother to all the guides\nAnd their heirs in all three times—\nShe who has wonderful resolve and activity—\nI set out here the practice according to Kriya and Carya."
+    },
+    "1-3": {
+      "bo": "དེའང་ཟབ་ཏིག་འདི་ཉམས་ལེན་ཡང་ཟབ་སྙིང་པོ་བསྡུས་པ་ཡིན་པས་སྤྲོས་བཅས་མང་དུ་མི་དགོས་ཀྱང༌། ཅུང་ཟད་སྤྲོས་པ་དང༌། རྒྱུན་ཁྱེར་དུ་བྱ་བ་སྟེ་རྒྱས་བསྡུས་གཉིས་ལས།",
+      "en": "Since this Profound Essence is a condensation of every quintessential profundity, it is not necessary to resort to much elaboration. Nevertheless there are two degrees of detail: one slightly elaborate and the other as a daily practice."
+    },
+    "1-4": {
+      "bo": "དང་པོ་ནི། རྗེ་བཙུན་སྒྲོལ་མའི་སྐུ་བརྙན་བྲིས་འབུར་སོགས་དཀོན་མཆོག་གི་རྟེན་གང་འཛོམ་གྱི་མདུན་དུ། སྟེགས་བུ་གཙང་མར་ཆུ་གཉིས་ཉེར་སྤྱོད། དཀར་ཟླུམ། བསང་ཆུ། མཆོད་པའི་མཎྜལ། འཐོར་ནས་སོགས་འདུ་བྱ། འགྲུབ་ན་ཁྲུས་དང་གཙང་སྦྲའི་ཀུན་སྤྱོད་བྱ་ཞིང༌། མི་ལྕོགས་ན་ཤ་ཆང་མ་འཐུང་བའི་སྔ་དྲོའི་ཆ་ལྟ་བུར་སྲིད་ལས་ངེས་འབྱུང་དང༌། བྱང་ཆུབ་སེམས་ཀྱི་ཀུན་སློང་དང་ལྡན་པས་སྐྱབས་སེམས་ནི།",
+      "en": "For the first, in front of a painting or statue of the noble Lady Tara, or whatever image of the Three Jewels you can acquire, arrange, on a clean surface, the two waters, the general offerings, the round white torma, the cleansing water, the offering mandala, grain for tossing, and other articles. If you can, keep the conduct of bathing and cleanliness. If unable to do that, at least perform the practice when you have not consumed meat or alcohol, such as in the morning. With an attitude of renunciation and bodhicitta, recite these verses of refuge and bodhicitta:"
+    },
+    "1-7": {
+      "bo": "ཚོགས་བསགས་པ་ནི།",
+      "en": "To gather the accumulations, recite:"
+    },
+    "1-15": {
+      "bo": "མཆོད་པ་བྱིན་བརླབ་ནི།",
+      "en": "To bless the offerings:"
+    },
+    "1-18": {
+      "bo": "ཞེས་བསང་སྦྱང༌།",
+      "en": "Thereby cleanse and purify."
+    },
+    "1-22": {
+      "bo": "དེ་ནས་ཐོག་མར་དཀོན་མཆོག་སྤྱི་ལ་ཕྱག་མཆོད་འབུལ་བ་ནི།",
+      "en": "Following that, begin with honoring and making offerings to the Three Jewels in general:"
+    },
+    "1-26": {
+      "bo": "ཡན་ལག་བདུན་པ་ནི།",
+      "en": "Next recite the Seven Branch Prayer:"
+    },
+    "1-39": {
+      "bo": "ཞེས་དང་།",
+      "en": "And thus:"
+    },
+    "1-43": {
+      "bo": "ཞེས་མཎྜལ་ཕུལ།",
+      "en": "With this, offer the mandala."
+    },
+    "1-48": {
+      "bo": "ཞེས་འདོད་དོན་གསོལ།",
+      "en": "With that, the desired aims are requested."
+    },
+    "1-49": {
+      "bo": "དེ་ནས་བྱེ་བྲག་རྗེ་བཙུན་སྒྲོལ་མ་ལ་མཆོད་པ་ལན་གསུམ་འབུལ་ཞིང་བསྟོད་པའི་རྒྱུད་འདོན་པ་ནི།",
+      "en": "Next, present the specific offering three times to the Noble Lady and recite the praises"
+    },
+    "1-57": {
+      "bo": "ཞེས་སྤྱན་དྲངས་ཤིང་མཆོད་པ་སྤྱིར་འབུལ།",
+      "en": "With this, invite the deities and make offerings."
+    },
+    "1-60": {
+      "bo": "ཞེས་མཎྜལ་བྱེ་བྲག་ཏུ་ཕུལ་ནས། བསྟོད་པའི་རྒྱལ་པོའི་རྒྱུད་འདོན།",
+      "en": "With that, make the specific mandala offering and recite the King of Praises"
+    },
+    "1-85": {
+      "bo": "ཚར་གཉིས་བརྗོད།",
+      "en": "Recite twice."
+    },
+    "1-86": {
+      "bo": "སླར་ཡང།",
+      "en": "Then again."
+    },
+    "1-89": {
+      "bo": "ཞེས་སྤྱན་དྲངས་ཤིང་མཆོད་པ་སྤྱིར་འབུལ།",
+      "en": "With this, invite the deities and make offerings."
+    },
+    "1-92": {
+      "bo": "ཞེས་མཎྜལ་བྱེ་བྲག་ཏུ་ཕུལ་ནས།",
+      "en": "With that, make the specific mandala offering."
+    },
+    "1-94": {
+      "bo": "ཅེས་མོས་ལ།",
+      "en": "While imagining this."
+    },
+    "1-119": {
+      "bo": "ཚར་གསུམ་བརྗོད།",
+      "en": "Recite three times."
+    },
+    "1-120": {
+      "bo": "སླར་ཡང།",
+      "en": "Then again."
+    },
+    "1-123": {
+      "bo": "ཞེས་སྤྱན་དྲངས་ཤིང་མཆོད་པ་སྤྱིར་འབུལ།",
+      "en": "With this, invite the deities and make offerings."
+    },
+    "1-126": {
+      "bo": "ཞེས་མཎྜལ་བྱེ་བྲག་ཏུ་ཕུལ་ལ།",
+      "en": "With that, make the specific mandala offering."
+    },
+    "1-128": {
+      "bo": "ཅེས་མོས་ལ་ཕྱག་འཚལ་ཉེར་གཅིག",
+      "en": "While imagining this, chant the Homage in Twenty-One Verses"
+    },
+    "1-153": {
+      "bo": "ཚར་བདུན།",
+      "en": "Seven times."
+    },
+    "1-160": {
+      "bo": "ཞེས་ཕན་ཡོན་བཅས་བརྗོད།",
+      "en": "Thus recite it together with its nenefits."
+    },
+    "1-161": {
+      "bo": "གཏོར་མ།",
+      "en": "Torma Offering"
+    },
+    "1-162": {
+      "bo": "གཏོར་མ་ཨ་མྲྀ་ཏས་བསང༌།",
+      "en": "Sanctify the torma with the following:"
+    },
+    "1-164": {
+      "bo": "སྭ་བྷཱ་བས་སྦྱང༌།",
+      "en": "And purify it with:"
+    },
+    "1-168": {
+      "bo": "ལན་གསུམ།",
+      "en": "Three times."
+    },
+    "1-170": {
+      "bo": "ལན་གསུམ་གྱིས་གཙོ་མོ་དང༌།",
+      "en": "Recite the above mantra three times— to make the offering to the principal Lady."
+    },
+    "1-172": {
+      "bo": "ལན་གསུམ་གྱིས་མགྲོན་ཐབས་རྣམས་ལ་ཕུལ།",
+      "en": "Recite this mantra, also, three times— to make the offering to all the guests."
+    },
+    "1-174": {
+      "bo": "ཞེས་འདོད་དོན་གསོལ།",
+      "en": "Pray like this for the fulfillment of your wishes."
+    },
+    "1-176": {
+      "bo": "སྔགས་ཙམ་གྱིས་མཆོད།",
+      "en": "Thus make offerings with this mantra."
+    },
+    "1-179": {
+      "bo": "ཅེས་བསྟོད།",
+      "en": "Thus offer praises."
+    },
+    "1-180": {
+      "bo": "ཐལ་མོ་སྦྱར་ལ།",
+      "en": "Then joining your palms, recite:"
+    },
+    "1-187": {
+      "bo": "ཅེས་འདོད་པའི་དོན་ལ་གསོལ་བ་ཁྱད་པར་དུ་བཏབ་ཅིང༌ཐུགས་དམ་བསྐུལ་བས།",
+      "en": "With this extraordinary prayer for your desired aims, invoke the oath."
+    },
+    "1-189": {
+      "bo": "ཅེས་རང་ཉིད་འཕགས་མའི་གསལ་སྣང་དང་ང་རྒྱལ་ལ་སེམས་བཟུང་སྟེ་ཡི་གེ་བཅུ་པའི་བཟླས་པ་ཅི་འགྲུབ་བཟླ།",
+      "en": "While you keep in mind the vivid presence and pride of being the Noble Lady yourself, recite the ten syllable mantra as many times as you can."
+    },
+    "1-191": {
+      "bo": "ཡིག་བརྒྱ་བཟླ།",
+      "en": "Then recite the hundred-syllable mantra."
+    },
+    "1-196": {
+      "bo": "ཞེས་མེ་ཏོག་འཐོར་ཞིང་བརྟན་བཞུགས་བྱ།",
+      "en": "Thus, scatter flowers and offer the request to remain."
+    },
+    "1-197": {
+      "bo": "རྟེན་མེད་ན།",
+      "en": "If there is no support,"
+    },
+    "1-200": {
+      "bo": "ཞེས་བརྗོད་ལ་མགྲོན་ཐབས་ཀྱི་ལྷ་རྣམས་གཤེགས།",
+      "en": "Thus, let the invited deities to depart."
+    },
+    "1-202": {
+      "bo": "ཅེས་གནས་ལུགས་ཀྱི་ལྟ་བ་བསྐྱང༌།",
+      "en": "Thus, foster the view of the true nature."
+    },
+    "1-204": {
+      "bo": "ཅེས་བསྔོ་སྨོན་བྱ།",
+      "en": "Dedicate the merit and make noble aspirations."
+    },
+    "1-206": {
+      "bo": "ཅེས་སོགས་ཤིས་པ་བརྗོད་ལ་མེ་ཏོག་འཐོར་རོ། །",
+      "en": "With that, utter verses of auspiciousness and toss flowers."
+    },
+    "2-1": {
+      "bo": "གཉིས་པ་རྒྱུན་ཁྱེར་དུ་བྱ་བའི་ཚེ། འཕགས་མའི་རྟེན་འཛོམ་ན་ལེགས། མ་འཛོམ་ན་ཡིད་ཀྱིས་བསྒོམ་པས་འཐུས། མཎྜལ་དང་མཆོད་པ་བཤམས་ལ།",
+      "en": "Second, the daily practice. It is good if a support of the Noble Lady is available; if not, visualize it mentally. Arrange the mandala and offerings."
+    },
+    "2-4": {
+      "bo": "ཚོགས་བསགས་པ་ནི།",
+      "en": "To gather the accumulations, recite:"
+    },
+    "2-12": {
+      "bo": "མཆོད་པ་བྱིན་བརླབ་ནི།",
+      "en": "To bless the offerings:"
+    },
+    "2-15": {
+      "bo": "ཞེས་བསང་སྦྱང༌།",
+      "en": "Thereby cleanse and purify."
+    },
+    "2-26": {
+      "bo": "ཞེས་སྤྱན་དྲངས་ཤིང་མཆོད་པ་སྤྱིར་འབུལ།",
+      "en": "With this, invite the deities and make offerings."
+    },
+    "2-29": {
+      "bo": "ཞེས་མཎྜལ་བྱེ་བྲག་ཏུ་ཕུལ་ནས། བསྟོད་པའི་རྒྱལ་པོའི་རྒྱུད་འདོན།",
+      "en": "With that, make the specific mandala offering and recite the King of Praises"
+    },
+    "2-54": {
+      "bo": "ཚར་བདུན་བརྗོད།",
+      "en": "Recite even times."
+    },
+    "2-61": {
+      "bo": "ཞེས་ཕན་ཡོན་བཅས་བརྗོད།",
+      "en": "Thus recite it together with its nenefits."
+    },
+    "2-62": {
+      "bo": "ཐལ་མོ་སྦྱར་ལ།",
+      "en": "Then joining your palms, recite:"
+    },
+    "2-69": {
+      "bo": "ཅེས་འདོད་པའི་དོན་ལ་གསོལ་བ་ཁྱད་པར་དུ་བཏབ་ཅིང༌ཐུགས་དམ་བསྐུལ་བས།",
+      "en": "With this extraordinary prayer for your desired aims, invoke the oath."
+    },
+    "2-71": {
+      "bo": "ཅེས་རང་ཉིད་འཕགས་མའི་གསལ་སྣང་དང་ང་རྒྱལ་ལ་སེམས་བཟུང་སྟེ་ཡི་གེ་བཅུ་པའི་བཟླས་པ་ཅི་འགྲུབ་བཟླ།",
+      "en": "While you keep in mind the vivid presence and pride of being the Noble Lady yourself, recite the ten syllable mantra as many times as you can."
+    },
+    "2-73": {
+      "bo": "ཡིག་བརྒྱ་བཟླ།",
+      "en": "Then recite the hundred-syllable mantra."
+    },
+    "2-77": {
+      "bo": "ཅེས་གནས་ལུགས་ཀྱི་ལྟ་བ་བསྐྱང༌།",
+      "en": "Thus, foster the view of the true nature."
+    },
+    "2-79": {
+      "bo": "ཅེས་བསྔོ་སྨོན་བྱ།",
+      "en": "Dedicate the merit and make noble aspirations."
+    },
+    "2-81": {
+      "bo": "ཅེས་སོགས་ཤིས་པ་བརྗོད་ལ་མེ་ཏོག་འཐོར་རོ། །",
+      "en": "With that, utter verses of auspiciousness and toss flowers."
+    },
+    "a-36": {
+      "bo": "ཅེས་ཡོན་ཏན་རྒྱ་མཚོ་བདག་རང་ལོ་སུམ་ཅུ་པར་བྲོ་ནད་ཚབ་པོ་ཆེས་ཉེན་ཅིང་རྒྱལ་ཁམས་སུའང་སྙིགས་མའི་རྒུད་པ་མངོན་དུ་གྱུར་པའི་སྐབས་གསོལ་བ་ཅི་དྲན་དུ་བཏབ་པ་དཀོན་མཆོག་གསུམ་གྱི་བདེན་པས་འགྲུབ་པར་གྱུར་ཅིག། །།",
+      "en": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)"
+    },
+    "b-9": {
+      "bo": "ཅེས་པའང་ལྷག་པའི་ལྷ་མོ་འདི་ཉིད་ལ་གཅིག་ཏུ་གུས་པ་འཇམ་དབྱངས་མཁྱེན་བརྩེ་དབང་པོས་གསོལ་བ་བཏབ་པ་དེ་དེ་བཞིན་དུ་འགྲུབ་པར་གྱུར་ཅིག  །།",
+      "en": "Jamyang Khyentse Wangpo, who has one-pointed, heartfelt devotion for the supreme female deity, composed this prayer. May it be accomplished accordingly!"
+    },
+    "c-10": {
+      "bo": "ཞེས་པའང་མང་དུ་གཟིགས་པའི་སྤྱན་ཡངས་འགྱུར་མེད་རྣམ་དག་གི་ཆེད་དུ། འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོས་འཕགས་མ་སྙིང་རྗེའི་ཟླ་བ་ལ་ཚིགས་སུ་བཅད་པ་བཀྲ་ཤིས་པའི་གྲངས་ཀྱིས་ཕྱག་བཙལ་ཞིང་གསོལ་བ་བཏབ་པ་སིདྡྷི་རསྟུ།། །།",
+      "en": "For the sake of Gyurme Namdak, one whose expansive vision is rich with insight, Jamyang Khyentse Wangpo composed an auspicious number of verses in homage and supplication to the Noble Lady, Moon of Compassion."
+    },
+    "d-10": {
+      "bo": "ཅེས་པའང་དུས་ཀྱི་རྒུད་པས་སྐྲག་པའི་ཡིད་ཅན་རྣམས་དབུགས་དབྱུང་བའི་སླད་དུ་གསོལ་འདེབས་ཤིས་བརྗོད་ཀྱི་མེ་ཏོག་ཅུང་ཟད་འཐོར་བ་པོ་ནི་རིག་པ་འཛིན་པ་མཉྫུ་གྷོ་ཥ་སྟེ་ཇི་ལྟར་སྨོན་པ་བཞིན་དུ་འགྲུབ་པར་བྱིན་གྱིས་བསླབ་ཏུ་གསོལ། །སརྦ་དཱ་ཤྲེ་ཡོ་བྷ་བ་ཏུ།། །།",
+      "en": "These small flowers of auspicious supplication were scattered by the vidyādhara Mañjughoṣa to grant some relief to those living in dread of the decline of these dark times. Grant your blessings that these aspirations be fulfilled! Sarvadā śreyo bhavatu."
+    },
+    "e-16": {
+      "bo": "ཅེས་པའང་ཆོས་ཀྱི་བློ་གྲོས་པས་འཕགས་ཡུལ་རྡོ་རྗེ་གདན་གྱི་བྱང་ཆུབ་ཤིང་དྲུང་དུ་གང་དྲན་ཤར་མར་བྲིས་པ་འདི་བཞིན་འགྲུབ་པར་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། སརྦ་དཱ་མངྒ་ལཾ།། །།",
+      "en": "Chökyi Lodrö wrote down whatever came to mind at the foot of the bodhi tree in Vajrāsana (Bodhgayā) in the noble land of India. May these words be blessed so that they all come true. Sarvadā maṅgalaṃ! Translated by Adam Pearcey, 2007."
+    },
+    "g-3": {
+      "bo": "ཅེས་སོགས་དུས་སྐབས་དང་འབྲེལ་བའི་སྨོན་ལམ་དང་བཀྲ་ཤིས་ཀྱི་རིམ་པ་ཇི་ལྟར་རིགས་པ་རྒྱ་ཆེར་སྤེལ་བས་བདེ་ལེགས་སུ་བྱའོ། །",
+      "en": "Thus, aspirations and auspicious verses such as these, connected with the occasion, should be widely extended as appropriate, for well-being."
+    },
+    "g-5": {
+      "bo": "ཅེས་མཁན་ཆེན་ཀུན་དགའ་དབང་ཕྱུག་གིས་སོ། །",
+      "en": "Composed by Khenchen Kunga Wangchuk."
+    },
+    "g-7": {
+      "bo": "ཀུན་མཁྱེེན་དོལ་པོོའིི་གསུང་ངོ༌། །",
+      "en": "The words of the omniscient Dolpopa."
+    }
+  }
+}

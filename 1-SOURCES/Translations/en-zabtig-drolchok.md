@@ -169,7 +169,7 @@ May all beings swiftly attain omniscience. ^I-16
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^I-17]]
 
-<small>This prayer in fifteen stanzas to the Bhagavān King of Śākyas was composed by the glorious Sakya Paṇḍita at the Tsuklagkhang in Lhasa. Translated by Christian Bernert.</small> ^I-17
+This prayer in fifteen stanzas to the Bhagavān King of Śākyas was composed by the glorious Sakya Paṇḍita at the Tsuklagkhang in Lhasa. Translated by Christian Bernert. ^I-17
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^II-0]]
 
@@ -198,7 +198,7 @@ To you I pray, grant me siddhis, common and supreme! ^II-3
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^II-4]]
 
-<small>Addition</small> ^II-4
+Addition ^II-4
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^II-5]]
 
@@ -209,7 +209,7 @@ To you I pray, grant me siddhis, common and supreme! ^II-5
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^II-6]]
 
-<small>Composed by Mangala</small> ^II-6
+Composed by Mangala ^II-6
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^II-7]]
 
@@ -227,7 +227,7 @@ That are the benefit of self and others, spontaneously fulfilled! ^II-8
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^II-9]]
 
-<small>This was written by Pema Dongak Lingpa on the request of Karma Khyentse Rabgye. May goodness abound! Rigpa Translations, 2014. Revised 2020 & 2025.</small> ^II-9
+This was written by Pema Dongak Lingpa on the request of Karma Khyentse Rabgye. May goodness abound! Rigpa Translations, 2014. Revised 2020 & 2025. ^II-9
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^III-0]]
 
@@ -242,7 +242,7 @@ Grant the supreme and common accomplishments! ^III-1
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^III-2]]
 
-<small>Composed by Shechen Kongtrul.</small> ^III-2
+Composed by Shechen Kongtrul. ^III-2
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-0]]
 
@@ -254,18 +254,18 @@ Namo Gurvya aryatarayai! ^1-1
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-2]]
 
-<small>In honor of Tara, mother to all the guides</small>
-<small>And their heirs in all three times—</small>
-<small>She who has wonderful resolve and activity—</small>
-<small>I set out here the practice according to Kriya and Carya.</small> ^1-2
+In honor of Tara, mother to all the guides
+And their heirs in all three times—
+She who has wonderful resolve and activity—
+I set out here the practice according to Kriya and Carya. ^1-2
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-3]]
 
-<small>Since this Profound Essence is a condensation of every quintessential profundity, it is not necessary to resort to much elaboration. Nevertheless there are two degrees of detail: one slightly elaborate and the other as a daily practice.</small> ^1-3
+Since this Profound Essence is a condensation of every quintessential profundity, it is not necessary to resort to much elaboration. Nevertheless there are two degrees of detail: one slightly elaborate and the other as a daily practice. ^1-3
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-4]]
 
-<small>For the first, in front of a painting or statue of the noble Lady Tara, or whatever image of the Three Jewels you can acquire, arrange, on a clean surface, the two waters, the general offerings, the round white torma, the cleansing water, the offering mandala, grain for tossing, and other articles. If you can, keep the conduct of bathing and cleanliness. If unable to do that, at least perform the practice when you have not consumed meat or alcohol, such as in the morning. With an attitude of renunciation and bodhicitta, recite these verses of refuge and bodhicitta:</small> ^1-4
+For the first, in front of a painting or statue of the noble Lady Tara, or whatever image of the Three Jewels you can acquire, arrange, on a clean surface, the two waters, the general offerings, the round white torma, the cleansing water, the offering mandala, grain for tossing, and other articles. If you can, keep the conduct of bathing and cleanliness. If unable to do that, at least perform the practice when you have not consumed meat or alcohol, such as in the morning. With an attitude of renunciation and bodhicitta, recite these verses of refuge and bodhicitta: ^1-4
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-5]]
 
@@ -280,7 +280,7 @@ I will enter the profound path! ^1-6
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-7]]
 
-<small>To gather the accumulations, recite:</small> ^1-7
+To gather the accumulations, recite: ^1-7
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-8]]
 
@@ -333,7 +333,7 @@ Become a splendid guide for sentient beings. ^1-14
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-15]]
 
-<small>To bless the offerings:</small> ^1-15
+To bless the offerings: ^1-15
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-16]]
 
@@ -345,7 +345,7 @@ om sobhava shuddho sarva dharma sobhava shuddho hang ^1-17
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-18]]
 
-<small>Thereby cleanse and purify.</small> ^1-18
+Thereby cleanse and purify. ^1-18
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-19]]
 
@@ -364,7 +364,7 @@ om benza saparana kham ^1-21
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-22]]
 
-<small>Following that, begin with honoring and making offerings to the Three Jewels in general:</small> ^1-22
+Following that, begin with honoring and making offerings to the Three Jewels in general: ^1-22
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-23]]
 
@@ -383,7 +383,7 @@ pema kamala ya stam ^1-25
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-26]]
 
-<small>Next recite the Seven Branch Prayer:</small> ^1-26
+Next recite the Seven Branch Prayer: ^1-26
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-27]]
 
@@ -471,7 +471,7 @@ I dedicate it all to the enlightenment of beings! ^1-38
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-39]]
 
-<small>And thus:</small> ^1-39
+And thus: ^1-39
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-40]]
 
@@ -496,7 +496,7 @@ om guru deva dakini sarva ratna mandala pudza megha ah hung༔ ^1-42
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-43]]
 
-<small>With this, offer the mandala.</small> ^1-43
+With this, offer the mandala. ^1-43
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-44]]
 
@@ -528,11 +528,11 @@ Be accomplished in harmony with the Dharma!༔ ^1-47
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-48]]
 
-<small>With that, the desired aims are requested. </small> ^1-48
+With that, the desired aims are requested.  ^1-48
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-49]]
 
-<small>Next, present the specific offering three times to the Noble Lady and recite the praises</small> ^1-49
+Next, present the specific offering three times to the Noble Lady and recite the praises ^1-49
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-50]]
 
@@ -578,7 +578,7 @@ om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naivid
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-57]]
 
-<small>With this, invite the deities and make offerings.</small> ^1-57
+With this, invite the deities and make offerings. ^1-57
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-58]]
 
@@ -593,7 +593,7 @@ om sarva tathagata ratna mandala pudza ho ^1-59
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-60]]
 
-<small>With that, make the specific mandala offering and recite the King of Praises</small> ^1-60
+With that, make the specific mandala offering and recite the King of Praises ^1-60
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-61]]
 
@@ -760,11 +760,11 @@ Is, in itself, the root mantra. ^1-84
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-85]]
 
-<small>Recite twice.</small> ^1-85
+Recite twice. ^1-85
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-86]]
 
-<small>Then again.</small> ^1-86
+Then again. ^1-86
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-87]]
 
@@ -779,7 +779,7 @@ om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naivid
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-89]]
 
-<small>With this, invite the deities and make offerings.</small> ^1-89
+With this, invite the deities and make offerings. ^1-89
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-90]]
 
@@ -794,7 +794,7 @@ om sarva tathagata ratna mandala pudza ho ^1-91
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-92]]
 
-<small>With that, make the specific mandala offering. </small> ^1-92
+With that, make the specific mandala offering.  ^1-92
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-93]]
 
@@ -805,7 +805,7 @@ Relieving us of every kind of fear.༔ ^1-93
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-94]]
 
-<small>While imagining this.</small> ^1-94
+While imagining this. ^1-94
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-95]]
 
@@ -972,11 +972,11 @@ Is, in itself, the root mantra. ^1-118
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-119]]
 
-<small>Recite three times.</small> ^1-119
+Recite three times. ^1-119
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-120]]
 
-<small>Then again.</small> ^1-120
+Then again. ^1-120
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-121]]
 
@@ -991,7 +991,7 @@ om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naivid
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-123]]
 
-<small>With this, invite the deities and make offerings.</small> ^1-123
+With this, invite the deities and make offerings. ^1-123
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-124]]
 
@@ -1006,7 +1006,7 @@ om sarva tathagata ratna mandala pudza ho ^1-125
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-126]]
 
-<small>With that, make the specific mandala offering.</small> ^1-126
+With that, make the specific mandala offering. ^1-126
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-127]]
 
@@ -1017,7 +1017,7 @@ So that we receive all her blessings without exception.༔ ^1-127
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-128]]
 
-<small>While imagining this, chant the Homage in Twenty-One Verses</small> ^1-128
+While imagining this, chant the Homage in Twenty-One Verses ^1-128
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-129]]
 
@@ -1184,7 +1184,7 @@ Is, in itself, the root mantra. ^1-152
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-153]]
 
-<small>Seven times.</small> ^1-153
+Seven times. ^1-153
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-154]]
 
@@ -1228,15 +1228,15 @@ Obstacles will vanish, and every problem will be overcome. ^1-159
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-160]]
 
-<small>Thus recite it together with its nenefits.</small> ^1-160
+Thus recite it together with its nenefits. ^1-160
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-161]]
 
-<small>Torma Offering</small> ^1-161
+Torma Offering ^1-161
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-162]]
 
-<small>Sanctify the torma with the following:</small> ^1-162
+Sanctify the torma with the following: ^1-162
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-163]]
 
@@ -1244,7 +1244,7 @@ om benza amrita kundali hana hana hung pé ^1-163
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-164]]
 
-<small>And purify it with:</small> ^1-164
+And purify it with: ^1-164
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-165]]
 
@@ -1263,7 +1263,7 @@ om ah hung༔ ^1-167
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-168]]
 
-<small>Three times.</small> ^1-168
+Three times. ^1-168
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-169]]
 
@@ -1271,7 +1271,7 @@ om arya taré sapariwara idam balingta kha kha khahi khahi ^1-169
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-170]]
 
-<small>Recite the above mantra three times— to make the offering to the principal Lady.</small> ^1-170
+Recite the above mantra three times— to make the offering to the principal Lady. ^1-170
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-171]]
 
@@ -1279,7 +1279,7 @@ om akaro mukham sarva dharma nam adya nutpanen totta om ah hung pé soha ^1-171
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-172]]
 
-<small>Recite this mantra, also, three times— to make the offering to all the guests.</small> ^1-172
+Recite this mantra, also, three times— to make the offering to all the guests. ^1-172
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-173]]
 
@@ -1290,7 +1290,7 @@ And bestow all accomplishments without exception!༔ ^1-173
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-174]]
 
-<small>Pray like this for the fulfillment of your wishes.</small> ^1-174
+Pray like this for the fulfillment of your wishes. ^1-174
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-175]]
 
@@ -1298,7 +1298,7 @@ om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naivid
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-176]]
 
-<small>Thus make offerings with this mantra.</small> ^1-176
+Thus make offerings with this mantra. ^1-176
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-177]]
 
@@ -1316,11 +1316,11 @@ Always I will offer you honor and praise. ^1-178
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-179]]
 
-<small>Thus offer praises. </small> ^1-179
+Thus offer praises.  ^1-179
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-180]]
 
-<small>Then joining your palms, recite:</small> ^1-180
+Then joining your palms, recite: ^1-180
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-181]]
 
@@ -1366,7 +1366,7 @@ Let us be indivisible from you! ^1-186
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-187]]
 
-<small>With this extraordinary prayer for your desired aims, invoke the oath.</small> ^1-187
+With this extraordinary prayer for your desired aims, invoke the oath. ^1-187
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-188]]
 
@@ -1377,7 +1377,7 @@ Visible yet insubstantial. ^1-188
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-189]]
 
-<small>While you keep in mind the vivid presence and pride of being the Noble Lady yourself, recite the ten syllable mantra as many times as you can.</small> ^1-189
+While you keep in mind the vivid presence and pride of being the Noble Lady yourself, recite the ten syllable mantra as many times as you can. ^1-189
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-190]]
 
@@ -1385,7 +1385,7 @@ om taré tuttaré turé soha ^1-190
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-191]]
 
-<small>Then recite the hundred-syllable mantra.</small> ^1-191
+Then recite the hundred-syllable mantra. ^1-191
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-192]]
 
@@ -1411,11 +1411,11 @@ om supratishta benza yé soha ^1-195
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-196]]
 
-<small>Thus, scatter flowers and offer the request to remain.</small> ^1-196
+Thus, scatter flowers and offer the request to remain. ^1-196
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-197]]
 
-<small>If there is no support,</small> ^1-197
+If there is no support, ^1-197
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-198]]
 
@@ -1430,7 +1430,7 @@ benza muh ^1-199
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-200]]
 
-<small>Thus, let the invited deities to depart.</small> ^1-200
+Thus, let the invited deities to depart. ^1-200
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-201]]
 
@@ -1439,7 +1439,7 @@ I settle within the original state of dharmadhatu. ^1-201
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-202]]
 
-<small>Thus, foster the view of the true nature.</small> ^1-202
+Thus, foster the view of the true nature. ^1-202
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-203]]
 
@@ -1450,7 +1450,7 @@ Without a single exception, to that very same state. ^1-203
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-204]]
 
-<small>Dedicate the merit and make noble aspirations.</small> ^1-204
+Dedicate the merit and make noble aspirations. ^1-204
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-205]]
 
@@ -1461,7 +1461,7 @@ Bestow the auspiciousness that we may be forever nurtured by your compassion. ^1
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-206]]
 
-<small>With that, utter verses of auspiciousness and toss flowers.</small> ^1-206
+With that, utter verses of auspiciousness and toss flowers. ^1-206
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-207]]
 
@@ -1532,7 +1532,7 @@ And make the Dharma and auspiciousness increase! ^1-215
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-1]]
 
-<small>Second, the daily practice. It is good if a support of the Noble Lady is available; if not, visualize it mentally. Arrange the mandala and offerings.</small> ^2-1
+Second, the daily practice. It is good if a support of the Noble Lady is available; if not, visualize it mentally. Arrange the mandala and offerings. ^2-1
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-2]]
 
@@ -1547,7 +1547,7 @@ I will enter the profound path! ^2-3
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-4]]
 
-<small>To gather the accumulations, recite:</small> ^2-4
+To gather the accumulations, recite: ^2-4
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-5]]
 
@@ -1600,7 +1600,7 @@ Become a splendid guide for sentient beings. ^2-11
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-12]]
 
-<small>To bless the offerings:</small> ^2-12
+To bless the offerings: ^2-12
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-13]]
 
@@ -1612,7 +1612,7 @@ om sobhava shuddho sarva dharma sobhava shuddho hang ^2-14
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-15]]
 
-<small>Thereby cleanse and purify.</small> ^2-15
+Thereby cleanse and purify. ^2-15
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-16]]
 
@@ -1673,7 +1673,7 @@ om arya taré sapariwara benza argham padam pushpé düpé aloké gendhé naivid
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-26]]
 
-<small>With this, invite the deities and make offerings.</small> ^2-26
+With this, invite the deities and make offerings. ^2-26
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-27]]
 
@@ -1688,7 +1688,7 @@ om sarva tathagata ratna mandala pudza ho ^2-28
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-29]]
 
-<small>With that, make the specific mandala offering and recite the King of Praises</small> ^2-29
+With that, make the specific mandala offering and recite the King of Praises ^2-29
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-30]]
 
@@ -1855,7 +1855,7 @@ Is, in itself, the root mantra. ^2-53
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-54]]
 
-<small>Recite even times.</small> ^2-54
+Recite even times. ^2-54
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-55]]
 
@@ -1899,11 +1899,11 @@ Obstacles will vanish, and every problem will be overcome. ^2-60
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-61]]
 
-<small>Thus recite it together with its nenefits.</small> ^2-61
+Thus recite it together with its nenefits. ^2-61
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-62]]
 
-<small>Then joining your palms, recite:</small> ^2-62
+Then joining your palms, recite: ^2-62
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-63]]
 
@@ -1949,7 +1949,7 @@ Let us be indivisible from you! ^2-68
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-69]]
 
-<small>With this extraordinary prayer for your desired aims, invoke the oath.</small> ^2-69
+With this extraordinary prayer for your desired aims, invoke the oath. ^2-69
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-70]]
 
@@ -1960,7 +1960,7 @@ Visible yet insubstantial. ^2-70
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-71]]
 
-<small>While you keep in mind the vivid presence and pride of being the Noble Lady yourself, recite the ten syllable mantra as many times as you can.</small> ^2-71
+While you keep in mind the vivid presence and pride of being the Noble Lady yourself, recite the ten syllable mantra as many times as you can. ^2-71
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-72]]
 
@@ -1968,7 +1968,7 @@ om taré tuttaré turé soha ^2-72
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-73]]
 
-<small>Then recite the hundred-syllable mantra.</small> ^2-73
+Then recite the hundred-syllable mantra. ^2-73
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-74]]
 
@@ -1988,7 +1988,7 @@ I settle within the original state of dharmadhatu. ^2-76
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-77]]
 
-<small>Thus, foster the view of the true nature.</small> ^2-77
+Thus, foster the view of the true nature. ^2-77
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-78]]
 
@@ -1999,7 +1999,7 @@ Without a single exception, to that very same state. ^2-78
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-79]]
 
-<small>Dedicate the merit and make noble aspirations.</small> ^2-79
+Dedicate the merit and make noble aspirations. ^2-79
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-80]]
 
@@ -2010,7 +2010,7 @@ Bestow the auspiciousness that we may be forever nurtured by your compassion. ^2
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-81]]
 
-<small>With that, utter verses of auspiciousness and toss flowers.</small> ^2-81
+With that, utter verses of auspiciousness and toss flowers. ^2-81
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^2-82]]
 
@@ -2326,7 +2326,7 @@ And grant your grace so I bring the twofold benefit to completion! ^a-35
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^a-36]]
 
-<small>At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)</small> ^a-36
+At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek) ^a-36
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^b-0]]
 
@@ -2387,7 +2387,7 @@ I may accomplish the twofold benefit—for myself and others. ^b-8
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^b-9]]
 
-<small>Jamyang Khyentse Wangpo, who has one-pointed, heartfelt devotion for the supreme female deity, composed this prayer. May it be accomplished accordingly! </small> ^b-9
+Jamyang Khyentse Wangpo, who has one-pointed, heartfelt devotion for the supreme female deity, composed this prayer. May it be accomplished accordingly!  ^b-9
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^c-0]]
 
@@ -2455,7 +2455,7 @@ Spreading an abundant feast of joy and benefit. ^c-9
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^c-10]]
 
-<small>For the sake of Gyurme Namdak, one whose expansive vision is rich with insight, Jamyang Khyentse Wangpo composed an auspicious number of verses in homage and supplication to the Noble Lady, Moon of Compassion. </small> ^c-10
+For the sake of Gyurme Namdak, one whose expansive vision is rich with insight, Jamyang Khyentse Wangpo composed an auspicious number of verses in homage and supplication to the Noble Lady, Moon of Compassion.  ^c-10
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^d-0]]
 
@@ -2523,7 +2523,7 @@ And thus may the beautiful picture of all desired aims be perfected. ^d-9
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^d-10]]
 
-<small>These small flowers of auspicious supplication were scattered by the vidyādhara Mañjughoṣa to grant some relief to those living in dread of the decline of these dark times. Grant your blessings that these aspirations be fulfilled! Sarvadā śreyo bhavatu.</small> ^d-10
+These small flowers of auspicious supplication were scattered by the vidyādhara Mañjughoṣa to grant some relief to those living in dread of the decline of these dark times. Grant your blessings that these aspirations be fulfilled! Sarvadā śreyo bhavatu. ^d-10
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^e-0]]
 
@@ -2636,7 +2636,7 @@ And may the victory banner of the teachings be raised in all directions! ^e-15
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^e-16]]
 
-<small>Chökyi Lodrö wrote down whatever came to mind at the foot of the bodhi tree in Vajrāsana (Bodhgayā) in the noble land of India. May these words be blessed so that they all come true. Sarvadā maṅgalaṃ! Translated by Adam Pearcey, 2007.</small> ^e-16
+Chökyi Lodrö wrote down whatever came to mind at the foot of the bodhi tree in Vajrāsana (Bodhgayā) in the noble land of India. May these words be blessed so that they all come true. Sarvadā maṅgalaṃ! Translated by Adam Pearcey, 2007. ^e-16
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^f-0]]
 
@@ -2683,7 +2683,7 @@ May your teachings spread and increase—may there be auspiciousness! ^g-2
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^g-3]]
 
-<small>Thus, aspirations and auspicious verses such as these, connected with the occasion, should be widely extended as appropriate, for well-being.</small> ^g-3
+Thus, aspirations and auspicious verses such as these, connected with the occasion, should be widely extended as appropriate, for well-being. ^g-3
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^g-4]]
 
@@ -2694,7 +2694,7 @@ May your lotus feet remain firm and your activity increase! ^g-4
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^g-5]]
 
-<small>Composed by Khenchen Kunga Wangchuk.</small> ^g-5
+Composed by Khenchen Kunga Wangchuk. ^g-5
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^g-6]]
 
@@ -2706,4 +2706,4 @@ May at least a little of it weigh on my mind. ^g-6
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^g-7]]
 
-<small>The words of the omniscient Dolpopa.</small> ^g-7
+The words of the omniscient Dolpopa. ^g-7
