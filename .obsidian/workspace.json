@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/Zh-The-Twenty-One-Praises-To-Tara.md",
+                "file": "3-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-1 Tara Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zh-The-Twenty-One-Praises-To-Tara"
+              "title": "Day-1 Tara Plan"
             }
           }
         ],
@@ -212,7 +212,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "09aced457f09c9a3",
   "lastOpenFiles": [
     "1-SOURCES/Translations/Zh-The-Twenty-One-Praises-To-Tara.md",
     "conflict-files-obsidian-git.md",
