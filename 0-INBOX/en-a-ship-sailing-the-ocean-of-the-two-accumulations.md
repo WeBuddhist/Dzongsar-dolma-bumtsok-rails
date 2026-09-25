@@ -37,6 +37,10 @@ The Mandala, Essence of the Two Accumulations,
 Ushered by the dawn-break of the thought of helping others,
 The sun of Tara's elegant teachings here will rise.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-1]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-2]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-3]]
+
 This sadhana of Queen Mother Arya Tara, the embodiment of the enlightened activity of all the conquerors of the three times is based on the mandala ritual and is an unsurpassed method for purification and amassing the two Accumulations. There are a great many practitioners with devotion for this sadhana, commonly known as the “The Tara Ritual of Four Mandalas.” With their benefit in mind, I will write a short word commentary in three sections: the preparation, the main body of practice, and the conclusion.
 
 ## 1. Preparation ^1-0
@@ -67,11 +71,15 @@ The Summary of Sutras states, “Good disciples, respectful to their masters, sh
 
 ### 1.3 Materials ^1-3-0
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-4]]
+
 Clean your place of practice and make it pleasant. At first, if you have them, arrange representations of the Buddha's body, speech, and mind as a general support and, in particular, a statue or painting of Tara of good quality and correct proportions that has been consecrated. You should place on your altar a mandala made from precious metal, such as gold, silver, or copper, with a heap of grains. Although in this ritual of four mandala offerings it's said that one needs four mandalas, one for the Three Jewels in general and three to offer to Tara, one mandala will suffice for the practice. You should pleasantly and neatly arrange a kardum (a round, white torma made of the three whites[^3] and the three sweets[^4]), drinking water, water for washing feet, flowers, incense, butter lamps, scented water, food, musical instruments, and so on—whatever you can get. Likewise, collect other offerings, such as a parasol, victory banner, canopy, purification water, and grains to toss. As this practice is according to kriya tantra, you should bathe and keep things tidy and clean, if possible. If not, you should practice in the early part of the day when you have not yet been tainted by meat or alcohol.
 
 ## 2. The Main Practice ^2-0
 
 ### 2.1 Refuge ^2-1-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-5]]
 
 First you go for refuge with a single-minded attitude of faith and devotion. The gateway to all Buddhist paths is refuge. Particularly in the Mahayana tradition, the root of the path is the generation of bodhicitta. Therefore, in the beginning you should go for refuge and generate bodhicitta.
 
@@ -80,6 +88,9 @@ In the space before me is the Holy Lady manifest.
 Firmly believing that Tara is really there, envision the objects of refuge as follows. In the space before you, in the center of clouds of offerings, rainbow light, and flowers, upon a lotus and a full moon disc, imagine that the essence of all the objects of refuge is manifest in the aspect of the Holy Lady Arya Tara. The embodiment of love and compassion, she is beautiful with a turquoise radiance. She is adorned with various ornaments and her lovely face bears a smile. She bears witness to your taking refuge. It is the nature of things that if one envisions the buddhas with single-minded faith and devotion, they will actually come. As mentioned in the sutras, “The Lord of Sages will always remain before whosoever turns her mind towards him.”
 
 Therefore, leading all other sentient beings before the refuge Arya Tara, with tremendous devotion, go for refuge with your three doors: prostrate respectfully with your body, supplicate respectfully with your speech, and respectfully give rise to faith with your mind.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-6]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-7]]
 
 Namo! I and all sentient beings go for refuge
 To the Holy Lady, Three Jewels' embodiment.
@@ -99,6 +110,9 @@ These two lines represent the generation of bodhicitta, the mind of enlightenmen
 
 #### 2.3.1 Homage ^2-3-1-0
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-8]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-9]]
+
 With total faith I pay homage
 To Holy Arya Tara and
 All the conquerors and their heirs
@@ -107,6 +121,8 @@ In ten directions and three times.
 You and all sentient beings are the ones paying homage. They to whom you pay homage are the twenty-one Taras, all gurus, and the conquerors together with their heirs that dwell in all times, in all places, in all directions. The ten directions are the four cardinal directions, the four ordinal directions, above, and below. The three times are past, present, and future, but for brevity's sake we say, “in all times, in all places, in all directions.” You prostrate single-mindedly with total faith and devotion to the objects of homage. The “total” in “total faith” refers to the manner in which you pay homage: with all three doors of body, speech and mind. Homage is the antidote to the affliction of pride.
 
 #### 2.3.2 Offering ^2-3-2-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-10]]
 
 I make offerings, real and mental,
 Of flowers, incense, butter lamps,
@@ -117,6 +133,8 @@ You should offer whatever you may have, such as flowers, incense, and so forth. 
 
 #### 2.3.3 Confession ^2-3-3-0
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-11]]
+
 I confess all misdeeds I have done,
 My mind beneath the power of afflictions,
 From time beginningless until right now,
@@ -125,6 +143,8 @@ The ten nonvirtues and five immediates.[^5]
 Before the supreme, holy field of merit, you and all other sentient beings confess the ten non-virtues, which you have been committing since beginningless time—the three non-virtues of the body (killing, stealing, and sexual misconduct), the four non-virtues of speech (lying, divisive speech, harsh speech, and meaningless chatter), the three non-virtues of the mind (covetousness, malice, and wrong view); also confess the five actions of immediate retribution (patricide, matricide, killing an arhat, creating schism in the Sangha, and drawing a buddha’s blood with bad intent) and afflictions like attachment, anger, pride, ignorance, hatred, jealousy, and so forth. In short, you confess all non-virtuous deeds, which are products of the afflictions. When you confess your misdeeds with the four powers and a strong sense of shame and regret, they will be purified. It is said, “The one good quality of misdeeds is that they will be purified if you confess them.” Confession is an antitode to misdeeds in general, but mainly to hatred.
 
 #### 2.3.4 Rejoicing ^2-3-4-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-12]]
 
 I rejoice in all merits and virtues
 Collected in the three times by
@@ -145,6 +165,8 @@ Rejoicing is the antidote to jealousy. There is no good reason to be jealous and
 
 #### 2.3.5 Prayer to Turn the Wheel of Dharma ^2-3-5-0
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-13]]
+
 In accordance with the different minds
 And mentalities of sentient beings,
 Please turn the wheel of Dharma of
@@ -153,6 +175,8 @@ The greater, lesser, and common vehicles.
 Thus pray that the buddhas, bodhisattvas, gurus, and spiritual friends turn the wheel of Dharma of the Mahayana and the Hinayana, giving every kind of teaching specifically according to the dispositions, interests, and different mentalities of the beings who are to be tamed.
 
 #### 2.3.6 Prayer Not to Pass into Nirvana ^2-3-6-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-14]]
 
 I beseech you, do not pass into
 Nirvana until samsara empties out,
@@ -163,6 +187,8 @@ Thus beseech the buddhas, bodhisattvas, gurus, and spiritual friends who wish to
 
 #### 2.3.7 Dedication ^2-3-7-0
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-15]]
+
 May whatever merit I have gathered
 All become the cause of enlightenment,
 And, without any more delay, may I
@@ -171,6 +197,11 @@ Become a glorious guide for wanderers.
 “Whatever merit I have gathered” means the virtues that come from gathering merit and purifying obscurations by means of the seven branch prayer, which you have just recited. This merit stands for the collection of all the merit that you and everyone else have gathered throughout the three times. May all these roots of virtue become the cause of perfect enlightenment, and, without any more delay, may you become the protector, refuge, and guide who leads all sentient beings on the perfect path. Having attained the state of buddhahood, may you perform the benefit of beings for as long as space endures.
 
 ### 2.4 Offering ^2-4-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-16]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-17]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-18]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-19]]
 
 After completing the accumulations through the seven-branch prayer, bless the offerings with the mantra of the wrathful Amrita Kundali:
 
@@ -183,6 +214,10 @@ OM SO BHA WA SHÜD DHO SAR WA DHARMA SO BHA WA SHÜD DHO HAM
 Imagining that this mantra purifies the impure stains of greed and clinging to phenomena as real. Then sprinkling water, all outer and inner phenomena are purified into emptiness.
 
 Then:
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-20]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-21]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-22]]
 
 This place becomes the Lotus Arrangement Field
 Adorned with shapes in measureless array.
@@ -202,12 +237,18 @@ OM BENZA SAPARANA KAM
 
 The meaning of this mantra is “May the clouds of offerings, drinking water, etc. never be exhausted.”
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-23]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-24]]
+
 At the beginning of offering the four mandalas, you offer the first one to the Three Jewels in general. Just as with the homage and previous offerings, the object of the mandala offering is the field of merit. Recite the evocation:
 
 All gurus, conquerors, and their heirs of the ten directions and four times are in the space before
 me. BENZA SA MA DZA.
 
 The ten directions are the four cardinal directions, the four ordinal directions, above, and below. The four times are the conventional three times of the past, present, and future, plus the ultimate time— that is, the time of evenness that, by virtue of emptiness, the ultimate mode of being, is beyond all time. As you utter BENZA SAMADZA, the mantra of evocation, all the gurus and spiritual friends throughout the four times, who show us the faults to abandon and the qualities to accept; the buddhas who are victorious over the afflictions, the two obscurations, and the four maras; the heirs of the buddhas, the bodhisattvas; and the hearers and solitary buddhas appear in the space before you. Having uttered the mantra with single-minded faith and yearning, recite:
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-25]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-26]]
 
 Protectors of all sentient beings without exception,
 Deities who overcome the maras and their hosts,
@@ -220,6 +261,9 @@ For the benefit of others, the buddhas are the refuge and protectors of all sent
 
 First you pay homage:
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-27]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-28]]
+
 With purity in body, speech and mind
 I pay homage to all the lions of men,
 However many exist in the three times
@@ -228,6 +272,8 @@ In all the worlds that are in ten directions.
 “In all worlds that are in ten directions” means limitless. “In the three times” refers to the buddhas who came in the past, those who will come in the future, and those who are presently coming. “Lions of men” means that just as the lion is the supreme king of the animals, the buddhas are supreme among humans. “However many exist” means that you respectfully pay homage with body, speech, and mind to every buddha whatsoever.
 
 Then pay homage specifically with your body:
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-29]]
 
 By virtue of my aspiration to good conduct,
 May all the conquerors come clearly to my mind.
@@ -238,6 +284,8 @@ Here you pay homage to the buddhas, who are the conquerors of the maras, afflict
 
 Then pay homage with your mind:
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-30]]
+
 I imagine the assembled buddhas,
 As many as are atoms, on each atom,
 Abiding in the midst of all their heirs,
@@ -247,12 +295,17 @@ In the dharmata, buddhas equal in number to all the particles in existence, both
 
 Finally pay homage through speech:
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-31]]
+
 I proclaim the conquerors' qualities
 And sing the praises of the bliss-gone ones
 With all the sounds that fill an ocean of
 Diverse tunes, an endless sea of praise.
 
 Here you are paying homage with speech to the buddhas, who have obtained the result, the state of sugata, or bliss-gone one, by relying on the cause, the path of the ones gone to bliss. With a vast ocean of gentle melodies, sweet voices, and endless sounds, proclaim the profound qualities of all the conquerors and sing the sea of praises of all the bliss-gone ones.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-32]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-33]]
 
 The second branch, offering, has two aspects: ordinary offerings and extraordinary offerings. Concerning the ordinary offerings the text says:
 
@@ -268,6 +321,8 @@ And in the most resplendent of arrangements.
 
 Here you are offering to the assembly of the conquerors and their heirs beautiful flowers, precious garlands, sweet music, aromatic perfumes, parasols made from all kinds of fine materials, bright lamps, fragrant incense of both naturally occurring and prepared varieties and so forth. You also offer beautifully colored, fine, soft clothing, unguents of various sweet smells, and piles of powder made from saffron and sandalwood, as high as Mount Meru. Give all of these excellent offerings to the conquerors and their heirs in clean, pleasant, and beautiful arrangements.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-34]]
+
 Then, concerning the extraordinary offering, it says:
 
 For all the conquerors, I imagine
@@ -276,6 +331,8 @@ By virtue of my faith in wholesome conduct,
 I prostrate and make offerings to them.
 
 The offerings created through the aspirations and samadhi of the bodhisattvas, heirs of the conquerors, are the best of offerings. These offerings are incomparable because no other offerings can match them. Therefore, they extend unceasing throughout all directions and times. Pay homage and offer this vastness to all the conquerors through the power of your devotion and your faith in wholesome conduct.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-35]]
 
 The third branch concerns the confession of misdeeds:
 
@@ -286,6 +343,8 @@ I confess them, every one.
 
 Urged on by the three poisons—the cause, the afflictions of attachment, hatred, and delusion— whatever misdeeds of body, speech, or mind that you yourself have done, forced others to do, or rejoiced in others doing: confess them all, each and every one.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-36]]
+
 The fourth branch is rejoicing:
 
 I rejoice in all the merit of
@@ -294,6 +353,8 @@ Of lone buddhas, learners, no-more-learners,
 And every wanderer without exception.
 
 With an attitude of gladness and enthusiasm, you should rejoice in all the happiness, virtue, and merit of all beings whatsoever—of the conquerors dwelling in the ten directions; of the bodhisattvas, heart children of the buddhas; of the buddhas' speech-children: those arhats who are solitary buddhas and those who are hearers, and those who are learning and those who are no longer learning; and of wanderers or ordinary beings.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-37]]
 
 The fifth branch is the request to turn the wheel of Dharma:
 
@@ -304,6 +365,8 @@ You all to turn the matchless Dharma wheel.
 
 The conquerors are the lamps that perfectly show the path to beings in all the worlds of the ten directions, who are obscured by the dense darkness of ignorance about what to accept or reject. Request or supplicate all the protectors—the buddhas or blessed ones who traveled the path to enlightenment in stages and, without desire, gained the state of buddhahood—to turn the unsurpassed Dharma wheel.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-38]]
+
 The sixth branch is praying to the buddhas not to pass into nirvana:
 
 With palms conjoined, I pray to you who wish
@@ -312,6 +375,9 @@ For beings' benefit and happiness
 For eons many as atoms in the world.
 
 For the temporary benefit and ultimate happiness of all this world's wanderers to be tamed, press your palms together and with single-minded faith and yearning pray to those buddhas and bodhisattvas who wish to display their passing into nirvana not to do so, but to remain for eons equal in number to the particles in the world.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-39]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-40]]
 
 The seventh and final branch is dedication:
 
@@ -329,6 +395,9 @@ Now that you have made the offering of the seven branches, you make a mandala of
 OM AH HUNG
 
 Having been blessed in terms of purification, transformation, and increase[^7] by this life-force mantra of body, speech, and mind, offer the following.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-41]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-42]]
 
 I and sentient beings without count,
 Having emanated constantly
@@ -352,11 +421,20 @@ We offer them respectfully and always.
 This massive gathering of merit finished,
 May the light of primordial wisdom grow.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-43]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-44]]
+
 OM GÜRÜ DEWA DAKINI SARWA RATNA MANDALA PÜDZA MEGHA AH HÜNG
 
 You make offerings faithfully and respectfully with body, speech, and mind always, without ceasing. As you have now utterly completed the vast accumulation of merit—the method—may the light of the accumulation of primordial wisdom grow. In other words, in dependence on the immense gathering of merit you've amassed by offering the mandala, may the light of the primordial wisdom that realizes the mode of being of phenomena grow in your mindstream. Then, after reciting the mantra of the mandala offering, you should offer the mandala and toss some grains in the air. Generally speaking, the mandala offering is easy to do and yields huge benefit. It is the best way to complete the great accumulation of merit quickly. The sutras say, “Because they have merit, all their wishes are fulfilled.” Similarly, if you strive in the practice of the mandala, you will have longevity, merit, glory, wealth, power, and fame in this life. What's more, experience and realization, love and compassion will be born in your mindstream, and in future lives, you will have the short-term pleasure and comfort of the gods and humans in the higher realms. Then, gradually, with greater and greater realizations on the grounds and paths, you will at last obtain unimagined qualities, the matchless result of the two accumulations—the form body adorned with the marks of a buddha and the dharma body, which is the very essence of stainless primordial wisdom.
 
 Now pray before the supreme field of merit for the fulfillment of your goals.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-45]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-46]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-47]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-48]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-49]]
 
 NAMO
 Buddha, Dharma, Sangha, and
@@ -380,9 +458,14 @@ Namo means homage. The Buddha, Dharma, and Sangha are the Three Jewels. The guru
 
 Therefore pay homage and go for refuge wholeheartedly to them who are the refuge and protectors of all beings, who possess the wisdom of knowledge and measureless love and compassion. Offering your own and others' bodies, wealth, and roots of virtue, pray one-pointedly, “Always protect limitless sentient beings, especially my sponsors and all those connected to me, never letting them leave the sheltering wall of your compassion. Please quell all adverse circumstances, obstacles, and harm, and increase all favorable circumstances such as longevity and merit, wealth and fortune, glory and wisdom, faith and compassion. Please grant all my wishes without exception. Please grant me the blessing of accomplishment consistent with the Dharma, separate from bad karma and non-virtuous thoughts and deeds.”
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-50]]
+
 Then you make the three mandala offerings to Holy Tara and recite the praise. To start with, meditate on yourself as Holy Tara. When giving rise to the divine body, with your mind you envision that your body is not an ordinary body as it is now, but the body of the deity. There are two ways of doing this meditation. One is to meditate on the seed syllable, throne, and so forth in stages. The other is to create the visualization all at once, in an instant. Here we will follow the simultaneous method.
 
 First, purify your reification of the aggregates, dwelling place, and so on into emptiness. If this focal point of emptiness is stable, it will be very easy to meditate on the body of the deity. Although kriya tantra has the generation of the deity's body, it is said that this is not an authentic generation stage practice. But I will explain the general idea a bit here. In the context of meditation, the generation stage is typically explained in terms of three kinds of purity. The first is called “firm pride.” Whichever deity you are meditating on, firm pride is to think, when envisioning it, that you actually are that deity. The purity of “vivid aspects” is to envision clearly the deity's face, hands, and jewelry all together without getting them mixed up. Last of all, “perfect recall” means that once you know the reasons and need for all the jewelry and attire on the deity's body, you stay mindful of their significance. For example, deities of wrathful aspect are for taming cruel and hateful beings, animal-headed ones are the antidote that tames deluded beings, etc. You should know which of these are meant for taming which kinds of beings. Even if you cannot get the face, hands, and so on of the deity very clear, it is still appropriate to meditate with conviction[^8]. The point of meditating on the divine body is not just to receive blessings, it is mainly to purify from your mindstream your afflictions and attachment to the appearance of the ordinary world and its inhabitants, as well as to accomplish the Buddha's future form body.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-51]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-52]]
 
 Instantly upon recalling I
 Appear in Holy Tara's form complete.
@@ -396,6 +479,8 @@ After purifying all phenomena of subject and object into emptiness, then, from t
 
 Then pray with single-minded faith and yearning:
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-53]]
+
 TAM
 In the dharma body's unborn, lucid sphere,
 In the Arya's unimpeded wisdom body,
@@ -405,6 +490,9 @@ Come hither to me! ARYA TARE DZAH!
 TAM is the life-force mantra of Tara's name. It has the sense of calling out, “Oh Tara!” From the ultimate, unborn dharmadhatu, the sphere of the dharma body, Tara emerges in her unimpeded, compassionate, conventional form body or wisdom body[^10], the union of appearances and emptiness, an illusory web to tame beings according to their inclinations, dispositions, and so forth. Call on the wisdom body in the same form as you were meditating on earlier, praying for it to come to the place where you are. ARYA TARE DZAH is meant as an invitation to Tara. If you pray in this way to the personal deities, calling their names with single-minded faith and yearning, it is their nature to come, just as, for example, your friends will come quickly if you call their names.
 
 ### 2.6 Requesting the Deities to Remain ^2-6-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-54]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-55]]
 
 Out of love for me and wanderers
 And by the force of magical display,
@@ -417,6 +505,10 @@ Pray that Arya Tara, the Blessed One, will think of you and all wandering sentie
 PEMA KA MA LA SATAM being a mantra of prayer to remain, when you recite it, imagine that Tara gladly remains with you.
 
 ### 2.7 General Offering ^2-7-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-56]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-57]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-58]]
 
 OM
 I completely fill the dharmadhatu
@@ -431,6 +523,10 @@ OM means protection and blessing. Actual offerings of flowers, incense, butter l
 
 ### 2.8 Specific Mandala Offerings ^2-8-0
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-59]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-60]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-61]]
+
 OM AH HÜNG
 I offer you all, essence of compassion,
 The wealth of three realms, vessel and its contents,
@@ -442,6 +538,40 @@ OM AH HÜNG signifies offerings pleasing to Tara's body, speech, and mind. You o
 
 Then, having offered the first mandala, give praise to the twenty-one Taras. There are two praises to the twenty-one Taras. The first is the king of praises, which celebrates in twenty-one homages Holy Tara's qualities of body, speech, and mind as well as her enlightened activities. The second praises the twenty-one Taras individually. As you recite the praise, keep in mind that here you are mainly praising Green Tara in twenty-one homages. Recite it twice, then make the general offering again, beginning with “OM I completely fill the dharmadhatu . . . .” and going through the specific offering of the mandala that begins with “OM AH HUNG I offer you all . . . .” while understanding these verses as having the same meaning as before.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-62]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-63]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-64]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-65]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-66]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-67]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-68]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-69]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-70]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-71]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-72]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-73]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-74]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-75]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-76]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-77]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-78]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-79]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-80]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-81]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-82]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-83]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-84]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-85]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-86]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-87]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-88]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-89]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-90]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-91]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-92]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-93]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-94]]
+
 Her right hand, in the supreme giving mudra,
 Changes to the refuge-granting mudra.
 Gathering beneath it, I and all
@@ -451,6 +581,41 @@ Holy Tara's right hand, which is in the mudra of supreme giving, changes to the 
 
 Once again, recite “OM I completely fill the dharmadhatu . . . .” and make the third mandala offering, “OM AH HUNG I offer you all. . . .” thinking them to have the same meaning as before. Then:
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-95]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-96]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-97]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-98]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-99]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-100]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-101]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-102]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-103]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-104]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-105]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-106]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-107]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-108]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-109]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-110]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-111]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-112]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-113]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-114]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-115]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-116]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-117]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-118]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-119]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-120]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-121]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-122]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-123]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-124]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-125]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-126]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-127]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-128]]
+
 A stream of nectar flows down from her body,
 And enters through my own crown and the crowns
 Of all the beings under her protection,
@@ -459,6 +624,40 @@ Filling up our bodies with her blessings.
 A stream of very pure nectar, white in color, flows down from the tip of the big toe of Holy Tara's right foot. This stream, which is of the nature of blessing and compassion, falls and enters through the crown of your head and through the crowns all others under her protection. It cleanses and purifies all illnesses, spirits, misdeeds, and obscurations of the body; they leave your body and dissolve into the ground below. This nectar of blessing and compassion fills your body, and the blessings of Holy Tara's body, speech, and mind enter your mindstream. Meditating thus, recite the praise to the twenty-one Taras seven times.
 
 ### 2.9 The Benefits of Reciting Tara’s Praises ^2-9-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-129]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-130]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-131]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-132]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-133]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-134]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-135]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-136]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-137]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-138]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-139]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-140]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-141]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-142]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-143]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-144]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-145]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-146]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-147]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-148]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-149]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-150]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-151]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-152]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-153]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-154]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-155]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-156]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-157]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-158]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-159]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-160]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-161]]
 
 The learned who respect the goddess fully
 When rising first at the dawn, again at dusk,
@@ -499,6 +698,12 @@ In this ritual, you first recite Twenty-One Praises to Tara twice, later three t
 
 Next, sprinkle the torma with the purifying water and recite the mantra of the wrathful Amrita Kundali, which purifies obstacles and grants blessings.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-162]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-163]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-164]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-165]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-166]]
+
 OM BENZA AMRITA KÜNDALI HANA HANA HÜNG PET
 
 Then recite:
@@ -506,6 +711,14 @@ Then recite:
 OM SO BHA WA SHÜD DHO SAR WA DHARMA SO BHA WA SHÜD DHO HAM
 
 With this mantra imagine that the torma is purified into emptiness without reference point.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-167]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-168]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-169]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-170]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-171]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-172]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-173]]
 
 From emptiness's state the letter OM,
 From OM a vessel precious, vast, supreme,
@@ -527,6 +740,11 @@ OM AH HUNG PHEY SOHA
 
 Reciting this three times, make the offering to the retinue and the guests.[^11] Then pray for the fulfillment of aims.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-174]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-175]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-176]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-177]]
+
 OM
 With great primordial wisdom think
 Of this pure torma offering,
@@ -545,6 +763,8 @@ LO KAY / GEN DHE / NA WI DYA / SHAB DA TRA TI TSA SOHA
 
 Make offerings with drinking water, bathing water, flowers, incense, and so on.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-178]]
+
 OM
 Arisen from the face of Lokeshvara
 Of Amitabha's lotus family,
@@ -552,6 +772,10 @@ The Lady of all buddhas' activities—
 I prostrate and give praise to Arya Tara.
 
 Here you pay homage to Arya Tara and, mindful of her qualities, praise her who embodies the enlightened activities of all the three times' buddhas and who sprang from the tears of Avalokiteshvara, the lord and protector of all worlds, of Buddha Amitabha's lotus family of enlightened speech.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-179]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-180]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-181]]
 
 I give praise with utmost faith
 To them all who merit praise,
@@ -564,6 +788,8 @@ Moreover, envisioning emanated bodies equal in number to the atoms in all the la
 
 In prayer and aspiration, with ardent yearning and devotion, join your palms together:
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-182]]
+
 Holy Tara with your retinue,
 Think of me with objectless compassion.
 As I have prayed, bless me to achieve
@@ -573,6 +799,8 @@ Pray that the twenty-one Holy Taras and the gathering of buddhas and bodhisattva
 
 Then make the aspiration for the Buddha's teachings to spread.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-183]]
+
 May Buddha's teaching grow and spread, its holders
 Know harmony, their lotus feet be firm,[^12]
 All harmful obstacles be pacified,
@@ -581,6 +809,8 @@ And the works of teaching and practice grow.
 May the all-knowing Conqueror's precious teachings, the source of all happiness and benefit, pervade and grow in the farthest reaches of all directions. The holders of the Dharma hold the three spheres: reading the Buddha's teaching, which is the sphere of hearing and pondering; relinquishment, which is the sphere of meditation; and action, which is the sphere of dharmic activity. May they exert themselves for the teachings and for the sake of sentient beings and be in harmony with one another; may their lives, their lotus feet, long be firm. Thereby may all harmful obstacles—both to the Dharma holders' activities that benefit the teachings and beings, and to your own and others' accomplishment of the Dharma—be pacified completely. May the activities of teaching and practicing the precious teachings grow more and more—the scriptures or so-called three baskets of the Vinaya, Sutra, and Abhidharma, and the path or three trainings of discipline, meditative absorption, and wisdom.
 
 Next is the aspiration for joy and happiness in this world.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-184]]
 
 May sickness, famine, war, and strife be quelled,
 
@@ -592,6 +822,8 @@ May diseases—sicknesses of wind, bile, and phlegm—and calamitous obstacles�
 
 Next is the prayer for protection from fear and suffering.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-185]]
+
 Protect me from all horrors present and future,
 And from the sixteen fears, untimely death,
 From nightmares and from evil omens,
@@ -600,6 +832,8 @@ Samsara's sufferings and lower realms.
 Pray that you are protected from this present life's sufferings of body and mind, from the future horrors, both subtle and gross, of suffering in samsara, and from the sixteen fears of this life: fire, water, lions, elephants, snakes, flesh-eating demons, iron shackles, thieves, leprosy, famine, enemies, lightning, punishment by kings, separation from friends, failure, and evil spirits. Pray also for protection from portentous dreams, evil omens or signs during the daytime—in short, from every kind of inauspicious sign. Pray for protection in future lives from the sufferings of the lower realms of the hells, hungry ghosts, and animals.
 
 Then comes the particular aspiration for the generation of bodhicitta and so on.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-186]]
 
 May long life, merit, power, and experience
 And realization grow, unvirtuous thoughts not come;
@@ -610,6 +844,9 @@ May the short-term, worldly dharmas of longevity and merit, glory and fame, powe
 
 Next make the aspiration to never be separated from Holy Tara.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-187]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-188]]
+
 From now until the essence of enlightenment,
 Look on me inseparably with compassion's eyes
 Just as a mother looks upon her only son.
@@ -618,6 +855,8 @@ I pray to be made indivisible from you.
 Pray single-mindedly, “From now until I gain the state of enlightenment's essence, however long that takes, look on me with your eyes of compassion as inseparable from you during the six periods of day and night, just as a mother and father who have but one son would love and look after him. Temporarily act as my refuge and protector and ultimately for the sake of all sentient beings, I pray that you set me in buddhahood indivisibly from yourself, Arya Tara, and I too will perform the benefit of beings.”
 
 ### 2.13 Invocation & Mantra ^2-13-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-189]]
 
 The image before me melts to light, then into
 Me. Blessed as indivisible,
@@ -628,13 +867,22 @@ Holy Tara and her retinue, whom you have envisioned before you, melt into light 
 
 OM TARE TÜTTARE TÜRE SOHA
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-190]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-191]]
+
 This, the root mantra of Tara, is the queen of all awareness mantras. It bestows all attainments. Its meaning is this: OM means the possessor of the supreme siddhi, wealth and enjoyments, glory, prosperity, and luck; it means the promise to practice the mantra, protector, auspiciousness, and holder of wealth. It is the mantra that gives rise to all wants and needs. TARE TUTTARE is Tara's name. TÜRE means swift. SOHA means to pacify all misdeeds and obscurations, build up the accumulation of virtue higher and higher, eliminate the heap of faults and violations, and overcome all short and long-term suffering.
 
 Here the text just says to focus on envisioning the divine body while reciting the mantra, but other texts say to envision that there is an eight-petaled utpala flower at Tara's heart center. On it is her life-force mantra, TAM, which is green in color. The ten syllable mantra, which faces inwards, is arranged clockwise around TAM and revolves counterclockwise. Green rays of light shine forth in all ten directions, making offerings to all the buddhas and bodhisattvas there. Their compassion and blessings merge within you. Then the rays of light once again shine forth and touch all the beings of the six realms, pacifying all their misdeeds, obscurations, faults, downfalls, sicknesses, demons, and obstacles. All sentient beings are Holy Tara's body, all realms her pure land, all appearances the deity, all sounds the mantra, all awareness primordial wisdom. It is good if you meditate on this while reciting the mantra. Moreover, I think it is also good if you can complete the visualization of the Vajrayana's four stakes that bind the life force[^13]. The four stakes are the view, the stake of dharmata; envisioning, the stake of the deity; reciting, the stake of mantra; and shining forth and converging, the stake of enlightened activity and blessing.
 
 ### 2.14 Confession of Mistakes ^2-14-0
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-192]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-193]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-194]]
+
 At the end, to confess the faults of adding to or omitting anything from the ritual, mantra, or samadhi and to make up for deficiencies, recite the hundred-syllable mantra of Vajrasattva. Then recite the following:
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-195]]
 
 Whatever I did not find or totally
 Complete, or otherwise I could not do,
@@ -646,6 +894,10 @@ Whatever offering materials you did not find, whatever visualizations, rituals, 
 ### 2.15 Evocation ^2-15-0
 
 Then, if you have an image of Tara, such as a statue or painting, imagine that she is present in this support and say:
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-196]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-197]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-198]]
 
 OM
 Please remain together with this image
@@ -672,12 +924,18 @@ This mantra means “I pray you come.”
 
 Then with the following two lines, you, who have given rise to yourself as the deity, as well as your retinue and so on, all dissolve within the completion stage.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-199]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-200]]
+
 I remain in the authentic state, the dharma sphere,
 Inseparability of my mind and the deity's.
 
 “I remain evenly within the mind's mode of being, the authentic primordial wisdom, the dharmadhatu, the inseparability of my mind and that of the supreme goddess Arya Tara, like water poured into water.” Thus maintain the view of the mode of being.
 
 ## 3. Dedication & Aspiration ^3-0
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-201]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-202]]
 
 By this virtue, may I fast
 Accomplish Arya Tara and
@@ -688,6 +946,9 @@ Not leaving even one behind.
 
 Then, when making the following the aspiration for auspiciousness, toss flowers in the air at “fortunate[^14].” Alternately, you may toss grains.
 
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-203]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-204]]
+
 May we be fortunate to never part
 From Holy Tara, conquerors, and heirs,
 And lucky to be kept by their compassion
@@ -695,6 +956,16 @@ Who grant all wishes unimpeded, like
 The good vase or the wish-fulfilling jewel.
 
 “Day and night, at all six times, in this life and the next, and in the bardo, may we have the good fortune and virtue to never part from, and to be guarded and blessed by the tremendous love and compassion of, Holy Tara as well as the conquerors and their heirs, who, just by our praying to them, fulfill all our ends and wishes whatsoever without impediment, like the wish-fulfilling jewel that grants everything one wishes for just so, or like the good vase of vast treasure from which arises everything one might want or need.” Thus should you adorn the end of the sadhana beautifully.
+
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-205]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-206]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-207]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-208]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-209]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-210]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-211]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-212]]
+![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-213]]
 
 In addition, the Great Master of Uddiyana said, “The view relates to scripture and reason. Meditation relates to experience. Conduct relates to time. Practice with these three relations.” Also, he has said, “The ultimate, the visualization, and the expression, the door of words.” This means to put into practice without separating the words and their meanings, the expressions (the ritual words) and their referents (the ritual stages of visualization and so on). You must practice with the certainty and belief that, whatever deity you are practicing, that very deity specifically is the essence of infinite buddhas. The tantra Compendium of Intent says, “To practice one deity is to accomplish all of the unpracticed ones. Therefore, exert yourself on one without accepting or rejecting. With a mind that accepts and rejects, even if you practice many deities you will accomplish not a single one, but only bring about fatigue.” Thus know in the context of practicing Holy Arya Tara, also, that if you practice with the thought that she is the essence of all the conquerors in space and time, by practicing one deity you will accomplish all of them.
 
