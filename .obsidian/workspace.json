@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0-INBOX/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "0-INBOX/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -193,11 +193,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,9 +214,13 @@
   },
   "active": "d2de1d6fba995cb4",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
+    "0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md",
+    "0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md",
+    "0-INBOX/Story/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md",
+    "0-INBOX/Story",
     "0-INBOX/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
     "0-INBOX/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
+    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
     "0-INBOX/temp/TOC-drolchok-drelpa/toc-tree-qc-drolchok-drelpa.md",
     "0-INBOX/temp/TOC-drolchok-drelpa/toc-enumerations-drolchok-drelpa.md",
     "0-INBOX/temp/TOC-drolchok-drelpa/toc-candidates-drolchok-drelpa.md",
@@ -246,10 +250,6 @@
     "0-INBOX/temp/TOC-drolchok-drelpa/enumerations/chunk_004.md",
     "0-INBOX/temp/TOC-drolchok-drelpa/candidates/chunk_000.md",
     "0-INBOX/temp/TOC-drolchok-drelpa/enumerations/chunk_002.md",
-    "0-INBOX/temp/TOC-drolchok-drelpa/enumerations/chunk_003.md",
-    "0-INBOX/temp/TOC-drolchok-drelpa/enumerations/chunk_000.md",
-    "0-INBOX/temp/TOC-drolchok-drelpa/candidates/chunk_002.md",
-    "0-INBOX/temp/TOC-drolchok-drelpa/enumerations",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/20_DROLMA NGODRUP JUNGNAYMA སྒྲོལ་མ་དངོས་གྲུབ་འབྱུང་གནས་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/19_DROLMA DUKNGAL SELCHEMA སྒྲོལ་མ་སྡུག་བསྔལ་སེལ་བྱེད་མ། - Edited.png",
