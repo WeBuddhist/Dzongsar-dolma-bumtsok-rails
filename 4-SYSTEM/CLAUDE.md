@@ -463,6 +463,7 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | Translate a commentary | `translate-commentary` |
 | Audience-targeted summary | `multilevel-summary` |
 | Build a study/practice plan | `plan-scaffold` · `plan-schedule` · `plan-day-generate` · `plan-day-translate` |
+| Build a trilingual 21-Taras day-plan | `tara-plan-creator` |
 | **Checking** | |
 | QA a translation against MQM | `translation-qa` |
 | Check a translation against the commentary tradition | `commentary-fact-check` |
