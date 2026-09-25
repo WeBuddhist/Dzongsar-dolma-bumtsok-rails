@@ -13,160 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "En-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "c2127c6e7c8f95dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "En-Tārā’s_Profound_Essence"
-            }
-          },
-          {
-            "id": "1379f8961ddfbf5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "33288eb0f2ca37d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "fc3ecdf27e57c236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "11afd9b27679e044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "a7ccf282fd6a8814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "0dda195bd0645832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "897f41ab9b7f0aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "143875455ed253a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21 Tara Chinese based on Obsidian file"
-            }
-          },
-          {
-            "id": "3199e66c4844b3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21 Tara Chinese based on Obsidian file"
-            }
-          },
-          {
-            "id": "dbdd7a0f87e6254c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1-SOURCES/Translations/Zh-The-Twenty-One-Praises-To-Tara.md",
                 "mode": "source",
                 "source": false
@@ -174,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Zh-The-Twenty-One-Praises-To-Tara"
             }
-          },
-          {
-            "id": "72d28f7664e0e845",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/01_DROLMA NYURMA PAMO སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། - Edited - Edited.png"
-              },
-              "icon": "lucide-image",
-              "title": "01_DROLMA NYURMA PAMO སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། - Edited - Edited"
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -349,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,18 +198,19 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "2b2b8c3d4ba52484",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/Zh-The-Twenty-One-Praises-To-Tara.md",
+    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+    "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/01_DROLMA NYURMA PAMO སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། - Edited - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/02_DROLMA OKAR CHEN སྒྲོལ་མ་འོད་དཀར་ཅན། - Edited.png",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "0-INBOX/21-Drolma-Introductions/02 Tara the Radiant, Treasury of Wisdom (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
     "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
-    "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/01_DROLMA NYURMA PAMO སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། - Edited - Edited.png",
     "0-INBOX/21-Drolma-Introductions/03 Tara of Golden Light (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (English).md",
     "Claude outputs/tara-plan-creator.md",
@@ -396,7 +231,6 @@
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-8 Tara Plan.md",
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-9 Tara Plan.md",
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-7 Tara Plan.md",
-    "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-6 Tara Plan.md",
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans",
     "3-TRANSFORMATIONS/Plans/bo-21-Day-Plans",
     "0-INBOX/Story",
@@ -407,7 +241,6 @@
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/17_DROLMA DRUPAY DROLMA སྒྲོལ་མ་སྒྲུབ་པའི་སྒྲོལ་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/15_DROLMA ZHIWA CHENMO སྒྲོལ་མ་ཞི་བ་ཆེན་མོ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/14_DROLMA TRONYER CHENMA སྒྲོལ་མ་ཁྲོ་གཉེར་ཅན་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/13_DROLMA YONGSU MINCHEMA སྒྲོལ་མ་ཡོངས་སུ་སྨིན་བྱེད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images",
     "0-INBOX/21-Tara's-Images",
     "0-INBOX/21-Drolma-Introductions",

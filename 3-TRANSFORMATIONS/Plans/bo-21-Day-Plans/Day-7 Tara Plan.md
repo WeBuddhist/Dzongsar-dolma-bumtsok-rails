@@ -11,11 +11,11 @@ status: draft
 
 # ཉིན་7་པའི་སྒྲོལ་མའི་གྲོས་འཆར།
 
-## སྐུ་བརྙན
+## སྐུ་བརྙན།
 
 ![[0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/07_DROLMA RABJOMA སྒྲོལ་མ་རབ་འཇོམས་མ། - Edited.png]]
 
-## མཚན
+## མཚན།
 
 སྒྲོལ་མ་གཞན་གྱིས་མི་ཐུབ་མ།
 
