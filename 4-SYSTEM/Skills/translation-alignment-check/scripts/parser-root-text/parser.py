@@ -20,6 +20,10 @@ VERSE_X_RE = re.compile(r'\d+[xX]\d+')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 _TRANS_REF_RE = re.compile(r'!\[\[.*?#\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\]\]')
 _WYLIE_RE = re.compile(r"'[a-zA-Z]")
+# <small>…</small> marks a yigchung (small-script rubric). It is an annotation on
+# the text, uploaded separately: the TAGS never enter `content` or a TOC title,
+# the text between them does, so a later annotation can span it.
+SMALL_TAG_RE = re.compile(r'</?small>', re.IGNORECASE)
 
 
 def _ref_part_count(ref):
@@ -253,7 +257,7 @@ def _build_content_and_segmentation(blocks, doc_default):
         ref_no_caret = ref[1:] if ref.startswith("^") else ref
 
         if is_header:
-            text = raw_lines[0].strip().lstrip('#').strip()
+            text = SMALL_TAG_RE.sub("", raw_lines[0]).strip().lstrip('#').strip()
             ref_idx = text.rfind(ref)
             if ref_idx != -1:
                 text = text[:ref_idx].rstrip()
@@ -281,7 +285,7 @@ def _build_content_and_segmentation(blocks, doc_default):
                 break
         line_spans = []
         for i, raw_line in enumerate(content_lines):
-            text = raw_line.rstrip()
+            text = SMALL_TAG_RE.sub("", raw_line).rstrip()
             if i == last_nonempty_idx:
                 ref_idx = text.rfind(ref)
                 if ref_idx != -1:
