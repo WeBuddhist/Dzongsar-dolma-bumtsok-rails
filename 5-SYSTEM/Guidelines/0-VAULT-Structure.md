@@ -221,7 +221,7 @@ Every verse or discrete prose block in `1-SOURCES/` ends with an Obsidian block 
 - Verse numbers restart at 1 each chapter.
 - Pre-chapter material (homage, colophons, title lines) is placed under a `## 0. Introduction` heading with IDs `^0-1`, `^0-2`, etc.
 
-Headings in source-text files also carry block IDs, distinguished from content IDs by a trailing `-0` (the zero slot is reserved for headings; content always starts at `1`). The full heading-ID hierarchy is specified in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §5 and summarised in [`../CLAUDE.md`](../CLAUDE.md) §5a. The single canonical statement of every block-ID and tag convention — content IDs, the `-0` heading slot, commentary IDs, the separate `^toc-` namespace, the deprecated `^TOC-N` form, and the registered per-vault deviations — is [`annotation-conventions.md`](annotation-conventions.md).
+Headings in source-text files also carry block IDs, distinguished from content IDs by a trailing `-0` (the zero slot is reserved for headings; content always starts at `1`). The full heading-ID hierarchy is specified in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §5 and summarised in [`../CLAUDE.md`](5-SYSTEM/CLAUDE.md) §5a. The single canonical statement of every block-ID and tag convention — content IDs, the `-0` heading slot, commentary IDs, the separate `^toc-` namespace, the deprecated `^TOC-N` form, and the registered per-vault deviations — is [`annotation-conventions.md`](annotation-conventions.md).
 
 The vault annex ([`vault-annex.md`](vault-annex.md)) specifies the addressing scheme and heading hierarchy for the root text(s) of this vault, including any registered deviation from the defaults (intro / back-matter zones such as `^I-*` and `^a-*`, Bible-style `book-verse`, letter sub-namespaces, flat `^N` for collections of short texts).
 
@@ -260,7 +260,7 @@ To start a new Railroads vault for a different text, create it from the `rails-t
 - [ ] Begin ingest by dropping source material into `0-INBOX/raw-data/` and running the intake skills (`epub-to-markdown`, `raw-to-sources`, `json-to-source-text`, …).
 - [ ] Run `vault-audit` once; it flags any leftover placeholders and unregistered skills.
 
-The `Guidelines/`, `Skills/`, `Templates/` and `How-to guides/` folders are deliberately text-agnostic so they can be carried across vaults without modification — and kept in sync with the template afterwards (see [`../How-to guides/Sync with rails-template.md`](../How-to%20guides/Sync%20with%20rails-template.md)). The only files that need per-text adaptation are `README.md`, the placeholders in `CLAUDE.md` / `AGENTS.md`, and `vault-annex.md`.
+The `Guidelines/`, `Skills/`, `Templates/` and `How-to guides/` folders are deliberately text-agnostic so they can be carried across vaults without modification — and kept in sync with the template afterwards (see [`../How-to guides/Sync with rails-template.md`](Sync%20with%20rails-template.md)). The only files that need per-text adaptation are `README.md`, the placeholders in `CLAUDE.md` / `AGENTS.md`, and `vault-annex.md`.
 
 ---
 

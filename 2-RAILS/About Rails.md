@@ -2,11 +2,11 @@
 
 This folder distills the human-authored material in `1-SOURCES/` into **original-language descriptive context** at every level any AI-powered transformation might need — section summaries, verse-by-verse packages, per-term local-wiki articles, bilingual glossaries. Every claim cites a specific human source (a commentary block ID, a translation passage). The authority of a rail comes from the tradition it compiles, not from the LLM that compiled it.
 
-This README is the **authoritative document** for everything in `2-RAILS/`: the disambiguation stack, the per-folder file format, the bilingual glossary chain, the divergence-flagging convention, and the checklist for a new verse package. The LLM-facing operational summary lives in [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) §7–8.
+This README is the **authoritative document** for everything in `2-RAILS/`: the disambiguation stack, the per-folder file format, the bilingual glossary chain, the divergence-flagging convention, and the checklist for a new verse package. The LLM-facing operational summary lives in [`../4-SYSTEM/CLAUDE.md`](5-SYSTEM/CLAUDE.md) §7–8.
 
 Rails *describe* what the sources say. They do not *prescribe* how a new transformation should be done — that's what `3-TRANSFORMATIONS/` is for. When a transformation track introduces a new keyword rendering, it is recorded back here as one more attested choice in the corpus, alongside the renderings every other translator made.
 
-This README is **text-agnostic** for the methodology. Vault-specific conventions live in [`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md).
+This README is **text-agnostic** for the methodology. Vault-specific conventions live in [`../4-SYSTEM/Guidelines/vault-annex.md`](vault-annex.md).
 
 ---
 
@@ -57,7 +57,7 @@ The LLM is the compiler. Human domain specialists are the reviewers. Nothing in 
 
 `Sections/Raw/` additionally holds the structural trees and their evidence trail when this vault runs the `toc-generate` pipeline — see §6a.
 
-**The optional folders exist only in vaults that run the corresponding pipeline.** A skill whose input folder is absent says so and stops; it never invents a location. A **collection vault** replaces `Verses/` with `Texts/` (one package per short text) — see [`../4-SYSTEM/Guidelines/vault-variants.md`](../4-SYSTEM/Guidelines/vault-variants.md).
+**The optional folders exist only in vaults that run the corresponding pipeline.** A skill whose input folder is absent says so and stops; it never invents a location. A **collection vault** replaces `Verses/` with `Texts/` (one package per short text) — see [`../4-SYSTEM/Guidelines/vault-variants.md`](vault-variants.md).
 
 ### Naming
 
@@ -68,7 +68,7 @@ The LLM is the compiler. Human domain specialists are the reviewers. Nothing in 
 
 ### Which bilingual glossary pairs to create
 
-Create a consolidated bilingual glossary file for every source→target combination attested in the vault's `1-SOURCES/Translations/` and `1-SOURCES/Commentaries/`. The set is text-specific and is enumerated in [`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md) §4 for this vault.
+Create a consolidated bilingual glossary file for every source→target combination attested in the vault's `1-SOURCES/Translations/` and `1-SOURCES/Commentaries/`. The set is text-specific and is enumerated in [`../4-SYSTEM/Guidelines/vault-annex.md`](vault-annex.md) §4 for this vault.
 
 ---
 
@@ -663,8 +663,8 @@ Transformations in `3-TRANSFORMATIONS/` consume `complete` rails to derive their
 - [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
 - [`../1-SOURCES/About Sources.md`](../1-SOURCES/About Sources.md) — the rules for the source material that rails cite.
 - [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMATIONS/About Transformations.md) — the rules for the outputs that consume rails.
-- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](../4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and citation chain.
-- [`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md) — vault-specific commentary roster, tier order, analysis language, and addressing conventions.
-- [`../4-SYSTEM/Guidelines/vault-variants.md`](../4-SYSTEM/Guidelines/vault-variants.md) — how these rails adapt for a collection vault, where `Texts/` replaces `Verses/`.
-- [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill that reads from or writes to this folder.
-- [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) — the operational quick-reference.
+- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](0-VAULT-Structure.md) — the architecture and citation chain.
+- [`../4-SYSTEM/Guidelines/vault-annex.md`](vault-annex.md) — vault-specific commentary roster, tier order, analysis language, and addressing conventions.
+- [`../4-SYSTEM/Guidelines/vault-variants.md`](vault-variants.md) — how these rails adapt for a collection vault, where `Texts/` replaces `Verses/`.
+- [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](SKILLS-CATALOG.md) — every workflow skill that reads from or writes to this folder.
+- [`../4-SYSTEM/CLAUDE.md`](5-SYSTEM/CLAUDE.md) — the operational quick-reference.

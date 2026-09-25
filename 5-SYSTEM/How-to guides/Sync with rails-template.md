@@ -88,7 +88,7 @@ A fix belongs in the library. The template picks it up, and vaults pick it up fr
 When installing a skill from the library into the template or a vault:
 
 1. Copy the whole skill folder, including its `scripts/`, `prompts/`, `templates/` and `references/`. A skill that arrives without its bundled files is broken.
-2. Resolve the logical location names (`$COMMENTARIES`, `$WORK`, …) to this vault's real paths, per [`../Guidelines/skill-locations.md`](../Guidelines/skill-locations.md). Keep literal paths in anything that becomes a link or a transclusion — Obsidian does not expand the tokens.
+2. Resolve the logical location names (`$COMMENTARIES`, `$WORK`, …) to this vault's real paths, per [`../Guidelines/skill-locations.md`](skill-locations.md). Keep literal paths in anything that becomes a link or a transclusion — Obsidian does not expand the tokens.
 3. Drop the library-only frontmatter keys (`supersedes:`, and `profile:` if the vault does not use profiles); keep `name:` and `description:`.
 4. Register it: add the `SKILLS-CATALOG.md` entry and the `.claude/commands/<skill>.md` stub, and add a row to `CLAUDE.md` §12 if it will be used often.
 5. Run `vault-audit` — its first check is exactly this registration triple.

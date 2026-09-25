@@ -1,6 +1,6 @@
 # AGENTS.md — Gemini Scribe
 
-This file provides context about the vault for AI agents invoked through the Gemini Scribe plugin. Full operational instructions live in [`../CLAUDE.md`](../CLAUDE.md) — read that first.
+This file provides context about the vault for AI agents invoked through the Gemini Scribe plugin. Full operational instructions live in [`../CLAUDE.md`](5-SYSTEM/CLAUDE.md) — read that first.
 
 ---
 
@@ -52,9 +52,9 @@ The vault uses a four-stage pipeline:
 
 For a specific task, read:
 
-1. [`../CLAUDE.md`](../CLAUDE.md) — operational instructions.
+1. [`../CLAUDE.md`](5-SYSTEM/CLAUDE.md) — operational instructions.
 2. The `About <Folder>.md` in the folder you're working in.
-3. [`../Guidelines/vault-annex.md`](../Guidelines/vault-annex.md) — vault-specific conventions.
+3. [`../Guidelines/vault-annex.md`](vault-annex.md) — vault-specific conventions.
 4. `../Skills/<skill>/SKILL.md` — the skill for the specific workflow you're running.
 
 ---

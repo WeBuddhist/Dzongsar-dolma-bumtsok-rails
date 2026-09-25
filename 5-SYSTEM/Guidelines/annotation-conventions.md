@@ -219,7 +219,7 @@ applies to. Files not listed follow §1–§2 unchanged.
 
 ## Where to look next
 
-- [`../CLAUDE.md`](../CLAUDE.md) §5–§5b — the operational summary of this document.
+- [`../CLAUDE.md`](5-SYSTEM/CLAUDE.md) §5–§5b — the operational summary of this document.
 - [`vault-annex.md`](vault-annex.md) — this vault's addressing scheme and any registered deviation.
 - [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §5 — block IDs in the context of the full source-file rules.
 - [`skill-locations.md`](skill-locations.md) — the logical location names the shared skills use.

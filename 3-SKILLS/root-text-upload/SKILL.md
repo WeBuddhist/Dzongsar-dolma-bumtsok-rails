@@ -16,7 +16,7 @@ profile: vault-local
 
 # root-text-upload
 
-The root-text half of the chain whose translation half is [`translation-upload`](../translation-upload/SKILL.md). One script, `4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py`, chains the linter and parser and then talks to the library API:
+The root-text half of the chain whose translation half is [`translation-upload`](3-SKILLS/translation-upload/SKILL.md). One script, `4-SYSTEM/Skills/root-text-upload/scripts/upload_root_text.py`, chains the linter and parser and then talks to the library API:
 
 ```
 1. POST /v2/texts                                   <- <stem>.text.json     -> text_id

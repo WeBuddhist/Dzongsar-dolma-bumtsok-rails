@@ -2,7 +2,7 @@
 
 This folder holds the **AI-generated outputs** of the vault — and the per-track files that prescribe how each output is produced. Where `2-RAILS/` records what the commentary tradition *says*, this folder records what *each particular output* will do with it: this audience, this register, this set of locked keyword renderings, this calendar.
 
-This README is the **authoritative document** for everything in `3-TRANSFORMATIONS/`: the three transformation categories, the per-track file convention (`requirements.md` / `termbase.md` / `requirements.md`), the citation rules into outputs, the status lifecycle, the checklist for a new track. The LLM-facing operational summary lives in [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) §9–11.
+This README is the **authoritative document** for everything in `3-TRANSFORMATIONS/`: the three transformation categories, the per-track file convention (`requirements.md` / `termbase.md` / `requirements.md`), the citation rules into outputs, the status lifecycle, the checklist for a new track. The LLM-facing operational summary lives in [`../4-SYSTEM/CLAUDE.md`](5-SYSTEM/CLAUDE.md) §9–11.
 
 The split between descriptive rails and prescriptive transformations is what makes the vault scalable. A scholarly English translation, a children's Sinhala adaptation, a daily push-notification stream, and a year-long retreat plan can all run on the same rails — they differ only in their `requirements.md` (style), their `termbase.md` (vocabulary), and the per-track logic that wires them together.
 
@@ -51,7 +51,7 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and p
 
 Three kinds of folder may sit at this level without being a track. Each one needs an entry in this file saying what it is and why it is not inside a track — an undocumented folder here is a defect.
 
-- **Cross-track shared output.** A folder of artefacts consumed by several tracks rather than belonging to one — for example a per-day package built once and read by more than one plan, or a per-day text used to generate shareable images. It sits at the top level precisely because no single track owns it. These are often **protected files** (see [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md)): downstream tools read them directly, so an unreviewed edit propagates silently.
+- **Cross-track shared output.** A folder of artefacts consumed by several tracks rather than belonging to one — for example a per-day package built once and read by more than one plan, or a per-day text used to generate shareable images. It sits at the top level precisely because no single track owns it. These are often **protected files** (see [`../4-SYSTEM/CLAUDE.md`](5-SYSTEM/CLAUDE.md)): downstream tools read them directly, so an unreviewed edit propagates silently.
 - **Machine-baseline output.** Raw machine-translation output, kept for comparison and as a starting point — `Translations/<engine>/`. A baseline is **not a governed track**: it has no `requirements.md`, it is never marked `complete`, and no other transformation cites it. Its value is that it is honest about what it is.
 - **Pipeline-owned output.** A category produced and governed by a pipeline under `4-SYSTEM/Pipelines/`, following that pipeline's own `CLAUDE.md` rather than the per-track contract here. This is only legitimate when the pipeline carries an equivalent guarantee of its own — typically a deterministic verification gate that checks every quotation against its cited source before an output may pass — and when the vault annex records the exemption. A pipeline that simply skips the contract is a violation, not an exemption.
 
@@ -126,7 +126,7 @@ Plans use a two-level contract rather than a single `requirements.md`:
 
 ### `audience.md` — the audience profile (Translations and Adaptations)
 
-Required for Translation and Adaptation tracks. A binding profile of the reader the transformation is written for, covering four dimensions: demographics and region; prior knowledge and reading level; use cases and reading settings; motivations and pain points. Scaffold from the template at [`../4-SYSTEM/Templates/audience.md`](../4-SYSTEM/Templates/audience.md). Written in the target language alongside `requirements.md`.
+Required for Translation and Adaptation tracks. A binding profile of the reader the transformation is written for, covering four dimensions: demographics and region; prior knowledge and reading level; use cases and reading settings; motivations and pain points. Scaffold from the template at [`../4-SYSTEM/Templates/audience.md`](audience.md). Written in the target language alongside `requirements.md`.
 
 For Plan tracks, audience coverage is part of `About <plan-name>.md` at the cross-language level and `<lang>/requirements.md` at the per-stream level.
 
@@ -174,7 +174,7 @@ Only `complete` outputs are published or referenced by other transformations. Do
 
 ## 6. Skills that operate on this folder
 
-See [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.md). The key skills are:
+See [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](SKILLS-CATALOG.md). The key skills are:
 
 - `glossary-select` — builds the per-track `termbase.md` from the consolidated bilingual glossary plus `requirements.md`.
 - `requirements-author` *(planned)* — authors or audits a track's `requirements.md`.
@@ -194,7 +194,7 @@ Adaptation and Plan skills are not yet catalogued; they will be added as those t
 **Translation or Adaptation track:**
 - [ ] Create the folder under `Translations/` or `Adaptations/`.
 - [ ] Author `requirements.md` (in the target language) covering all required sections (§3).
-- [ ] Scaffold `audience.md` from [`../4-SYSTEM/Templates/audience.md`](../4-SYSTEM/Templates/audience.md) and fill in the four dimensions.
+- [ ] Scaffold `audience.md` from [`../4-SYSTEM/Templates/audience.md`](audience.md) and fill in the four dimensions.
 - [ ] Ensure the consolidated `2-RAILS/Bilingual-Glossaries/<src>-<tgt>.md` exists and is `status: complete`.
 - [ ] Run `glossary-select` to produce the initial `termbase.md`.
 - [ ] Confirm the rails covering the first batch are `status: complete`.
@@ -228,4 +228,4 @@ Adaptation and Plan skills are not yet catalogued; they will be added as those t
 - [`Adaptations/About Adaptations.md`](Adaptations/About Adaptations.md) — the adaptation-track convention.
 - [`Plans/About Plans.md`](Plans/About Plans.md) — the plan-track convention; currently houses [`Plans/[plan-id]/`](Plans/[plan-id]/).
 - [`../2-RAILS/About Rails.md`](../2-RAILS/About Rails.md) — the descriptive context this folder consumes.
-- [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) — the operational quick-reference.
+- [`../4-SYSTEM/CLAUDE.md`](5-SYSTEM/CLAUDE.md) — the operational quick-reference.

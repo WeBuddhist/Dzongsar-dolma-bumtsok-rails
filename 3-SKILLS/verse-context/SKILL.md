@@ -24,7 +24,7 @@ downstream skill reads `<verse-id>.md`.
 **The schema is defined in `2-RAILS/About Rails.md` §5, and About Rails is the
 authority.** When this skill and About Rails disagree, About Rails wins — fix
 the skill. A blank copy-me skeleton in exactly that format ships with this
-skill at [`templates/verse-package.md`](templates/verse-package.md), mirroring
+skill at [`templates/verse-package.md`](verse-package.md), mirroring
 the vault's own `2-RAILS/Verses/_TEMPLATE.md`.
 
 | Mode | Scope | Use |
@@ -116,7 +116,7 @@ Any section compiled by a model from material above it — the AI Overview above
 If a second-model tool is available, use it for the synthesis pass: a different
 model compressing the paraphrases is a useful check on the first model's
 reading. If none is available, compose and verify the same way — the prompt in
-[`references/ai-overview-prompt.md`](references/ai-overview-prompt.md) is the
+[`references/ai-overview-prompt.md`](ai-overview-prompt.md) is the
 same either way, and so is the citation-verification step. A missing tool is
 never a reason to stop, and never a reason to skip verification.
 
@@ -152,7 +152,7 @@ One file at `2-RAILS/Verses/<verse-id>.md`. Update in place if it exists; never 
 
 ### Output file format
 
-Copy [`templates/verse-package.md`](templates/verse-package.md) and fill it in. Its shape, in full:
+Copy [`templates/verse-package.md`](verse-package.md) and fill it in. Its shape, in full:
 
 ```markdown
 ---
@@ -566,7 +566,7 @@ While composing a whole chapter at once, keep the running draft in `0-INBOX/temp
 ### Examples
 
 Worked examples of every pattern above, from a Tibetan vault, are in
-[`references/examples-bo.md`](references/examples-bo.md). They are
+[`references/examples-bo.md`](examples-bo.md). They are
 illustrations, not a contract — the rules are here; only the specimens are
 there.
 
@@ -644,7 +644,7 @@ The heading keeps the schema's form: English name first, original-language label
 6. Assemble the section in the order above and replace the existing `## AI Overview` in place (insert it after Traditional Interpretation if absent). Leave every other section and the frontmatter untouched.
 7. **Verify the citations.** Re-read what you wrote and confirm every line carries a citation that exists in Traditional Interpretation, and that no uncited claim slipped in.
 
-The prompt this mode runs — reusable verbatim, including outside a vault — is in [`references/ai-overview-prompt.md`](references/ai-overview-prompt.md). If a second-model tool is available, use it for the synthesis pass; otherwise compose and verify the same way.
+The prompt this mode runs — reusable verbatim, including outside a vault — is in [`references/ai-overview-prompt.md`](ai-overview-prompt.md). If a second-model tool is available, use it for the synthesis pass; otherwise compose and verify the same way.
 
 ### Completion check — Mode 4
 

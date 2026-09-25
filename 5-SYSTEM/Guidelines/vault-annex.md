@@ -172,8 +172,8 @@ The default for every [language] source is `-[default-tag]`.
 - [`0-VAULT-Structure.md`](0-VAULT-Structure.md) — the architecture in full.
 - [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) — source-file rules.
 - [`../../2-RAILS/About Rails.md`](../../2-RAILS/About%20Rails.md) — rails schema.
-- [`../../3-TRANSFORMATIONS/About Transformations.md`](../../3-TRANSFORMATIONS/About%20Transformations.md) — track and output rules.
+- [`../../3-TRANSFORMATIONS/About Transformations.md`](About%20Transformations.md) — track and output rules.
 - [`annotation-conventions.md`](annotation-conventions.md) — the default block-ID conventions this annex may register deviations from.
 - [`vault-variants.md`](vault-variants.md) — the three documented vault shapes, if this vault is not the common case.
-- [`../CLAUDE.md`](../CLAUDE.md) — the operational quick-reference. *This annex overrides it on the points recorded above.*
+- [`../CLAUDE.md`](5-SYSTEM/CLAUDE.md) — the operational quick-reference. *This annex overrides it on the points recorded above.*
 - [Top-level `README.md`](../../README.md) — pipeline overview and reading paths.

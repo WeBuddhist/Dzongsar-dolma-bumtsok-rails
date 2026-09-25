@@ -37,7 +37,7 @@ batch) independently. The same source term can come out three different ways
 across a long text and nothing flags it. Locking the vocabulary *before*
 translating — at the register the audience needs — is what makes the output
 publishable and checkable. One vault's end-to-end run of the chain is written
-up in [`references/worked-example.md`](references/worked-example.md); it is a
+up in [`references/worked-example.md`](3-SKILLS/graded-translate/references/worked-example.md); it is a
 history, not a contract.
 
 **Language is a parameter, not a fork.** The original vault had one skill pair
@@ -477,7 +477,7 @@ Consolidated 2026-09-21 from one vault's per-language skill pairs (a
 `keyword-grade` + `translate` pair per target language) and its
 `termbase-consistency-check/` script, which were identical apart from the target
 code and the register table. That vault's end-to-end production run is written
-up in [`references/worked-example.md`](references/worked-example.md) as a
+up in [`references/worked-example.md`](3-SKILLS/graded-translate/references/worked-example.md) as a
 history, not a contract. Its two English-track glossary scripts hard-coded that
 vault's track names and paths and were not carried over; `bilingual-glossary`
 Phase 4 is the general form of that step.

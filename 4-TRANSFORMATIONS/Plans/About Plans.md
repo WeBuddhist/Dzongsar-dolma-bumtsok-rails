@@ -6,7 +6,7 @@ organises engagement with the text along a calendar, generating per-session
 content from rails (and often from completed Translation or Adaptation
 outputs).
 
-See [`../About Transformations.md`](../About%20Transformations.md) for the
+See [`../About Transformations.md`](About%20Transformations.md) for the
 top-level rules that govern all transformation categories.
 
 The rest of this file is the binding convention for a plan. Its central claim:

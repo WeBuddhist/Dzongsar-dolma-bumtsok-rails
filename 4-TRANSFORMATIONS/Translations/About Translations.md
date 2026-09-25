@@ -20,7 +20,7 @@ For the category-wide convention (what `requirements.md` and `termbase.md` must 
 
 No tracks exist yet — add them as they are commissioned. Each track folder is named `<lang>-<descriptor>/` (e.g. `en-contemporary/`, `bn-scholarly/`). Each track's `requirements.md` is written **in its own target language** — the working language for that track's drafters and reviewers.
 
-**Keep to one naming convention.** A vault that accumulates `<lang>-<descriptor>/`, `<lang>-<audience>-audience/`, `<lang>-translate/` and an `AI_translation/<language>/` folder side by side has four conventions and no way to tell a governed track from a scratch folder. Use `<lang>-<descriptor>/` for tracks. Machine-baseline output goes in its own clearly-named folder and is never a track — see [`../About Transformations.md`](../About%20Transformations.md).
+**Keep to one naming convention.** A vault that accumulates `<lang>-<descriptor>/`, `<lang>-<audience>-audience/`, `<lang>-translate/` and an `AI_translation/<language>/` folder side by side has four conventions and no way to tell a governed track from a scratch folder. Use `<lang>-<descriptor>/` for tracks. Machine-baseline output goes in its own clearly-named folder and is never a track — see [`../About Transformations.md`](About%20Transformations.md).
 
 ---
 
@@ -28,7 +28,7 @@ No tracks exist yet — add them as they are commissioned. Each track folder is 
 
 1. Create the folder `Translations/<lang>-<descriptor>/`.
 2. Author `requirements.md` in the target language, covering all of: target audience and register; the path to this track's termbase; preferred renderings for the structurally significant terms that must never vary; style constraints (sentence and paragraph length, verse versus prose, lists, technical terms, glossing policy); cultural-adaptation rules; and which rails the generation skill must consult before each batch.
-3. Scaffold `audience.md` from [`../../4-SYSTEM/Templates/audience.md`](../../4-SYSTEM/Templates/audience.md) and fill in all four dimensions.
+3. Scaffold `audience.md` from [`../../4-SYSTEM/Templates/audience.md`](audience.md) and fill in all four dimensions.
 4. Confirm the consolidated bilingual glossary `2-RAILS/Bilingual-Glossaries/<src>-<tgt>.md` exists and is `status: complete`.
 5. Run `bilingual-glossary` (select phase) to produce the initial `termbase.md`.
 6. Confirm the rails covering the first batch are `status: complete`.

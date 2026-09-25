@@ -33,7 +33,7 @@ Two principles hold the collaboration together:
 
 This is what makes the methodology scale. The expensive interpretive work happens once, in `2-RAILS/`, and is amortised over every output ever produced from the vault. **Lay the rails once; run many transformations on them.**
 
-For the full reasoning — the specialist-pair and Wikipedia analogies — see [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md).
+For the full reasoning — the specialist-pair and Wikipedia analogies — see [`4-SYSTEM/Guidelines/why-rails.md`](why-rails.md).
 
 ## What
 
@@ -57,38 +57,38 @@ material         descriptive     AI-generated output
 - **[`3-TRANSFORMATIONS/`](3-TRANSFORMATIONS/)** — three categories of output (**Translations**, **Adaptations**, **Plans**). Each track is governed by `requirements.md` (style contract) + `termbase.md` (vocabulary contract); the AI-generated output files sit alongside, citing the rails.
 - **[`4-SYSTEM/`](4-SYSTEM/)** — skills and workflows for every stage of the pipeline, plus cross-cutting methodology docs and templates.
 
-This vault serves **[name of text]**. Vault-specific conventions (addressing scheme, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md).
+This vault serves **[name of text]**. Vault-specific conventions (addressing scheme, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/vault-annex.md`](vault-annex.md).
 
 ## Getting started — pick your path
 
 ### If you are a human contributor
 
 1. **This README** — Why · How · What (you are here).
-2. [Set up the vault on your computer](4-SYSTEM/How-to%20guides/Set%20up%20the%20vault.md) — install Obsidian, install Git, clone the repo, open it as a vault.
-3. [Sync and troubleshoot](4-SYSTEM/How-to%20guides/Sync%20and%20troubleshoot.md) — how everyone's edits stay in sync; what to do when something goes wrong.
-4. [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md) — the specialist-pair and Wikipedia analogies in full.
-5. [`4-SYSTEM/Guidelines/0-VAULT-Structure.md`](4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and the citation chain.
+2. [Set up the vault on your computer](Set%20up%20the%20vault.md) — install Obsidian, install Git, clone the repo, open it as a vault.
+3. [Sync and troubleshoot](Sync%20and%20troubleshoot.md) — how everyone's edits stay in sync; what to do when something goes wrong.
+4. [`4-SYSTEM/Guidelines/why-rails.md`](why-rails.md) — the specialist-pair and Wikipedia analogies in full.
+5. [`4-SYSTEM/Guidelines/0-VAULT-Structure.md`](0-VAULT-Structure.md) — the architecture and the citation chain.
 6. [`1-SOURCES/About Sources.md`](1-SOURCES/About%20Sources.md) — rules for collecting, formatting, and linking source material.
 7. [`2-RAILS/About Rails.md`](2-RAILS/About%20Rails.md) — the schema for the descriptive rails.
-8. [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About%20Transformations.md) — how transformation tracks are set up and how outputs are produced.
-9. [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md) — the conventions specific to *this* vault.
-10. [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill, grouped by pipeline stage.
+8. [`3-TRANSFORMATIONS/About Transformations.md`](About%20Transformations.md) — how transformation tracks are set up and how outputs are produced.
+9. [`4-SYSTEM/Guidelines/vault-annex.md`](vault-annex.md) — the conventions specific to *this* vault.
+10. [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](SKILLS-CATALOG.md) — every workflow skill, grouped by pipeline stage.
 
 Two more, when you need them:
 
-- [`4-SYSTEM/Guidelines/annotation-conventions.md`](4-SYSTEM/Guidelines/annotation-conventions.md) — the canonical block-ID specification. It wins over every other document when they disagree.
-- [`4-SYSTEM/Guidelines/vault-variants.md`](4-SYSTEM/Guidelines/vault-variants.md) — if this vault is a collection of short texts, a multi-book canon, or a parallel-witness corpus rather than a single treatise.
+- [`4-SYSTEM/Guidelines/annotation-conventions.md`](annotation-conventions.md) — the canonical block-ID specification. It wins over every other document when they disagree.
+- [`4-SYSTEM/Guidelines/vault-variants.md`](vault-variants.md) — if this vault is a collection of short texts, a multi-book canon, or a parallel-witness corpus rather than a single treatise.
 
 For day-to-day workflows not in the Skills catalog, see the rest of [`4-SYSTEM/How-to guides/`](4-SYSTEM/How-to%20guides/).
 
 ### If you are an AI agent
 
-1. [`4-SYSTEM/CLAUDE.md`](4-SYSTEM/CLAUDE.md) — operational instructions: citation chain, write permissions, do-nots, standard operations. Read in full before touching any file.
-2. The `About <Folder>.md` for the folder you're working in — [`1-SOURCES/About Sources.md`](1-SOURCES/About%20Sources.md), [`2-RAILS/About Rails.md`](2-RAILS/About%20Rails.md), or [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About%20Transformations.md). Each is the canonical authority for that folder's rules.
-3. [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md) — vault-specific conventions.
+1. [`4-SYSTEM/CLAUDE.md`](5-SYSTEM/CLAUDE.md) — operational instructions: citation chain, write permissions, do-nots, standard operations. Read in full before touching any file.
+2. The `About <Folder>.md` for the folder you're working in — [`1-SOURCES/About Sources.md`](1-SOURCES/About%20Sources.md), [`2-RAILS/About Rails.md`](2-RAILS/About%20Rails.md), or [`3-TRANSFORMATIONS/About Transformations.md`](About%20Transformations.md). Each is the canonical authority for that folder's rules.
+3. [`4-SYSTEM/Guidelines/vault-annex.md`](vault-annex.md) — vault-specific conventions.
 4. The relevant `4-SYSTEM/Skills/<skill>/SKILL.md` for the specific task.
 
-`AGENTS.md` files exist for tooling that reads them rather than `CLAUDE.md` — [`AGENTS.md`](AGENTS.md) at the repo root and [`4-SYSTEM/gemini-scribe/AGENTS.md`](4-SYSTEM/gemini-scribe/AGENTS.md) for the Gemini Scribe plugin. Both are thin pointers to the same rules.
+`AGENTS.md` files exist for tooling that reads them rather than `CLAUDE.md` — [`AGENTS.md`](AGENTS.md) at the repo root and [`4-SYSTEM/gemini-scribe/AGENTS.md`](5-SYSTEM/gemini-scribe/AGENTS.md) for the Gemini Scribe plugin. Both are thin pointers to the same rules.
 
 ## Provenance and current state
 

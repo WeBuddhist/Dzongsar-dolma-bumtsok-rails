@@ -6,7 +6,7 @@ A script that belongs to exactly one skill lives in that skill's own `scripts/` 
 
 | Script | What it does |
 | ------ | ------------ |
-| `install-skills.py` | Installs skills from the shared skill library into `4-SYSTEM/Skills/`, resolving the library's logical location names to this vault's paths and writing the `.claude/commands/` stubs. See [`../How-to guides/Sync with rails-template.md`](../How-to%20guides/Sync%20with%20rails-template.md). |
+| `install-skills.py` | Installs skills from the shared skill library into `4-SYSTEM/Skills/`, resolving the library's logical location names to this vault's paths and writing the `.claude/commands/` stubs. See [`../How-to guides/Sync with rails-template.md`](Sync%20with%20rails-template.md). |
 
 ## Conventions
 

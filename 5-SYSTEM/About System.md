@@ -10,15 +10,15 @@ Nothing here is project content. Project content lives in `1-SOURCES/`, `2-RAILS
 
 - **[`CLAUDE.md`](CLAUDE.md)** — operational instructions for an AI agent: the skills-first gate, the protected-file policy, the citation chain, write permissions, block-ID rules, and the standard operations. The first thing any agent reads when it picks up work in this vault.
 - **[`Guidelines/`](Guidelines/)** — the rules. Text-agnostic except for the annex.
-  - [`why-rails.md`](Guidelines/why-rails.md) — why the methodology works: the specialist-pair and Wikipedia analogies.
-  - [`0-VAULT-Structure.md`](Guidelines/0-VAULT-Structure.md) — top-level architecture, the citation chain, the status lifecycle, and the new-vault setup checklist.
-  - [`annotation-conventions.md`](Guidelines/annotation-conventions.md) — **the canonical block-ID and tag specification.** When any other document disagrees with it, it wins.
-  - [`skill-locations.md`](Guidelines/skill-locations.md) — what `$COMMENTARIES`, `$WORK`, `$SECTIONS` and the other logical names in a shared skill resolve to here.
-  - [`skills-system.md`](Guidelines/skills-system.md) — how skills are discovered, executed, created and registered.
-  - [`vault-maintenance.md`](Guidelines/vault-maintenance.md) — the policy behind the weekly `vault-audit`: audit automatically, fix deliberately.
-  - [`vault-variants.md`](Guidelines/vault-variants.md) — how the methodology adapts to a collection of short texts, a multi-book canon, or a parallel-witness corpus.
-  - [`vault-annex.md`](Guidelines/vault-annex.md) — the conventions specific to *this* vault: addressing scheme, commentary roster, language tracks, registered deviations. **This is the only file in `Guidelines/` that is text-specific.**
-- **[`Skills/`](Skills/)** — the operators. One folder per skill, each with a `SKILL.md` and optional bundled scripts, prompts, templates and references. See [`SKILLS-CATALOG.md`](Skills/SKILLS-CATALOG.md) for the full list grouped by pipeline phase.
+  - [`why-rails.md`](why-rails.md) — why the methodology works: the specialist-pair and Wikipedia analogies.
+  - [`0-VAULT-Structure.md`](0-VAULT-Structure.md) — top-level architecture, the citation chain, the status lifecycle, and the new-vault setup checklist.
+  - [`annotation-conventions.md`](annotation-conventions.md) — **the canonical block-ID and tag specification.** When any other document disagrees with it, it wins.
+  - [`skill-locations.md`](skill-locations.md) — what `$COMMENTARIES`, `$WORK`, `$SECTIONS` and the other logical names in a shared skill resolve to here.
+  - [`skills-system.md`](skills-system.md) — how skills are discovered, executed, created and registered.
+  - [`vault-maintenance.md`](vault-maintenance.md) — the policy behind the weekly `vault-audit`: audit automatically, fix deliberately.
+  - [`vault-variants.md`](vault-variants.md) — how the methodology adapts to a collection of short texts, a multi-book canon, or a parallel-witness corpus.
+  - [`vault-annex.md`](vault-annex.md) — the conventions specific to *this* vault: addressing scheme, commentary roster, language tracks, registered deviations. **This is the only file in `Guidelines/` that is text-specific.**
+- **[`Skills/`](Skills/)** — the operators. One folder per skill, each with a `SKILL.md` and optional bundled scripts, prompts, templates and references. See [`SKILLS-CATALOG.md`](SKILLS-CATALOG.md) for the full list grouped by pipeline phase.
 - **[`Templates/`](Templates/)** — blank templates for new files: the audience profile, the upload-facing frontmatter schema, and the rails templates.
 - **[`How-to guides/`](How-to%20guides/)** — human-facing instructions for tasks that are not skills: vault setup, sync and troubleshooting, syncing with the template, the GitHub project board.
 - **`scripts/`** — standalone scripts that are not bundled inside a single skill. Vendored third-party code records its upstream in an `UPSTREAM.md` beside it.
