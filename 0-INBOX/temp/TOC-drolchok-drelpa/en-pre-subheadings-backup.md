@@ -259,10 +259,6 @@ PEMA KA MA LA YA SA TAM
 
 For the benefit of others, the buddhas are the refuge and protectors of all sentient beings without exception, for they have completely abandoned the partiality of closeness to friends and superiors and distance from enemies and inferiors. For their own benefit, they are supreme deities who destroyed all the maras—that is the afflictions, self-grasping, the two obscurations, and the hosts of maras. The buddhas, the Blessed Ones, know precisely the mode of being and mode of appearance of all things, of all phenomena whatsoever. With single-minded faith and yearning, pray that they come to the place where you are making offerings. Thus praying, you invite the buddhas. Then recite, “PEMA KAMALA YA SATAM,” which means “Please stay here on this lotus throne.” Imagine that the conquerors come to the space in front of you and sit on lotuses and other plush, luxurious thrones. Then, in their presence recite the seven-branch prayer to amass the accumulations.
 
-#### 2.4.1 Offering of the Seven Branches ^2-4-1-0
-
-##### 2.4.1.1 Homage ^2-4-1-1-0
-
 First you pay homage:
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-27]]
@@ -308,16 +304,10 @@ Diverse tunes, an endless sea of praise.
 
 Here you are paying homage with speech to the buddhas, who have obtained the result, the state of sugata, or bliss-gone one, by relying on the cause, the path of the ones gone to bliss. With a vast ocean of gentle melodies, sweet voices, and endless sounds, proclaim the profound qualities of all the conquerors and sing the sea of praises of all the bliss-gone ones.
 
-##### 2.4.1.2 Offering ^2-4-1-2-0
-
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-32]]
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-33]]
 
-The second branch, offering, has two aspects: ordinary offerings and extraordinary offerings.
-
-###### 2.4.1.2.1 Ordinary Offerings ^2-4-1-2-1-0
-
-Concerning the ordinary offerings the text says:
+The second branch, offering, has two aspects: ordinary offerings and extraordinary offerings. Concerning the ordinary offerings the text says:
 
 I make offerings to the conquerors
 Of exquisite flowers, precious garlands,
@@ -331,8 +321,6 @@ And in the most resplendent of arrangements.
 
 Here you are offering to the assembly of the conquerors and their heirs beautiful flowers, precious garlands, sweet music, aromatic perfumes, parasols made from all kinds of fine materials, bright lamps, fragrant incense of both naturally occurring and prepared varieties and so forth. You also offer beautifully colored, fine, soft clothing, unguents of various sweet smells, and piles of powder made from saffron and sandalwood, as high as Mount Meru. Give all of these excellent offerings to the conquerors and their heirs in clean, pleasant, and beautiful arrangements.
 
-###### 2.4.1.2.2 Extraordinary Offerings ^2-4-1-2-2-0
-
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-34]]
 
 Then, concerning the extraordinary offering, it says:
@@ -343,8 +331,6 @@ By virtue of my faith in wholesome conduct,
 I prostrate and make offerings to them.
 
 The offerings created through the aspirations and samadhi of the bodhisattvas, heirs of the conquerors, are the best of offerings. These offerings are incomparable because no other offerings can match them. Therefore, they extend unceasing throughout all directions and times. Pay homage and offer this vastness to all the conquerors through the power of your devotion and your faith in wholesome conduct.
-
-##### 2.4.1.3 Confession ^2-4-1-3-0
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-35]]
 
@@ -357,8 +343,6 @@ I confess them, every one.
 
 Urged on by the three poisons—the cause, the afflictions of attachment, hatred, and delusion— whatever misdeeds of body, speech, or mind that you yourself have done, forced others to do, or rejoiced in others doing: confess them all, each and every one.
 
-##### 2.4.1.4 Rejoicing ^2-4-1-4-0
-
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-36]]
 
 The fourth branch is rejoicing:
@@ -369,8 +353,6 @@ Of lone buddhas, learners, no-more-learners,
 And every wanderer without exception.
 
 With an attitude of gladness and enthusiasm, you should rejoice in all the happiness, virtue, and merit of all beings whatsoever—of the conquerors dwelling in the ten directions; of the bodhisattvas, heart children of the buddhas; of the buddhas' speech-children: those arhats who are solitary buddhas and those who are hearers, and those who are learning and those who are no longer learning; and of wanderers or ordinary beings.
-
-##### 2.4.1.5 Request to Turn the Wheel of Dharma ^2-4-1-5-0
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-37]]
 
@@ -383,8 +365,6 @@ You all to turn the matchless Dharma wheel.
 
 The conquerors are the lamps that perfectly show the path to beings in all the worlds of the ten directions, who are obscured by the dense darkness of ignorance about what to accept or reject. Request or supplicate all the protectors—the buddhas or blessed ones who traveled the path to enlightenment in stages and, without desire, gained the state of buddhahood—to turn the unsurpassed Dharma wheel.
 
-##### 2.4.1.6 Prayer Not to Pass into Nirvana ^2-4-1-6-0
-
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-38]]
 
 The sixth branch is praying to the buddhas not to pass into nirvana:
@@ -395,8 +375,6 @@ For beings' benefit and happiness
 For eons many as atoms in the world.
 
 For the temporary benefit and ultimate happiness of all this world's wanderers to be tamed, press your palms together and with single-minded faith and yearning pray to those buddhas and bodhisattvas who wish to display their passing into nirvana not to do so, but to remain for eons equal in number to the particles in the world.
-
-##### 2.4.1.7 Dedication ^2-4-1-7-0
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-39]]
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-40]]
@@ -779,14 +757,11 @@ Pray, “With your mind of powerful primordial wisdom, I pray you think of this 
 
 As an expression of gratitude, make offerings and give praise.
 
-#### 2.11.1 Offering ^2-11-1-0
-
 OM ARYA TARE SA PARI WARA BENZA ARGHAM / PA DYAM / PÜK PE / DHÜ PE / A
+
 LO KAY / GEN DHE / NA WI DYA / SHAB DA TRA TI TSA SOHA
 
 Make offerings with drinking water, bathing water, flowers, incense, and so on.
-
-#### 2.11.2 Praise ^2-11-2-0
 
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^1-178]]
 
