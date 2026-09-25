@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-7 Tara Plan.md",
+                "file": "3-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-10 Tara Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-7 Tara Plan"
+              "title": "Day-10 Tara Plan"
             }
           }
         ],
@@ -212,8 +212,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "09aced457f09c9a3",
   "lastOpenFiles": [
+    "3-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-9 Tara Plan.md",
+    "3-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-8 Tara Plan.md",
+    "3-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-7 Tara Plan.md",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/11_DROLMA JIGTEN WANGDUMA སྒྲོལ་མ་འཇིག་རྟེན་དབང་སྡུད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/10_DROLMA NYANGEN SELCHEMA སྒྲོལ་མ་མྱ་ངན་སེལ་བྱེད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/09_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.png",
@@ -246,8 +249,6 @@
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-9 Tara Plan.md",
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-8 Tara Plan.md",
     "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-7 Tara Plan.md",
-    "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-6 Tara Plan.md",
-    "3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-5 Tara Plan.md",
     "Claude outputs",
     "4-SYSTEM/Skills/tara-plan-creator",
     "3-TRANSFORMATIONS/Plans/zh-21-Day-Plans",
@@ -256,7 +257,6 @@
     "0-INBOX/Story",
     "0-INBOX/21-Drolma-Introductions",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/18_NAMPAR GYALWAY DROLMA རྣམ་པར་རྒྱལ་བའི་སྒྲོལ་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images",
     "0-INBOX/21-Tara's-Images",
     "4-SYSTEM/Skills/Tara-Plan-Creator"
