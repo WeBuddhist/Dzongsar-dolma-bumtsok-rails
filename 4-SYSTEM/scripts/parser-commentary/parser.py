@@ -10,6 +10,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 
@@ -30,6 +31,8 @@ ROMAN_RE = re.compile(r'^[IVXLCDM]+$')
 VERSE_X_RE = re.compile(r'\d+[xX]\d+')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 _TRANS_REF_RE = re.compile(r'!\[\[.*?#\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\]\]')
+# Same, capturing the linked file as well: (file, ref)
+_TRANS_FILE_REF_RE = re.compile(r'!\[\[([^\]#|]*)#\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\]\]')
 _WYLIE_RE = re.compile(r"'[a-zA-Z]")
 
 
@@ -175,6 +178,19 @@ def _clean_heading_title(text, level):
     if level > 6:
         text = BOLD_RE.sub(r"\1", text).strip()
     return text
+
+
+def _note_name(link):
+    """File name an Obsidian link resolves by: last path part, `.md` implied, NFC."""
+    name = Path(link.strip()).name
+    if name and not name.endswith(".md"):
+        name += ".md"
+    return unicodedata.normalize("NFC", name)
+
+
+def _root_file_name(fm):
+    root_text_val = fm.get("root_text")
+    return _note_name(str(root_text_val)) if root_text_val else None
 
 
 def _root_heading_refs(fm, source_path):
@@ -483,7 +499,9 @@ def build_alignment(source_path):
         )
 
     heading_refs = _root_heading_refs(fm, source_path)
+    root_name = _root_file_name(fm)
     skipped_heading_targets = set()
+    foreign_transclusions = set()
     alignments = []
     seen_pairs = set()
     blocks = _extract_blocks(body)
@@ -501,13 +519,23 @@ def build_alignment(source_path):
             if not any(l.strip() for l in lines):
                 continue
             block = {**block, "ref": None}
-        trans_refs = [_TRANS_REF_RE.search(l).group(1)
-                      for l in lines if _TRANS_REF_RE.search(l)]
-        trans_only = bool(trans_refs) and not block["ref"] and all(
+        # Only transclusions of the root_text file give alignment targets
+        # (FORK, Dzongsar-dolma-bumtsok-rails 2026-09-26). A transclusion of any
+        # other file still counts as a transclusion group — it closes the
+        # current scope — but adds no target, so the commentary under it stays
+        # unaligned instead of being paired with a same-numbered root block.
+        trans_links = [(f, r) for l in lines for f, r in _TRANS_FILE_REF_RE.findall(l)]
+        trans_refs = [r for f, r in trans_links
+                      if root_name is None or _note_name(f) == root_name]
+        foreign_transclusions.update(
+            f"{f}#^{r}" for f, r in trans_links
+            if root_name is not None and _note_name(f) != root_name
+        )
+        trans_only = bool(trans_links) and not block["ref"] and all(
             _TRANS_REF_RE.search(l) for l in lines if l.strip()
         )
 
-        if trans_refs:
+        if trans_links:
             if trans_only and prev_trans_only:
                 # Transclusions written one after another (even with blank
                 # lines between them) form one group: add to it.
@@ -537,6 +565,12 @@ def build_alignment(source_path):
         print(
             "  WARN alignment: transclusions of root-text headings skipped "
             f"(headings are not segments): {sorted(skipped_heading_targets)}",
+            file=sys.stderr,
+        )
+    if foreign_transclusions:
+        print(
+            "  WARN alignment: transclusions of files other than root_text "
+            f"close the scope without a target: {sorted(foreign_transclusions)}",
             file=sys.stderr,
         )
 
