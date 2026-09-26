@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Zh-Tārā’s_Profound_Essence_Translation"
             }
+          },
+          {
+            "id": "26d3d3f2ab11a888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zh-Tārā’s_Profound_Essence_Translation"
+            }
+          },
+          {
+            "id": "1c21ee74dfe81e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zh-Tārā’s_Profound_Essence_Translation"
+            }
+          },
+          {
+            "id": "10a2e5fab5f71a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zh-Tārā’s_Profound_Essence_Translation"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,43 +240,53 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "fd13220e5030ff1c",
+  "active": "10a2e5fab5f71a2e",
   "lastOpenFiles": [
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
-    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
-    "4-SYSTEM/Skills/yigchung-transfer/SKILL.md",
-    "4-SYSTEM/Skills/bilingual-to-transclusion/SKILL.md",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchungs.json",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.alignment.json",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.toc.json",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.edition.json",
-    "4-SYSTEM/Skills/translation-upload/scripts/parser-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.text.json",
-    "4-SYSTEM/Skills/translation-upload/scripts/linter-root-text/output/Zh-Tārā’s_Profound_Essence_Translation.lint.json",
-    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/__pycache__/parser.cpython-314.pyc",
-    "4-SYSTEM/Skills/translation-alignment-check/scripts/parser-root-text/__pycache__",
-    "4-SYSTEM/Skills/yigchung-transfer/scripts/yigchung_transfer.py",
-    "4-SYSTEM/Skills/yigchung-transfer/scripts",
-    "conflict-files-obsidian-git.md",
-    "4-SYSTEM/Skills/yigchung-upload/SKILL.md",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchung-review.md",
-    "4-SYSTEM/Skills/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchung-review.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence-Transliteration.md",
-    "1-SOURCES/Translations/en-zabtig-drolchok.md",
-    "1-SOURCES/Translations/bo-phon-zabtig-drolchok.md",
-    "1-SOURCES/Translations/21 Tara Chinese based on Obsidian file.md",
-    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
-    "3-TRANSFORMATIONS/Translations/About Translations.md",
-    "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md",
-    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-    "0-INBOX/temp/review_report_blank_align_content_diffs.md",
-    "0-INBOX/temp/zh-Chinese_Pecha_Text_Only.backup-before-reorder.md",
-    "0-INBOX/temp/zh-Chinese_Pecha_Text_Only.md",
-    "0-INBOX/temp/zh-21_Tara_reorder_notes.md",
-    "0-INBOX/temp/vault-audit-2026-09-23.md",
-    "1-SOURCES/Translations/WeBuddhist Tara Sadhna translation.md",
-    "1-SOURCES/Translations/En-Tārā’s_Profound_Essence_Translation.md"
+    "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
+    "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchungs.json",
+    "3-SKILLS/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchung-review.md",
+    "3-SKILLS/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchungs.json",
+    "3-SKILLS/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchungs.json",
+    "3-SKILLS/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchung-review.md",
+    "3-SKILLS/yigchung-upload/scripts/output",
+    "3-SKILLS/translation-upload/scripts/parser-root-text/__pycache__/parser.cpython-314.pyc",
+    "3-SKILLS/translation-upload/scripts/parser-root-text/__pycache__",
+    "Claude outputs/tara-plan-creator.md",
+    "Claude outputs",
+    "5-SYSTEM/How-to guides/github-board/README.md",
+    "5-SYSTEM/How-to guides/github-board/03-setup-script.md",
+    "5-SYSTEM/How-to guides/github-board/02-new-text-template.md",
+    "5-SYSTEM/How-to guides/github-board/00-board-spec.md",
+    "5-SYSTEM/scripts/README.md",
+    "5-SYSTEM/scripts/UPSTREAM.md",
+    "5-SYSTEM/scripts/install-skills.py",
+    "5-SYSTEM/scripts/strip_small_print.py",
+    "5-SYSTEM/gemini-scribe/Skills",
+    "5-SYSTEM/gemini-scribe/AGENTS.md",
+    "5-SYSTEM/Templates/audience.md",
+    "5-SYSTEM/Templates/FILE_YAML_PROPERTIES.md",
+    "5-SYSTEM/How-to guides/Sync with rails-template.md",
+    "5-SYSTEM/How-to guides/Sync and troubleshoot.md",
+    "5-SYSTEM/How-to guides/Solving the Obsidian Git workspace.json Tracking Issue.md",
+    "5-SYSTEM/How-to guides/Set up the vault.md",
+    "5-SYSTEM/How-to guides/How to Fix Git Merge Conflicts in Obsidian.md",
+    "5-SYSTEM/Guidelines/why-rails.md",
+    "5-SYSTEM/Guidelines/vault-variants.md",
+    "5-SYSTEM/Guidelines/vault-maintenance.md",
+    "5-SYSTEM/Guidelines/vault-annex.md",
+    "5-SYSTEM/Guidelines/skills-system.md",
+    "5-SYSTEM/Guidelines/skill-locations.md",
+    "5-SYSTEM/Guidelines/annotation-conventions.md",
+    "5-SYSTEM/Guidelines/0-VAULT-Structure.md",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/20_DROLMA NGODRUP JUNGNAYMA སྒྲོལ་མ་དངོས་གྲུབ་འབྱུང་གནས་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/19_DROLMA DUKNGAL SELCHEMA སྒྲོལ་མ་སྡུག་བསྔལ་སེལ་བྱེད་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/18_NAMPAR GYALWAY DROLMA རྣམ་པར་རྒྱལ་བའི་སྒྲོལ་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/17_DROLMA DRUPAY DROLMA སྒྲོལ་མ་སྒྲུབ་པའི་སྒྲོལ་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/16_DROLMA CHAKJOMA སྒྲོལ་མ་ཆགས་འཇོམས་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/15_DROLMA ZHIWA CHENMO སྒྲོལ་མ་ཞི་བ་ཆེན་མོ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/14_DROLMA TRONYER CHENMA སྒྲོལ་མ་ཁྲོ་གཉེར་ཅན་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/13_DROLMA YONGSU MINCHEMA སྒྲོལ་མ་ཡོངས་སུ་སྨིན་བྱེད་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/12_DROLMA TASHI NANGWA སྒྲོལ་མ་བཀྲ་ཤིས་སྣང་བ། - Edited.png"
   ]
 }
