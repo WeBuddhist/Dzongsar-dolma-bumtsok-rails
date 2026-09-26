@@ -292,6 +292,9 @@ def check(unit, lines, args):
         bad = sorted({ch for ch in "".join(lines) if ch in SIMPLIFIED_ONLY})
         if bad:
             fails["simplified_chars"] = "".join(bad)
+    banned = sorted({w for w in args.forbid if w and w in "".join(lines)})
+    if banned:
+        fails["forbidden"] = banned
     return fails
 
 
@@ -389,6 +392,8 @@ def main():
     ap.add_argument("--language-name", default="Chinese")
     ap.add_argument("--lang-tag", default="zh")
     ap.add_argument("--script", choices=["traditional", "any"], default="traditional")
+    ap.add_argument("--forbid", default="您", type=lambda v: [w for w in v.split(",") if w],
+                    help="comma-separated strings the output must not contain (default: 您)")
     ap.add_argument("--script-label", default="Traditional Chinese (Taiwan)")
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--thinking", choices=["low", "medium", "high"], default=None)
@@ -507,6 +512,8 @@ def main():
                 clause += MARKER_CLAUSE.format(m=", ".join(marks))
             if fails.get("simplified_chars"):
                 clause += SCRIPT_CLAUSE.format(c=fails["simplified_chars"])
+            if fails.get("forbidden"):
+                clause += f"\n\nDo not use {', '.join(fails['forbidden'])} anywhere in your answer (see the style instruction)."
             try:
                 text, info = call_api(build_request([u], context_for([u]), args, extra + clause), args, key)
             except BadResponse as exc:

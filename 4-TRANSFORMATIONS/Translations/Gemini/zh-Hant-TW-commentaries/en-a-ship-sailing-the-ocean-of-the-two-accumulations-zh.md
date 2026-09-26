@@ -21,7 +21,7 @@ target_language: "Traditional Chinese (Taiwan)"
 generator: "gemini-3.1-pro-preview"
 style: 4-TRANSFORMATIONS/Translations/Gemini/zh-Hant-TW-commentaries/style.md
 rails_used: none
-generated: 2026-09-26
+generated: 2026-09-27
 blocks_translated: 6
 blocks_total: 204
 headings_translated: 0/43
@@ -52,7 +52,7 @@ OM SVASTI
 
 ![[en-a-ship-sailing-the-ocean-of-the-two-accumulations#^1-1]]
 
-最好您已經領受過度母專屬的灌頂。若無，只要具備其他密咒灌頂與三昧耶即可。您還應當已經皈依三寶，並透過出離心與菩提心清淨自心。此外，正如密續所言，應當「備妥處所、助伴與資具，然後於秘密中成就修持」。 ^1-1
+最好你已經領受過特別針對度母的灌頂。如果沒有，只要擁有其他密咒灌頂與三昧耶即可。你也應該已經皈依三寶，並透過出離心與菩提心來清淨自心。此外，正如密續中所說，你應當「備妥處所、助伴與資具，然後秘密地成就修持」。 ^1-1
 
 ![[en-a-ship-sailing-the-ocean-of-the-two-accumulations#^1-2]]
 

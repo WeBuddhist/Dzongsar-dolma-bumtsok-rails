@@ -345,7 +345,9 @@ def main(argv=None):
         return 0
     if not args.title:
         sys.exit("refusing to write without --title: the old title is already taken on the library")
-    if out_path.exists() and out_path != old_path:
+    if out_path == old_path:
+        sys.exit("--out must differ from the commentary: the original is needed for verification")
+    if out_path.exists():
         sys.exit(f"{out_path.name} already exists — remove it or pass another --out")
     out_path.write_text(out_text, encoding="utf-8")
     print(f"  WROTE {vault_rel(out_path)}")
@@ -376,21 +378,27 @@ def main(argv=None):
     print("  OK  alignment = old alignment through the block map; only transclusion lines changed")
 
     if args.delete_old:
-        old_path.unlink()
-        print(f"  DELETED {vault_rel(old_path)}")
-        refs = []
-        for p in VAULT.rglob("*.md"):
-            if ".git" in p.parts or p == out_path:
-                continue
-            try:
-                if old_path.stem in nfc(p.read_text(encoding="utf-8")):
-                    refs.append(vault_rel(p))
-            except (UnicodeDecodeError, OSError):
-                pass
-        print("  files still naming the old file (update or re-point them):")
-        for r in refs or ["none"]:
-            print(f"    {r}")
+        delete_and_report(old_path, out_path)
     return 0
+
+
+def delete_and_report(old_path, keep_path):
+    old_path.unlink()
+    print(f"  DELETED {vault_rel(old_path)}")
+    # a link to the old file: [[stem#…]], [[stem|…]], [[stem]], or a path ending in stem.md
+    link_re = re.compile(rf"{re.escape(nfc(old_path.stem))}(?:\.md|[#|\]])")
+    refs = []
+    for p in VAULT.rglob("*.md"):
+        if ".git" in p.parts or p.resolve() == keep_path.resolve():
+            continue
+        try:
+            if link_re.search(nfc(p.read_text(encoding="utf-8"))):
+                refs.append(vault_rel(p))
+        except (UnicodeDecodeError, OSError):
+            pass
+    print("  files still linking to the old file (update or re-point them):")
+    for r in refs or ["none"]:
+        print(f"    {r}")
 
 
 if __name__ == "__main__":

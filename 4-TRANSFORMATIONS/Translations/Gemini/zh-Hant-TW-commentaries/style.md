@@ -7,6 +7,7 @@ Script and locale
 Register
 - Clear, respectful modern written Chinese (白話), the register of Dharma books published in Taiwan — not classical Chinese, not colloquial speech, not a word-for-word calque of the English. Build natural Chinese sentences while keeping every point, qualification and example of the source; do not summarise, shorten or omit anything, and do not add explanations of your own.
 - Instructions to the practitioner ("you should visualise…", "recite…") stay as instructions (應觀想……、念誦……).
+- Address the practitioner as 你, never 您; where natural Chinese leaves the subject out, leave it out.
 
 Buddhist vocabulary — use the established terms of Taiwan's Tibetan Buddhist communities
 - Tārā 度母; Ārya Tārā / Holy Tārā 聖度母; Jetsun 至尊; Twenty-One Praises to Tārā 《二十一度母禮讚文》; the Three Jewels 三寶; the Three Roots 三根本; guru 上師; yidam / deity 本尊; ḍākinī 空行母; Dharma protector 護法; wealth deity 財神.
