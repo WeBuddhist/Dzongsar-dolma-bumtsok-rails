@@ -74,6 +74,41 @@
     "text_id": "0p3GTH3UR8tOnIZpyxN9L",
     "toc_id": "bIN4OJZmG2ltECeujVdmy"
   },
+  "en-a-ship-sailing-the-ocean-of-the-two-accumulations-zh": {
+    "aligned_to_edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+    "edition_id": "NLMfwK4LIlBbuk8LL93qo",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "3qxcAuaYknsNEtkUgG3Vg",
+        "ts": "2026-09-27T00:59:52"
+      },
+      {
+        "chars": 16699,
+        "edition_id": "NLMfwK4LIlBbuk8LL93qo",
+        "segments": 204,
+        "step": "edition",
+        "ts": "2026-09-27T00:59:53"
+      },
+      {
+        "pairs": 204,
+        "root_edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+        "step": "alignment",
+        "ts": "2026-09-27T00:59:53"
+      },
+      {
+        "step": "toc",
+        "subsections": 4,
+        "toc_id": "630DL6gszXYsLPh1pWe7b",
+        "ts": "2026-09-27T00:59:54"
+      }
+    ],
+    "root_edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+    "root_text_id": "GGI8qrB4CKmV6sTEFJCv6",
+    "text_id": "3qxcAuaYknsNEtkUgG3Vg",
+    "toc_id": "630DL6gszXYsLPh1pWe7b"
+  },
   "en-zabtig-drolchok": {
     "aligned_to_edition_id": "1JX1dsVsP8pphHvSwuvOV",
     "edition_id": "CE8nq0BSKILMJvyjUx9Kt",
