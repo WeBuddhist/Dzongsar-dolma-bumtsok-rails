@@ -1,10 +1,10 @@
 ---
-registered_id: drolchok-drelpa
+registered_id: tsulnam
 source_file: "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md"
-parallel_translation: 1-SOURCES/Translations/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md
+parallel_translation: 1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md
 method: "Aligned against the English translation's own section headings (Justin Kirkwood, 2012); Tibetan-only ordinal sub-divisions added where the Tibetan announces them. The sa-bcad-only pipeline (toc-tree-extraction passes 1–3) recovered only a partial outline for this commentary and was superseded."
-alignment: 2-RAILS/Sections/Raw/toc-alignment/drolchok-drelpa-en.json
-qc_reports: [2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-drolchok-drelpa.md]
+alignment: 2-RAILS/Sections/Raw/toc-alignment/tsulnam-en.json
+qc_reports: [2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-tsulnam.md]
 status: draft
 ---
 

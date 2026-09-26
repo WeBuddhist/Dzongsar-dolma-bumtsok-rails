@@ -1,3 +1,23 @@
+---
+title: སྒྲོལ་མའི་མཎྜལ་བཞི་ཆོག་ཚོགས་གཉིས་སྙིང་པོའི་འགྲེལ་པ་ཚོགས་གཉིས་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་གཟིངས།
+title_in_english: A Ship Sailing the Ocean of the Two Accumulations
+author: ཚུལ་ཁྲིམས་རྣམ་དག་དཔལ་བཟང་པོ
+author_in_english: Khenpo Tsulnam Rinpoche (Tsultrim Namdak Pel Zangpo)
+date: 2008
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+genre: sadhana commentary
+lang_tag: bo
+verse_id_format: section-paragraph
+registered_id: tsulnam
+root_text: 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md
+covers_verses: 1-1–1-213
+related_translations:
+  - 1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md
+toc_tree: 2-RAILS/Sections/Raw/toc-tree/tsulnam.md
+source_description: "sGrol 'grel tshogs gnyis rgya mtshor 'jug pa'i gru gzings (Upper Bhattu, India: Palpung Sungrab Partrun Kang, 2008). Colophon: composed by Tsultrim Namdak Pel Zangpo (Khenpo Tsulnam) at Lungrik Jampel Ling, Palpung Sherab Ling, beginning on the anniversary of the first turning of the Dharma wheel. Section headings (^N-0) are editorial, aligned to the English translation's outline; root-text transclusions kept only where the commentary explains the passage."
+---
 # ༄༅། །སྒྲོལ་མའི་མཎྜལ་བཞི་ཆོག་ཚོགས་གཉིས་སྙིང་པོའི་འགྲེལ་པ་ཚོགས་གཉིས་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་གཟིངས་བཞུགས་སོ། །
 
 ## 0. Introduction ^0-0
