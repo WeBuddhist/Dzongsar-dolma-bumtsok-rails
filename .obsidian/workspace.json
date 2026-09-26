@@ -4,193 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e28c856eb21539",
+        "id": "65804c2601e4751b",
         "type": "tabs",
         "children": [
           {
-            "id": "fd13220e5030ff1c",
+            "id": "b4fee587073c78dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "file": "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "26d3d3f2ab11a888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "1c21ee74dfe81e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "10a2e5fab5f71a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle"
-            }
-          },
-          {
-            "id": "56e8034ee09b187b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།"
-            }
-          },
-          {
-            "id": "3e087319c559d5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "en-a-ship-sailing-the-ocean-of-the-two-accumulations"
-            }
-          },
-          {
-            "id": "6dc0755bc98a24d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "en-a-ship-sailing-the-ocean-of-the-two-accumulations"
-            }
-          },
-          {
-            "id": "2460a163ff0e10ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།"
-            }
-          },
-          {
-            "id": "d41e615ae13f3104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Text/bo-སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།"
-            }
-          },
-          {
-            "id": "73be96374c6c2f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "en-a-ship-sailing-the-ocean-of-the-two-accumulations"
-            }
-          },
-          {
-            "id": "51e56d95d48bb690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "en-a-ship-sailing-the-ocean-of-the-two-accumulations"
-            }
-          },
-          {
-            "id": "6d946c19155ee571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "en-a-ship-sailing-the-ocean-of-the-two-accumulations"
-            }
-          },
-          {
-            "id": "48a998992e0cb648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།"
+              "title": "ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.93359375
+    "width": 423.5
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -265,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-1 Tara Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -351,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -366,53 +197,53 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "48a998992e0cb648",
+  "active": "b4fee587073c78dc",
   "lastOpenFiles": [
-    "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
-    "conflict-files-obsidian-git.md",
-    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
-    "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
-    "3-SKILLS/commentary-upload/scripts/__pycache__/upload_commentary.cpython-314.pyc",
-    "3-SKILLS/commentary-upload/scripts/__pycache__",
-    "3-SKILLS/commentary-upload/scripts/upload_ledger.json",
-    "3-SKILLS/commentary-upload/SKILL.md",
-    "3-SKILLS/commentary-upload/scripts/upload_commentary.py",
-    "3-SKILLS/commentary-upload/scripts",
-    "3-SKILLS/commentary-upload",
-    "4-SYSTEM/scripts/parser-commentary/output/en-a-ship-sailing-the-ocean-of-the-two-accumulations/en-a-ship-sailing-the-ocean-of-the-two-accumulations.toc.json",
-    "4-SYSTEM/scripts/parser-commentary/output/en-a-ship-sailing-the-ocean-of-the-two-accumulations/en-a-ship-sailing-the-ocean-of-the-two-accumulations.text.json",
-    "4-SYSTEM/scripts/parser-commentary/output/en-a-ship-sailing-the-ocean-of-the-two-accumulations/en-a-ship-sailing-the-ocean-of-the-two-accumulations.edition.json",
-    "4-SYSTEM/scripts/parser-commentary/output/en-a-ship-sailing-the-ocean-of-the-two-accumulations/en-a-ship-sailing-the-ocean-of-the-two-accumulations.alignment.json",
-    "1-SOURCES/Text/bo-སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
-    "1-SOURCES/Commentaries/bo-དངུལ་ཆུ་དྷརྨ་བྷ་དྲ།.md",
-    "1-SOURCES/Commentaries/bo-རྒྱལ་བ་དགེ་འདུན་གྲུབ།.md",
-    "1-SOURCES/Commentaries/bo-ཏཱ་ར་ན་ཐ།.md",
-    "1-SOURCES/Commentaries/bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-zh.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-རྒྱལ་བ་དགེ་འདུན་གྲུབ།-zh.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-དངུལ་ཆུ་དྷརྨ་བྷ་དྲ།-zh.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-ཏཱ་ར་ན་ཐ།-zh.md",
     "4-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-en.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-རྒྱལ་བ་དགེ་འདུན་གྲུབ།-en.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-དངུལ་ཆུ་དྷརྨ་བྷ་དྲ།-en.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-ཏཱ་ར་ན་ཐ།-en.md",
+    "4-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-zh.md",
+    "4-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries",
+    "4-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries",
+    "4-TRANSFORMATIONS/Translations/Dharmamitra",
     "4-SYSTEM/scripts/parser-commentary/README.md",
+    "4-SYSTEM/scripts/parser-commentary/parser.py",
+    "4-SYSTEM/scripts/linter-commentary/validate.py",
+    "4-SYSTEM/scripts/linter-commentary/requirements.txt",
     "4-SYSTEM/scripts/linter-commentary/README.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle.md",
-    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
-    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+    "4-SYSTEM/scripts/linter-commentary/lookup.py",
+    "4-SYSTEM/scripts/linter-commentary/lint_text_input.py",
+    "4-SYSTEM/scripts/linter-commentary/languages.py",
+    "4-SYSTEM/scripts/linter-commentary/constants.py",
+    "3-SKILLS/commentary-upload/SKILL.md",
+    "1-SOURCES/Commentaries/bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།.md",
+    "0-INBOX/21-Drolma-Introductions/02 Tara the Radiant, Treasury of Wisdom (Tibetan).md",
+    "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Tibetan).md",
+    "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
+    "3-SKILLS/tara-plan-creator/SKILL.md",
+    "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/toc-tree-pass3-superseded.md",
     "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
     "3-SKILLS/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchung-review.md",
     "3-SKILLS/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchung-review.md",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/20_DROLMA NGODRUP JUNGNAYMA སྒྲོལ་མ་དངོས་གྲུབ་འབྱུང་གནས་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/19_DROLMA DUKNGAL SELCHEMA སྒྲོལ་མ་སྡུག་བསྔལ་སེལ་བྱེད་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/18_NAMPAR GYALWAY DROLMA རྣམ་པར་རྒྱལ་བའི་སྒྲོལ་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/17_DROLMA DRUPAY DROLMA སྒྲོལ་མ་སྒྲུབ་པའི་སྒྲོལ་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/16_DROLMA CHAKJOMA སྒྲོལ་མ་ཆགས་འཇོམས་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/15_DROLMA ZHIWA CHENMO སྒྲོལ་མ་ཞི་བ་ཆེན་མོ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/14_DROLMA TRONYER CHENMA སྒྲོལ་མ་ཁྲོ་གཉེར་ཅན་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/13_DROLMA YONGSU MINCHEMA སྒྲོལ་མ་ཡོངས་སུ་སྨིན་བྱེད་མ། - Edited.png",
-    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/12_DROLMA TASHI NANGWA སྒྲོལ་མ་བཀྲ་ཤིས་སྣང་བ། - Edited.png"
+    "2-RAILS/Sections/Raw/toc-tree/tsulnam.md",
+    "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-tsulnam.md",
+    "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/en-pre-transclusion-pruning-backup.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/en-pre-subheadings-backup.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/bo-pre-transclusion-pruning-backup.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/toc-tree-qc-drolchok-drelpa.md",
+    "0-INBOX/temp/zh-ཟབ་ཏིག་སྒྲོལ་ཆོག་དཀར་ཆག.md",
+    "0-INBOX/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
+    "conflict-files-obsidian-git.md",
+    "2-RAILS/Sections/Raw/toc-tree/drolchok-drelpa.md",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/11_DROLMA JIGTEN WANGDUMA སྒྲོལ་མ་འཇིག་རྟེན་དབང་སྡུད་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/10_DROLMA NYANGEN SELCHEMA སྒྲོལ་མ་མྱ་ངན་སེལ་བྱེད་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/09_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/08_DROLMA DUDJOM WANGCHUKMA སྒྲོལ་མ་བདུད་འཇོམས་དབང་ཕྱུག་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/07_DROLMA RABJOMA སྒྲོལ་མ་རབ་འཇོམས་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/06_DROLMA JIGTEN SUMGYALMA སྒྲོལ་མ་འཇིག་རྟེན་གསུམ་རྒྱལ་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/05_DROLMA HUNGDRA DROKMA སྒྲོལ་མ་ཧཱུྃ་སྒྲ་སྒྲོག་མ། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/04_DROLMA DESHIN SHEGPA TSUGTOR CHEN སྒྲོལ་མ་དེ་བཞིན་གཤེགས་པ་གཙུག་ཏོར་ཅན། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/03_DROLMA SERDOG CHEN སྒྲོལ་མ་གསེར་མདོག་ཅན། - Edited.png",
+    "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/18_NAMPAR GYALWAY DROLMA རྣམ་པར་རྒྱལ་བའི་སྒྲོལ་མ། - Edited.png"
   ]
 }
