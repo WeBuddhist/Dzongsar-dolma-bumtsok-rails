@@ -13,58 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "file": "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
+              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།"
             }
           },
           {
-            "id": "26d3d3f2ab11a888",
+            "id": "fcc71fb0d71b2717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "file": "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "1c21ee74dfe81e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
-            }
-          },
-          {
-            "id": "10a2e5fab5f71a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
+              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0-INBOX/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -225,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.1666259765625
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,44 +212,44 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "10a2e5fab5f71a2e",
+  "active": "fcc71fb0d71b2717",
   "lastOpenFiles": [
-    "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
     "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchungs.json",
-    "3-SKILLS/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchung-review.md",
+    "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
     "3-SKILLS/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchungs.json",
+    "3-SKILLS/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchung-review.md",
     "3-SKILLS/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchungs.json",
     "3-SKILLS/yigchung-upload/scripts/output/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.yigchung-review.md",
     "3-SKILLS/yigchung-upload/scripts/output",
-    "3-SKILLS/translation-upload/scripts/parser-root-text/__pycache__/parser.cpython-314.pyc",
-    "3-SKILLS/translation-upload/scripts/parser-root-text/__pycache__",
-    "Claude outputs/tara-plan-creator.md",
-    "Claude outputs",
-    "5-SYSTEM/How-to guides/github-board/README.md",
-    "5-SYSTEM/How-to guides/github-board/03-setup-script.md",
-    "5-SYSTEM/How-to guides/github-board/02-new-text-template.md",
-    "5-SYSTEM/How-to guides/github-board/00-board-spec.md",
-    "5-SYSTEM/scripts/README.md",
-    "5-SYSTEM/scripts/UPSTREAM.md",
-    "5-SYSTEM/scripts/install-skills.py",
-    "5-SYSTEM/scripts/strip_small_print.py",
-    "5-SYSTEM/gemini-scribe/Skills",
-    "5-SYSTEM/gemini-scribe/AGENTS.md",
-    "5-SYSTEM/Templates/audience.md",
-    "5-SYSTEM/Templates/FILE_YAML_PROPERTIES.md",
-    "5-SYSTEM/How-to guides/Sync with rails-template.md",
-    "5-SYSTEM/How-to guides/Sync and troubleshoot.md",
-    "5-SYSTEM/How-to guides/Solving the Obsidian Git workspace.json Tracking Issue.md",
-    "5-SYSTEM/How-to guides/Set up the vault.md",
-    "5-SYSTEM/How-to guides/How to Fix Git Merge Conflicts in Obsidian.md",
-    "5-SYSTEM/Guidelines/why-rails.md",
-    "5-SYSTEM/Guidelines/vault-variants.md",
-    "5-SYSTEM/Guidelines/vault-maintenance.md",
-    "5-SYSTEM/Guidelines/vault-annex.md",
-    "5-SYSTEM/Guidelines/skills-system.md",
-    "5-SYSTEM/Guidelines/skill-locations.md",
-    "5-SYSTEM/Guidelines/annotation-conventions.md",
-    "5-SYSTEM/Guidelines/0-VAULT-Structure.md",
+    "2-RAILS/Sections/Raw/toc-tree/sedwdowcg",
+    "2-RAILS/Sections/Raw/toc-alignment/tsulnam-en.json",
+    "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-tsulnam.md",
+    "2-RAILS/Sections/Raw/toc-tree/tsulnam.md",
+    "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
+    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
+    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ། 1.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/en-pre-transclusion-pruning-backup.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/bo-pre-transclusion-pruning-backup.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/en-pre-subheadings-backup.md",
+    "0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md",
+    "0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md",
+    "0-INBOX/Story/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md",
+    "0-INBOX/Story",
+    "0-INBOX/temp/TOC-drolchok-drelpa/toc-tree-qc-drolchok-drelpa.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/toc-enumerations-drolchok-drelpa.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/toc-candidates-drolchok-drelpa.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/toc-tree-drolchok-drelpa.md",
+    "2-RAILS/Sections/Raw/toc-alignment/drolchok-drelpa-en.json",
+    "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-drolchok-drelpa.md",
+    "2-RAILS/Sections/Raw/toc-alignment",
+    "2-RAILS/Sections/Raw/toc-qc",
+    "2-RAILS/Sections/Raw/toc-tree/drolchok-drelpa.md",
+    "2-RAILS/Sections/Raw/toc-tree",
+    "1-SOURCES/Translations/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/toc-tree-pass3-superseded.md",
+    "0-INBOX/temp/TOC-drolchok-drelpa/pre-toc-ingest-backup.md",
+    "0-INBOX/temp/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/20_DROLMA NGODRUP JUNGNAYMA སྒྲོལ་མ་དངོས་གྲུབ་འབྱུང་གནས་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/19_DROLMA DUKNGAL SELCHEMA སྒྲོལ་མ་སྡུག་བསྔལ་སེལ་བྱེད་མ། - Edited.png",
