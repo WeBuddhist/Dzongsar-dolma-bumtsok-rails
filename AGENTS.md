@@ -1,8 +1,8 @@
 # AGENTS.md — instructions for AI agents in this repository
 
-1. **Read [`4-SYSTEM/CLAUDE.md`](4-SYSTEM/CLAUDE.md) in full before doing anything.** It holds the operational rules, the folder write-permissions, the citation chain, and the skill-lookup step for this vault.
+1. **Read [`4-SYSTEM/CLAUDE.md`](5-SYSTEM/CLAUDE.md) in full before doing anything.** It holds the operational rules, the folder write-permissions, the citation chain, and the skill-lookup step for this vault.
 
-2. **Check for a skill before starting any task.** Open [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md), find the skill that matches, and follow its `SKILL.md` exactly. A task done without its skill must be redone.
+2. **Check for a skill before starting any task.** Open [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](SKILLS-CATALOG.md), find the skill that matches, and follow its `SKILL.md` exactly. A task done without its skill must be redone.
 
 3. 🔒 **Protected files — confirm before touching.** Do not edit, move, rename or delete any file marked `PROTECTED — SOURCE OF TRUTH` (a banner at the top of the file, and `protected: true` in its frontmatter) without explicit human confirmation. State the file and the exact change, and wait for approval. Regenerating such a file counts as editing it. The full policy is in `4-SYSTEM/CLAUDE.md`.
 

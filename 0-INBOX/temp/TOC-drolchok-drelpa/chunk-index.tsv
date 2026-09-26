@@ -1,0 +1,12 @@
+# source: 1-SOURCES\Commentaries\bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md
+# total_lines: 775
+# chunk_size: 150
+# overlap: 25
+# total_chunks: 6
+# columns: chunk_id	start_line	end_line  (1-based, inclusive; read with: sed -n 'START,ENDp' <source>)
+000	1	150
+001	126	275
+002	251	400
+003	376	525
+004	501	650
+005	626	775
