@@ -1,0 +1,81 @@
+{
+  "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།": {
+    "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "edition_id": "S1x9WEfUdf5r5D5thUm4R",
+    "file_type": "commentary",
+    "lang_tag": "bo",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "z6bTpoKQzf0nKhevIRvWO",
+        "ts": "2026-09-26T23:03:26"
+      },
+      {
+        "chars": 46249,
+        "edition_id": "S1x9WEfUdf5r5D5thUm4R",
+        "segments": 179,
+        "step": "edition",
+        "ts": "2026-09-26T23:03:27"
+      },
+      {
+        "nodes": 43,
+        "step": "toc",
+        "toc_id": "40LZpQkVUBnzAEbwhIEEo",
+        "ts": "2026-09-26T23:03:27"
+      },
+      {
+        "pairs": 343,
+        "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+        "step": "alignment",
+        "ts": "2026-09-26T23:03:28"
+      }
+    ],
+    "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "root_text_id": "AMXt6wYXNvRR2WanncXaq",
+    "source_file": "1-SOURCES/Commentaries/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག་འགྲེལ་བ།.md",
+    "text_id": "z6bTpoKQzf0nKhevIRvWO",
+    "toc_id": "40LZpQkVUBnzAEbwhIEEo"
+  },
+  "en-a-ship-sailing-the-ocean-of-the-two-accumulations": {
+    "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+    "file_type": "commentary",
+    "lang_tag": "en",
+    "log": [
+      {
+        "error": "HTTP 422 POST https://library.webuddhist.com/v2/texts\n         {\"error\":\"Text with title 'A Ship Sailing the Ocean of the Two Accumulations' in language 'en' already exists\"}",
+        "step": "error",
+        "ts": "2026-09-26T23:04:04"
+      },
+      {
+        "step": "text",
+        "text_id": "GGI8qrB4CKmV6sTEFJCv6",
+        "ts": "2026-09-26T23:06:24"
+      },
+      {
+        "chars": 63106,
+        "edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+        "segments": 204,
+        "step": "edition",
+        "ts": "2026-09-26T23:06:25"
+      },
+      {
+        "nodes": 43,
+        "step": "toc",
+        "toc_id": "3tdU5x8Xc64s8b0kOAtze",
+        "ts": "2026-09-26T23:06:25"
+      },
+      {
+        "pairs": 492,
+        "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+        "step": "alignment",
+        "ts": "2026-09-26T23:06:26"
+      }
+    ],
+    "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "root_text_id": "AMXt6wYXNvRR2WanncXaq",
+    "source_file": "1-SOURCES/Commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations.md",
+    "text_id": "GGI8qrB4CKmV6sTEFJCv6",
+    "toc_id": "3tdU5x8Xc64s8b0kOAtze"
+  }
+}

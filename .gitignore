@@ -18,6 +18,8 @@
 4-SYSTEM/Skills/*/scripts/linter-root-text/output/
 4-SYSTEM/Skills/*/scripts/parser-root-text/output/
 4-SYSTEM/Skills/yigchung-upload/scripts/output/
+4-SYSTEM/scripts/linter-commentary/output/
+4-SYSTEM/scripts/parser-commentary/output/
 4-SYSTEM/Skills/*/scripts/**/__pycache__/
 
 # Credentials — never committed (the Obsidian Git plugin auto-commits everything else)

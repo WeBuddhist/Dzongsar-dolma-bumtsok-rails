@@ -309,6 +309,10 @@ Uploads a root text to the library backend: lint, parse, then create the text, e
 Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. Dry-run by default; `--execute` needs explicit human confirmation every time.
 → [`translation-upload/SKILL.md`](3-SKILLS/translation-upload/SKILL.md)
 
+### `commentary-upload` **[exists]**
+Uploads a commentary to the library backend as its own text (`commentary_of` the root): lint, parse, then create the text, edition and table of contents, and PUT the alignment from its segments to the root edition (commentary = source, root = target). Footnotes are kept out of every payload. Every commentary, in any language, is aligned to the root only. Dry-run by default; `--execute` needs explicit human confirmation every time.
+→ [`commentary-upload/SKILL.md`](3-SKILLS/commentary-upload/SKILL.md)
+
 ### `yigchung-upload` **[exists]**
 **Purpose:** Parse the `<small>…</small>` yigchung marks out of an uploaded note and attach them to its live edition as yigchung annotations, one tag-free span each.
 **Inputs:** A root text or translation already uploaded (frontmatter carries `edition_id`), the upload parser, and the API key.
