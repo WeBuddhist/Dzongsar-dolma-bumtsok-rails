@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
+                "file": "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zh-Tārā’s_Profound_Essence_Translation"
+              "title": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle"
             }
           }
         ],
@@ -242,6 +242,9 @@
   },
   "active": "10a2e5fab5f71a2e",
   "lastOpenFiles": [
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md",
+    "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག Subtitle.md",
+    "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Translation.md",
     "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchung-review.md",
     "3-SKILLS/yigchung-upload/scripts/output/Zh-Tārā’s_Profound_Essence_Translation.yigchungs.json",
     "3-SKILLS/yigchung-upload/scripts/output/En-Tārā’s_Profound_Essence.yigchung-review.md",
@@ -275,9 +278,6 @@
     "5-SYSTEM/Guidelines/vault-maintenance.md",
     "5-SYSTEM/Guidelines/vault-annex.md",
     "5-SYSTEM/Guidelines/skills-system.md",
-    "5-SYSTEM/Guidelines/skill-locations.md",
-    "5-SYSTEM/Guidelines/annotation-conventions.md",
-    "5-SYSTEM/Guidelines/0-VAULT-Structure.md",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/20_DROLMA NGODRUP JUNGNAYMA སྒྲོལ་མ་དངོས་གྲུབ་འབྱུང་གནས་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/19_DROLMA DUKNGAL SELCHEMA སྒྲོལ་མ་སྡུག་བསྔལ་སེལ་བྱེད་མ། - Edited.png",
