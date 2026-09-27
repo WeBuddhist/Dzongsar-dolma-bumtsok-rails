@@ -21,6 +21,8 @@
 4-SYSTEM/scripts/linter-commentary/output/
 4-SYSTEM/scripts/parser-commentary/output/
 4-SYSTEM/Skills/*/scripts/**/__pycache__/
+3-SKILLS/*/scripts/linter-root-text/output/
+3-SKILLS/*/scripts/parser-root-text/output/
 
 # Credentials — never committed (the Obsidian Git plugin auto-commits everything else)
 .env

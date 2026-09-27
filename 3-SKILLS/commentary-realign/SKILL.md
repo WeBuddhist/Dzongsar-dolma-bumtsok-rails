@@ -7,13 +7,17 @@ description: >
   block is matched to all of its occurrences in the new root, the copy's
   transclusions are re-pointed there, its frontmatter is re-pointed and cleared
   of the old live ids and given a new unique title, the result is verified
-  against the old alignment, and the old file is deleted. Dry-run by default.
+  against the old alignment, and the old file is deleted. Translations of the
+  commentary stay translations *of the commentary*: they are re-pointed at the
+  re-aligned copy (block for block), never aligned to the root directly, and
+  reach the root only through it. Dry-run by default.
 
   Trigger this skill when the user says: "align this commentary to the other
   root", "migrate the alignment to the Zabtig text", "re-align the commentary to
   a new root text", "the root passage appears three times — point the
   commentary at all of them", "re-upload the commentary as a commentary of
-  another root".
+  another root", "re-point the English and Chinese translations of the
+  commentary to the new copy".
 profile: rails-vault
 ---
 
@@ -32,6 +36,7 @@ Correct output is a copy that differs from the original **only** in its transclu
 | **Commentary** | A `1-SOURCES/Commentaries/` file with `file_type: commentary`, `root_text:` set, and its root passages transcluded (`![[<root>#^ref]]`) | yes |
 | **New root** | The root text to align to, in `1-SOURCES/Text/`, with block IDs; it should carry `text_id` (uploaded) so `commentary_of` can be set | yes |
 | **New title** | A title for the copy that is not already a title or alt title of any text in the same language on the library (titles are unique per language; the original keeps its titles) | yes, for `--write` |
+| **Translations** | Optional: translations of the commentary (`file_type: translation`, `root_text:` = the commentary) with the same block IDs, each block transcluding its source block (`![[<commentary>#^X]]`), e.g. the DharmaMitra en/zh files in `4-TRANSFORMATIONS/Translations/`. Each needs its own new unique title | no |
 | **Overrides** | Optional JSON `{"<old ref>": ["<new ref>", …]}` replacing the automatic matches for those refs (`[]` = leave unaligned) | no |
 
 If the new title is not given, stop and ask for it. Do not invent one without the human's approval.
@@ -43,6 +48,7 @@ If the new title is not given, stop and ask for it. Do not invent one without th
 | `1-SOURCES/Commentaries/<old stem>-<new root name>.md` (or `--out`) | The re-aligned copy |
 | `0-INBOX/temp/commentary-realign/<old stem>.mapping.json` | The block map with scores, for review and for building overrides |
 | the old commentary file | Deleted after verification passes (`--delete-old`) |
+| `<translation folder>/<new commentary stem>-<lang>.md` | For each translation: a copy re-pointed at the re-aligned commentary; the old translation file is deleted after the checks pass |
 
 ---
 
@@ -81,6 +87,21 @@ realigned_from_root_text: 1-SOURCES/Text/<old-root>.md
 # removed: text_id, edition_id, toc_id, aligned_to_edition_id, alt_titles
 ```
 
+A **translation** copy stays a translation of the commentary. Its body keeps one transclusion per block, re-pointed from the old commentary to the re-aligned copy (`![[<old commentary>#^X]]` → `![[<re-aligned commentary>#^X]]`); it gets **no** root transclusions. `translation-upload` aligns it to the re-aligned commentary by identity (block `^X` ↔ block `^X`), so it reaches the new root only through the commentary. Frontmatter, changes only:
+
+```yaml
+title: <new unique title>
+root_text: 1-SOURCES/Commentaries/<re-aligned commentary>.md   # the commentary, not the root
+title_original: <the re-aligned commentary's title>              # only if the key exists
+realigned_from: <old translation path>
+realigned_from_text_id: <old text_id>
+realigned_from_edition_id: <old edition_id>
+realigned_from_translation_of: <old commentary text_id>
+# removed: text_id, edition_id, toc_id, aligned_to_edition_id, translation_of, translation_of_text_id, translation_of_edition_id, alt_titles
+```
+
+`file_type` stays `translation`. `translation_of` is not set by hand: the translation linter fills it from the re-aligned commentary's `text_id`, so **the commentary must be uploaded before its translations**.
+
 `alt_titles` are dropped because the original already claims them on the library (titles and alt titles are unique per language, and a claimed alt title cannot be removed); pass `--keep-alt-titles` only for alt titles that are new.
 
 ---
@@ -94,7 +115,9 @@ realigned_from_root_text: 1-SOURCES/Text/<old-root>.md
 5. **Never reuse a title.** The new title must differ from the original's title and alt titles.
 6. **The original on the library is untouched.** This skill deletes the old *file* only; the live text stays a commentary of the old root. Deleting anything on the library is not part of this skill.
 7. **Uploading is a separate step.** Run `commentary-upload` on the copy (dry run, then `--execute` only after explicit human confirmation).
-8. **Translations of the commentary are not re-pointed here.** After `--delete-old` the script lists every file that still names the old file; handle those as a follow-up with the human.
+8. **Translations are translations of the commentary, never commentaries of the root.** `repoint_translation.py` keeps `file_type: translation`, points `root_text` at the re-aligned commentary, and adds no root transclusions. The translation's block IDs must equal the commentary's content block IDs one for one (identity alignment), or it stops.
+9. **Upload order: root → commentary → translations.** The translations' `translation_of` and their identity check against the live commentary segmentation need the commentary's `text_id` and `edition_id`; `upload_translation.py` refuses to run before they exist.
+10. **Report stale links.** After `--delete-old` each script lists the files that still link to the deleted file; re-point them or tell the human.
 
 ---
 
@@ -112,8 +135,14 @@ realigned_from_root_text: 1-SOURCES/Text/<old-root>.md
    python3 3-SKILLS/commentary-realign/scripts/realign_commentary.py "<commentary.md>" --new-root "<new-root.md>" --title "<new title>" --write --delete-old
    ```
    The script writes the copy, checks that only transclusion lines changed and that the alignment is the mapped old alignment, and only then deletes the old file. It prints the files that still name the old file.
-5. **Dry-run the upload** of the copy with `commentary-upload` and read it back: lint clean, `commentary_of` = the new root's `text_id`, the expected pair count, no title clash.
-6. **Report** to the human: the block map summary, pair counts old → new, commentary blocks left unaligned, the files that still name the old file, and the upload dry run. Upload only on an explicit yes.
+5. **Re-point each translation** of the commentary (dry run, then write):
+   ```bash
+   python3 3-SKILLS/commentary-realign/scripts/repoint_translation.py "<translation.md>" --source "<re-aligned commentary.md>" --title "<new title>"
+   python3 3-SKILLS/commentary-realign/scripts/repoint_translation.py "<translation.md>" --source "<re-aligned commentary.md>" --title "<new title>" --write --delete-old
+   ```
+   The dry run must print `OK`: block IDs identical to the commentary, every block transcluding its commentary block, only transclusion lines changing.
+6. **Prepare the payloads.** Commentary: `commentary-upload` dry run (lint clean, `commentary_of` = the new root's `text_id`, the expected pair count, no duplicate). Translations: until the commentary is live, run the `translation-upload` linter and parser directly (`3-SKILLS/translation-upload/scripts/linter-root-text/lint_text_input.py`, then `parser-root-text/parser.py <file> <lint.json>`) and check the edition's references equal the commentary edition's references and the alignment is identity; `translation_of` is empty until the commentary has a `text_id`. After the commentary is uploaded, run the full `translation-upload` dry run for each translation.
+7. **Report** to the human: the block map summary, pair counts old → new, commentary blocks left unaligned, the files that still name the old file, and the upload dry run. Upload only on an explicit yes.
 
 ---
 
@@ -125,4 +154,6 @@ realigned_from_root_text: 1-SOURCES/Text/<old-root>.md
 - [ ] Copy frontmatter: new `root_text`, `commentary_of`, `covers_verses`; no `text_id`/`edition_id`/`toc_id`/`aligned_to_edition_id`; `realigned_from*` recorded
 - [ ] Old file deleted only after verification passed
 - [ ] Files still naming the old file reported to the human
-- [ ] `commentary-upload` dry run of the copy passes
+- [ ] Each translation re-pointed with `repoint_translation.py`: checks `OK`, still `file_type: translation`, `root_text` = the re-aligned commentary, new unique title, old file deleted
+- [ ] Commentary payload: `commentary-upload` dry run passes
+- [ ] Translation payloads: references equal the commentary edition's, identity alignment; full `translation-upload` dry run after the commentary is live

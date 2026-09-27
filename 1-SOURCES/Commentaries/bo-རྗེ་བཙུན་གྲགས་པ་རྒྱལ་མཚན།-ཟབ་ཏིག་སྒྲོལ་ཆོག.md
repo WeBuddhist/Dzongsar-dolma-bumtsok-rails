@@ -20,6 +20,10 @@ realigned_from: 1-SOURCES/Commentaries/bo-རྗེ་བཙུན་གྲག�
 realigned_from_text_id: nmGX5G3SzfoiNdvbp6YQq
 realigned_from_edition_id: n0meYebRr1clD2ysfDjyK
 realigned_from_root_text: 1-SOURCES/Text/bo-སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md
+text_id: P1RXQLPkOH3yctyKHTjCl
+edition_id: ZFutCZROIPuFk4GZG81Fj
+toc_id: zrhKeFwJbLfJyw66dV8vI
+aligned_to_edition_id: Zt5c0fe1OMJI1Kh8rp2FM
 ---
 
 # ༄༅། །སྒྲོལ་མ་ཕྱག་འཚལ་ཉི་ཤུ་རྩ་གཅིག་གི་བསྟོད་པའི་རྣམ་བཤད་གསལ་བའི་འོད་ཟེར་ཞེས་བྱ་བ་བཞུགས་སོ། ། ^0

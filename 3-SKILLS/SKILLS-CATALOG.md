@@ -314,8 +314,8 @@ Uploads a commentary to the library backend as its own text (`commentary_of` the
 → [`commentary-upload/SKILL.md`](3-SKILLS/commentary-upload/SKILL.md)
 
 ### `commentary-realign` **[exists]**
-**Purpose:** Copy a commentary aligned to one root text and re-align the copy to a second root text that contains the same root passages (repeated passages get every occurrence), carrying the existing alignment across, then delete the old file.
-**Inputs:** A commentary with root-text transclusions, the new root text (with block IDs and `text_id`), and a new title unique on the library.
+**Purpose:** Copy a commentary aligned to one root text and re-align the copy to a second root text that contains the same root passages (repeated passages get every occurrence), carrying the existing alignment across, then delete the old file; its translations are re-pointed to the copy and stay translations of it.
+**Inputs:** A commentary with root-text transclusions, the new root text (with block IDs and `text_id`), a new title unique on the library, and optionally the commentary's translations (each with its own new title).
 **Outputs:** `1-SOURCES/Commentaries/<stem>-<new root>.md` with re-pointed transclusions and frontmatter, verified against the old alignment, plus a block map in `0-INBOX/temp/commentary-realign/`; then upload the copy with `commentary-upload`.
 → [`commentary-realign/SKILL.md`](3-SKILLS/commentary-realign/SKILL.md)
 

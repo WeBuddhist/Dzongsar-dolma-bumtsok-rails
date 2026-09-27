@@ -501,7 +501,7 @@ def build_alignment(source_path):
     heading_refs = _root_heading_refs(fm, source_path)
     root_name = _root_file_name(fm)
     skipped_heading_targets = set()
-    foreign_transclusions = set()
+    foreign_transclusions = {}
     alignments = []
     seen_pairs = set()
     blocks = _extract_blocks(body)
@@ -527,10 +527,9 @@ def build_alignment(source_path):
         trans_links = [(f, r) for l in lines for f, r in _TRANS_FILE_REF_RE.findall(l)]
         trans_refs = [r for f, r in trans_links
                       if root_name is None or _note_name(f) == root_name]
-        foreign_transclusions.update(
-            f"{f}#^{r}" for f, r in trans_links
-            if root_name is not None and _note_name(f) != root_name
-        )
+        for f, r in trans_links:
+            if root_name is not None and _note_name(f) != root_name:
+                foreign_transclusions.setdefault(f, set()).add(r)
         trans_only = bool(trans_links) and not block["ref"] and all(
             _TRANS_REF_RE.search(l) for l in lines if l.strip()
         )
@@ -570,7 +569,8 @@ def build_alignment(source_path):
     if foreign_transclusions:
         print(
             "  WARN alignment: transclusions of files other than root_text "
-            f"close the scope without a target: {sorted(foreign_transclusions)}",
+            "close the scope without a target: "
+            + ", ".join(f"{f} ({len(r)})" for f, r in sorted(foreign_transclusions.items())),
             file=sys.stderr,
         )
 

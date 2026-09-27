@@ -74,6 +74,76 @@
     "text_id": "0p3GTH3UR8tOnIZpyxN9L",
     "toc_id": "bIN4OJZmG2ltECeujVdmy"
   },
+  "bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-ཟབ་ཏིག་སྒྲོལ་ཆོག-en": {
+    "aligned_to_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "edition_id": "Jok8ZflQH9RUDbhqOlzng",
+    "lang_tag": "en",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "iCxEhU6L4rgI6rtpLKb91",
+        "ts": "2026-09-27T00:34:18"
+      },
+      {
+        "chars": 15638,
+        "edition_id": "Jok8ZflQH9RUDbhqOlzng",
+        "segments": 36,
+        "step": "edition",
+        "ts": "2026-09-27T00:34:19"
+      },
+      {
+        "pairs": 36,
+        "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+        "step": "alignment",
+        "ts": "2026-09-27T00:34:19"
+      },
+      {
+        "step": "toc",
+        "subsections": 6,
+        "toc_id": "PS0oAHeuvlXWSjtDZADY6",
+        "ts": "2026-09-27T00:34:19"
+      }
+    ],
+    "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "root_text_id": "P1RXQLPkOH3yctyKHTjCl",
+    "text_id": "iCxEhU6L4rgI6rtpLKb91",
+    "toc_id": "PS0oAHeuvlXWSjtDZADY6"
+  },
+  "bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-ཟབ་ཏིག་སྒྲོལ་ཆོག-zh": {
+    "aligned_to_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "edition_id": "9EMlQWSrFiRuCfoqHblNX",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "qsqcZbmkMmP9hkCBvsjlC",
+        "ts": "2026-09-27T00:34:20"
+      },
+      {
+        "chars": 4103,
+        "edition_id": "9EMlQWSrFiRuCfoqHblNX",
+        "segments": 36,
+        "step": "edition",
+        "ts": "2026-09-27T00:34:21"
+      },
+      {
+        "pairs": 36,
+        "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+        "step": "alignment",
+        "ts": "2026-09-27T00:34:21"
+      },
+      {
+        "step": "toc",
+        "subsections": 6,
+        "toc_id": "dVonDYxwK3f5qfjA8PX5g",
+        "ts": "2026-09-27T00:34:21"
+      }
+    ],
+    "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "root_text_id": "P1RXQLPkOH3yctyKHTjCl",
+    "text_id": "qsqcZbmkMmP9hkCBvsjlC",
+    "toc_id": "dVonDYxwK3f5qfjA8PX5g"
+  },
   "en-a-ship-sailing-the-ocean-of-the-two-accumulations-zh": {
     "aligned_to_edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
     "edition_id": "NLMfwK4LIlBbuk8LL93qo",
