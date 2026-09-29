@@ -1,6 +1,12 @@
 Tara of Rays of Light
 སྒྲོལ་མ་འོད་ཟེར་ཅན་མ།
 
+|Name|Tara of Rays of Light|
+|---|---|
+|Mantra|oṃ tāre tuttāre ture sarva siddhi sādhanaṃ svāhā|
+|Accomplishment|Bringing all enlightened activities to complete perfection|
+|Praise|Homage to Tara, who with three tathātās,<br>Commands all the power she needs to bring peace.<br>Supreme Ture, you are the one who annihilates,<br>The hordes of grahas, vetālas, and the yaksas.|
+
 Those who wish to bring all enlightened activities to complete perfection should rely on Tara of Rays of Light. She is the last of the twenty-one, and the commentators are unusually candid that no single name for her has ever been agreed upon — some call her "the one who brings everything to completion," others "the one who ransoms us back," others simply "she of the rays of light," and at least one master declines to give her a separate name at all, explaining that this final verse is not really about one more Tara added to the list, but about Tara herself in her entirety, the single source from which all twenty-one emanations already described have come.
 
 What every tradition does agree on is her method: three sacred syllables, OM, AH, and HUM, placed at the crown, the throat, and the heart, radiating outward through nothing more than their own peaceful presence to pacify every kind of harm — spirits, malevolent forces, and the restless dead alike. Some commentators count this protection with exact precision, others describe it simply as complete; several masters connect her directly to the recovery of a sick person's life-force, imagining it gently summoned back the instant it has been called. Her form is generally shown in white, seated in quiet composure, one hand open in the gesture of giving and the other holding aloft a golden fish resting on a lotus — a symbol, in Buddhist tradition, of fearlessness and of the freedom to move without obstruction, the way a fish moves easily through water.

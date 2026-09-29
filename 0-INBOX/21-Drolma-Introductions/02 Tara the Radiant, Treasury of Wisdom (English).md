@@ -1,6 +1,12 @@
 Tara the Radiant, Treasury of Wisdom
 སྒྲོལ་མ་བློ་གཏེར་དབྱངས་ཅན་མ།
 
+|Name|Tara the Radiant, Treasury of Wisdom|
+|---|---|
+|Mantra|oṃ tāre tuttāre ture śāntiṃ kuru svāhā|
+|Accomplishment|Pacifying illness, harmful spirits, and obstructing forces|
+|Praise|Homage to Tara, whose smile is as radiant,<br>As one hundred million full autumnal moons;<br>Ablaze with the light of the stars in their thousands<br>You shine with a transcendent light of perfection.|
+
 Those who wish to pacify illness, harmful spirits, and obstructing forces should rely on Tara the Radiant, Treasury of Wisdom. She is the second of the twenty-one, and the root verse praises her by comparing her face to a hundred autumn moons stacked one behind the other, shining brighter than a thousand gathered stars. The commentators do not agree on a single name for her — some call her "the treasury of intellect, the melodious one," others "the radiant white Tara," and still others simply "the great pacifier" — but every version points toward the same quality: a luminous, wisdom-filled brilliance that clears away the dark of confusion the moment it touches it.
 
 She is shown in white, seated in a single pair of arms, her right hand open in the gesture of supreme giving while her left holds a blue lotus marked with a small mirror and a seed-syllable resting at its heart — a mirror because her light works the way reflected light works, dispelling ignorance simply by shining, without effort or strain, the way daybreak needs no argument to end the night. Some traditions also describe a more elaborate form of hers with three faces and twelve arms, emphasizing the same radiance multiplied across every direction.

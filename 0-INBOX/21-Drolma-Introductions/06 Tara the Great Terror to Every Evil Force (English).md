@@ -1,6 +1,12 @@
 Tara the Great Terror to Every Evil Force
 སྒྲོལ་མ་གདོན་རིགས་རྣམ་པར་འཇོམས་པ་འཇིགས་བྱེད་ཆེན་མོ།
 
+|Name|Tara the Great Terror to Every Evil Force|
+|---|---|
+|Mantra|oṃ tāre tuttāre ture śatrūn uccāṭaya svāhā|
+|Accomplishment|Subduing the bhutas (elemental spirits)|
+|Praise|Homage to Tara, whom all the gods worship,<br>Indra, Marut, Agni, Shiva and Brahma;<br>Praised by the demons who harm and assail us,<br>Ghosts, spirits, zombies, gandharvas and yaksas.|
+
 Those who wish to subdue the bhutas (elemental spirits) should rely on Tara the Great Terror to Every Evil Force. Sixth among the twenty-one, this Tara is described as worshipped even by the great gods of the classical Indian pantheon — Indra, Agni, Brahma, the wind-god Vayu, and the divine craftsman Vishvakarman — while hosts of spirits, ghosts, celestial musicians, and nature-spirits all draw near to approach her. It is a striking image: even the powers that other beings fear turn to her for protection, because whatever harm they themselves might cause has already been outmatched by her far greater capacity to pacify it.
 
 Her form reflects that dual role of being both revered and feared in the right measure. She appears wrathful, her expression and bearing carrying the charged intensity needed to meet malevolent forces on their own terms rather than simply avoiding them, since some kinds of harm cannot be dispelled by gentleness alone but must be met and dissolved directly at their source.

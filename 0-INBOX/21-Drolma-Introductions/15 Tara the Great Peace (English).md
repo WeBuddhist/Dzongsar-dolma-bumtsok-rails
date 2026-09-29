@@ -1,6 +1,12 @@
 Tara the Great Peace
 སྒྲོལ་མ་ཞི་བ་ཆེན་མོ།
 
+|Name|Tara the Great Peace|
+|---|---|
+|Mantra|oṃ tāre tuttāre sarva pāpaṃ praśamanāya svāhā|
+|Accomplishment|Pacifying negative deeds|
+|Praise|Homage to Tara, the one who is blissful,<br>You are liberation, your province is peace,<br>With om and with svāhā, so perfectly rendered<br>You lay waste to all the worst evils and sufferings.|
+
 Those who wish to pacify negative deeds should rely on Tara the Great Peace. Fifteenth among the twenty-one, her verse is one of quiet culmination rather than dramatic force: she is praised as blissful, virtuous, and utterly peaceful, dwelling within the very sphere of nirvana's stillness, endowed with the sacred syllables OM and SVAHA framing her presence. Where several of the Taras before and after her act through blazing fire or thunderous sound, she acts by simply embodying the peace that all their fierce activity is ultimately in service of — and in doing so, she is said to destroy even the greatest of negative karma.
 
 Most traditions show her in white, standing in an archer's poised stance, one hand extended in the gesture of supreme giving and the other holding a vase of nectar — the elixir of immortality, offered freely to whoever approaches her. A few lineages describe an expanded form of hers with six arms, the same white peacefulness now reaching outward through further hands and further gestures, but the essential quality never changes.

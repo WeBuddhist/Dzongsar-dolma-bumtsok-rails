@@ -1,6 +1,12 @@
 Tara Who Dispels All Poverty
 སྒྲོལ་མ་ཕོངས་པ་ཀུན་སེལ།
 
+|Name|Tara Who Dispels All Poverty|
+|---|---|
+|Mantra|oṃ tāre tuttāre ture vasudhāriṇi svāhā|
+|Accomplishment|Dispelling poverty|
+|Praise|Homage to Tara, the Mother who summons<br>All the world's leaders with hum and a frown.<br>You free us from hardship, from need and misfortune<br>From homelessness, poverty, hunger and thirst.|
+
 Those who wish to dispel poverty should rely on Tara Who Dispels All Poverty. Eleventh among the twenty-one, she is described summoning the great hosts of earth-guardians — traditionally enumerated as ten directional protectors — while the syllable HUM blazes at her wrathful brow. It is this Tara's verse that also preserves the mantra most widely recited throughout the entire Tara tradition, OM TARE TUTTARE TURE SVAHA, making her, for many practitioners, the point in the twenty-one where the whole cycle's essence is most directly spoken aloud.
 
 Her name promises something universally longed for: the dispelling of every kind of poverty, understood in Tibetan tradition not only as a lack of material resources but as any form of impoverishment — of merit, of opportunity, of the basic conditions a life needs in order to flourish. Two very different traditions describe her physical form, a divergence the commentators note candidly rather than trying to reconcile, as if even her outer appearance refuses to be fixed the way scarcity itself refuses to look the same from one life to the next.
