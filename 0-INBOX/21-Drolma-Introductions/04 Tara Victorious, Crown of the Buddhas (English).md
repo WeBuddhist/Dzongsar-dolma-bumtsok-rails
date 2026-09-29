@@ -1,7 +1,7 @@
 Tara Victorious, Crown of the Buddhas
 སྒྲོལ་མ་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་མ།
 
-Fourth in the sequence, she carries one of the most exalted titles of all twenty-one: Mother of all the Tathagatas, dwelling at the very crown-protuberance — the ushnisha — that marks a fully awakened being's head. Commentators identify her with Prajnaparamita herself, the personification of the Perfection of Wisdom from which every Buddha of every age is said to be born, so that to meet her is, in a real sense, to meet the source from which enlightenment itself arises.
+Those who wish to accomplish long life should rely on Tara Victorious, Crown of the Buddhas. Fourth in the sequence, she carries one of the most exalted titles of all twenty-one: Mother of all the Tathagatas, dwelling at the very crown-protuberance — the ushnisha — that marks a fully awakened being's head. Commentators identify her with Prajnaparamita herself, the personification of the Perfection of Wisdom from which every Buddha of every age is said to be born, so that to meet her is, in a real sense, to meet the source from which enlightenment itself arises.
 
 Two somewhat different traditions describe her form, one showing her with four arms and one with two, but both keep her seated at that same place of highest honor, crowning the awakened mind rather than standing apart from it. In certain lineages she is identified specifically with the crown of Vairochana, one of the five Buddha families, linking her radiant victory to the very center of the mandala of enlightened beings.
 

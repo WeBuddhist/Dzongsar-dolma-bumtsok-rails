@@ -1,7 +1,7 @@
 Tara of the Khadira Forest
 སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ།
 
-Ninth among the twenty-one, she takes her name from the khadira tree, a hardwood long associated in Indian and Tibetan tradition with strength, protection, and shelter — as if to say that wherever she is invoked, a kind of forest sanctuary springs up around the one calling to her, dense enough that no harm can easily make its way through.
+Those who wish to be protected from all fears should rely on Tara of the Khadira Forest. Ninth among the twenty-one, she takes her name from the khadira tree, a hardwood long associated in Indian and Tibetan tradition with strength, protection, and shelter — as if to say that wherever she is invoked, a kind of forest sanctuary springs up around the one calling to her, dense enough that no harm can easily make its way through.
 
 Her hands carry a gesture rich with meaning: at her heart she forms the mudra of the Three Jewels — Buddha, Dharma, and Sangha — while her right hand, extended in the gesture of supreme giving, bears the mark of a wheel at its palm, radiating light outward in every direction at once. It is an image of protection that does not stay contained near her but travels outward, the way light from a single source reaches every corner of a room without needing to be sent there individually.
 
