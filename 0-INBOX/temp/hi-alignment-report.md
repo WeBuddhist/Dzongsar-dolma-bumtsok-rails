@@ -490,3 +490,13 @@ The hand-placed passages override ▶ where the table disagrees with the output.
 | ^g-1 | 1305–1306 | tibetan |
 | ^g-2 | 1309–1312 | tibetan |
 | ^g-3 | 1315–1317 | tibetan |
+
+## Line layout (added 2026-09-30, second pass)
+
+Each Hindi block is now laid out in the same number of lines as its root block, so `translation-alignment-check` passes the line-count check. The wording is unchanged. Every block's text is identical to the first pass once whitespace is removed, and the script checked this for each block.
+
+- **Splits (242 blocks):** break points were picked to keep lines even in length (measured in syllables). Existing line breaks come first, then clause punctuation (`।` `!` `?` `;` `॥`, then `,` `:` `–`, then `)`), and a plain space only as a last resort. Hindi prose is never broken inside a word or inside brackets.
+- **Sanskrit Twenty-one Praises:** each half-verse is one long compound, so it is broken at the pāda boundary. That usually falls inside the compound, e.g. `नमः शक्रानलब्रह्म / मरुद्विश्वेश्वरार्चिते ।`. This happens in 30 blocks (^1-64–1-79, ^1-98–1-113 and ^1-132–1-147, not every verse). The uploader joins a block's lines with no separator, so the words are whole on the published page.
+- **Offering mantras (^1-57, ^1-89, ^1-123, ^1-176):** one offering per line at the commas, matching the Tibetan's eight mantra lines.
+- **Joins (11 blocks):** where the booklet had more lines than the root, lines were joined with a space: ^1-1, ^1-4 (the list of offering materials), ^1-17, ^1-18, ^1-24, ^1-26, ^1-55, ^1-121, ^1-155, ^1-198, ^1-213.
+- **Placeholders:** repeated once per root line. `translation-alignment-check` now fails only on "untranslated placeholder in content".
