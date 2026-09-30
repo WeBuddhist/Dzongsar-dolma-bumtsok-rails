@@ -325,6 +325,12 @@ Uploads a commentary to the library backend as its own text (`commentary_of` the
 **Outputs:** A span payload and a review file under `yigchung-upload/scripts/output/`; on `--execute`, yigchung ids in the skill's ledger.
 → [`yigchung-upload/SKILL.md`](3-SKILLS/yigchung-upload/SKILL.md)
 
+### `edition-spacing-fix` **[exists]**
+**Purpose:** Scan a published edition for spacing errors (run-together words, no space after punctuation, stray or odd spaces), map every hit, and after human review fix the approved ones in place, bottom-up, through `PATCH /v2/editions/{id}/content` without moving a segment boundary.
+**Inputs:** An uploaded note whose frontmatter carries `edition_id`, the API key, and any reader-reported errors.
+**Outputs:** A mapping and review table in `0-INBOX/temp/edition-spacing-fix/`, updated as each fix lands; on `--execute`, the live edition patched; optionally the same fixes mirrored into the vault note.
+→ [`edition-spacing-fix/SKILL.md`](3-SKILLS/edition-spacing-fix/SKILL.md)
+
 ---
 
 ## 14. System and maintenance
