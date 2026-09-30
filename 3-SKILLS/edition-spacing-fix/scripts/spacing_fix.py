@@ -917,11 +917,31 @@ def cmd_note(a):
     text = target.read_text(encoding="utf-8")
     lines = text.split("\n")
     todo = [i for i in m["issues"] if i["status"] == "fixed" or (a.include_approved and i["decision"] == "approved")]
-    done, manual = [], []
+    done, manual, seen_lines = [], [], set()
     for i in todo:
         end_idx = next((k for k, ln in enumerate(lines) if re.search(rf"\s\^{re.escape(i['segment'])}\s*$", ln)), None)
         if end_idx is None:
-            manual.append((i, "block id not found"))
+            # A copy without block ids (e.g. a trilingual layout): match the whole
+            # live line, only where it occurs exactly once in the file, and apply
+            # every issue on that line together (right to left) in one replace.
+            key = (i["segment"], i["line"])
+            if key in seen_lines:
+                continue
+            seen_lines.add(key)
+            group = sorted((j for j in todo if (j["segment"], j["line"]) == key),
+                           key=lambda j: j["line_offset"], reverse=True)
+            fixed_line = i["line_before"]
+            for j in group:
+                lo = j["line_offset"]
+                fixed_line = fixed_line[:lo] + j["proposed"] + fixed_line[lo + len(j["original"]):]
+            hits = [k for k, ln in enumerate(lines) if i["line_before"] in ln]
+            if len(hits) == 1 and lines[hits[0]].count(i["line_before"]) == 1:
+                lines[hits[0]] = lines[hits[0]].replace(i["line_before"], fixed_line, 1)
+                done += group
+            elif not hits and any(fixed_line in ln for ln in lines):
+                continue  # already fixed in this file
+            else:
+                manual += [(j, f"no block id; whole line found {len(hits)} times") for j in group]
             continue
         start_idx = end_idx
         while start_idx > 0 and lines[start_idx - 1].strip() and not lines[start_idx - 1].startswith("![["):
@@ -940,6 +960,16 @@ def cmd_note(a):
             continue
         lines[k] = lines[k].replace(i["original"], i["proposed"], 1)
         done.append(i)
+    # fixed TOC titles: the headings they were built from carry the same error
+    for t in (x for x in m.get("toc_issues", []) if x["status"] == "fixed"):
+        hits = [k for k, ln in enumerate(lines) if t["title_before"] in ln]
+        if len(hits) == 1 and lines[hits[0]].count(t["original"]) == 1:
+            lines[hits[0]] = lines[hits[0]].replace(t["original"], t["proposed"], 1)
+            done.append(t)
+        elif not hits and any(t["title_after"] in ln for ln in lines):
+            continue  # already fixed in this file
+        else:
+            manual.append((t, f"title line found {len(hits)} times"))
     new = "\n".join(lines)
     diff = list(difflib.unified_diff(text.split("\n"), lines, lineterm="", n=0,
                                      fromfile=str(target.name), tofile=str(target.name)))

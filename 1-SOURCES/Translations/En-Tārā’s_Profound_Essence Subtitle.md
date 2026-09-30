@@ -66,7 +66,7 @@ aligned_to_edition_id: Zt5c0fe1OMJI1Kh8rp2FM
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^I-2]]
 
 When you sat under the great Bodhi Tree and the earth and sky were filled with hordes of māras,
-Raining down cascades of vajras, spears, wheels,fire, and entire mountains and glaciers—
+Raining down cascades of vajras, spears, wheels, fire, and entire mountains and glaciers—
 Magical displays unleashed by the mighty Flower-Arrowed One striving to avert your awakening—
 You defeated them all with nothing but love in your heart and attained perfect buddhahood – to you I bow my head. ^I-2
 
@@ -81,8 +81,8 @@ Even the earth shook in six motions. ^I-3
 
 You mastered generosity and discipline,
 Cultivated forbearance and diligence,
-And broughtmeditation and wisdom to their culmination—
-Homage to you, in whomthe perfections were complete. ^I-4
+And brought meditation and wisdom to their culmination—
+Homage to you, in whom the perfections were complete. ^I-4
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^I-5]]
 
@@ -94,22 +94,22 @@ And all those who proclaimed mistaken paths were terrified. ^I-5
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^I-6]]
 
 And so, the activity of your teaching
-Shines forthlike the light of the sun;
+Shines forth like the light of the sun;
 And being never deceiving in any way,
-You are the true friend in whomI take refuge. ^I-6
+You are the true friend in whom I take refuge. ^I-6
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^I-7]]
 
 When your sublime teaching, like the lion’s roar,
 Resounded throughout this world with its gods,
 Brahmā and Viṣṇu were speechless,
-And the teacher of the godsowered like a fox. ^I-7
+And the teacher of the gods cowered like a fox. ^I-7
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^I-8]]
 
 Sages, like Akṣapāda and Vālmīki,
 Seers, such as Vyāsa and Vāsiṣṭha,
-And many others of great renown —
+And many others of great renown—
 To you, who disarmed them all with the Dharma, I bow. ^I-8
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^I-9]]
@@ -159,7 +159,7 @@ Announce the radiance of the lotus-opening sun. ^I-14
 Having gained wisdom complete in every aspect—
 Knowing the true nature of phenomena as well as their full extent—
 All the enlightened deeds you had undertaken,
-You accomplishedperfectly;to you I pay homage. ^I-15
+You accomplished perfectly; to you I pay homage. ^I-15
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^I-16]]
 
@@ -237,7 +237,7 @@ That are the benefit of self and others, spontaneously fulfilled! ^II-8
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^III-1]]
 
 Activity expanse of all buddhas united.
-OĀryāTārā, Mother of the Victors,
+O Āryā Tārā, Mother of the Victors,
 I pray to you with one-pointed devotion:
 Grant the supreme and common accomplishments! ^III-1
 
@@ -1297,7 +1297,7 @@ om arya taré sapariwara idam balingta kha kha khahi khahi ^1-170
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^1-171]]
 
-<small>Recite the above mantra three times— to make the offering to the principal Lady.</small> ^1-171
+<small>Recite the above mantra three times—to make the offering to the principal Lady.</small> ^1-171
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^1-172]]
 
@@ -1305,7 +1305,7 @@ om akaro mukham sarva dharma nam adya nutpanen totta om ah hung pé soha ^1-172
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^1-173]]
 
-<small>Recite this mantra, also, three times— to make the offering to all the guests.</small> ^1-173
+<small>Recite this mantra, also, three times—to make the offering to all the guests.</small> ^1-173
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^1-174]]
 
@@ -1546,7 +1546,7 @@ And make the Dharma and auspiciousness increase! ^1-213
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-0]]
 
-## The Tambura of Devotion: A Supplication Invokingthe Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel ^a-0
+## The Tambura of Devotion: A Supplication Invoking the Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel ^a-0
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-1]]
 
@@ -1560,7 +1560,7 @@ Dispel the terrifying forces of darkness! ^a-1
 Mother of all buddhas, balm that heals my pain,
 Loving nurse, only friend to all beings,
 In all my lifetimes, you have been my most sublime protector.
-Until the heart of awakening,I rely on you for refuge! ^a-2
+Until the heart of awakening, I rely on you for refuge! ^a-2
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-3]]
 
@@ -1588,7 +1588,7 @@ Rip out these karmic obscurations from their root, O Noble Lady! ^a-5
 Even if I see it ripen right before my eyes,
 I still don’t believe in the karmic law of cause and effect.
 I’m just a wild beast clad in saffron robes.
-Lead my mindto virtue, O Noble Lady! ^a-6
+Lead my mind to virtue, O Noble Lady! ^a-6
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-7]]
 
@@ -1599,7 +1599,7 @@ With your sword of wisdom, O Noble Lady! ^a-7
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-8]]
 
-In every situation, quickly protect mefrom the eight or sixteen dangers—
+In every situation, quickly protect me from the eight or sixteen dangers—
 Evil forces, epidemics, poison, weapons,
 Sudden death at the hands of wicked people,
 Fires, floods, or wild animals, O Noble Lady! ^a-8
@@ -1616,7 +1616,7 @@ Light the lamp of that understanding for me, O Noble Lady! ^a-9
 Recognition of beings as my mothers, love, and compassion
 Are qualities I should not just talk about;
 Heroic bodhisattvas exchange their happiness for others’ suffering.
-Help me to muster suchvast courage, O Noble Lady! ^a-10
+Help me to muster such vast courage, O Noble Lady! ^a-10
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-11]]
 
@@ -1630,19 +1630,19 @@ Until I reach awakening, O Noble Lady! ^a-11
 Grant me the profound wisdom to see with pure eyes,
 A good character with little inclination to afflictive mental states,
 Which fosters deep devotion to spiritual training with mindfulness and alertness.
-Mergemy mind with the Dharma, O Noble Lady! ^a-12
+Merge my mind with the Dharma, O Noble Lady! ^a-12
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-13]]
 
 When the karma that keeps me in this life is spent,
 Ease the agonies of death and help me realize the eleven thoughts;
-Show me mytrue nature, luminosity, with decisive recognition of the dhātu,
+Show me my true nature, luminosity, with decisive recognition of the dhātu,
 Free from the extremes of origination and cessation, O Noble Lady! ^a-13
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-14]]
 
 Even if the bardo arises for just a fleeting instant,
-Let my pure perception ofthe emanation and dissolution of the maṇḍala be complete.
+Let my pure perception of the emanation and dissolution of the maṇḍala be complete.
 Take me to Abhirati, the lotus-arrayed realm of Sukhāvatī,
 Or any other buddha field—O Noble Lady! ^a-14
 
@@ -1650,12 +1650,12 @@ Or any other buddha field—O Noble Lady! ^a-14
 
 Unless I consciously decide to be born in saṃsāra,
 Don’t let me circle helplessly here due to my karma.
-Guide me toBuddha Boundless Life and Light
+Guide me to Buddha Boundless Life and Light
 To receive his prophecy, O Noble Lady! ^a-15
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-16]]
 
-In the vast ocean of realms,whether there are buddhas or not,
+In the vast ocean of realms, whether there are buddhas or not,
 May I guard the sublime Dharma with my life
 And fully teach the excellent conduct of the bodhisattvas.
 Please fulfill this wish of mine, O Noble Lady! ^a-16
@@ -1678,7 +1678,7 @@ Of benefit and prosperity for the teachings and beings, O Noble Lady! ^a-18
 
 Let me leave behind the eight worldly dharmas and distractions of this life,
 So that in the solitude of the woods, unbothered by obstacles,
-I may concentrate on meditation practicealone.
+I may concentrate on meditation practice alone.
 In this way, make this human life meaningful, O Noble Lady! ^a-19
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-20]]
@@ -1693,7 +1693,7 @@ And guide us from happiness to happiness, O Noble Lady! ^a-20
 Let the supreme Buddhadharma, source of benefit and happiness,
 Spread and flourish in all ten directions without ever waning,
 And please prolong the lives of all the great masters
-Who upholdit, O Noble Lady! ^a-21
+Who uphold it, O Noble Lady! ^a-21
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-22]]
 
@@ -1748,7 +1748,7 @@ Let your blessings and compassion be unconstrained, O Noble Lady! ^a-28
 
 At the center of a lotus, your body shines like the full autumn moon,
 Flush with the youthful vigor of vajra bliss.
-With the boundless halo ofyour stainless light,
+With the boundless halo of your stainless light,
 Grant the four enlightened activities, O Noble Lady! ^a-29
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-30]]
@@ -1795,7 +1795,7 @@ And grant your grace so I bring the twofold benefit to completion! ^a-35
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^a-36]]
 
-<small>At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)</small> ^a-36
+<small>At the age of thirty I, Yönten Gyatso, formulated this spontaneous prayer while I was severely ill, and the country, too, was suffering from decline and degeneration. By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)</small> ^a-36
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^b-0]]
 
@@ -2158,7 +2158,7 @@ May at least a little of it weigh on my mind. ^f-6
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^g-1]]
 
-Devas and asuras,with their crowned heads,
+Devas and asuras, with their crowned heads,
 Bow to your lotus feet.
 You liberate from every form of destitution.
 To you, Mother Tārā, I make this offering. ^g-1
@@ -2172,7 +2172,7 @@ Mother of the buddhas, holder of the utpala flower, to you I make this offering.
 
 ![[bo-ཟབ་ཏིག་སྒྲོལ་ཆོག#^g-3]]
 
-This exquisite food, with a hundred flavors,so perfectly prepared,
+This exquisite food, with a hundred flavors, so perfectly prepared,
 I offer with devotion to the victors and their heirs.
 By the merit of this offering, may all beings
 Come to enjoy the nourishing food of samādhi. ^g-3

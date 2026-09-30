@@ -29,6 +29,7 @@ apply   <map>                           dry run: validate + simulate, print the 
 apply   <map> --execute                 send the PATCH calls, mark each issue fixed as it lands
 verify  <map>                           GET live, confirm every fixed issue, count remaining hits
 note    <map> [--file F] [--write]      mirror the fixes into a vault file (dry run by default)
+toc     <map> --fix T001 [--execute]    rebuild a TOC with fixed titles; spans recalculated (dry run by default)
 ```
 
 ---
@@ -112,7 +113,7 @@ Detector categories:
 6. **Simulate first, abort on any disagreement.** Before offering to send, the script replays the backend's span arithmetic (vendored from `openpecha-backend/database/span_database.py`, commit `7fa2564`, 2026-09-28) and requires every line to select exactly its expected text, no span dropped, the spans still tiling the content, and every TOC section still landing on line boundaries. If the backend's span code changes, re-pin the vendored functions before trusting a run.
 7. **Never re-upload to fix spacing.** Re-creating an edition or segmentation loses every alignment that referenced it.
 8. **Only spacing — unless the human decides otherwise.** The detector proposes spaces only. A fix that changes letters (a lost letter, a misspelling) goes in as a `manual` issue with a comment, and is sent only if the human approves that exact text.
-9. **TOC titles and the text title are reported, not patched here.** The content PATCH cannot reach them; the mapping records the route (`DELETE` + re-`POST` of the TOC, or `PATCH /v2/texts/{id}`) as a separate decision.
+9. **TOC titles and the text title are separate decisions.** The content PATCH cannot reach them. A TOC title is fixed only with `toc --execute`, after its own confirmation and after the content fixes have landed. That command DELETEs and re-POSTs the TOC: segments and alignments are untouched, but the TOC gets a new id. It recalculates every span — the scan-time TOC replayed through the ops sent — and requires the result to equal the backend's spans and to land on segment boundaries. It backs up the live TOC first and repoints `toc_id` in the note's frontmatter and the upload ledger. The text title goes through `PATCH /v2/texts/{id}`.
 10. **False positives are rejected in the mapping, not hidden.** A rejection carries over to later scans. Only generic English/Dharma vocabulary goes into `references/allowlist.txt` — never a text-specific name or mantra syllable.
 
 ---
@@ -180,6 +181,16 @@ python3 3-SKILLS/edition-spacing-fix/scripts/spacing_fix.py note <map> --write
 python3 3-SKILLS/edition-spacing-fix/scripts/spacing_fix.py note <map> --file "<copy>.md" --write   # other copies, if any
 ```
 
+### Step 7b — TOC titles (with confirmation, after Step 6)
+
+```bash
+python3 3-SKILLS/edition-spacing-fix/scripts/spacing_fix.py toc <map> --fix T001                 # dry run
+python3 3-SKILLS/edition-spacing-fix/scripts/spacing_fix.py toc <map> --fix T001 --execute \
+    --also "<other vault copy>.md"      # copies whose toc_id should follow
+```
+
+The dry run must print `equal to the backend's ✓ on segment boundaries ✓` and show only the approved title changes. `--execute` writes the backup and payload to `0-INBOX/temp/edition-spacing-fix/`, DELETEs the old TOC, POSTs the rebuilt one, reads it back, and marks the T-issues `fixed` with `old_toc_id` and `new_toc_id`. A mapping made before scans stored the TOC needs `--snapshot <TOC JSON fetched before the content fixes>`.
+
 ### Step 8 — Report
 
 Report: issues found, approved, fixed (with IDs), rejected, and the TOC/title issues still open, with the mapping's path.
@@ -196,4 +207,5 @@ Report: issues found, approved, fixed (with IDs), rejected, and the TOC/title is
 - [ ] After `--execute`: content and spans equal the prediction; every sent issue is `status: fixed` with `fixed_at` and `ops_sent`
 - [ ] `verify` confirms every fixed issue live; segment and line counts unchanged
 - [ ] TOC / title issues reported with their fix route; none patched without their own confirmation
+- [ ] If a TOC was rebuilt: read-back equals the payload, exactly one TOC remains on the edition, and the new `toc_id` is in the note's frontmatter and the ledger
 - [ ] The vault note updated with `note --write` only after the human confirmed it, or the gap reported
