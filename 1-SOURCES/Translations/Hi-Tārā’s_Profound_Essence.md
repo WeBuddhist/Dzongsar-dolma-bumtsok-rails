@@ -2,34 +2,6 @@
 title: तारा का गहन सार
 title_in_the_text: "चित्त-तेरमा 'तारा का गहन सार' से: 'दो संभारों का सार' नामक मंडल-अर्पण अनुष्ठान।"
 title_in_tibetan: ༄༅། །དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ། །
-authors:
-  - name: ས་སྐྱ་པཎྜྀ་ཏ
-    name_in_english: Sakya Paṇḍita
-    section: Prayer to the King of the Śākyas (I)
-  - name: པདྨ་མདོ་སྔགས་གླིང་པ
-    name_in_english: Pema Dongak Lingpa
-    section: Supplement (II)
-  - name: ཞེ་ཆེན་ཀོང་སྤྲུལ
-    name_in_english: Shechen Kongtrul
-    section: Auspicious verses (III)
-  - name: ཡོན་ཏན་རྒྱ་མཚོ
-    name_in_english: Yönten Gyatso
-    section: Aspiration prayer (a)
-  - name: འཇམ་དབྱངས་མཁྱེན་བརྩེ་དབང་པོ
-    name_in_english: Jamyang Khyentse Wangpo
-    section: Aspiration prayers (b, c)
-  - name: རིག་པ་འཛིན་པ་མཉྫུ་གྷོ་ཥ
-    name_in_english: Vidyādhara Mañjughoṣa (epithet)
-    section: Aspiration prayer (d)
-  - name: ཆོས་ཀྱི་བློ་གྲོས
-    name_in_english: Chökyi Lodrö
-    section: Prayer for the teachings (e)
-  - name: མཁན་ཆེན་ཀུན་དགའ་དབང་ཕྱུག
-    name_in_english: Khenchen Kunga Wangchuk
-    section: Prayers for conclusion (f)
-  - name: དོལ་པོ་པ
-    name_in_english: Dolpopa
-    section: Closing verse (f)
 language: Hindi
 script: Devanagari
 file_type: translation
@@ -38,17 +10,20 @@ lang_tag: hi
 verse_id_format: chapter-verse
 category_id: LCorCb2K98p3TICt3UCDm
 license: public
-source: https://webuddhist.com
+source:
 edition_type: critical
 root_text: 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md
-make_available: Dzongsar Institute
 source_description: "Hindi translation of the compiled anthology whose Tibetan root is 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md, taken from a Tibetan–Hindi bilingual booklet (54 pp.; text extracted from PDF, received as 0-INBOX/raw-data/དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.md on 2026-09-30). The booklet gives Sanskrit in Devanagari for the Bhadracarī verses, the Twenty-one Praises and their benefits; these are kept with the Hindi. Translator not recorded in the file. Block-aligned to the root by matching the booklet's own Tibetan against the root (fuzzy, closest block); the booklet's Tibetan was then removed."
 editorial_notes:
   - "Heading ^I-0 has no Hindi in the booklet; its title was translated from the Tibetan heading by Claude, using the translator's wording in the ^I-17 colophon. All other headings are the booklet's own."
-  - "Root blocks with no Hindi in the booklet are marked *[not yet translated]* (one per root line): II-6, 1-7, 1-8, 1-19, 1-23, 1-85, 1-119, 1-120, 1-154, 1-163, 1-165, 1-181, b-1, c-1, d-1."
-  - "Booklet passages with no counterpart in the root are kept on the nearest block: an attribution line (^II-3), the departure verse for practice without a support (^1-198), the daily-practice instructions (^1-213), and the sub-heading before Dolpopa's verse (^f-6)."
+  - "Drafted by Claude, not by the translator (approved by the vault owner on 2026-09-30), because the booklet has no Hindi for these Tibetan blocks: ^II-6, ^1-8, ^1-19, ^1-23, ^1-163, ^1-165, ^c-1, ^d-1 (^c-1 and ^d-1 are Devanagari transliterations of the Sanskrit homage). The mantra ॐ वज्र स्फरण खं in ^1-22 was also restored: the booklet's own copy was unreadable OCR, and its gloss is kept."
+  - "Copied from the booklet's own rendering of the identical Tibetan elsewhere: ^1-7 (from ^1-194), ^1-85 and ^1-119 (from ^1-153), ^b-1 (from ^1-191)."
+  - "Meaning review against the Tibetan (2026-09-30): where one booklet sentence spans two Tibetan blocks, it is split at the clause that renders each block (^1-45–47, ^1-95/^1-120, ^1-129/^1-154, ^1-155/^1-156, ^1-159/^1-160, ^1-180/^1-181, ^1-206/^1-207, ^1-86/^1-87, ^1-168/^1-169, ^1-193/^1-194, ^e-10–e-14, ^f-4/^f-5). No wording was changed."
+  - "Booklet passages with no counterpart in the root were moved to 0-INBOX/temp/hi-unaligned-passages.md: the ^II-3 attribution, the farewell verse after ^1-198, the daily-practice section after ^1-213, and the heading before ^f-6. The booklet's short section sub-headings stay as the first line of the block they introduce (^1-40, ^1-45, ^1-59, ^1-94, ^1-121, ^1-155)."
+  - "Differs from the root in content, as delivered: the ^II-9 colophon names Mañjughoṣa and Jamgön Guṇa, where the root names Pema Dongak Lingpa at Karma Khyentse Rabgye's request. The ^f-0 heading describes the section rather than translating གྲོལ་འདོན།."
+  - "OCR repair: ॐ ॐ ॐ आः हूँ। corrected to ॐ आः हूँ। in ^1-41 and ^1-125, as the booklet prints it at ^1-59 and ^1-91."
   - "The booklet orders the tea offering (g) before the concluding prayers (f) and the ^III-2 attribution before its verse; here they follow the root's order."
-  - "Each block is laid out in as many lines as its root block. Hindi prose is broken at existing breaks or at clause punctuation (। ! ? ; , : –), and never inside a word. Where the booklet had more lines than the root, lines were joined. The Sanskrit Twenty-one Praises are broken at the pāda boundary, inside the compound where necessary (the uploader joins a block's lines without a separator). No characters were added or removed."
+  - "Each block is laid out in as many lines as its root block. Hindi prose breaks at existing breaks or clause punctuation (। ! ? ; , : –), never inside a word. The Sanskrit Twenty-one Praises break at the pāda boundary, inside the compound where necessary (the uploader joins a block's lines without a separator)."
   - "Alignment report: 0-INBOX/temp/hi-alignment-report.md"
 ---
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^0]]

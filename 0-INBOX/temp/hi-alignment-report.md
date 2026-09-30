@@ -55,7 +55,7 @@ Most are one-word rubrics such as ཚར་གསུམ། "three times" that th
 - raw L873 → `^1-213`: यदि संक्षेप में करना हो, तो इसे छोड़ा भी जा सकता है। इसके बाद 'सम्मुख कल्पित स्वरूप प्रकाश में विलीन होकर...' …
 - raw L1338 → `^f-6`: सर्वज्ञ दोलपोपा के पावन वचन
 
-The daily-practice section (raw L854–877) and the departure verse (raw L776–785) are in neither the root nor the English translation. If you would rather leave them out of the Sources file, remove those lines from `^1-213` and `^1-198`.
+*(Superseded: these passages were moved out on 2026-09-30, see "Meaning review" below.)*
 
 ### Reordered to follow the root
 
@@ -500,3 +500,29 @@ Each Hindi block is now laid out in the same number of lines as its root block, 
 - **Offering mantras (^1-57, ^1-89, ^1-123, ^1-176):** one offering per line at the commas, matching the Tibetan's eight mantra lines.
 - **Joins (11 blocks):** where the booklet had more lines than the root, lines were joined with a space: ^1-1, ^1-4 (the list of offering materials), ^1-17, ^1-18, ^1-24, ^1-26, ^1-55, ^1-121, ^1-155, ^1-198, ^1-213.
 - **Placeholders:** repeated once per root line. `translation-alignment-check` now fails only on "untranslated placeholder in content".
+
+## Meaning review (added 2026-09-30, third pass)
+
+Every block's Hindi was read against its Tibetan block, with the English translation as a cross-check. The Sanskrit Twenty-one Praises were checked mechanically: every block carries the right verse number, १–२१, in all three sets. After the fixes below, `translation-alignment-check` reports `RESULT: OK`, and the English and Chinese files still pass.
+
+**Clauses moved to the block they translate.** Wording is unchanged, checked by script:
+- `^1-45–47`: "from one wisdom essence" moved to ^1-45, and "I prostrate and take refuge; I offer body and wealth" moved to ^1-47. It had sat one block late in each case.
+- `^1-95` / `^1-120` and `^1-129` / `^1-154`: "while imagining this" stays; "recite the 21 praises three/seven times" moves to the "three times"/"seven times" rubric after the praises.
+- `^1-155` / `^1-156`: "whoever wise, with true devotion to Tārā" moved to ^1-155.
+- `^1-159` / `^1-160`: the Sanskrit half-line द्वित्रिसप्ताभिवर्तितम् ("recited two, three, seven times") moved to ^1-160.
+- `^1-180` / `^1-181`: "thus having praised" / "join both palms and say".
+- `^1-206` / `^1-207`: "all obstacles to accomplishing omniscience, harmful spirits, epidemics, illness" moved to ^1-206.
+
+**Filled from the booklet's own rendering of identical Tibetan:** `^1-7` from ^1-194 (ཚར་གསུམ།), `^1-85` and `^1-119` from ^1-153 (मन्त्रमूलमिदं स्तोत्रं…), `^b-1` from ^1-191 (the ten-syllable mantra).
+
+**Drafted by Claude, approved by the vault owner:** `^II-6`, `^1-8`, `^1-19`, `^1-23`, `^1-163`, `^1-165`, `^c-1`, `^d-1`, and the restored mantra in `^1-22`. These are listed in the file's `editorial_notes`; a translator should review them.
+
+**Moved out to `0-INBOX/temp/hi-unaligned-passages.md`:** the `^II-3` attribution, the farewell verse (after ^1-198), the daily-practice section (after ^1-213) and the heading before `^f-6`. The booklet's short section sub-headings were kept.
+
+**OCR repair:** ॐ ॐ ॐ आः हूँ। → ॐ आः हूँ। in `^1-41` and `^1-125`.
+
+**Still different from the Tibetan, kept as delivered:**
+- `^II-9`: the booklet's colophon names a different author ("written by Mañjughoṣa… arranged by Jamgön Guṇa") from the root ("written by Pema Dongak Lingpa at Karma Khyentse Rabgye's request"). The booklet was probably translated from a different edition.
+- `^f-0`: "गुरु-परम्परा स्तुति एवं मङ्गलाचरण" describes the section; it doesn't translate གྲོལ་འདོན།.
+- `^1-40`: the root's "And thus:" slot holds the booklet's sub-heading मण्डल-अर्पण.
+- `^1-192`: "after reciting as much as you can" sits with the hundred-syllable rubric, following the booklet's own Tibetan. The root has it at the end of ^1-190.
