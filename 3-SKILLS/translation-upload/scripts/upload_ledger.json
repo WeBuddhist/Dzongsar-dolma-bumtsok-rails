@@ -46,6 +46,41 @@
     "text_id": "ensaae8K1Hi0n1Wv2JF6o",
     "toc_id": "HylXy5s9AVIXhNaZDUa6b"
   },
+  "Hi-Tārā’s_Profound_Essence": {
+    "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "edition_id": "XoTwinWHIyBNaZcDEJrV3",
+    "lang_tag": "hi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "FNWZNM7krIk33Eb0onoda",
+        "ts": "2026-09-30T17:33:38"
+      },
+      {
+        "chars": 48712,
+        "edition_id": "XoTwinWHIyBNaZcDEJrV3",
+        "segments": 332,
+        "step": "edition",
+        "ts": "2026-09-30T17:33:40"
+      },
+      {
+        "pairs": 332,
+        "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+        "step": "alignment",
+        "ts": "2026-09-30T17:33:42"
+      },
+      {
+        "step": "toc",
+        "subsections": 11,
+        "toc_id": "FKjmIGuo57Hb3GHL6l6lo",
+        "ts": "2026-09-30T17:33:42"
+      }
+    ],
+    "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "root_text_id": "AMXt6wYXNvRR2WanncXaq",
+    "text_id": "FNWZNM7krIk33Eb0onoda",
+    "toc_id": "FKjmIGuo57Hb3GHL6l6lo"
+  },
   "Zh-Tārā’s_Profound_Essence_Translation": {
     "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
     "edition_id": "1gfClgjnPh1FMN5g8bqHa",

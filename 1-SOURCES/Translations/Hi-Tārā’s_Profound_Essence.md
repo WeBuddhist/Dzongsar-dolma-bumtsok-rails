@@ -10,7 +10,7 @@ lang_tag: hi
 verse_id_format: chapter-verse
 category_id: LCorCb2K98p3TICt3UCDm
 license: public
-source:
+source: https://khyentsefoundation.org/
 edition_type: critical
 root_text: 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md
 source_description: "Hindi translation of the compiled anthology whose Tibetan root is 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md, taken from a Tibetan–Hindi bilingual booklet (54 pp.; text extracted from PDF, received as 0-INBOX/raw-data/དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས། མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།.md on 2026-09-30). The booklet gives Sanskrit in Devanagari for the Bhadracarī verses, the Twenty-one Praises and their benefits; these are kept with the Hindi. Translator not recorded in the file. Block-aligned to the root by matching the booklet's own Tibetan against the root (fuzzy, closest block); the booklet's Tibetan was then removed."
@@ -25,6 +25,10 @@ editorial_notes:
   - "The booklet orders the tea offering (g) before the concluding prayers (f) and the ^III-2 attribution before its verse; here they follow the root's order."
   - "Each block is laid out in as many lines as its root block. Hindi prose breaks at existing breaks or clause punctuation (। ! ? ; , : –), never inside a word. The Sanskrit Twenty-one Praises break at the pāda boundary, inside the compound where necessary (the uploader joins a block's lines without a separator)."
   - "Alignment report: 0-INBOX/temp/hi-alignment-report.md"
+text_id: FNWZNM7krIk33Eb0onoda
+edition_id: XoTwinWHIyBNaZcDEJrV3
+aligned_to_edition_id: Zt5c0fe1OMJI1Kh8rp2FM
+toc_id: FKjmIGuo57Hb3GHL6l6lo
 ---
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^0]]
 
