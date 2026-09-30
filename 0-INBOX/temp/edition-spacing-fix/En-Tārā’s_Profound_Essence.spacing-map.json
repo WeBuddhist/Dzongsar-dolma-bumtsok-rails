@@ -29,11 +29,19 @@
       "line_before": "Raining down cascades of vajras, spears, wheels,fire, and entire mountains and glaciers—",
       "line_after": "Raining down cascades of vajras, spears, wheels, fire, and entire mountains and glaciers—",
       "id": "S001",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:39+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 194,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 28
     },
     {
       "occurrence": 0,
@@ -52,11 +60,19 @@
       "line_before": "And broughtmeditation and wisdom to their culmination—",
       "line_after": "And brought meditation and wisdom to their culmination—",
       "id": "S002",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:38+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 700,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 27
     },
     {
       "occurrence": 0,
@@ -75,11 +91,19 @@
       "line_before": "Homage to you, in whomthe perfections were complete.",
       "line_after": "Homage to you, in whom the perfections were complete.",
       "id": "S003",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:37+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 765,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 26
     },
     {
       "occurrence": 0,
@@ -98,11 +122,19 @@
       "line_before": "Shines forthlike the light of the sun;",
       "line_after": "Shines forth like the light of the sun;",
       "id": "S004",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:37+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 1027,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 25
     },
     {
       "occurrence": 0,
@@ -121,11 +153,19 @@
       "line_before": "You are the true friend in whomI take refuge.",
       "line_after": "You are the true friend in whom I take refuge.",
       "id": "S005",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:36+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 1121,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 24
     },
     {
       "occurrence": 0,
@@ -144,12 +184,20 @@
       "line_before": "And the teacher of the godsowered like a fox.",
       "line_after": "And the teacher of the gods cowered like a fox.",
       "id": "S006",
-      "decision": "pending",
-      "status": "open",
-      "comment": "Letter lost as well as the space: the teacher of the gods (Bṛhaspati) cowered like a fox. Needs a translator's confirmation.",
-      "fixed_at": null,
-      "ops_sent": null,
-      "proposed_override": "gods cowered"
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: add the missing c (gods cowered).",
+      "fixed_at": "2026-09-30T14:39:36+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 1290,
+          "text": " c"
+        }
+      ],
+      "proposed_override": "gods cowered",
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 23
     },
     {
       "occurrence": 0,
@@ -168,11 +216,19 @@
       "line_before": "And many others of great renown —",
       "line_after": "And many others of great renown—",
       "id": "S007",
-      "decision": "pending",
-      "status": "open",
-      "comment": "Only spaced em dash in the text; everywhere else is closed (word—word).",
-      "fixed_at": null,
-      "ops_sent": null
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: closed em dash style.",
+      "fixed_at": "2026-09-30T14:39:35+05:30",
+      "ops_sent": [
+        {
+          "type": "delete",
+          "start": 1406,
+          "end": 1407
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 22
     },
     {
       "occurrence": 0,
@@ -192,11 +248,24 @@
       "line_before": "You accomplishedperfectly;to you I pay homage.",
       "line_after": "You accomplished perfectly; to you I pay homage.",
       "id": "S008",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:35+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 2732,
+          "text": " "
+        },
+        {
+          "type": "insert",
+          "position": 2722,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 21
     },
     {
       "occurrence": 0,
@@ -215,11 +284,24 @@
       "line_before": "OĀryāTārā, Mother of the Victors,",
       "line_after": "O Āryā Tārā, Mother of the Victors,",
       "id": "S009",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:34+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 4560,
+          "text": " "
+        },
+        {
+          "type": "insert",
+          "position": 4556,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 20
     },
     {
       "occurrence": 0,
@@ -238,11 +320,19 @@
       "line_before": "Recite the above mantra three times— to make the offering to the principal Lady.",
       "line_after": "Recite the above mantra three times—to make the offering to the principal Lady.",
       "id": "S010",
-      "decision": "pending",
-      "status": "open",
-      "comment": "Stray space after em dash.",
-      "fixed_at": null,
-      "ops_sent": null
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: closed em dash style.",
+      "fixed_at": "2026-09-30T14:39:32+05:30",
+      "ops_sent": [
+        {
+          "type": "delete",
+          "start": 28231,
+          "end": 28232
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 19
     },
     {
       "occurrence": 0,
@@ -261,11 +351,19 @@
       "line_before": "Recite this mantra, also, three times— to make the offering to all the guests.",
       "line_after": "Recite this mantra, also, three times—to make the offering to all the guests.",
       "id": "S011",
-      "decision": "pending",
-      "status": "open",
-      "comment": "Stray space after em dash.",
-      "fixed_at": null,
-      "ops_sent": null
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: closed em dash style.",
+      "fixed_at": "2026-09-30T14:39:32+05:30",
+      "ops_sent": [
+        {
+          "type": "delete",
+          "start": 28384,
+          "end": 28385
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 18
     },
     {
       "occurrence": 0,
@@ -284,11 +382,19 @@
       "line_before": "Until the heart of awakening,I rely on you for refuge!",
       "line_after": "Until the heart of awakening, I rely on you for refuge!",
       "id": "S012",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:31+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 34317,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 17
     },
     {
       "occurrence": 0,
@@ -307,11 +413,19 @@
       "line_before": "Lead my mindto virtue, O Noble Lady!",
       "line_after": "Lead my mind to virtue, O Noble Lady!",
       "id": "S013",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:31+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 35103,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 16
     },
     {
       "occurrence": 0,
@@ -330,11 +444,19 @@
       "line_before": "In every situation, quickly protect mefrom the eight or sixteen dangers—",
       "line_after": "In every situation, quickly protect me from the eight or sixteen dangers—",
       "id": "S014",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:30+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 35382,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 15
     },
     {
       "occurrence": 0,
@@ -353,11 +475,19 @@
       "line_before": "Help me to muster suchvast courage, O Noble Lady!",
       "line_after": "Help me to muster such vast courage, O Noble Lady!",
       "id": "S015",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:29+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 35962,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 14
     },
     {
       "occurrence": 0,
@@ -376,11 +506,19 @@
       "line_before": "Mergemy mind with the Dharma, O Noble Lady!",
       "line_after": "Merge my mind with the Dharma, O Noble Lady!",
       "id": "S016",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:29+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 36390,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 13
     },
     {
       "occurrence": 0,
@@ -399,11 +537,19 @@
       "line_before": "Show me mytrue nature, luminosity, with decisive recognition of the dhātu,",
       "line_after": "Show me my true nature, luminosity, with decisive recognition of the dhātu,",
       "id": "S017",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:28+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 36555,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 12
     },
     {
       "occurrence": 0,
@@ -422,11 +568,19 @@
       "line_before": "Let my pure perception ofthe emanation and dissolution of the maṇḍala be complete.",
       "line_after": "Let my pure perception of the emanation and dissolution of the maṇḍala be complete.",
       "id": "S018",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:28+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 36763,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 11
     },
     {
       "occurrence": 0,
@@ -445,11 +599,19 @@
       "line_before": "Guide me toBuddha Boundless Life and Light",
       "line_after": "Guide me to Buddha Boundless Life and Light",
       "id": "S019",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:27+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 37030,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 10
     },
     {
       "occurrence": 0,
@@ -468,11 +630,19 @@
       "line_before": "In the vast ocean of realms,whether there are buddhas or not,",
       "line_after": "In the vast ocean of realms, whether there are buddhas or not,",
       "id": "S020",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:27+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 37127,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 9
     },
     {
       "occurrence": 0,
@@ -491,11 +661,19 @@
       "line_before": "I may concentrate on meditation practicealone.",
       "line_after": "I may concentrate on meditation practice alone.",
       "id": "S021",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:26+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 37953,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 8
     },
     {
       "occurrence": 0,
@@ -514,11 +692,19 @@
       "line_before": "Who upholdit, O Noble Lady!",
       "line_after": "Who uphold it, O Noble Lady!",
       "id": "S022",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:26+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 38373,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 7
     },
     {
       "occurrence": 0,
@@ -537,11 +723,19 @@
       "line_before": "With the boundless halo ofyour stainless light,",
       "line_after": "With the boundless halo of your stainless light,",
       "id": "S023",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:25+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 40061,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 6
     },
     {
       "occurrence": 0,
@@ -560,11 +754,19 @@
       "line_before": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
       "line_after": "At the age of thirty I, Yönten Gyatso, formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
       "id": "S024",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:24+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 41377,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 5
     },
     {
       "occurrence": 0,
@@ -583,11 +785,19 @@
       "line_before": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
       "line_after": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, and the country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
       "id": "S025",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:24+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 41441,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 4
     },
     {
       "occurrence": 0,
@@ -606,11 +816,19 @@
       "line_before": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
       "line_after": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration. By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
       "id": "S026",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:23+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 41503,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 3
     },
     {
       "occurrence": 0,
@@ -629,11 +847,19 @@
       "line_before": "Devas and asuras,with their crowned heads,",
       "line_after": "Devas and asuras, with their crowned heads,",
       "id": "S027",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:23+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 52096,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 2
     },
     {
       "occurrence": 0,
@@ -652,11 +878,19 @@
       "line_before": "This exquisite food, with a hundred flavors,so perfectly prepared,",
       "line_after": "This exquisite food, with a hundred flavors, so perfectly prepared,",
       "id": "S028",
-      "decision": "pending",
-      "status": "open",
+      "decision": "approved",
+      "status": "fixed",
       "comment": null,
-      "fixed_at": null,
-      "ops_sent": null
+      "fixed_at": "2026-09-30T14:39:22+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 52577,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 1
     }
   ],
   "toc_issues": [
@@ -671,9 +905,12 @@
       ],
       "title_before": "The Tambura of Devotion: A Supplication Invokingthe Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel",
       "title_after": "The Tambura of Devotion: A Supplication Invoking the Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel",
-      "status": "manual",
+      "status": "fixed",
       "fix_path": "The API has no PATCH for a TOC section: fixing a title means DELETE /v2/table-of-contents/{toc_id} and re-POST the corrected TOC (segments and alignments are untouched). Needs its own confirmation.",
-      "id": "T001"
+      "id": "T001",
+      "fixed_at": "2026-09-30T14:42:07+05:30",
+      "old_toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+      "new_toc_id": "HylXy5s9AVIXhNaZDUa6b"
     },
     {
       "toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
@@ -706,6 +943,69 @@
       "set": [
         "S006=gods cowered"
       ]
+    },
+    {
+      "at": "2026-09-30T14:38:59+05:30",
+      "action": "decide",
+      "approve": [
+        "all"
+      ],
+      "reject": null,
+      "set": null
+    },
+    {
+      "at": "2026-09-30T14:39:40+05:30",
+      "action": "apply",
+      "fixed": [
+        "S028",
+        "S027",
+        "S026",
+        "S025",
+        "S024",
+        "S023",
+        "S022",
+        "S021",
+        "S020",
+        "S019",
+        "S018",
+        "S017",
+        "S016",
+        "S015",
+        "S014",
+        "S013",
+        "S012",
+        "S011",
+        "S010",
+        "S009",
+        "S008",
+        "S007",
+        "S006",
+        "S005",
+        "S004",
+        "S003",
+        "S002",
+        "S001"
+      ],
+      "content_matches_prediction": true,
+      "spans_match_prediction": true
+    },
+    {
+      "at": "2026-09-30T14:40:02+05:30",
+      "action": "verify",
+      "confirmed": 28,
+      "missing": []
+    },
+    {
+      "at": "2026-09-30T14:42:07+05:30",
+      "action": "toc",
+      "fixed": [
+        "T001"
+      ],
+      "old_toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+      "new_toc_id": "HylXy5s9AVIXhNaZDUa6b",
+      "read_back_ok": true,
+      "backup": "En-Tārā’s_Profound_Essence.toc-e5Ovlr4L4JSHpxXvjfMRK.backup-2026-09-30T144204.json"
     }
-  ]
+  ],
+  "toc_id": "HylXy5s9AVIXhNaZDUa6b"
 }

@@ -32,12 +32,19 @@
         "subsections": 11,
         "toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
         "ts": "2026-09-24T19:13:27"
+      },
+      {
+        "old_toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+        "reason": "edition-spacing-fix T001",
+        "step": "toc-replace",
+        "toc_id": "HylXy5s9AVIXhNaZDUa6b",
+        "ts": "2026-09-30T14:42:07"
       }
     ],
     "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
     "root_text_id": "AMXt6wYXNvRR2WanncXaq",
     "text_id": "ensaae8K1Hi0n1Wv2JF6o",
-    "toc_id": "e5Ovlr4L4JSHpxXvjfMRK"
+    "toc_id": "HylXy5s9AVIXhNaZDUa6b"
   },
   "Zh-Tārā’s_Profound_Essence_Translation": {
     "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",

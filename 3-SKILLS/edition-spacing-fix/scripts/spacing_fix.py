@@ -18,6 +18,7 @@ sent. Each one is recorded back into the mapping as it lands.
     apply   <map> [--execute]         dry run by default; bottom-up PATCH calls
     verify  <map>                     GET the live edition, check every fix
     note    <map> [--file F] [--write] mirror the fixes into a vault note
+    toc     <map> --fix T001 [--execute] rebuild a TOC with fixed titles, spans recalculated
     report  <map>                     rewrite the review table from the mapping
 
 Why bottom-up: each op's offsets are stated against the content as it is on
@@ -582,8 +583,9 @@ def cmd_scan(a):
                 "line_before": line, "line_after": line[:lo] + proposed + line[hi:],
             })
 
+    tocs_now = live_toc(eid)
     toc_found = []
-    for sec in toc_sections(live_toc(eid)):
+    for sec in toc_sections(tocs_now):
         for lang, title in (sec["title"] or {}).items():
             for lo, hi, cats, conf, ops in group_hits(title, detect(title, vocab, dash_style, corpus)):
                 original = title[lo:hi]
@@ -649,6 +651,7 @@ def cmd_scan(a):
         "scan_content_sha256": sha(content), "content_length": len(content),
         "segments": len(segments), "lines": len(rows), "dash_style": dash_style,
         "issues": issues,
+        "toc_at_scan": tocs_now,
         "toc_issues": [dict(t, id=f"T{n:03d}") for n, t in enumerate(toc_found, 1)],
         "title_issues": [dict(t, id=f"X{n:03d}") for n, t in enumerate(title_found, 1)],
         "history": (old or {}).get("history", []) + [{"at": scan_id, "action": "scan",
@@ -953,6 +956,167 @@ def cmd_note(a):
         print("\ndry run: file not written. Re-run with --write after the human confirms.")
 
 
+def patch_frontmatter_id(path, key, old, new):
+    t = path.read_text(encoding="utf-8")
+    m = re.match(r"---\n(.*?)\n---\n", t, re.S)
+    if not m or f"\n{key}: {old}\n" not in f"\n{m.group(1)}\n":
+        return False
+    head = f"\n{m.group(1)}\n".replace(f"\n{key}: {old}\n", f"\n{key}: {new}\n", 1)[1:-1]
+    path.write_text(f"---\n{head}\n---\n" + t[m.end():], encoding="utf-8")
+    return True
+
+
+def cmd_toc(a):
+    """Rebuild a TOC whose titles need fixing: the content PATCH cannot reach a
+    section title and the API has no TOC PATCH, so the TOC is re-posted.
+
+    Spans are recalculated, not copied blindly: the TOC as it stood at scan time
+    is replayed through every op this mapping sent (the backend's annotation
+    arithmetic), and the result must equal the spans the backend holds now and
+    land every boundary on a segment boundary. Titles change only where an
+    approved T-issue says so. Dry run by default; --execute backs the live TOC
+    up, DELETEs it, POSTs the rebuilt one, and records the new id.
+    """
+    path, m = load_map(a.map)
+    eid = m["edition_id"]
+    by_id = {t["id"]: t for t in m.get("toc_issues", [])}
+    fix = set()
+    for v in a.fix or []:
+        fix |= {x.strip() for x in v.split(",") if x.strip()}
+    if not fix or fix - set(by_id):
+        sys.exit(f"--fix needs toc issue ids from the mapping: {sorted(by_id)}")
+    tid = {by_id[x]["toc_id"] for x in fix}
+    if len(tid) != 1:
+        sys.exit("the chosen issues belong to more than one TOC — one TOC per run")
+    tid = tid.pop()
+    live = next((t for t in live_toc(eid) if t.get("id") == tid), None)
+    if live is None:
+        sys.exit(f"TOC {tid} is not on edition {eid} any more (already replaced?) — re-run scan")
+
+    snap_all = json.loads(pathlib.Path(a.snapshot).read_text(encoding="utf-8")) if a.snapshot else m.get("toc_at_scan")
+    snap = next((t for t in (snap_all or []) if t.get("id") == tid), None)
+    if snap is None:
+        sys.exit("no TOC snapshot from scan time in the mapping; pass --snapshot <the TOC JSON as it was then>")
+    root_end = max(sec["span"]["end"] for sec in toc_sections([snap]) if sec.get("span"))
+    if root_end > m["content_length"]:
+        sys.exit("ABORT: the snapshot's spans run past the scanned content — wrong snapshot")
+
+    flat_live, flat_snap = toc_sections([live]), toc_sections([snap])
+    if [(x["section_id"], x["depth"]) for x in flat_live] != [(x["section_id"], x["depth"]) for x in flat_snap]:
+        sys.exit("ABORT: the live TOC's structure differs from the snapshot's")
+    sent = [op for i in sorted((i for i in m["issues"] if i["status"] == "fixed" and i.get("fixed_in_scan") == m["scan_id"]),
+                               key=lambda i: i["fixed_seq"]) for op in i["ops_sent"]]
+    spans = [(x["span"]["start"], x["span"]["end"]) for x in flat_snap]
+    for op in sent:
+        spans = apply_op_to_spans(spans, op, continuous=False)
+    live_spans = [(x["span"]["start"], x["span"]["end"]) for x in flat_live]
+    rows = live_lines(live_segments(eid))
+    content_len = len(live_content(eid))
+    seg_first, seg_last = {}, {}
+    for ref, sid, li, s0, e0 in rows:
+        seg_first.setdefault(sid, s0)
+        seg_last[sid] = e0
+    starts, ends = set(seg_first.values()), set(seg_last.values())
+    problems = []
+    for x, r, l in zip(flat_live, spans, live_spans):
+        if r != l:
+            problems.append(f"{x['section_id']}: replayed {r} != backend {l}")
+        if r is None or r[0] not in starts or r[1] not in ends:
+            problems.append(f"{x['section_id']}: {r} is not on segment boundaries")
+    if any(r[1] > content_len for r in spans if r):
+        problems.append("a span runs past the end of the content")
+    if problems:
+        sys.exit("ABORT: recalculated spans disagree:\n  " + "\n  ".join(problems[:10]))
+    recalculated = {x["section_id"]: r for x, r in zip(flat_live, spans)}
+
+    changes = []
+
+    def rebuild(sec):
+        title = dict(sec.get("title") or {})
+        for iid in sorted(fix):
+            t = by_id[iid]
+            if t["section_id"] == sec.get("id"):
+                cur = title.get(t["lang"], "")
+                if cur.count(t["original"]) != 1:
+                    sys.exit(f"ABORT {iid}: {t['original']!r} occurs {cur.count(t['original'])} times in {cur!r}")
+                title[t["lang"]] = cur.replace(t["original"], t["proposed"], 1)
+                changes.append((iid, cur, title[t["lang"]]))
+        st, en = recalculated[sec["id"]]
+        out = {"title": title, "span": {"start": st, "end": en}}
+        if sec.get("summary"):
+            out["summary"] = sec["summary"]
+        subs = [rebuild(x) for x in sec.get("subsections") or []]
+        if subs:
+            out["subsections"] = subs
+        return out
+
+    payload = {"sections": [rebuild(x) for x in live["sections"]]}
+    if live.get("metadata"):
+        payload["metadata"] = live["metadata"]
+    if len(changes) != len(fix):
+        sys.exit("ABORT: not every chosen issue found its section")
+    stamp = now().replace(":", "")[:17]
+    backup = OUT_DIR / f"{m['note_stem']}.toc-{tid}.backup-{stamp}.json"
+    newfile = OUT_DIR / f"{m['note_stem']}.toc-{tid}.rebuilt-{stamp}.json"
+    print(f"== TOC {tid} on edition {eid} ({BASE}) ==")
+    print(f"  sections      : {len(flat_live)} (structure unchanged)")
+    print(f"  spans         : recalculated through {len(sent)} sent ops; equal to the backend's ✓  "
+          f"on segment boundaries ✓  root 0..{content_len}")
+    for iid, before, after in changes:
+        print(f"  title {iid}  : {before!r}\n               -> {after!r}")
+    if not a.execute:
+        print("\ndry run: nothing sent. --execute backs up, DELETEs and re-POSTs this TOC.")
+        return
+    backup.write_text(json.dumps(live, ensure_ascii=False, indent=2), encoding="utf-8")
+    newfile.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\n  backup : {backup}\n  payload: {newfile}")
+    st, d = call("DELETE", f"/v2/table-of-contents/{tid}")
+    if st not in (200, 204):
+        sys.exit(f"DELETE -> {st} {d}\nNothing changed.")
+    print(f"  DELETE {tid} -> {st}")
+    st, d = call("POST", f"/v2/editions/{eid}/table-of-contents", payload)
+    if st not in (200, 201):
+        print(f"  POST -> {st} {d}")
+        restore = {"sections": [rebuild_plain(x, recalculated) for x in live["sections"]]}
+        st2, d2 = call("POST", f"/v2/editions/{eid}/table-of-contents", restore)
+        sys.exit(f"POST of the fixed TOC failed; restore POST of the original titles -> {st2} {d2}\n"
+                 f"backup: {backup}")
+    new_id = d.get("id") if isinstance(d, dict) else d
+    print(f"  POST -> {st}, new toc_id {new_id}")
+    got = next((t for t in live_toc(eid) if t.get("id") == new_id), None)
+    ok = got is not None and [(x["title"], x["span"]) for x in toc_sections([got])] == \
+        [(x["title"], x["span"]) for x in toc_sections([{"sections": payload["sections"]}])]
+    print(f"  read back equals the payload: {ok}")
+    for iid in fix:
+        by_id[iid].update(status="fixed", fixed_at=now(), old_toc_id=tid, new_toc_id=new_id)
+    m["toc_id"] = new_id
+    m["history"].append({"at": now(), "action": "toc", "fixed": sorted(fix), "old_toc_id": tid,
+                         "new_toc_id": new_id, "read_back_ok": ok, "backup": backup.name})
+    save_map(path, m)
+    for f in [VAULT / m["note"]] + [pathlib.Path(x) for x in (a.also or [])]:
+        if patch_frontmatter_id(f, "toc_id", tid, new_id):
+            print(f"  PATCHED {f.name}: toc_id = {new_id}")
+    for ledger in list(VAULT.glob("3-SKILLS/*/scripts/upload_ledger.json")) + list(VAULT.glob("4-SYSTEM/Skills/*/scripts/upload_ledger.json")):
+        led = json.loads(ledger.read_text(encoding="utf-8"))
+        ent = led.get(m["note_stem"])
+        if isinstance(ent, dict) and ent.get("toc_id") == tid:
+            ent["toc_id"] = new_id
+            ent.setdefault("log", []).append({"step": "toc-replace", "old_toc_id": tid, "toc_id": new_id,
+                                              "reason": f"edition-spacing-fix {', '.join(sorted(fix))}",
+                                              "ts": datetime.datetime.now().isoformat(timespec="seconds")})
+            ledger.write_text(json.dumps(led, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+            print(f"  ledger {ledger.relative_to(VAULT)}: toc_id = {new_id}")
+
+
+def rebuild_plain(sec, recalculated):
+    st, en = recalculated[sec["id"]]
+    out = {"title": sec["title"], "span": {"start": st, "end": en}}
+    subs = [rebuild_plain(x, recalculated) for x in sec.get("subsections") or []]
+    if subs:
+        out["subsections"] = subs
+    return out
+
+
 def cmd_report(a):
     path, m = load_map(a.map)
     write_report(path, m)
@@ -979,6 +1143,10 @@ def main():
     p = sub.add_parser("note"); p.add_argument("map"); p.add_argument("--file")
     p.add_argument("--include-approved", action="store_true"); p.add_argument("--write", action="store_true")
     p.set_defaults(f=cmd_note)
+    p = sub.add_parser("toc"); p.add_argument("map"); p.add_argument("--fix", nargs="+", required=True)
+    p.add_argument("--snapshot", help="the TOC JSON as it was at scan time, if the mapping lacks one")
+    p.add_argument("--also", nargs="*", help="other vault copies whose toc_id should follow")
+    p.add_argument("--execute", action="store_true"); p.set_defaults(f=cmd_toc)
     p = sub.add_parser("report"); p.add_argument("map"); p.set_defaults(f=cmd_report)
     a = ap.parse_args()
     try:
