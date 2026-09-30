@@ -1,11 +1,9 @@
 Tara the Great Vanquisher of Fear
 སྒྲོལ་མ་འཇིགས་པ་ཆེན་མོ།
 
-|Name|Tara the Great Vanquisher of Fear|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture sarva māra śatrūn māraya phaṭ svāhā|
-|Accomplishment|Slaying enemies|
-|Praise|Homage to Tara, whose spine-chilling ture<br>Vanquishes even the powerful Mara;<br>Wrinkling her beautiful brow in fierce anger,<br>She crushes all foes and destroys them completely.|
+**Name** : Tara the Great Vanquisher of Fear
+**Mantra** : oṃ tāre tuttāre ture sarva māra śatrūn māraya phaṭ svāhā
+**Accomplishment** : Slaying enemies
 
 Those who wish to slay enemies should rely on Tara the Great Vanquisher of Fear. The eighth of the twenty-one is invoked through the seed-syllable TURE, praised in the root verse as swift as a bolt of lightning — an echo of the very first Tara's speed, but turned here toward a specific and formidable task: the destruction of the armies of the four maras, the classical personifications of everything that obstructs awakening, from death itself to the distractions and delusions of an ordinary mind.
 

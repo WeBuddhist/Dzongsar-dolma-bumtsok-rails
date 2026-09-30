@@ -1,11 +1,9 @@
 Tara of Rays of Light
 སྒྲོལ་མ་འོད་ཟེར་ཅན་མ།
 
-|Name|Tara of Rays of Light|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture sarva siddhi sādhanaṃ svāhā|
-|Accomplishment|Bringing all enlightened activities to complete perfection|
-|Praise|Homage to Tara, who with three tathātās,<br>Commands all the power she needs to bring peace.<br>Supreme Ture, you are the one who annihilates,<br>The hordes of grahas, vetālas, and the yaksas.|
+**Name** : Tara of Rays of Light
+**Mantra** : oṃ tāre tuttāre ture sarva siddhi sādhanaṃ svāhā
+**Accomplishment** : Bringing all enlightened activities to complete perfection
 
 Those who wish to bring all enlightened activities to complete perfection should rely on Tara of Rays of Light. She is the last of the twenty-one, and the commentators are unusually candid that no single name for her has ever been agreed upon — some call her "the one who brings everything to completion," others "the one who ransoms us back," others simply "she of the rays of light," and at least one master declines to give her a separate name at all, explaining that this final verse is not really about one more Tara added to the list, but about Tara herself in her entirety, the single source from which all twenty-one emanations already described have come.
 

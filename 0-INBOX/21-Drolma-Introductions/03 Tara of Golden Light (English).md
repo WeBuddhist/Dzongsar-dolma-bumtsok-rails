@@ -1,11 +1,9 @@
 Tara of Golden Light
 སྒྲོལ་མ་གསེར་མདོག་ཅན།
 
-|Name|Tara of Golden Light|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture puṣṭiṃ kuru svāhā|
-|Accomplishment|Increasing lifespan and wealth|
-|Praise|Homage to Tara, our golden-skinned mother;<br>Adorning your hand is an azure-blue lotus.<br>Kind, open-handed, hard-working and patient,<br>And one with the state of samadhi perfected.|
+**Name** : Tara of Golden Light
+**Mantra** : oṃ tāre tuttāre ture puṣṭiṃ kuru svāhā
+**Accomplishment** : Increasing lifespan and wealth
 
 Those who wish to increase their lifespan and wealth should rely on Tara of Golden Light. Third among the twenty-one, this Tara is praised in the root verse as gold-blue in color, born from a lotus that opens on water, her hands themselves adorned like lotus blossoms. Where the first two Taras are known chiefly for swiftness and radiance, she is known for completeness: the commentators identify her as the living embodiment of the six perfections that a bodhisattva cultivates over the long path to Buddhahood — generosity, discipline, patience, joyful effort, meditative stability, and wisdom — each one present in her as naturally as color is present in gold.
 

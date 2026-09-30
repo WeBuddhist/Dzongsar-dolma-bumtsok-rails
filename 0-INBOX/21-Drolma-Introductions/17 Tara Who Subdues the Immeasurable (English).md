@@ -1,11 +1,9 @@
 Tara Who Subdues the Immeasurable
 སྒྲོལ་མ་དཔག་མེད་གནོན་མ།
 
-|Name|Tara Who Subdues the Immeasurable|
-|---|---|
-|Mantra|oṃ tāre tuttāre sarva stambhani tāre svāhā|
-|Accomplishment|Pacifying maras and obstacles|
-|Praise|Homage to Tara, the bold dancing lady,<br>With ture, you stomp and all obstacles perish,<br>With hum, Mount Meru, Mandara, and Vindhya,<br>And the three worlds of existence all tremble.|
+**Name** : Tara Who Subdues the Immeasurable
+**Mantra** : oṃ tāre tuttāre sarva stambhani tāre svāhā
+**Accomplishment** : Pacifying maras and obstacles
 
 Those who wish to pacify maras and obstacles should rely on Tara Who Subdues the Immeasurable. Seventeenth among the twenty-one, she is invoked through the syllable TURE as her two feet stamp the ground with tremendous force, while HUM sounding at her heart is said to shake the three great mountains of classical cosmology — Meru, Mandara, and Vindhya — a scale of power vast enough that even the immovable centers of the universe respond to it.
 

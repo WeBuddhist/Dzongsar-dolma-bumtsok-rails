@@ -1,11 +1,9 @@
 Tara Who Roars with HUM
 སྒྲོལ་མ་ཧཱུཾ་སྒྲ་སྒྲོག་མ།
 
-|Name|Tara Who Roars with HUM|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture sarva strī ākarṣaya hrīḥ svāhā|
-|Accomplishment|Attracting women|
-|Praise|Homage to Tara, our spellbinding Mother,<br>You create all of space with your hum and tuttare,<br>All beings you magnetize, without exception,<br>And trample the seven worlds under your feet.|
+**Name** : Tara Who Roars with HUM
+**Mantra** : oṃ tāre tuttāre ture sarva strī ākarṣaya hrīḥ svāhā
+**Accomplishment** : Attracting women
 
 Those who wish to attract women should rely on Tara Who Roars with HUM. The fifth of the twenty-one is praised for a sound rather than a sight: the syllables TUTTARA and HUM, which the root verse says fill and pervade the three realms of existence entirely. Her feet are described as pressing down upon the many worlds beneath her, and in that single gesture she summons every being within them — an image less of conquest than of a mother's voice reaching every one of her children at once, no matter how far they have wandered.
 

@@ -1,11 +1,9 @@
 Tara the Swift, the Heroine
 སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ།
 
-|Name|Tara the Swift, the Heroine|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture vaśaṃ kuru svāhā|
-|Accomplishment|Pacifying the harm of obstructing forces and bringing those who lead others astray under one's power|
-|Praise|Homage to Tara, so swift and courageous.<br>Your eyes flash like lightning, so quick and all-seeing,<br>Born from the tears of the Lord of Trailokya<br>At the heart of a beautiful lotus in blossom.|
+**Name** : Tara the Swift, the Heroine
+**Mantra** : oṃ tāre tuttāre ture vaśaṃ kuru svāhā
+**Accomplishment** : Pacifying the harm of obstructing forces and bringing those who lead others astray under one's power
 
 Those who wish to pacify the harm of obstructing forces and bring those who lead others astray under their power should rely on Tara the Swift, the Heroine. She is the very first of the twenty-one, and many great teachers have said she is not merely one Tara among many but the single point where the enlightened activity of every Buddha, past and future, converges into one form. Her name says everything at once. "Tara" means the one who ferries beings across the ocean of samsara's suffering to the other shore. "Swift" means that when she acts for someone in need, there is no delay at all — not even the space of an instant. And "Heroine" means she has the unshakeable strength to meet any fear, any obstacle, any force of harm, and overcome it without hesitation.
 

@@ -1,11 +1,9 @@
 Tara Unconquerable, Full of Splendor
 སྒྲོལ་མ་མི་ཕམ་གཟི་བརྗིད་ཅན།
 
-|Name|Tara Unconquerable, Full of Splendor|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture mocana svāhā|
-|Accomplishment|Dispelling disputes and bad dreams|
-|Praise|Homage to Tara, who all the gods count on,<br>Their kings and their gods and kimnaras all trust;<br>Your armour of joy and contentment is splendid,<br>It clears away nightmares and soothes away strife.|
+**Name** : Tara Unconquerable, Full of Splendor
+**Mantra** : oṃ tāre tuttāre ture mocana svāhā
+**Accomplishment** : Dispelling disputes and bad dreams
 
 Those who wish to dispel disputes and bad dreams should rely on Tara Unconquerable, Full of Splendor. Nineteenth among the twenty-one, she is attended by the king of the gods — variously named as Indra or Brahma across different commentaries — together with the kinnaras, the celestial musicians of Indian myth, all drawn to serve her not out of obligation but out of sheer reverence for what she radiates. Her own name announces her as invincible, and full of a splendor so complete it becomes her actual method of protection.
 

@@ -1,11 +1,9 @@
 Tara Who Grants Auspicious Accomplishment
 སྒྲོལ་མ་བཀྲ་ཤིས་དོན་གྲུབ་མ།
 
-|Name|Tara Who Grants Auspicious Accomplishment|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture maṅgalaṃ svāhā|
-|Accomplishment|Auspiciousness|
-|Praise|Homage to Tara, whose bright shining tiara,<br>Is graced with a brilliant crescent new moon.<br>Sitting amidst your thick mane of black tresses,<br>Is Lord Amitabha irradiant with light.|
+**Name** : Tara Who Grants Auspicious Accomplishment
+**Mantra** : oṃ tāre tuttāre ture maṅgalaṃ svāhā
+**Accomplishment** : Auspiciousness
 
 Those who wish to have auspiciousness should rely on Tara Who Grants Auspicious Accomplishment. The twelfth of the twenty-one wears the crescent moon as her crown ornament, and within the knot of her hair sits the Buddha Amitabha, quietly presiding over her from above — a sign that whatever she accomplishes carries the blessing and the pure intention of the Buddha of Boundless Light woven directly into it. From this crown, auspicious light radiates outward, and wherever it falls, it is said to dispel suffering in its path.
 

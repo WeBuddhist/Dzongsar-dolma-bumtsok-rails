@@ -1,11 +1,9 @@
 Tara Who Destroys Attachment
 སྒྲོལ་མ་ཆགས་པ་འཇོམས་པ།
 
-|Name|Tara Who Destroys Attachment|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture sarva dharmāḥ pratipariśodhaya svāhā|
-|Accomplishment|Increasing wisdom|
-|Praise|Homage to Tara, immersed in deep rapture,<br>You shatter the bodies of all of your foes;<br>Declaiming your ten letters and hum of wisdom,<br>You liberate every suffering being.|
+**Name** : Tara Who Destroys Attachment
+**Mantra** : oṃ tāre tuttāre ture sarva dharmāḥ pratipariśodhaya svāhā
+**Accomplishment** : Increasing wisdom
 
 Those who wish to increase wisdom should rely on Tara Who Destroys Attachment. The sixteenth of the twenty-one is described encircled and joyful even as she crushes the bodies of enemies beneath her — an intensity of destruction paired unexpectedly with delight, as if to say that overcoming what truly binds us is itself cause for genuine joy rather than grim struggle. Her own ten-syllable mantra is said to arise spontaneously from the seed-syllable HUM at her heart, so that awareness itself takes shape as Tara — the sound and the deity arising as one and the same thing.
 

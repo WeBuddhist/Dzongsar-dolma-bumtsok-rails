@@ -1,11 +1,9 @@
 Tara Clad in Leaves of the Mountain Retreat
 སྒྲོལ་མ་རི་ཁྲོད་ལོ་མ་གྱོན་མ།
 
-|Name|Tara Clad in Leaves of the Mountain Retreat|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture visarata svāhā|
-|Accomplishment|Protection against and pacification of epidemic disease|
-|Praise|Homage to Tara, whose lustrous eyes sparkle<br>And shine with the light of the sun and full moon,<br>Uttering hara hara and tuttare,<br>You pacify all the most vicious pandemics.|
+**Name** : Tara Clad in Leaves of the Mountain Retreat
+**Mantra** : oṃ tāre tuttāre ture visarata svāhā
+**Accomplishment** : Protection against and pacification of epidemic disease
 
 Those who wish to protect against and pacify epidemic disease should rely on Tara Clad in Leaves of the Mountain Retreat. The twentieth of the twenty-one carries an image unlike any other in the sequence: rather than silk, jewels, or the fine ornaments that usually adorn a deity, she is clothed simply in leaves, gathered as a hermit or a wandering yogini in mountain retreat might wear them, close to the earth and far from any comfort but the essential. Her two eyes are described as radiant like the full sun and the full moon together, a brightness that needs no elaborate dress to be unmistakable. In this same simplicity, she is also honored as a source of siddhis, the spiritual accomplishments that arise from dedicated practice.
 

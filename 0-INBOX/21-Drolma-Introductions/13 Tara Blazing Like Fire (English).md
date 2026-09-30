@@ -1,11 +1,9 @@
 Tara Blazing Like Fire
 སྒྲོལ་མ་མེ་ལྟར་འབར་བ།
 
-|Name|Tara Blazing Like Fire|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture bhaya bhasmiṃ kuru svāhā|
-|Accomplishment|Protection against obstructing forces and obstacles|
-|Praise|Homage to Tara, encircled by fire,<br>Infernos of flames, like the end of all time.<br>Truth's enemies and their great armies you vanquish,<br>And spin, right leg stretched with your left leg drawn in.|
+**Name** : Tara Blazing Like Fire
+**Mantra** : oṃ tāre tuttāre ture bhaya bhasmiṃ kuru svāhā
+**Accomplishment** : Protection against obstructing forces and obstacles
 
 Those who wish to protect against obstructing forces and obstacles should rely on Tara Blazing Like Fire. Thirteenth among the twenty-one, she dwells at the center of a garland of light that blazes like the fire said to consume the universe at the end of an aeon — not a small flame but a conflagration of cosmic scale, vast enough to mark the complete and total end of whatever it touches. Standing with one leg extended and the other bent, she uses that same total fire to destroy the hordes of enemies that root verse describes as opposing her.
 

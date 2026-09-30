@@ -1,11 +1,9 @@
 Tara the Great Peacock
 སྒྲོལ་མ་རྨ་བྱ་ཆེན་མོ།
 
-|Name|Tara the Great Peacock|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture nāga viṣa śintaṃ kuru svāhā|
-|Accomplishment|Pacifying the poisons of the nagas|
-|Praise|Homage to Tara, who holds in her white hand,<br>A moon deer-marked moon like a heavenly lake;<br>Expunging all traces of toxins and venom<br>You purge all the poisons with tāra tāra phat.|
+**Name** : Tara the Great Peacock
+**Mantra** : oṃ tāre tuttāre ture nāga viṣa śintaṃ kuru svāhā
+**Accomplishment** : Pacifying the poisons of the nagas
 
 Those who wish to pacify the poisons of the nagas should rely on Tara the Great Peacock. The eighteenth of the twenty-one takes her most vivid name from the peacock, an animal long celebrated across Indian and Tibetan tradition for a startling ability: to eat poisonous plants and thrive on them, transforming venom into the brilliant color of its own feathers. She is praised through the syllables TARA, repeated, and PHAT, said to dispel every kind of poison, whether already moving through the body or still lying dormant and unstirred.
 

@@ -1,11 +1,9 @@
 Tara Whose Frown Shakes the Earth
 སྒྲོལ་མ་ཁྲོ་གཉེར་གཡོ་བ།
 
-|Name|Tara Whose Frown Shakes the Earth|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture vajra mahāpāda bhasmiṃ kuru svāhā|
-|Accomplishment|Striking down obstructing forces|
-|Praise|Homage to Tara, who strikes the earth's surface<br>You pound with your palms and you stamp with your feet;<br>With hum and a glowering scowl, all your anger<br>Shatters the underworld's layers, all seven.|
+**Name** : Tara Whose Frown Shakes the Earth
+**Mantra** : oṃ tāre tuttāre ture vajra mahāpāda bhasmiṃ kuru svāhā
+**Accomplishment** : Striking down obstructing forces
 
 Those who wish to strike down obstructing forces should rely on Tara Whose Frown Shakes the Earth. The fourteenth of the twenty-one is shown striking the very surface of the earth with the flat of her palm — Mount Meru and its four surrounding continents together — and stamping it further with her foot, so that her wrathful expression alone, sharpened by the seed-syllable HUM, is enough to crush all seven levels said to lie beneath the ground: the dwelling places of nagas, asuras, and the lords of death.
 

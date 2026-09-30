@@ -1,11 +1,9 @@
 Tara Who Subdues Maras and the World
 སྒྲོལ་མ་བདུད་དང་འཇིག་རྟེན་དབང་སྡུད་མ།
 
-|Name|Tara Who Subdues Maras and the World|
-|---|---|
-|Mantra|oṃ tāre tuttāre ture sarva māra pramardhāni svāhā|
-|Accomplishment|Subduing the maras and all who create obstacles|
-|Praise|Homage to Tara, whose sparkling tiara,<br>Shines with the light of her limitless joy.<br>Your laughter and tuttare topple all demons,<br>Subduing all worlds with exultant delight.|
+**Name** : Tara Who Subdues Maras and the World
+**Mantra** : oṃ tāre tuttāre ture sarva māra pramardhāni svāhā
+**Accomplishment** : Subduing the maras and all who create obstacles
 
 Those who wish to subdue the maras and all who create obstacles should rely on Tara Who Subdues Maras and the World. Tenth in the sequence, she is described first through her crown ornament, a jewel that radiates a garland of light outward from her head — an image of a sovereignty so natural it needs no display of force to be recognized. That same radiant authority carries into her voice: her laughter, formed around the syllable TUTTARA, is said to be enough on its own to subjugate both the maras, the forces that obstruct awakening, and the ordinary worldly powers that beings otherwise struggle so hard to master or appease.
 
