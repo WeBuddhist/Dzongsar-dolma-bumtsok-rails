@@ -32,3 +32,5 @@ Tara the Swift, the Heroine
 ![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-16-0]]
 
 ![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-16]]
+
+![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-17]]

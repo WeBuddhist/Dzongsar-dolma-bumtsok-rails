@@ -40,9 +40,9 @@ If any of these paths does not exist when the skill runs, stop and report exactl
 Three files per requested day, one per language:
 
 ```
-3-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-<N> Tara Plan.md
-3-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-<N> Tara Plan.md
-3-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-<N> Tara Plan.md
+4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-<N> Tara Plan.md
+4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-<N> Tara Plan.md
+4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-<N> Tara Plan.md
 ```
 
 `<N>` is the plain day number (`Day-1 Tara Plan.md`, `Day-2 Tara Plan.md`, … `Day-21 Tara Plan.md`), matching the file names already in use in `bo-21-Day-Plans`.

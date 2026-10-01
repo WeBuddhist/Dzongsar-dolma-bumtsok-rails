@@ -32,3 +32,5 @@ status: draft
 ![[0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md#^1-16-0]]
 
 ![[0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md#^1-16]]
+
+![[0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md#^1-17]]

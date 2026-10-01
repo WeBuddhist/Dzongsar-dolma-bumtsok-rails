@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
+                "file": "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-1 Tara Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Tara the Swift, the Heroine (Chinese)"
+              "title": "Day-1 Tara Plan"
+            }
+          },
+          {
+            "id": "1928f57411f1c511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zh-Khenpo-Tsulnam_Stories"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7203888faa058cb",
@@ -202,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,34 +233,35 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "c0388252e40afe72",
+  "active": "1928f57411f1c511",
   "lastOpenFiles": [
-    "0-INBOX/21-Drolma-Introductions/06 Tara the Great Terror to Every Evil Force (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/04 Tara Victorious, Crown of the Buddhas (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/04 Tara Victorious, Crown of the Buddhas (English).md",
-    "0-INBOX/21-Drolma-Introductions/04 Tara Victorious, Crown of the Buddhas (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/03 Tara of Golden Light (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/03 Tara of Golden Light (English).md",
-    "0-INBOX/21-Drolma-Introductions/03 Tara of Golden Light (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/02 Tara the Radiant, Treasury of Wisdom (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/02 Tara the Radiant, Treasury of Wisdom (English).md",
-    "0-INBOX/21-Drolma-Introductions/02 Tara the Radiant, Treasury of Wisdom (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (English).md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-1 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-1 Tara Plan.md",
     "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
-    "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
-    "0-INBOX/21-Drolma-Introductions/07 Tara Whom None Can Overcome (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/17 Tara Who Subdues the Immeasurable (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/17 Tara Who Subdues the Immeasurable (English).md",
-    "0-INBOX/21-Drolma-Introductions/16 Tara Who Destroys Attachment (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/16 Tara Who Destroys Attachment (English).md",
-    "0-INBOX/21-Drolma-Introductions/16 Tara Who Destroys Attachment (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/15 Tara the Great Peace (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/15 Tara the Great Peace (English).md",
-    "0-INBOX/21-Drolma-Introductions/15 Tara the Great Peace (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/08 Tara the Great Vanquisher of Fear (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/09 Tara of the Khadira Forest (Chinese).md",
-    "0-INBOX/21-Drolma-Introductions/10 Tara Who Subdues Maras and the World (Chinese).md",
+    "3-SKILLS/tara-plan-creator/sedHAe2Ww",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-21 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-21 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-21 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-20 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-20 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-20 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-19 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-19 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-19 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-18 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-18 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-18 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-17 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-17 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-17 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-16 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-16 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-16 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-15 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-15 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-15 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-14 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-14 Tara Plan.md",
     "3-SKILLS/yigchung-upload/scripts/output/Hi-Tārā’s_Profound_Essence.yigchungs.json",
     "0-INBOX/temp/edition-spacing-fix/En-Tārā’s_Profound_Essence.toc-e5Ovlr4L4JSHpxXvjfMRK.rebuilt-2026-09-30T144204.json",
     "0-INBOX/temp/edition-spacing-fix/En-Tārā’s_Profound_Essence.toc-e5Ovlr4L4JSHpxXvjfMRK.backup-2026-09-30T144204.json",
@@ -254,7 +271,6 @@
     "3-SKILLS/edition-spacing-fix/references",
     "3-SKILLS/edition-spacing-fix",
     "0-INBOX/temp/edition-spacing-fix/En-Tārā’s_Profound_Essence.spacing-map.json",
-    "0-INBOX/temp/edition-spacing-fix/En-Tārā’s_Profound_Essence.scan-content.json",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/09_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/11_DROLMA JIGTEN WANGDUMA སྒྲོལ་མ་འཇིག་རྟེན་དབང་སྡུད་མ། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/10_DROLMA NYANGEN SELCHEMA སྒྲོལ་མ་མྱ་ངན་སེལ་བྱེད་མ། - Edited.png",

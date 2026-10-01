@@ -38,9 +38,9 @@ Long ago, in a certain region of India, a woodcutter went deep into a forest to 
 
 A twelve-year-old girl had gone out alone to gather flowers when she met a savage elephant. It bound her tightly with its trunk, and as it raised its tusks to gore and kill her, she remembered Tārā's name and prayed to her. At once the elephant's fury turned to gentleness; it loosened its hold and is said to have carried her safely home. ^1-3
 
-### 4. Protection from the Fear of Fire
+### 4. Protection from the Fear of Fire ^1-4-0
 
-A family with whom another had a blood feud had their house set on fire by their enemies in the night. As the household tried to flee, they found themselves surrounded by flames with no way out. At their wits' end, they called out the name of Jetsün Tārā and prayed to her. Clouds gathered in the sky above, and a heavy rain fell, extinguishing the fire.
+A family with whom another had a blood feud had their house set on fire by their enemies in the night. As the household tried to flee, they found themselves surrounded by flames with no way out. At their wits' end, they called out the name of Jetsün Tārā and prayed to her. Clouds gathered in the sky above, and a heavy rain fell, extinguishing the fire. ^1-4
 
 ### 5. Protection from the Fear of Poisonous Snakes ^1-5-0
 
@@ -50,9 +50,9 @@ Long ago in a certain city there lived a courtesan. Having arranged to meet a me
 
 Long ago there lived in a certain land a merchant of very great wealth. One day, traveling with his servants and a large quantity of goods, he was set upon by a band of robbers, who plundered the goods and began killing the servants. In great terror, with no other protector, the merchant prayed to Tārā. The bandits themselves grew afraid and fled, and so the merchants were freed from the danger of robbers. ^1-6
 
-### 7. Protection from Imprisonment
+### 7. Protection from Imprisonment ^1-7-0
 
-A chief among thieves, on his way to rob the king's treasury, drank some fine beer and, overcome by drunkenness, fell asleep. The king's men found him there, seized him as the thief, and threw him into prison, where he suffered various punishments. In his suffering he prayed to Tārā, whereupon a bird of many colors appeared and untied his bonds; even the prison door swung open by itself, and the thief escaped. That night he dreamed of a woman adorned with many kinds of ornaments, who said to him, "It is by my kindness that you have been freed from prison. If you remember this kindness, you and your companions must give up thieving." From then on they abandoned thieving for trade and other honest livelihoods, and came to perform great virtuous deeds.
+A chief among thieves, on his way to rob the king's treasury, drank some fine beer and, overcome by drunkenness, fell asleep. The king's men found him there, seized him as the thief, and threw him into prison, where he suffered various punishments. In his suffering he prayed to Tārā, whereupon a bird of many colors appeared and untied his bonds; even the prison door swung open by itself, and the thief escaped. That night he dreamed of a woman adorned with many kinds of ornaments, who said to him, "It is by my kindness that you have been freed from prison. If you remember this kindness, you and your companions must give up thieving." From then on they abandoned thieving for trade and other honest livelihoods, and came to perform great virtuous deeds. ^1-7
 
 ### 8. Protection from the Fear of the Ocean's Waters
 
@@ -66,39 +66,39 @@ Long ago a great assembly of monks lived in a certain monastery. Once, several m
 
 Long ago a brahmin teacher fell ill with leprosy. The disease spread to many of his fellow brahmins, and once they too had contracted it, all his friends and even the physicians abandoned him, so that he had to wander about begging. On the road he saw a stone image of Jetsün Tārā, and faith arose in him; he prayed to her. From the hand of the stone image there then flowed a continuous stream of medicinal nectar; the sick who drank of it and bathed in it were freed from the disease, their bodies becoming even more beautiful than before.
 
-### 11. Protection from the Fear of Possession by Spirits
+### 11. Protection from the Fear of Possession by Spirits ^1-11-0
 
-Long ago, in a region of India called Bomlag, there was a monastery where many monks dwelt in meditative retreat. At a certain time, all manner of strange apparitions arose there — sometimes in the form of brahmins, sometimes of women, sometimes in the terrifying forms of yakṣas, and sometimes as fearsome tigers and lions. Because of this, some monks fainted and others went mad, and it became known that these were apparitions caused by an evil spirit. Knowing that Tārā protects from every fear, the monks painted an image of her and installed it there. From then on they were freed from all danger, and afterward everyone in that monastery took Tārā as their yidam deity.
+Long ago, in a region of India called Bomlag, there was a monastery where many monks dwelt in meditative retreat. At a certain time, all manner of strange apparitions arose there — sometimes in the form of brahmins, sometimes of women, sometimes in the terrifying forms of yakṣas, and sometimes as fearsome tigers and lions. Because of this, some monks fainted and others went mad, and it became known that these were apparitions caused by an evil spirit. Knowing that Tārā protects from every fear, the monks painted an image of her and installed it there. From then on they were freed from all danger, and afterward everyone in that monastery took Tārā as their yidam deity. ^1-11
 
-### 12. Protection from the Fear of Poverty
+### 12. Protection from the Fear of Poverty ^1-12-0
 
-Long ago a poor farmer, lacking food and clothing, was suffering greatly. He called out the name of Jetsün Tārā and prayed to her, whereupon a woman clad in leaves appeared and told him, "Go to the east." He did so, and, growing weary, lay down to rest on a stretch of sand. There he heard the sound of a bell, and saw a green horse adorned with bells pawing at the sand with its hoof. When the horse had moved on, he looked at the spot it had dug and, digging there himself, found gold, silver, and much other wealth — and so was freed from the suffering of poverty and want.
+Long ago a poor farmer, lacking food and clothing, was suffering greatly. He called out the name of Jetsün Tārā and prayed to her, whereupon a woman clad in leaves appeared and told him, "Go to the east." He did so, and, growing weary, lay down to rest on a stretch of sand. There he heard the sound of a bell, and saw a green horse adorned with bells pawing at the sand with its hoof. When the horse had moved on, he looked at the spot it had dug and, digging there himself, found gold, silver, and much other wealth — and so was freed from the suffering of poverty and want. ^1-12
 
-### 13. Protection from the Suffering of Separation from Loved Ones
+### 13. Protection from the Suffering of Separation from Loved Ones ^1-13-0
 
-Long ago there was a wealthy brahmin with many close relatives — sons, a wife, and others. Later a great epidemic struck that land, and his sons, his wife, and all his relatives died, leaving him alone and overcome by grief. Wandering from place to place, he arrived in Varanasi, where he came upon a great festival at which many lay devotees with faith in the Buddha were making offerings to Tārā. He too offered handfuls of flowers and prayed one-pointedly, and afterward he obtained as his bride a princess of extraordinary beauty, through whom he gained sons and his lineage flourished.
+Long ago there was a wealthy brahmin with many close relatives — sons, a wife, and others. Later a great epidemic struck that land, and his sons, his wife, and all his relatives died, leaving him alone and overcome by grief. Wandering from place to place, he arrived in Varanasi, where he came upon a great festival at which many lay devotees with faith in the Buddha were making offerings to Tārā. He too offered handfuls of flowers and prayed one-pointedly, and afterward he obtained as his bride a princess of extraordinary beauty, through whom he gained sons and his lineage flourished. ^1-13
 
 ### 14. Protection from the Fear of Royal Punishment ^1-14-0
 
 Long ago, in a land of India called Ayorda, there lived a householder possessed of power, wealth, and comforts. The king of that land, displeased with him, sent four mighty strongmen who seized the householder and threw him into prison. The householder prayed one-pointedly to Tārā, and all manner of auspicious signs appeared, so that the king, astonished, released him from prison and did him no harm. ^1-14
 
-### 15. Protection from the Fear of Lightning
+### 15. Protection from the Fear of Lightning ^1-15-0
 
-Long ago, in a region of Bengal, a Buddhist lay devotee went to sow grain in his field. On the way he trod upon the shrine of a yakṣa, and the enraged yakṣa sent down from the sky a bolt of molten iron and lightning. The moment the lay devotee merely thought of Tārā, every tongue of that fire turned into flowers, and he remained entirely unharmed.
+Long ago, in a region of Bengal, a Buddhist lay devotee went to sow grain in his field. On the way he trod upon the shrine of a yakṣa, and the enraged yakṣa sent down from the sky a bolt of molten iron and lightning. The moment the lay devotee merely thought of Tārā, every tongue of that fire turned into flowers, and he remained entirely unharmed. ^1-15
 
 ### 16. Protection from the Fear of War ^1-16-0
 
 Long ago, near the town of Sershkya close to Magadha in central India, King Ashvaka and King Kumitra went to war. King Ashvaka, confident because his own army and strength were greater, went into battle unafraid. King Kumitra, somewhat daunted, had his soldiers recite the Homage in Twenty-One Verses to Tārā a hundred thousand times over seven days before engaging in battle. Ashvaka's soldiers, the moment they merely caught sight of the opposing army, grew afraid, and some fled into the palace. ^1-16
 
-Some fainted outright and fled despite the king's reproach and threats of punishment. Ashvaka's soldiers explained it this way: "The enemy's troops were unlike anything we had seen before — countless dark, terrifying women bearing weapons and spears filled the whole space between heaven and earth, and we, with no courage left to fight, came fleeing."
+Some fainted outright and fled despite the king's reproach and threats of punishment. Ashvaka's soldiers explained it this way: "The enemy's troops were unlike anything we had seen before — countless dark, terrifying women bearing weapons and spears filled the whole space between heaven and earth, and we, with no courage left to fight, came fleeing." ^1-17
 
 ### 17. Protection from the Fear of Rivers
 
 Two men from the land of Nepal, while fording a river, were swept away by the powerful current. One of them prayed to Tārā, whereupon a wild man — an emanation of the Mother — threw a great tree trunk into the water. The man caught hold of it and, relying on it, was freed from the water.
 
-### 18. Protection from the Fear of Epidemic Disease
+### 18. Protection from the Fear of Epidemic Disease ^1-18-0
 
-Also, long ago, a great epidemic broke out in a certain region of Tibet, and no medical treatment could halt it, so that many people of that land died. When it was investigated what method might help, a divination showed that raising many prayer flags of Tārā would be beneficial. Accordingly, they gathered a great deal of cloth, printed the Homage in Twenty-One Verses and Tārā's mantras upon it, and raised it on a mountain. As a great wind moved the prayer flags, that wind drove away the entire epidemic, so that the epidemic in that land ceased, and the sick, too, were freed from their illness.
+Also, long ago, a great epidemic broke out in a certain region of Tibet, and no medical treatment could halt it, so that many people of that land died. When it was investigated what method might help, a divination showed that raising many prayer flags of Tārā would be beneficial. Accordingly, they gathered a great deal of cloth, printed the Homage in Twenty-One Verses and Tārā's mantras upon it, and raised it on a mountain. As a great wind moved the prayer flags, that wind drove away the entire epidemic, so that the epidemic in that land ceased, and the sick, too, were freed from their illness. ^1-19
 
 ### 19. Freedom from Imprisonment in Iron Shackles ^1-19-0
 
@@ -114,17 +114,17 @@ Also, long ago in Tibet, an old man who constantly took Tārā as his yidam deit
 
 The man's courage grew, and he again prayed to be freed from the cave, but for a time he was not. Growing hungry, he ate meat the tigers brought and left for him. After a long while, the cubs grew large and, one by one, leapt across the river to the far mountainside. Then the father tiger too departed, and the man, fearing he would starve without the tigers and not knowing what to do, saw that the mother tigress was also preparing to leave. He then prayed one-pointedly to Jetsün Tārā, closed his eyes, mounted the tigress, grasped her by the scruff of the neck, and urged her on. The tigress leapt across, and he arrived safely on the far mountainside.
 
-### 22. Protection of a Parrot from the Fear of a Hawk
+### 22. Protection of a Parrot from the Fear of a Hawk ^1-22-0
 
-Long ago a man kept a pet parrot. One day it was carried off by a hawk. The parrot cried out, "Tāre Tuttāre!" — whereupon the startled hawk let it drop, and the parrot escaped unharmed. The parrot had constantly heard its owner reciting Tārā's mantra, and the words had lodged in its ear; in its moment of terror, they came out of its own accord. This came to be cited as an example showing that, like a stray arrow that still finds its mark, the mantra's blessing works its power even when invoked without full understanding, or even by accident.
+Long ago a man kept a pet parrot. One day it was carried off by a hawk. The parrot cried out, "Tāre Tuttāre!" — whereupon the startled hawk let it drop, and the parrot escaped unharmed. The parrot had constantly heard its owner reciting Tārā's mantra, and the words had lodged in its ear; in its moment of terror, they came out of its own accord. This came to be cited as an example showing that, like a stray arrow that still finds its mark, the mantra's blessing works its power even when invoked without full understanding, or even by accident. ^1-24
 
 ### 23. The Story of the Prayer Flag ^1-23-0
 
 Long ago, on the summit of a mountain, many prayer flags had been planted, most of them dedicated to Tārā. At the corner of the flags was a hawk's nest, and the mother hawk and her six chicks constantly heard the sound of the flags fluttering. After all seven had died, they took rebirth as seven goddesses in Tārā's pure land, Turquoise Leaf. ^1-25
 
-### 24. Protection from the Suffering of Having No Son
+### 24. Protection from the Suffering of Having No Son ^1-24-0
 
-Long ago a king took a queen, but though much time passed, no son was born to her. He then took several more queens, but not one of them bore an heir either, so that the king and his ministers grew anxious. Deliberating on what to do, they consulted the gods and lamas and performed divinations. All the people of his realm were gathered, and it was prophesied that a son would be born if they performed Tārā practice. The king then assembled many people and had them recite Tārā's mantra; after it had been recited many hundreds of thousands of times, a royal son was born. Because they had recited Tārā's mantra a hundred hundred-thousand times, Tārā herself declared, "I grant this to you" — and so the king had to name his son Bumgya ("Hundred Hundred-Thousand"). That prince later became a king of great power and merit.
+Long ago a king took a queen, but though much time passed, no son was born to her. He then took several more queens, but not one of them bore an heir either, so that the king and his ministers grew anxious. Deliberating on what to do, they consulted the gods and lamas and performed divinations. All the people of his realm were gathered, and it was prophesied that a son would be born if they performed Tārā practice. The king then assembled many people and had them recite Tārā's mantra; after it had been recited many hundreds of thousands of times, a royal son was born. Because they had recited Tārā's mantra a hundred hundred-thousand times, Tārā herself declared, "I grant this to you" — and so the king had to name his son Bumgya ("Hundred Hundred-Thousand"). That prince later became a king of great power and merit. ^1-26
 
 ### 25. Protection from the Fear of Fire (Kongpo)
 
@@ -134,13 +134,13 @@ Long ago, in the region of Kongpo in eastern Tibet, there was a family who took 
 
 Also, a monk from eastern Tibet was afflicted by illness, and though he relied on many physicians, no cure was found. His condition worsened day by day. One night he dreamed that, overwhelmed by his sickness, he was being swept away by a great river; at his wits' end, a woman with a long arm reached out and drew him from the water, saying, "With my right hand I say Oṃ Tāre, and with my left I say Tuttāre," and so pulled him from the river. The next day his illness began, of its own accord, gradually to improve, and he later understood this to have been the blessing of Tārā.
 
-### 27. Protection from the Suffering of Being without a Companion
+### 27. Protection from the Suffering of Being without a Companion ^1-27-0
 
-Long ago a woman sought a husband for a long time but could not find one, and, overcome with grief, she one day consulted a diviner skilled in reading omens. He told her, "With one-pointed faith and confidence in Tārā, pray to her and recite her mantra a hundred thousand times, and your wish will be fulfilled." Without any doubt, she prayed to Tārā and performed the recitations, and afterward, it is said, she obtained a companion as she had wished. She later told other companions of her experience, and it is said that through this, those without husbands obtained husbands, and those without sons obtained sons.
+Long ago a woman sought a husband for a long time but could not find one, and, overcome with grief, she one day consulted a diviner skilled in reading omens. He told her, "With one-pointed faith and confidence in Tārā, pray to her and recite her mantra a hundred thousand times, and your wish will be fulfilled." Without any doubt, she prayed to Tārā and performed the recitations, and afterward, it is said, she obtained a companion as she had wished. She later told other companions of her experience, and it is said that through this, those without husbands obtained husbands, and those without sons obtained sons. ^1-29
 
-### 28. Protection from the Fear of Water, through a Turtle
+### 28. Protection from the Fear of Water, through a Turtle ^1-28-0
 
-Long ago a merchant from India sailed beyond the ocean to obtain goods for trade, and on the way his ship broke apart, casting him into the water. As he was drowning, he prayed to Tārā, and the Noble Lady herself, emanating as a beautiful white turtle, spoke to him in a human voice, saying, "Being tormented by suffering, I shall save you." Mounting him upon its back, it carried him to dry land, freeing him from the danger of the water.
+Long ago a merchant from India sailed beyond the ocean to obtain goods for trade, and on the way his ship broke apart, casting him into the water. As he was drowning, he prayed to Tārā, and the Noble Lady herself, emanating as a beautiful white turtle, spoke to him in a human voice, saying, "Being tormented by suffering, I shall save you." Mounting him upon its back, it carried him to dry land, freeing him from the danger of the water. ^1-30
 
 ## Colophon
 
