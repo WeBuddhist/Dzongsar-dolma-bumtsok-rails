@@ -1,0 +1,795 @@
+[
+ {
+  "ids": [
+   "1-1",
+   "1-2",
+   "1-3"
+  ],
+  "tibetan_line": 13,
+  "tibetan_following_text": "འདི་ལ་འདིར་དུས་གསུམ་རྒྱལ་བ་ཀུན་གྱི་ཕྲིན་",
+  "english_line": 40,
+  "english_anchor": "This sadhana of Queen Mother Arya Tara, the embodiment of th",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-4"
+  ],
+  "tibetan_line": 46,
+  "tibetan_following_text": "རྫས་ནི། གནས་གཙང་ཞིང་ཡིད་དུ་འོང་བར་བྱི་དོ",
+  "english_line": 70,
+  "english_anchor": "Clean your place of practice and make it pleasant. At first,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-5"
+  ],
+  "tibetan_line": 50,
+  "tibetan_following_text": "དེ་བཞིན་མཆོད་པའི་དངོས་པོ་གདུགས་དང་། རྒྱལ",
+  "english_line": 76,
+  "english_anchor": "First you go for refuge with a single-minded attitude of fai",
+  "confidence": "medium",
+  "note": "Tibetan line after the group opens with the parasol/banners sentence, which the English merges into the end of the Materials paragraph (line 70); anchored on the first English line wholly within the following Tibetan passage (refuge). The English quotation of ^1-5 itself is line 78."
+ },
+ {
+  "ids": [
+   "1-6",
+   "1-7"
+  ],
+  "tibetan_line": 60,
+  "tibetan_following_text": "ན་མོ།  དཀོན་མཆོག་ཀུན་དངོས་རྗེ་བཙུན་མར། །",
+  "english_line": 84,
+  "english_anchor": "Namo! I and all sentient beings go for refuge",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-8",
+   "1-9"
+  ],
+  "tibetan_line": 76,
+  "tibetan_following_text": "དང་པོ་ཕྱག་འཚལ་བའི་ཡན་ལག་ནི།",
+  "english_line": 102,
+  "english_anchor": "With total faith I pay homage",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-10"
+  ],
+  "tibetan_line": 88,
+  "tibetan_following_text": "གཉིས་པ་མཆོད་པ་འབུལ་བའི་ཡན་ལག་ནི།",
+  "english_line": 111,
+  "english_anchor": "I make offerings, real and mental,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-11"
+  ],
+  "tibetan_line": 99,
+  "tibetan_following_text": "གསུམ་པ་བཤགས་པའི་ཡན་ལག་ནི།",
+  "english_line": 120,
+  "english_anchor": "I confess all misdeeds I have done,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-12"
+  ],
+  "tibetan_line": 110,
+  "tibetan_following_text": "བཞི་པ་རྗེས་སུ་ཡི་རང་གི་ཡན་ལག་ནི།",
+  "english_line": 129,
+  "english_anchor": "I rejoice in all merits and virtues",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-13"
+  ],
+  "tibetan_line": 128,
+  "tibetan_following_text": "ལྔ་པ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བར་གསོལ་བ་འདེ",
+  "english_line": 148,
+  "english_anchor": "In accordance with the different minds",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-14"
+  ],
+  "tibetan_line": 139,
+  "tibetan_following_text": "འཁོར་བ་ཇི་སྲིད་མ་སྟོང་བར། །",
+  "english_line": 157,
+  "english_anchor": "I beseech you, do not pass into",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-15"
+  ],
+  "tibetan_line": 148,
+  "tibetan_following_text": "བདག་གི་བསོད་ནམས་ཅི་བསགས་པ། །",
+  "english_line": 166,
+  "english_anchor": "May whatever merit I have gathered",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-16",
+   "1-17",
+   "1-18",
+   "1-19"
+  ],
+  "tibetan_line": 157,
+  "tibetan_following_text": "ཞེས་ཚོགས་བསགས་ཡན་ལག་བདུན་པ་གྲུབ་ནས། མཆོད",
+  "english_line": 175,
+  "english_anchor": "After completing the accumulations through the seven-branch ",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-20",
+   "1-21",
+   "1-22"
+  ],
+  "tibetan_line": 164,
+  "tibetan_following_text": "གནས་ཡུལ་པདྨོ་བཀོད་པའི་ཞིང་། །",
+  "english_line": 187,
+  "english_anchor": "This place becomes the Lotus Arrangement Field",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-23",
+   "1-24"
+  ],
+  "tibetan_line": 175,
+  "tibetan_following_text": "མཎྜལ་བཞི་འབུལ་བའི་ཐོག་མར་དཀོན་མཆོག་སྤྱི་",
+  "english_line": 205,
+  "english_anchor": "At the beginning of offering the four mandalas, you offer th",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-25",
+   "1-26"
+  ],
+  "tibetan_line": 180,
+  "tibetan_following_text": "མ་ལུས་སེམས་ཅན་ཀུན་གྱི་མགོན་གྱུར་ཅིང་། །",
+  "english_line": 212,
+  "english_anchor": "Protectors of all sentient beings without exception,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-27",
+   "1-28"
+  ],
+  "tibetan_line": 190,
+  "tibetan_following_text": "ཇི་སྙེད་སུ་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །",
+  "english_line": 223,
+  "english_anchor": "With purity in body, speech and mind",
+  "confidence": "high",
+  "note": "English \"First you pay homage:\" (221) translates the end of the Tibetan line before the group."
+ },
+ {
+  "ids": [
+   "1-29"
+  ],
+  "tibetan_line": 201,
+  "tibetan_following_text": "བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་སྟོབས་དག་གིས། །",
+  "english_line": 232,
+  "english_anchor": "By virtue of my aspiration to good conduct,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-30"
+  ],
+  "tibetan_line": 210,
+  "tibetan_following_text": "རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་སངས་རྒྱས་རྣམས",
+  "english_line": 241,
+  "english_anchor": "I imagine the assembled buddhas,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-31"
+  ],
+  "tibetan_line": 219,
+  "tibetan_following_text": "དེ་དག་བསྔགས་པ་མི་ཟད་རྒྱ་མཚོ་རྣམས། །",
+  "english_line": 250,
+  "english_anchor": "I proclaim the conquerors' qualities",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-32",
+   "1-33"
+  ],
+  "tibetan_line": 228,
+  "tibetan_following_text": "གཉིས་པ་མཆོད་པ་ལ་གཉིས་བླ་ན་ཡོད་པའི་མཆོད་པ",
+  "english_line": 257,
+  "english_anchor": "The second branch, offering, has two aspects: ordinary offer",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-34"
+  ],
+  "tibetan_line": 246,
+  "tibetan_following_text": "གཉིས་པ་བླ་ན་མེད་པའི་མཆོད་པ་ནི།",
+  "english_line": 271,
+  "english_anchor": "Then, concerning the extraordinary offering, it says:",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-35"
+  ],
+  "tibetan_line": 257,
+  "tibetan_following_text": "གསུམ་པ་སྡིག་པ་བཤགས་པ་ནི།",
+  "english_line": 280,
+  "english_anchor": "The third branch concerns the confession of misdeeds:",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-36"
+  ],
+  "tibetan_line": 268,
+  "tibetan_following_text": "བཞི་པ་རྗེས་སུ་ཡི་རང་ནི།",
+  "english_line": 289,
+  "english_anchor": "The fourth branch is rejoicing:",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-37"
+  ],
+  "tibetan_line": 279,
+  "tibetan_following_text": "ལྔ་པ་ཆོས་འཁོར་བསྐོར་བར་གསོལ་བ་འདེབས་པ་ནི",
+  "english_line": 298,
+  "english_anchor": "The fifth branch is the request to turn the wheel of Dharma:",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-38"
+  ],
+  "tibetan_line": 290,
+  "tibetan_following_text": "དྲུག་པ་མྱ་ངན་ལས་མི་འདའ་བར་གསོལ་བ་འདེབས་པ",
+  "english_line": 307,
+  "english_anchor": "The sixth branch is praying to the buddhas not to pass into ",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-39",
+   "1-40"
+  ],
+  "tibetan_line": 301,
+  "tibetan_following_text": "བདུན་པ་བསྔོ་བ་ནི།",
+  "english_line": 316,
+  "english_anchor": "The seventh and final branch is dedication:",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-41",
+   "1-42"
+  ],
+  "tibetan_line": 315,
+  "tibetan_following_text": "བདག་དང་མཐའ་ཡས་སེམས་ཅན་གྱི། །",
+  "english_line": 333,
+  "english_anchor": "I and sentient beings without count,",
+  "confidence": "high",
+  "note": "OM AH HUNG (^1-41) is already quoted in English at line 329, before the anchor, mirroring the Tibetan where the blessing mention precedes the group."
+ },
+ {
+  "ids": [
+   "1-43",
+   "1-44"
+  ],
+  "tibetan_line": 336,
+  "tibetan_following_text": "ༀ་གུ་རུ་དེ་ཝ་ཌཱ་ཀིནཱི་སརྦ་རཏྣ་མཎྜལ་པཱུ་ཛ",
+  "english_line": 355,
+  "english_anchor": "OM GÜRÜ DEWA DAKINI SARWA RATNA MANDALA PÜDZA MEGHA AH HÜNG",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-45",
+   "1-46",
+   "1-47",
+   "1-48",
+   "1-49"
+  ],
+  "tibetan_line": 343,
+  "tibetan_following_text": "སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་དང་། །",
+  "english_line": 361,
+  "english_anchor": "NAMO",
+  "confidence": "high",
+  "note": "Anchored on English \"NAMO\" (361) so the verse quotation stays intact; the Tibetan following line starts with the verse body (English 362)."
+ },
+ {
+  "ids": [
+   "1-50"
+  ],
+  "tibetan_line": 370,
+  "tibetan_following_text": "དེ་ནས་བྱེ་བྲག་རྗེ་བཙུན་སྒྲོལ་མ་ལ་མཎྜལ་དང",
+  "english_line": 383,
+  "english_anchor": "Then you make the three mandala offerings to Holy Tara and r",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-51",
+   "1-52"
+  ],
+  "tibetan_line": 378,
+  "tibetan_following_text": "རང་ཉིད་སྐད་ཅིག་དྲན་རྫོགས་སུ། །",
+  "english_line": 387,
+  "english_anchor": "Instantly upon recalling I",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-53"
+  ],
+  "tibetan_line": 391,
+  "tibetan_following_text": "ཏཱཾ།",
+  "english_line": 399,
+  "english_anchor": "TAM",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-54",
+   "1-55"
+  ],
+  "tibetan_line": 401,
+  "tibetan_following_text": "བདག་དང་འགྲོ་ལ་ཐུགས་བརྩེའི་ཕྱིར། །",
+  "english_line": 409,
+  "english_anchor": "Out of love for me and wanderers",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-56",
+   "1-57",
+   "1-58"
+  ],
+  "tibetan_line": 411,
+  "tibetan_following_text": "དངོས་འབྱོར་ཡིད་ལས་བྱུང་བ་ཡི། །",
+  "english_line": 421,
+  "english_anchor": "OM",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-59",
+   "1-60",
+   "1-61"
+  ],
+  "tibetan_line": 424,
+  "tibetan_following_text": "བྱེ་བྲག་མཎྜལ་འབུལ་བ་ནི།",
+  "english_line": 434,
+  "english_anchor": "OM AH HÜNG",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-62",
+   "1-63",
+   "1-64",
+   "1-65",
+   "1-66",
+   "1-67",
+   "1-68",
+   "1-69",
+   "1-70",
+   "1-71",
+   "1-72",
+   "1-73",
+   "1-74",
+   "1-75",
+   "1-76",
+   "1-77",
+   "1-78",
+   "1-79",
+   "1-80",
+   "1-81",
+   "1-82",
+   "1-83",
+   "1-84",
+   "1-85",
+   "1-86",
+   "1-87",
+   "1-88",
+   "1-89",
+   "1-90",
+   "1-91",
+   "1-92",
+   "1-93",
+   "1-94"
+  ],
+  "tibetan_line": 440,
+  "tibetan_following_text": "ཕྱག་གཡས་མཆོག་སྦྱིན་ཕྱག་རྒྱ་ཉིད། །",
+  "english_line": 445,
+  "english_anchor": "Her right hand, in the supreme giving mudra,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-95",
+   "1-96",
+   "1-97",
+   "1-98",
+   "1-99",
+   "1-100",
+   "1-101",
+   "1-102",
+   "1-103",
+   "1-104",
+   "1-105",
+   "1-106",
+   "1-107",
+   "1-108",
+   "1-109",
+   "1-110",
+   "1-111",
+   "1-112",
+   "1-113",
+   "1-114",
+   "1-115",
+   "1-116",
+   "1-117",
+   "1-118",
+   "1-119",
+   "1-120",
+   "1-121",
+   "1-122",
+   "1-123",
+   "1-124",
+   "1-125",
+   "1-126",
+   "1-127",
+   "1-128"
+  ],
+  "tibetan_line": 481,
+  "tibetan_following_text": "སྐུ་ལས་བདུད་རྩི་ཆུ་རྒྱུན་བབས། །",
+  "english_line": 454,
+  "english_anchor": "A stream of nectar flows down from her body,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-129",
+   "1-130",
+   "1-131",
+   "1-132",
+   "1-133",
+   "1-134",
+   "1-135",
+   "1-136",
+   "1-137",
+   "1-138",
+   "1-139",
+   "1-140",
+   "1-141",
+   "1-142",
+   "1-143",
+   "1-144",
+   "1-145",
+   "1-146",
+   "1-147",
+   "1-148",
+   "1-149",
+   "1-150",
+   "1-151",
+   "1-152",
+   "1-153",
+   "1-154",
+   "1-155",
+   "1-156",
+   "1-157",
+   "1-158",
+   "1-159",
+   "1-160",
+   "1-161"
+  ],
+  "tibetan_line": 523,
+  "tibetan_following_text": "སྒྲོལ་བསྟོད་ཕྱག་འཚལ་ཉེར་གཅིག་ཚར་བདུན་བརྗ",
+  "english_line": 463,
+  "english_anchor": "The learned who respect the goddess fully",
+  "confidence": "medium",
+  "note": "Tibetan follows the group with a one-line instruction (recite seven times with the benefits verses, then torma) and has NO commentary on the benefit verses; the English section 2.9 (lines 461-496) quotes and comments on the benefits (^1-155..160) with no Tibetan counterpart here. Anchored before the English benefit-verse quotation (463); the torma half of the Tibetan line corresponds to English 500."
+ },
+ {
+  "ids": [
+   "1-162",
+   "1-163",
+   "1-164",
+   "1-165",
+   "1-166"
+  ],
+  "tibetan_line": 559,
+  "tibetan_following_text": "ཨོཾ་བཛྲ་ཨ་མྲྀ་ཏ་ཀུནྜ་ཧ་ན་ཧ་ན་ཧཱུྃ་ཕཊ། ཞེ",
+  "english_line": 502,
+  "english_anchor": "OM BENZA AMRITA KÜNDALI HANA HANA HÜNG PET",
+  "confidence": "high",
+  "note": "English 500 (\"Next, sprinkle the torma...\") translates the end of the Tibetan line before the group; anchored on the mantra that opens the Tibetan line after it."
+ },
+ {
+  "ids": [
+   "1-167",
+   "1-168",
+   "1-169",
+   "1-170",
+   "1-171",
+   "1-172",
+   "1-173"
+  ],
+  "tibetan_line": 567,
+  "tibetan_following_text": "སྟོང་པའི་ངང་ལས་ཨོཾ་ཡིག་ལས། །",
+  "english_line": 510,
+  "english_anchor": "From emptiness's state the letter OM,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-174",
+   "1-175",
+   "1-176",
+   "1-177"
+  ],
+  "tibetan_line": 582,
+  "tibetan_following_text": "ༀ་མཆོད་སྦྱིན་གཏོར་མ་དམ་པ་འདི། །",
+  "english_line": 530,
+  "english_anchor": "OM",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-178"
+  ],
+  "tibetan_line": 594,
+  "tibetan_following_text": "ཨོཾ་སྣང་བ་མཐའ་ཡས་པདྨའི་རིགས། །",
+  "english_line": 548,
+  "english_anchor": "OM",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-179",
+   "1-180",
+   "1-181"
+  ],
+  "tibetan_line": 603,
+  "tibetan_following_text": "བསྟོད་པར་འོས་པ་ཐམས་ཅད་ལ། །",
+  "english_line": 556,
+  "english_anchor": "I give praise with utmost faith",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-182"
+  ],
+  "tibetan_line": 614,
+  "tibetan_following_text": "རྗེ་བཙུན་འཕགས་མ་འཁོར་དང་བཅས། །",
+  "english_line": 567,
+  "english_anchor": "Holy Tara with your retinue,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-183"
+  ],
+  "tibetan_line": 623,
+  "tibetan_following_text": "སངས་རྒྱས་བསྟན་པ་དར་ཞིང་རྒྱས། །",
+  "english_line": 576,
+  "english_anchor": "May Buddha's teaching grow and spread, its holders",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-184"
+  ],
+  "tibetan_line": 632,
+  "tibetan_following_text": "ནད་མུག་འཁྲུགས་རྩོད་ཞི་བ་དང་། །",
+  "english_line": 585,
+  "english_anchor": "May sickness, famine, war, and strife be quelled,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-185"
+  ],
+  "tibetan_line": 641,
+  "tibetan_following_text": "འཇིགས་པ་བཅུ་དྲུག་དུས་མིན་འཆི། །",
+  "english_line": 595,
+  "english_anchor": "Protect me from all horrors present and future,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-186"
+  ],
+  "tibetan_line": 650,
+  "tibetan_following_text": "ཚེ་བསོད་དབང་ཐང་ཉམས་རྟོགས་འཕེལ། །",
+  "english_line": 604,
+  "english_anchor": "May long life, merit, power, and experience",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-187",
+   "1-188"
+  ],
+  "tibetan_line": 659,
+  "tibetan_following_text": "འདི་ནས་བྱང་ཆུབ་སྙིང་པོའི་བར། །",
+  "english_line": 613,
+  "english_anchor": "From now until the essence of enlightenment,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-189"
+  ],
+  "tibetan_line": 669,
+  "tibetan_following_text": "མདུན་བསྐྱེད་འོད་ཞུ་རང་ལ་ཐིམ། །",
+  "english_line": 622,
+  "english_anchor": "The image before me melts to light, then into",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-190",
+   "1-191"
+  ],
+  "tibetan_line": 678,
+  "tibetan_following_text": "སྔགས་ཀྱི་དོན་ནི།",
+  "english_line": 631,
+  "english_anchor": "This, the root mantra of Tara, is the queen of all awareness",
+  "confidence": "medium",
+  "note": "Tibetan following line is \"The meaning of the mantra:\"; English line 631 begins with the \"queen of all awareness mantras\" sentence that belongs to the Tibetan line before the group, then continues with the meaning. The English also renders the two quoted verses (OM / SVAHA) as prose within 631."
+ },
+ {
+  "ids": [
+   "1-192",
+   "1-193",
+   "1-194"
+  ],
+  "tibetan_line": 700,
+  "tibetan_following_text": "མཐར་ཆོ་ག་དང་སྔགས་དང་ཏིང་འཛིན་གྱི་ལྷག་ཆད་",
+  "english_line": 637,
+  "english_anchor": "At the end, to confess the faults of adding to or omitting a",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-195"
+  ],
+  "tibetan_line": 706,
+  "tibetan_following_text": "མ་རྙེད་ཡོངས་སུ་མ་ཚང་དང་། །",
+  "english_line": 639,
+  "english_anchor": "Whatever I did not find or totally",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-196",
+   "1-197",
+   "1-198"
+  ],
+  "tibetan_line": 715,
+  "tibetan_following_text": "ཨོཾ་ཁྱེད་ཀྱི་སེམས་ཅན་དོན་ཀུན་མཛད། །",
+  "english_line": 650,
+  "english_anchor": "OM",
+  "confidence": "medium",
+  "note": "Tibetan does not quote the remain-in-support verse (^1-196/197); it only says \"if there is a support, dissolve into it; if not, request departure\" then the group, then the departure verse (English 659-660). The English inserts a quotation of ^1-196/197 at 650-655, so the group is anchored there (after \"...imagine that she is present in this support and say:\")."
+ },
+ {
+  "ids": [
+   "1-199",
+   "1-200"
+  ],
+  "tibetan_line": 727,
+  "tibetan_following_text": "ལྷ་དང་རང་སེམས་དབྱེར་མེད་པ། །",
+  "english_line": 675,
+  "english_anchor": "I remain in the authentic state, the dharma sphere,",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-201",
+   "1-202"
+  ],
+  "tibetan_line": 735,
+  "tibetan_following_text": "བསྔོ་སྨོན་ནི།",
+  "english_line": 682,
+  "english_anchor": "By this virtue, may I fast",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-203",
+   "1-204"
+  ],
+  "tibetan_line": 746,
+  "tibetan_following_text": "ཡིད་བཞིན་ནོར་བུ་དང་བུམ་པ་བཟང་པོ་ལྟར། །",
+  "english_line": 691,
+  "english_anchor": "May we be fortunate to never part",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "ids": [
+   "1-205",
+   "1-206",
+   "1-207",
+   "1-208",
+   "1-209",
+   "1-210",
+   "1-211",
+   "1-212",
+   "1-213"
+  ],
+  "tibetan_line": 756,
+  "tibetan_following_text": "དེ་ཡང་ཨྱོན་ཆེན་པོས། ལྟ་བ་ལུང་རིགས་དང་འབྲ",
+  "english_line": 699,
+  "english_anchor": "In addition, the Great Master of Uddiyana said, “The view re",
+  "confidence": "high",
+  "note": ""
+ }
+]

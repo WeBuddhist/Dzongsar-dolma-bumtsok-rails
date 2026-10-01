@@ -43,9 +43,10 @@ edition_type: critical
 root_text: 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md
 make_available: Dzongsar Institute
 source_description: "Chinese translation (Traditional characters) of the compiled anthology whose Tibetan root is 1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md, block-aligned to it by block ID. Translator not recorded in the file."
-text_id:
-edition_id:
-toc_id:
+text_id: 0p3GTH3UR8tOnIZpyxN9L
+edition_id: 1gfClgjnPh1FMN5g8bqHa
+toc_id: bIN4OJZmG2ltECeujVdmy
+aligned_to_edition_id: Zt5c0fe1OMJI1Kh8rp2FM
 ---
 ![[1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག.md#^0]]
 
