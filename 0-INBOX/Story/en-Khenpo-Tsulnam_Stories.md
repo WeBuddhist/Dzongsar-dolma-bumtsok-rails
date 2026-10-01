@@ -32,7 +32,7 @@ Long ago in India, a man of royal caste was sleeping in a pleasure grove when he
 
 ### 2. Protection from the Fear of Lions
 
-Long ago, in a certain region of India, a woodcutter went deep into a forest to gather wood. There he came upon a hungry lioness, who seized him in her mouth and began carrying him toward her den. As she neared it, he prayed one-pointedly to Tārā. At once a woman clad in leaves appeared before him, drew him from the lion's mouth, and set him down safely in the marketplace of a town.
+Long ago, in a certain region of India, a woodcutter went deep into a forest to gather wood. There he came upon a hungry lioness, who seized him in her mouth and began carrying him toward her den. As she neared it, he prayed one-pointedly to Tārā. At once a woman clad in leaves appeared before him, drew him from the lion's mouth, and set him down safely in the marketplace of a town. ^1-2
 
 ### 3. Protection from the Fear of Elephants ^1-3-0
 
@@ -64,7 +64,7 @@ Long ago a great assembly of monks lived in a certain monastery. Once, several m
 
 ### 10. Protection from the Fear of Leprosy
 
-Long ago a brahmin teacher fell ill with leprosy. The disease spread to many of his fellow brahmins, and once they too had contracted it, all his friends and even the physicians abandoned him, so that he had to wander about begging. On the road he saw a stone image of Jetsün Tārā, and faith arose in him; he prayed to her. From the hand of the stone image there then flowed a continuous stream of medicinal nectar; the sick who drank of it and bathed in it were freed from the disease, their bodies becoming even more beautiful than before.
+Long ago a brahmin teacher fell ill with leprosy. The disease spread to many of his fellow brahmins, and once they too had contracted it, all his friends and even the physicians abandoned him, so that he had to wander about begging. On the road he saw a stone image of Jetsün Tārā, and faith arose in him; he prayed to her. From the hand of the stone image there then flowed a continuous stream of medicinal nectar; the sick who drank of it and bathed in it were freed from the disease, their bodies becoming even more beautiful than before. ^1-10
 
 ### 11. Protection from the Fear of Possession by Spirits ^1-11-0
 
@@ -94,7 +94,7 @@ Some fainted outright and fled despite the king's reproach and threats of punish
 
 ### 17. Protection from the Fear of Rivers
 
-Two men from the land of Nepal, while fording a river, were swept away by the powerful current. One of them prayed to Tārā, whereupon a wild man — an emanation of the Mother — threw a great tree trunk into the water. The man caught hold of it and, relying on it, was freed from the water.
+Two men from the land of Nepal, while fording a river, were swept away by the powerful current. One of them prayed to Tārā, whereupon a wild man — an emanation of the Mother — threw a great tree trunk into the water. The man caught hold of it and, relying on it, was freed from the water. ^1-18
 
 ### 18. Protection from the Fear of Epidemic Disease ^1-18-0
 
@@ -110,9 +110,9 @@ Long ago, in a certain district, there was a bridge over a river that had become
 
 ### 21. Protection from the Fear of Tigers ^1-21-0
 
-Also, long ago in Tibet, an old man who constantly took Tārā as his yidam deity was swept away by a river. He prayed to Tārā, and a wave carried him to the far side, to a narrow gorge in the rock, where he came upon a cave in the cliff face. But behind him and on either side were sheer rock walls, and before him the river, so he could find no way of escape. The cave turned out to be a tiger's den, and seeing this he was terrified, and prayed one-pointedly to Tārā. Jetsün Tārā blessed the tigers, so that they not only did him no harm but, out of affection, licked him with their tongues and wound their tails around his body.
+Also, long ago in Tibet, an old man who constantly took Tārā as his yidam deity was swept away by a river. He prayed to Tārā, and a wave carried him to the far side, to a narrow gorge in the rock, where he came upon a cave in the cliff face. But behind him and on either side were sheer rock walls, and before him the river, so he could find no way of escape. The cave turned out to be a tiger's den, and seeing this he was terrified, and prayed one-pointedly to Tārā. Jetsün Tārā blessed the tigers, so that they not only did him no harm but, out of affection, licked him with their tongues and wound their tails around his body. ^1-22
 
-The man's courage grew, and he again prayed to be freed from the cave, but for a time he was not. Growing hungry, he ate meat the tigers brought and left for him. After a long while, the cubs grew large and, one by one, leapt across the river to the far mountainside. Then the father tiger too departed, and the man, fearing he would starve without the tigers and not knowing what to do, saw that the mother tigress was also preparing to leave. He then prayed one-pointedly to Jetsün Tārā, closed his eyes, mounted the tigress, grasped her by the scruff of the neck, and urged her on. The tigress leapt across, and he arrived safely on the far mountainside.
+The man's courage grew, and he again prayed to be freed from the cave, but for a time he was not. Growing hungry, he ate meat the tigers brought and left for him. After a long while, the cubs grew large and, one by one, leapt across the river to the far mountainside. Then the father tiger too departed, and the man, fearing he would starve without the tigers and not knowing what to do, saw that the mother tigress was also preparing to leave. He then prayed one-pointedly to Jetsün Tārā, closed his eyes, mounted the tigress, grasped her by the scruff of the neck, and urged her on. The tigress leapt across, and he arrived safely on the far mountainside. ^1-23
 
 ### 22. Protection of a Parrot from the Fear of a Hawk ^1-22-0
 
@@ -128,11 +128,11 @@ Long ago a king took a queen, but though much time passed, no son was born to he
 
 ### 25. Protection from the Fear of Fire (Kongpo)
 
-Long ago, in the region of Kongpo in eastern Tibet, there was a family who took Tārā as their principal yidam deity. One day an evil spirit created an obstacle, and their house caught fire. Though the household tried to flee, they could not escape, and as the flames drew near, the whole family prayed one-pointedly to Tārā, weeping and crying out in anguish. There, appearing like the moon reflected in water, the Noble Jetsün herself appeared in the sky above them, and from her body fell a continuous rain of nectar, which extinguished the fire — so that not only was no one in the household harmed by the flames, but they also beheld the very face of Tārā.
+Long ago, in the region of Kongpo in eastern Tibet, there was a family who took Tārā as their principal yidam deity. One day an evil spirit created an obstacle, and their house caught fire. Though the household tried to flee, they could not escape, and as the flames drew near, the whole family prayed one-pointedly to Tārā, weeping and crying out in anguish. There, appearing like the moon reflected in water, the Noble Jetsün herself appeared in the sky above them, and from her body fell a continuous rain of nectar, which extinguished the fire — so that not only was no one in the household harmed by the flames, but they also beheld the very face of Tārā. ^1-27
 
 ### 26. Protection from the Fear of Illness
 
-Also, a monk from eastern Tibet was afflicted by illness, and though he relied on many physicians, no cure was found. His condition worsened day by day. One night he dreamed that, overwhelmed by his sickness, he was being swept away by a great river; at his wits' end, a woman with a long arm reached out and drew him from the water, saying, "With my right hand I say Oṃ Tāre, and with my left I say Tuttāre," and so pulled him from the river. The next day his illness began, of its own accord, gradually to improve, and he later understood this to have been the blessing of Tārā.
+Also, a monk from eastern Tibet was afflicted by illness, and though he relied on many physicians, no cure was found. His condition worsened day by day. One night he dreamed that, overwhelmed by his sickness, he was being swept away by a great river; at his wits' end, a woman with a long arm reached out and drew him from the water, saying, "With my right hand I say Oṃ Tāre, and with my left I say Tuttāre," and so pulled him from the river. The next day his illness began, of its own accord, gradually to improve, and he later understood this to have been the blessing of Tārā. ^1-28
 
 ### 27. Protection from the Suffering of Being without a Companion ^1-27-0
 
@@ -144,4 +144,4 @@ Long ago a merchant from India sailed beyond the ocean to obtain goods for trade
 
 ## Colophon
 
-Such stories of Tārā dispelling obstacles and granting accomplishments are exceedingly many, but here, in order to increase faith and confidence, I — whose name bears both "Khen" and "Tsul" [Khenpo Tsultrim Namdak] — have gathered together only a few reliable examples drawn from the words of authoritative and holy masters, and set them down in writing. May all beings never stray from the enclosure of Ārya Tārā's protection, and, granted the gift of refuge from fear both in this present life and ultimately, find relief; and may the white light of the blessings of the Jetsün Ārya Tārā pervade the three realms.
+Such stories of Tārā dispelling obstacles and granting accomplishments are exceedingly many, but here, in order to increase faith and confidence, I — whose name bears both "Khen" and "Tsul" [Khenpo Tsultrim Namdak] — have gathered together only a few reliable examples drawn from the words of authoritative and holy masters, and set them down in writing. May all beings never stray from the enclosure of Ārya Tārā's protection, and, granted the gift of refuge from fear both in this present life and ultimately, find relief; and may the white light of the blessings of the Jetsün Ārya Tārā pervade the three realms. ^1-31

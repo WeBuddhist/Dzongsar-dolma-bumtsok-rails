@@ -31,4 +31,6 @@ Tara the Radiant, Treasury of Wisdom
 
 ![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-21-0]]
 
-![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-21]]
+![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-22]]
+
+![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-23]]

@@ -6,6 +6,7 @@
       {
         "id": "c9b13394811e30b8",
         "type": "tabs",
+        "dimension": 52.27272727272727,
         "children": [
           {
             "id": "c0388252e40afe72",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-1 Tara Plan.md",
+                "file": "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-3 Tara Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-1 Tara Plan"
+              "title": "Day-3 Tara Plan"
             }
           },
           {
@@ -35,12 +36,12 @@
               "title": "zh-Khenpo-Tsulnam_Stories"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f7203888faa058cb",
         "type": "tabs",
+        "dimension": 47.72727272727273,
         "children": [
           {
             "id": "eacf2c6fb257dd82",
@@ -233,35 +234,35 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1928f57411f1c511",
+  "active": "c0388252e40afe72",
   "lastOpenFiles": [
+    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-2 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-2 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-2 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-1 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-21 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-18 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-20 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-3 Tara Plan.md",
+    "0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-1 Tara Plan.md",
     "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
     "3-SKILLS/tara-plan-creator/sedHAe2Ww",
     "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-21 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-21 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-21 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-20 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-20 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-20 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-19 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-19 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-19 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-18 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-18 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-18 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-17 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-17 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-17 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-16 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-16 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-16 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-15 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-15 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-15 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-14 Tara Plan.md",
-    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-14 Tara Plan.md",
     "3-SKILLS/yigchung-upload/scripts/output/Hi-Tārā’s_Profound_Essence.yigchungs.json",
     "0-INBOX/temp/edition-spacing-fix/En-Tārā’s_Profound_Essence.toc-e5Ovlr4L4JSHpxXvjfMRK.rebuilt-2026-09-30T144204.json",
     "0-INBOX/temp/edition-spacing-fix/En-Tārā’s_Profound_Essence.toc-e5Ovlr4L4JSHpxXvjfMRK.backup-2026-09-30T144204.json",
