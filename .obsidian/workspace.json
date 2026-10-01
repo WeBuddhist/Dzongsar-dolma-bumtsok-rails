@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/21-Drolma-Introductions/21 Tara of Rays of Light (Chinese).md",
+                "file": "1-SOURCES/Translations/Zh-Tārā’s_Profound_Essence_Transliteration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 Tara of Rays of Light (Chinese)"
+              "title": "Zh-Tārā’s_Profound_Essence_Transliteration"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "2b2b8c3d4ba52484",
   "lastOpenFiles": [
+    "0-INBOX/21-Drolma-Introductions/21 Tara of Rays of Light (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/21 Tara of Rays of Light (Tibetan).md",
     "0-INBOX/21-Drolma-Introductions/20 Tara Clad in Leaves of the Mountain Retreat (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/19 Tara Unconquerable, Full of Splendor (Chinese).md",
@@ -224,7 +225,6 @@
     "0-INBOX/21-Drolma-Introductions/05 Tara Who Roars with HUM (English).md",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "conflict-files-obsidian-git.md",
-    "4-SYSTEM/scripts/parser-commentary/README.md",
     "4-SYSTEM/scripts/parser-commentary/parser.py",
     "4-SYSTEM/scripts/linter-commentary/lookup.py",
     "4-SYSTEM/scripts/linter-commentary/validate.py",
