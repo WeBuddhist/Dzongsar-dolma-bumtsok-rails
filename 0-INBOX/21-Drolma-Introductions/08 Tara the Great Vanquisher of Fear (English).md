@@ -1,7 +1,11 @@
 Tara the Great Vanquisher of Fear
 སྒྲོལ་མ་འཇིགས་པ་ཆེན་མོ།
 
-The eighth of the twenty-one is invoked through the seed-syllable TURE, praised in the root verse as swift as a bolt of lightning — an echo of the very first Tara's speed, but turned here toward a specific and formidable task: the destruction of the armies of the four maras, the classical personifications of everything that obstructs awakening, from death itself to the distractions and delusions of an ordinary mind.
+**Name** : Tara the Great Vanquisher of Fear
+**Mantra** : oṃ tāre tuttāre ture sarva māra śatrūn māraya phaṭ svāhā
+**Accomplishment** : Slaying enemies
+
+Those who wish to slay enemies should rely on Tara the Great Vanquisher of Fear. The eighth of the twenty-one is invoked through the seed-syllable TURE, praised in the root verse as swift as a bolt of lightning — an echo of the very first Tara's speed, but turned here toward a specific and formidable task: the destruction of the armies of the four maras, the classical personifications of everything that obstructs awakening, from death itself to the distractions and delusions of an ordinary mind.
 
 Her face is described as wrathful even as it takes the shape of a lotus, a striking pairing that captures something essential about her: ferocity in the service of liberation rather than aggression for its own sake. The commentaries offer two different traditions for her body — one golden with four arms, another red-black with two — but both agree on her essential function, which is to slay every enemy without exception, understood here not as external foes but as the inner and outer obscurations that keep beings bound.
 

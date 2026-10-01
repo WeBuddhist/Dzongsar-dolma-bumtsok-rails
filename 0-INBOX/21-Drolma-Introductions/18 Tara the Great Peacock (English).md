@@ -1,7 +1,11 @@
 Tara the Great Peacock
 སྒྲོལ་མ་རྨ་བྱ་ཆེན་མོ།
 
-The eighteenth of the twenty-one takes her most vivid name from the peacock, an animal long celebrated across Indian and Tibetan tradition for a startling ability: to eat poisonous plants and thrive on them, transforming venom into the brilliant color of its own feathers. She is praised through the syllables TARA, repeated, and PHAT, said to dispel every kind of poison, whether already moving through the body or still lying dormant and unstirred.
+**Name** : Tara the Great Peacock
+**Mantra** : oṃ tāre tuttāre ture nāga viṣa śintaṃ kuru svāhā
+**Accomplishment** : Pacifying the poisons of the nagas
+
+Those who wish to pacify the poisons of the nagas should rely on Tara the Great Peacock. The eighteenth of the twenty-one takes her most vivid name from the peacock, an animal long celebrated across Indian and Tibetan tradition for a startling ability: to eat poisonous plants and thrive on them, transforming venom into the brilliant color of its own feathers. She is praised through the syllables TARA, repeated, and PHAT, said to dispel every kind of poison, whether already moving through the body or still lying dormant and unstirred.
 
 She is shown in white, holding in her left hand an object marked with a deer resting atop a blue lotus — gentle imagery that stands in deliberate contrast to the fierce power of what she actually does. That power is remembered above all as medicine: the antidote to illnesses traditionally associated with the naga spirits and with snakebite, and, in some commentaries, extended even to conditions such as rabies, wherever venom or contagion has entered a body uninvited.
 

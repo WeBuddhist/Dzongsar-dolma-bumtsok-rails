@@ -1,0 +1,1285 @@
+{
+  "note": "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+  "note_stem": "En-Tārā’s_Profound_Essence",
+  "edition_id": "15wVPrtIrRTkGcJvzN4Jo",
+  "text_id": "ensaae8K1Hi0n1Wv2JF6o",
+  "api_base": "https://library.webuddhist.com",
+  "scan_id": "2026-09-30T14:28:55+05:30",
+  "scanned_at": "2026-09-30T14:28:55+05:30",
+  "scan_content_sha256": "2df55e1d23c665156b345514b93226fb4f052c7414d7eb51cc41525a017ef32c",
+  "content_length": 52742,
+  "segments": 332,
+  "lines": 1082,
+  "dash_style": "closed",
+  "issues": [
+    {
+      "occurrence": 0,
+      "segment": "I-2",
+      "segment_id": "Qm7Qk8s2UCb8fCmKwUcB1",
+      "line": 1,
+      "line_offset": 41,
+      "start": 187,
+      "end": 199,
+      "original": "wheels,fire,",
+      "proposed": "wheels, fire,",
+      "categories": [
+        "punct_no_space"
+      ],
+      "confidence": "high",
+      "line_before": "Raining down cascades of vajras, spears, wheels,fire, and entire mountains and glaciers—",
+      "line_after": "Raining down cascades of vajras, spears, wheels, fire, and entire mountains and glaciers—",
+      "id": "S001",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:39+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 194,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 28,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "I-4",
+      "segment_id": "xENFMdDzidKw7gSzuPVTm",
+      "line": 2,
+      "line_offset": 4,
+      "start": 693,
+      "end": 710,
+      "original": "broughtmeditation",
+      "proposed": "brought meditation",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "review",
+      "line_before": "And broughtmeditation and wisdom to their culmination—",
+      "line_after": "And brought meditation and wisdom to their culmination—",
+      "id": "S002",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:38+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 700,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 27,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "I-4",
+      "segment_id": "xENFMdDzidKw7gSzuPVTm",
+      "line": 3,
+      "line_offset": 18,
+      "start": 761,
+      "end": 768,
+      "original": "whomthe",
+      "proposed": "whom the",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Homage to you, in whomthe perfections were complete.",
+      "line_after": "Homage to you, in whom the perfections were complete.",
+      "id": "S003",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:37+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 765,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 26,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "I-6",
+      "segment_id": "7rYX8XmhZ2z7MWegRmU4A",
+      "line": 1,
+      "line_offset": 7,
+      "start": 1022,
+      "end": 1031,
+      "original": "forthlike",
+      "proposed": "forth like",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Shines forthlike the light of the sun;",
+      "line_after": "Shines forth like the light of the sun;",
+      "id": "S004",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:37+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 1027,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 25,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "I-6",
+      "segment_id": "7rYX8XmhZ2z7MWegRmU4A",
+      "line": 3,
+      "line_offset": 27,
+      "start": 1117,
+      "end": 1122,
+      "original": "whomI",
+      "proposed": "whom I",
+      "categories": [
+        "camel_join"
+      ],
+      "confidence": "high",
+      "line_before": "You are the true friend in whomI take refuge.",
+      "line_after": "You are the true friend in whom I take refuge.",
+      "id": "S005",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:36+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 1121,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 24,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "I-7",
+      "segment_id": "GagKKH89lOhZoMncXCbGP",
+      "line": 3,
+      "line_offset": 23,
+      "start": 1286,
+      "end": 1296,
+      "original": "godsowered",
+      "proposed": "gods cowered",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "review",
+      "line_before": "And the teacher of the godsowered like a fox.",
+      "line_after": "And the teacher of the gods cowered like a fox.",
+      "id": "S006",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: add the missing c (gods cowered).",
+      "fixed_at": "2026-09-30T14:39:36+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 1290,
+          "text": " c"
+        }
+      ],
+      "proposed_override": "gods cowered",
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 23,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "I-8",
+      "segment_id": "Bcdr5v2yWcWKAl2A6U4Jp",
+      "line": 2,
+      "line_offset": 19,
+      "start": 1394,
+      "end": 1408,
+      "original": "great renown —",
+      "proposed": "great renown—",
+      "categories": [
+        "dash_spacing"
+      ],
+      "confidence": "review",
+      "line_before": "And many others of great renown —",
+      "line_after": "And many others of great renown—",
+      "id": "S007",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: closed em dash style.",
+      "fixed_at": "2026-09-30T14:39:35+05:30",
+      "ops_sent": [
+        {
+          "type": "delete",
+          "start": 1406,
+          "end": 1407
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 22,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "I-15",
+      "segment_id": "nurlg77QwCarqsQycPHas",
+      "line": 3,
+      "line_offset": 4,
+      "start": 2710,
+      "end": 2734,
+      "original": "accomplishedperfectly;to",
+      "proposed": "accomplished perfectly; to",
+      "categories": [
+        "punct_no_space",
+        "word_join"
+      ],
+      "confidence": "review",
+      "line_before": "You accomplishedperfectly;to you I pay homage.",
+      "line_after": "You accomplished perfectly; to you I pay homage.",
+      "id": "S008",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:35+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 2732,
+          "text": " "
+        },
+        {
+          "type": "insert",
+          "position": 2722,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 21,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "III-1",
+      "segment_id": "Mmof3OmGanvQU62VIRYOm",
+      "line": 1,
+      "line_offset": 0,
+      "start": 4555,
+      "end": 4565,
+      "original": "OĀryāTārā,",
+      "proposed": "O Āryā Tārā,",
+      "categories": [
+        "camel_join"
+      ],
+      "confidence": "high",
+      "line_before": "OĀryāTārā, Mother of the Victors,",
+      "line_after": "O Āryā Tārā, Mother of the Victors,",
+      "id": "S009",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:34+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 4560,
+          "text": " "
+        },
+        {
+          "type": "insert",
+          "position": 4556,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 20,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "1-171",
+      "segment_id": "oRk5b8h7PG3OVIMD7U5JR",
+      "line": 0,
+      "line_offset": 24,
+      "start": 28219,
+      "end": 28234,
+      "original": "three times— to",
+      "proposed": "three times—to",
+      "categories": [
+        "dash_spacing"
+      ],
+      "confidence": "review",
+      "line_before": "Recite the above mantra three times— to make the offering to the principal Lady.",
+      "line_after": "Recite the above mantra three times—to make the offering to the principal Lady.",
+      "id": "S010",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: closed em dash style.",
+      "fixed_at": "2026-09-30T14:39:32+05:30",
+      "ops_sent": [
+        {
+          "type": "delete",
+          "start": 28231,
+          "end": 28232
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 19,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "1-173",
+      "segment_id": "mC6AIo81ugXEbc24gWUFH",
+      "line": 0,
+      "line_offset": 26,
+      "start": 28372,
+      "end": 28387,
+      "original": "three times— to",
+      "proposed": "three times—to",
+      "categories": [
+        "dash_spacing"
+      ],
+      "confidence": "review",
+      "line_before": "Recite this mantra, also, three times— to make the offering to all the guests.",
+      "line_after": "Recite this mantra, also, three times—to make the offering to all the guests.",
+      "id": "S011",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": "Approved by the user 2026-09-30: closed em dash style.",
+      "fixed_at": "2026-09-30T14:39:32+05:30",
+      "ops_sent": [
+        {
+          "type": "delete",
+          "start": 28384,
+          "end": 28385
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 18,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-2",
+      "segment_id": "BdvlP9EC2tmz6xoAOP8Sh",
+      "line": 3,
+      "line_offset": 19,
+      "start": 34307,
+      "end": 34318,
+      "original": "awakening,I",
+      "proposed": "awakening, I",
+      "categories": [
+        "punct_no_space"
+      ],
+      "confidence": "high",
+      "line_before": "Until the heart of awakening,I rely on you for refuge!",
+      "line_after": "Until the heart of awakening, I rely on you for refuge!",
+      "id": "S012",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:31+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 34317,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 17,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-6",
+      "segment_id": "kDwZTgk8jyXKbCy2FN0HR",
+      "line": 3,
+      "line_offset": 8,
+      "start": 35099,
+      "end": 35105,
+      "original": "mindto",
+      "proposed": "mind to",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Lead my mindto virtue, O Noble Lady!",
+      "line_after": "Lead my mind to virtue, O Noble Lady!",
+      "id": "S013",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:31+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 35103,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 16,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-8",
+      "segment_id": "se3lBI7BhsulbTrGttmdk",
+      "line": 0,
+      "line_offset": 36,
+      "start": 35380,
+      "end": 35386,
+      "original": "mefrom",
+      "proposed": "me from",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "In every situation, quickly protect mefrom the eight or sixteen dangers—",
+      "line_after": "In every situation, quickly protect me from the eight or sixteen dangers—",
+      "id": "S014",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:30+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 35382,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 15,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-10",
+      "segment_id": "zEynRPSKq91ol38AltbB7",
+      "line": 3,
+      "line_offset": 18,
+      "start": 35958,
+      "end": 35966,
+      "original": "suchvast",
+      "proposed": "such vast",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Help me to muster suchvast courage, O Noble Lady!",
+      "line_after": "Help me to muster such vast courage, O Noble Lady!",
+      "id": "S015",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:29+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 35962,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 14,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-12",
+      "segment_id": "4RRmGRxiyuqyikChielJs",
+      "line": 3,
+      "line_offset": 0,
+      "start": 36385,
+      "end": 36392,
+      "original": "Mergemy",
+      "proposed": "Merge my",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Mergemy mind with the Dharma, O Noble Lady!",
+      "line_after": "Merge my mind with the Dharma, O Noble Lady!",
+      "id": "S016",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:29+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 36390,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 13,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-13",
+      "segment_id": "vcwJMuEFkeYMJYvdLJqUf",
+      "line": 2,
+      "line_offset": 8,
+      "start": 36553,
+      "end": 36559,
+      "original": "mytrue",
+      "proposed": "my true",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Show me mytrue nature, luminosity, with decisive recognition of the dhātu,",
+      "line_after": "Show me my true nature, luminosity, with decisive recognition of the dhātu,",
+      "id": "S017",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:28+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 36555,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 12,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-14",
+      "segment_id": "GDa264RgX3RG6YunhFpOJ",
+      "line": 1,
+      "line_offset": 23,
+      "start": 36761,
+      "end": 36766,
+      "original": "ofthe",
+      "proposed": "of the",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Let my pure perception ofthe emanation and dissolution of the maṇḍala be complete.",
+      "line_after": "Let my pure perception of the emanation and dissolution of the maṇḍala be complete.",
+      "id": "S018",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:28+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 36763,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 11,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-15",
+      "segment_id": "fvTpA5obisqt8UY58HVzB",
+      "line": 2,
+      "line_offset": 9,
+      "start": 37028,
+      "end": 37036,
+      "original": "toBuddha",
+      "proposed": "to Buddha",
+      "categories": [
+        "camel_join"
+      ],
+      "confidence": "high",
+      "line_before": "Guide me toBuddha Boundless Life and Light",
+      "line_after": "Guide me to Buddha Boundless Life and Light",
+      "id": "S019",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:27+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 37030,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 10,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-16",
+      "segment_id": "HoJgqf9KwZ5YqBeW2j0vO",
+      "line": 0,
+      "line_offset": 21,
+      "start": 37120,
+      "end": 37134,
+      "original": "realms,whether",
+      "proposed": "realms, whether",
+      "categories": [
+        "punct_no_space"
+      ],
+      "confidence": "high",
+      "line_before": "In the vast ocean of realms,whether there are buddhas or not,",
+      "line_after": "In the vast ocean of realms, whether there are buddhas or not,",
+      "id": "S020",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:27+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 37127,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 9,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-19",
+      "segment_id": "QRa6OaJ2LdEKEPnK8IfHP",
+      "line": 2,
+      "line_offset": 32,
+      "start": 37945,
+      "end": 37959,
+      "original": "practicealone.",
+      "proposed": "practice alone.",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "review",
+      "line_before": "I may concentrate on meditation practicealone.",
+      "line_after": "I may concentrate on meditation practice alone.",
+      "id": "S021",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:26+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 37953,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 8,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-21",
+      "segment_id": "lc410UlHCsphJuDrBtGW1",
+      "line": 3,
+      "line_offset": 4,
+      "start": 38367,
+      "end": 38376,
+      "original": "upholdit,",
+      "proposed": "uphold it,",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "Who upholdit, O Noble Lady!",
+      "line_after": "Who uphold it, O Noble Lady!",
+      "id": "S022",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:26+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 38373,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 7,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-29",
+      "segment_id": "mzzjO6T6WoEvDzcA2D3gi",
+      "line": 2,
+      "line_offset": 24,
+      "start": 40059,
+      "end": 40065,
+      "original": "ofyour",
+      "proposed": "of your",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "With the boundless halo ofyour stainless light,",
+      "line_after": "With the boundless halo of your stainless light,",
+      "id": "S023",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:25+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 40061,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 6,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-36",
+      "segment_id": "YqpSciYnm1bsakv8fLgSU",
+      "line": 0,
+      "line_offset": 31,
+      "start": 41370,
+      "end": 41387,
+      "original": "Gyatso,formulated",
+      "proposed": "Gyatso, formulated",
+      "categories": [
+        "punct_no_space"
+      ],
+      "confidence": "high",
+      "line_before": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
+      "line_after": "At the age of thirty I, Yönten Gyatso, formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
+      "id": "S024",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:24+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 41377,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 5,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-36",
+      "segment_id": "YqpSciYnm1bsakv8fLgSU",
+      "line": 0,
+      "line_offset": 99,
+      "start": 41438,
+      "end": 41444,
+      "original": "andthe",
+      "proposed": "and the",
+      "categories": [
+        "word_join"
+      ],
+      "confidence": "high",
+      "line_before": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
+      "line_after": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, and the country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
+      "id": "S025",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:24+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 41441,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 4,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "a-36",
+      "segment_id": "YqpSciYnm1bsakv8fLgSU",
+      "line": 0,
+      "line_offset": 151,
+      "start": 41490,
+      "end": 41505,
+      "original": "degeneration.By",
+      "proposed": "degeneration. By",
+      "categories": [
+        "punct_no_space"
+      ],
+      "confidence": "high",
+      "line_before": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
+      "line_after": "At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration. By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)",
+      "id": "S026",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:23+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 41503,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 3,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "g-1",
+      "segment_id": "7aL659C9r8WncfDXWs5iN",
+      "line": 0,
+      "line_offset": 10,
+      "start": 52089,
+      "end": 52100,
+      "original": "asuras,with",
+      "proposed": "asuras, with",
+      "categories": [
+        "punct_no_space"
+      ],
+      "confidence": "high",
+      "line_before": "Devas and asuras,with their crowned heads,",
+      "line_after": "Devas and asuras, with their crowned heads,",
+      "id": "S027",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:23+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 52096,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 2,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "occurrence": 0,
+      "segment": "g-3",
+      "segment_id": "vGEC7kT467OjN7Agk4xbK",
+      "line": 0,
+      "line_offset": 36,
+      "start": 52569,
+      "end": 52579,
+      "original": "flavors,so",
+      "proposed": "flavors, so",
+      "categories": [
+        "punct_no_space"
+      ],
+      "confidence": "high",
+      "line_before": "This exquisite food, with a hundred flavors,so perfectly prepared,",
+      "line_after": "This exquisite food, with a hundred flavors, so perfectly prepared,",
+      "id": "S028",
+      "decision": "approved",
+      "status": "fixed",
+      "comment": null,
+      "fixed_at": "2026-09-30T14:39:22+05:30",
+      "ops_sent": [
+        {
+          "type": "insert",
+          "position": 52577,
+          "text": " "
+        }
+      ],
+      "fixed_in_scan": "2026-09-30T14:28:55+05:30",
+      "fixed_seq": 1,
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    }
+  ],
+  "toc_issues": [
+    {
+      "toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+      "section_id": "a3Q0TsiMqYSslweStxhd8",
+      "lang": "en",
+      "original": "Invokingthe",
+      "proposed": "Invoking the",
+      "categories": [
+        "word_join"
+      ],
+      "title_before": "The Tambura of Devotion: A Supplication Invokingthe Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel",
+      "title_after": "The Tambura of Devotion: A Supplication Invoking the Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel",
+      "status": "fixed",
+      "fix_path": "The API has no PATCH for a TOC section: fixing a title means DELETE /v2/table-of-contents/{toc_id} and re-POST the corrected TOC (segments and alignments are untouched). Needs its own confirmation.",
+      "id": "T001",
+      "fixed_at": "2026-09-30T14:42:07+05:30",
+      "old_toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+      "new_toc_id": "HylXy5s9AVIXhNaZDUa6b",
+      "note_fixed": [
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence.md",
+        "1-SOURCES/Translations/En-Tārā’s_Profound_Essence Subtitle.md",
+        "1-SOURCES/Text/bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md"
+      ]
+    },
+    {
+      "toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+      "section_id": "ULm8HQEVVINfQWKpRNBBP",
+      "lang": "en",
+      "original": "Auspiciousness to Accomplish",
+      "proposed": "Auspiciousness to Accomplish",
+      "categories": [
+        "odd_space"
+      ],
+      "title_before": "Words of Auspiciousness to Accomplish One’s Aims",
+      "title_after": "Words of Auspiciousness to Accomplish One’s Aims",
+      "status": "manual",
+      "fix_path": "The API has no PATCH for a TOC section: fixing a title means DELETE /v2/table-of-contents/{toc_id} and re-POST the corrected TOC (segments and alignments are untouched). Needs its own confirmation.",
+      "id": "T002"
+    }
+  ],
+  "title_issues": [],
+  "history": [
+    {
+      "at": "2026-09-30T14:28:55+05:30",
+      "action": "scan",
+      "open": 28
+    },
+    {
+      "at": "2026-09-30T14:29:12+05:30",
+      "action": "decide",
+      "approve": null,
+      "reject": null,
+      "set": [
+        "S006=gods cowered"
+      ]
+    },
+    {
+      "at": "2026-09-30T14:38:59+05:30",
+      "action": "decide",
+      "approve": [
+        "all"
+      ],
+      "reject": null,
+      "set": null
+    },
+    {
+      "at": "2026-09-30T14:39:40+05:30",
+      "action": "apply",
+      "fixed": [
+        "S028",
+        "S027",
+        "S026",
+        "S025",
+        "S024",
+        "S023",
+        "S022",
+        "S021",
+        "S020",
+        "S019",
+        "S018",
+        "S017",
+        "S016",
+        "S015",
+        "S014",
+        "S013",
+        "S012",
+        "S011",
+        "S010",
+        "S009",
+        "S008",
+        "S007",
+        "S006",
+        "S005",
+        "S004",
+        "S003",
+        "S002",
+        "S001"
+      ],
+      "content_matches_prediction": true,
+      "spans_match_prediction": true
+    },
+    {
+      "at": "2026-09-30T14:40:02+05:30",
+      "action": "verify",
+      "confirmed": 28,
+      "missing": []
+    },
+    {
+      "at": "2026-09-30T14:42:07+05:30",
+      "action": "toc",
+      "fixed": [
+        "T001"
+      ],
+      "old_toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+      "new_toc_id": "HylXy5s9AVIXhNaZDUa6b",
+      "read_back_ok": true,
+      "backup": "En-Tārā’s_Profound_Essence.toc-e5Ovlr4L4JSHpxXvjfMRK.backup-2026-09-30T144204.json"
+    },
+    {
+      "at": "2026-09-30T14:47:14+05:30",
+      "action": "note",
+      "file": "En-Tārā’s_Profound_Essence.md",
+      "ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "at": "2026-09-30T14:47:14+05:30",
+      "action": "note",
+      "file": "En-Tārā’s_Profound_Essence Subtitle.md",
+      "ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "at": "2026-09-30T14:47:14+05:30",
+      "action": "note",
+      "file": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+      "ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S026",
+        "S025",
+        "S024",
+        "S027",
+        "S028"
+      ]
+    },
+    {
+      "at": "2026-09-30T14:47:40+05:30",
+      "action": "note",
+      "file": "En-Tārā’s_Profound_Essence.md",
+      "ids": [
+        "T001"
+      ]
+    },
+    {
+      "at": "2026-09-30T14:47:40+05:30",
+      "action": "note",
+      "file": "En-Tārā’s_Profound_Essence Subtitle.md",
+      "ids": [
+        "T001"
+      ]
+    },
+    {
+      "at": "2026-09-30T14:47:40+05:30",
+      "action": "note",
+      "file": "bo-ཟབ་ཏིག་སྒྲོལ་ཆོག-གཤམ་ཡིག.md",
+      "ids": [
+        "T001"
+      ]
+    }
+  ],
+  "toc_id": "HylXy5s9AVIXhNaZDUa6b"
+}

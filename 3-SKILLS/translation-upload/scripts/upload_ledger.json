@@ -32,12 +32,54 @@
         "subsections": 11,
         "toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
         "ts": "2026-09-24T19:13:27"
+      },
+      {
+        "old_toc_id": "e5Ovlr4L4JSHpxXvjfMRK",
+        "reason": "edition-spacing-fix T001",
+        "step": "toc-replace",
+        "toc_id": "HylXy5s9AVIXhNaZDUa6b",
+        "ts": "2026-09-30T14:42:07"
       }
     ],
     "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
     "root_text_id": "AMXt6wYXNvRR2WanncXaq",
     "text_id": "ensaae8K1Hi0n1Wv2JF6o",
-    "toc_id": "e5Ovlr4L4JSHpxXvjfMRK"
+    "toc_id": "HylXy5s9AVIXhNaZDUa6b"
+  },
+  "Hi-Tārā’s_Profound_Essence": {
+    "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "edition_id": "XoTwinWHIyBNaZcDEJrV3",
+    "lang_tag": "hi",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "FNWZNM7krIk33Eb0onoda",
+        "ts": "2026-09-30T17:33:38"
+      },
+      {
+        "chars": 48712,
+        "edition_id": "XoTwinWHIyBNaZcDEJrV3",
+        "segments": 332,
+        "step": "edition",
+        "ts": "2026-09-30T17:33:40"
+      },
+      {
+        "pairs": 332,
+        "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+        "step": "alignment",
+        "ts": "2026-09-30T17:33:42"
+      },
+      {
+        "step": "toc",
+        "subsections": 11,
+        "toc_id": "FKjmIGuo57Hb3GHL6l6lo",
+        "ts": "2026-09-30T17:33:42"
+      }
+    ],
+    "root_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
+    "root_text_id": "AMXt6wYXNvRR2WanncXaq",
+    "text_id": "FNWZNM7krIk33Eb0onoda",
+    "toc_id": "FKjmIGuo57Hb3GHL6l6lo"
   },
   "Zh-Tārā’s_Profound_Essence_Translation": {
     "aligned_to_edition_id": "Zt5c0fe1OMJI1Kh8rp2FM",
@@ -73,6 +115,111 @@
     "root_text_id": "AMXt6wYXNvRR2WanncXaq",
     "text_id": "0p3GTH3UR8tOnIZpyxN9L",
     "toc_id": "bIN4OJZmG2ltECeujVdmy"
+  },
+  "bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-ཟབ་ཏིག་སྒྲོལ་ཆོག-en": {
+    "aligned_to_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "edition_id": "Jok8ZflQH9RUDbhqOlzng",
+    "lang_tag": "en",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "iCxEhU6L4rgI6rtpLKb91",
+        "ts": "2026-09-27T00:34:18"
+      },
+      {
+        "chars": 15638,
+        "edition_id": "Jok8ZflQH9RUDbhqOlzng",
+        "segments": 36,
+        "step": "edition",
+        "ts": "2026-09-27T00:34:19"
+      },
+      {
+        "pairs": 36,
+        "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+        "step": "alignment",
+        "ts": "2026-09-27T00:34:19"
+      },
+      {
+        "step": "toc",
+        "subsections": 6,
+        "toc_id": "PS0oAHeuvlXWSjtDZADY6",
+        "ts": "2026-09-27T00:34:19"
+      }
+    ],
+    "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "root_text_id": "P1RXQLPkOH3yctyKHTjCl",
+    "text_id": "iCxEhU6L4rgI6rtpLKb91",
+    "toc_id": "PS0oAHeuvlXWSjtDZADY6"
+  },
+  "bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-ཟབ་ཏིག་སྒྲོལ་ཆོག-zh": {
+    "aligned_to_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "edition_id": "9EMlQWSrFiRuCfoqHblNX",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "qsqcZbmkMmP9hkCBvsjlC",
+        "ts": "2026-09-27T00:34:20"
+      },
+      {
+        "chars": 4103,
+        "edition_id": "9EMlQWSrFiRuCfoqHblNX",
+        "segments": 36,
+        "step": "edition",
+        "ts": "2026-09-27T00:34:21"
+      },
+      {
+        "pairs": 36,
+        "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+        "step": "alignment",
+        "ts": "2026-09-27T00:34:21"
+      },
+      {
+        "step": "toc",
+        "subsections": 6,
+        "toc_id": "dVonDYxwK3f5qfjA8PX5g",
+        "ts": "2026-09-27T00:34:21"
+      }
+    ],
+    "root_edition_id": "ZFutCZROIPuFk4GZG81Fj",
+    "root_text_id": "P1RXQLPkOH3yctyKHTjCl",
+    "text_id": "qsqcZbmkMmP9hkCBvsjlC",
+    "toc_id": "dVonDYxwK3f5qfjA8PX5g"
+  },
+  "en-a-ship-sailing-the-ocean-of-the-two-accumulations-zh": {
+    "aligned_to_edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+    "edition_id": "NLMfwK4LIlBbuk8LL93qo",
+    "lang_tag": "zh",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "3qxcAuaYknsNEtkUgG3Vg",
+        "ts": "2026-09-27T00:59:52"
+      },
+      {
+        "chars": 16699,
+        "edition_id": "NLMfwK4LIlBbuk8LL93qo",
+        "segments": 204,
+        "step": "edition",
+        "ts": "2026-09-27T00:59:53"
+      },
+      {
+        "pairs": 204,
+        "root_edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+        "step": "alignment",
+        "ts": "2026-09-27T00:59:53"
+      },
+      {
+        "step": "toc",
+        "subsections": 4,
+        "toc_id": "630DL6gszXYsLPh1pWe7b",
+        "ts": "2026-09-27T00:59:54"
+      }
+    ],
+    "root_edition_id": "uUuoTg9jAgh3HJ3yi3dIN",
+    "root_text_id": "GGI8qrB4CKmV6sTEFJCv6",
+    "text_id": "3qxcAuaYknsNEtkUgG3Vg",
+    "toc_id": "630DL6gszXYsLPh1pWe7b"
   },
   "en-zabtig-drolchok": {
     "aligned_to_edition_id": "1JX1dsVsP8pphHvSwuvOV",

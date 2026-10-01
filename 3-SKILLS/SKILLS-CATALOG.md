@@ -309,11 +309,27 @@ Uploads a root text to the library backend: lint, parse, then create the text, e
 Uploads a finished translation to the library backend: lint, parse, then create the text, edition, alignment and table of contents. Dry-run by default; `--execute` needs explicit human confirmation every time.
 → [`translation-upload/SKILL.md`](3-SKILLS/translation-upload/SKILL.md)
 
+### `commentary-upload` **[exists]**
+Uploads a commentary to the library backend as its own text (`commentary_of` the root): lint, parse, then create the text, edition and table of contents, and PUT the alignment from its segments to the root edition (commentary = source, root = target). Footnotes are kept out of every payload. Every commentary, in any language, is aligned to the root only. Dry-run by default; `--execute` needs explicit human confirmation every time.
+→ [`commentary-upload/SKILL.md`](3-SKILLS/commentary-upload/SKILL.md)
+
+### `commentary-realign` **[exists]**
+**Purpose:** Copy a commentary aligned to one root text and re-align the copy to a second root text that contains the same root passages (repeated passages get every occurrence), carrying the existing alignment across, then delete the old file; its translations are re-pointed to the copy and stay translations of it.
+**Inputs:** A commentary with root-text transclusions, the new root text (with block IDs and `text_id`), a new title unique on the library, and optionally the commentary's translations (each with its own new title).
+**Outputs:** `1-SOURCES/Commentaries/<stem>-<new root>.md` with re-pointed transclusions and frontmatter, verified against the old alignment, plus a block map in `0-INBOX/temp/commentary-realign/`; then upload the copy with `commentary-upload`.
+→ [`commentary-realign/SKILL.md`](3-SKILLS/commentary-realign/SKILL.md)
+
 ### `yigchung-upload` **[exists]**
 **Purpose:** Parse the `<small>…</small>` yigchung marks out of an uploaded note and attach them to its live edition as yigchung annotations, one tag-free span each.
 **Inputs:** A root text or translation already uploaded (frontmatter carries `edition_id`), the upload parser, and the API key.
 **Outputs:** A span payload and a review file under `yigchung-upload/scripts/output/`; on `--execute`, yigchung ids in the skill's ledger.
 → [`yigchung-upload/SKILL.md`](3-SKILLS/yigchung-upload/SKILL.md)
+
+### `edition-spacing-fix` **[exists]**
+**Purpose:** Scan a published edition for spacing errors (run-together words, no space after punctuation, stray or odd spaces), map every hit, and after human review fix the approved ones in place, bottom-up, through `PATCH /v2/editions/{id}/content` without moving a segment boundary.
+**Inputs:** An uploaded note whose frontmatter carries `edition_id`, the API key, and any reader-reported errors.
+**Outputs:** A mapping and review table in `0-INBOX/temp/edition-spacing-fix/`, updated as each fix lands; on `--execute`, the live edition patched; optionally the same fixes mirrored into the vault note.
+→ [`edition-spacing-fix/SKILL.md`](3-SKILLS/edition-spacing-fix/SKILL.md)
 
 ---
 

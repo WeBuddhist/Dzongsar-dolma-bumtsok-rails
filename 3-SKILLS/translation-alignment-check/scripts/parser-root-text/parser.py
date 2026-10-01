@@ -59,6 +59,20 @@ def _is_empty(value):
     return False
 
 
+# Footnotes (`[^n]` markers and `[^n]: …` definition lines) are not accepted by
+# the library backend yet, so they are left out of the edition, segmentation,
+# TOC and alignment — the same treatment as the <small> yigchung marks. The
+# source file is never changed. When the backend takes footnote annotations, a
+# separate parser will read them from the source.
+FOOTNOTE_DEF_RE = re.compile(r"^[ \t]*\[\^[^\]\s]+\]:.*(?:\r?\n|$)", re.MULTILINE)
+FOOTNOTE_REF_RE = re.compile(r"\[\^[^\]\s]+\](?!:)")
+
+
+def strip_footnotes(body):
+    """Drop footnote definition lines and inline footnote markers from a body."""
+    return FOOTNOTE_REF_RE.sub("", FOOTNOTE_DEF_RE.sub("", body))
+
+
 def _read_source(path):
     try:
         import yaml
@@ -69,7 +83,7 @@ def _read_source(path):
     if not m:
         raise ValueError("no YAML properties found")
     data = yaml.safe_load(m.group(1)) or {}
-    body = text[m.end():]
+    body = strip_footnotes(text[m.end():])
     return data, body
 
 

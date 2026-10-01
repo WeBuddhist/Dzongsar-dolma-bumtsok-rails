@@ -13,7 +13,7 @@ gang zhik jangchub shingwang drung du dü dé pung ché sa dang kha la künkhyab
 When you sat under the great Bodhi Tree and the earth and sky were filled with hordes of māras,
 རྡོ་རྗེ་མདུང་ཐུང་དང་ནི་འཁོར་ལོ་མེ་དང་རི་དང་གངས་རིའི་ཕྲེང་བས་ཆར་འབེབས་པ། །
 dorjé dungtung dang ni khorlo mé dang ri dang gangri trengwé char bebpa
-Raining down cascades of vajras, spears, wheels,fire, and entire mountains and glaciers—
+Raining down cascades of vajras, spears, wheels, fire, and entire mountains and glaciers—
 རྫུ་འཕྲུལ་རྣམ་པར་འཕྲུལ་བྱེད་སྟོབས་ལྡན་མེ་ཏོག་མདའ་ཅན་བྱང་ཆུབ་བཟློག་ཕྱིར་བརྩོན་པ་ན། །
 dzutrül nampar trül jé tobden metok da chen jangchub dok chir tsönpa na
 Magical displays unleashed by the mighty Flower-Arrowed One striving to avert your awakening—
@@ -42,10 +42,10 @@ zö dang tsöndrü gompar dzé
 Cultivated forbearance and diligence,
 བསམ་གཏན་ཤེས་རབ་མཐར་ཕྱིན་པས། །
 samten sherab tar chinpé
-And broughtmeditation and wisdom to their culmination—
+And brought meditation and wisdom to their culmination—
 ཕ་རོལ་ཕྱིན་རྫོགས་ཁྱོད་ཕྱག་འཚལ། །
 paröl chin dzok khyö chak tsal
-Homage to you, in whomthe perfections were complete.
+Homage to you, in whom the perfections were complete.
 
 འགྲོ་མགོན་དང་པོ་བལྟམས་པ་ན། །
 drogön dangpo tampa na
@@ -65,13 +65,13 @@ dé lé khyö kyi tenpa ni
 And so, the activity of your teaching
 ཉི་མའི་འོད་བཞིན་ཕྲིན་ལས་མངའ། །
 nyimé ö zhin trinlé nga
-Shines forthlike the light of the sun;
+Shines forth like the light of the sun;
 རྣམ་པ་ཀུན་ཏུ་མི་བསླུ་བའི། །
 nampa kün tu mi luwé
 And being never deceiving in any way,
 རྩ་ལག་ཁྱོད་ལ་བདག་སྐྱབས་མཆི། །
 tsalak khyö la dak kyab chi
-You are the true friend in whomI take refuge.
+You are the true friend in whom I take refuge.
 
 ཁྱོད་ཀྱི་གསུང་རབ་སེངྒེའི་སྒྲ། །
 khyö kyi sungrab sengé dra
@@ -84,7 +84,7 @@ tsang dang khyabjuk kugpar gyur
 Brahmā and Viṣṇu were speechless,
 ལྷ་ཡི་བླ་མ་ཝ་ལྟར་ཞུམ། །
 lha yi lama wa tar zhum
-And the teacher of the godsowered like a fox.
+And the teacher of the gods cowered like a fox.
 
 ཐུབ་པ་རྐང་མིག་གྲོག་མཁར་དང་། །
 tubpa kang mik drogkhar dang
@@ -94,7 +94,7 @@ drangsong gyepa né jok sok
 Seers, such as Vyāsa and Vāsiṣṭha,
 གྲགས་པ་ཐོབ་པ་དེ་དག་ཀུན། །
 dragpa tobpa dedak kün
-And many others of great renown —
+And many others of great renown—
 ཆོས་ཀྱིས་ཕམ་མཛད་ཁྱོད་ལ་འདུད། །
 chö kyi pam dzé khyö la dü
 To you, who disarmed them all with the Dharma, I bow.
@@ -188,7 +188,7 @@ zhepé trinlé dön zhin du
 All the enlightened deeds you had undertaken,
 གྲུབ་པ་ཁྱོད་ལ་བདག་ཕྱག་འཚལ། །
 drubpa khyö la dak chak tsal
-You accomplishedperfectly;to you I pay homage.
+You accomplished perfectly; to you I pay homage.
 
 དེ་ལྟར་འགྲོ་བའི་བླ་མ་ཤཱཀྱའི་རིགས། །
 detar drowé lama shakyé rik
@@ -304,7 +304,7 @@ gyal kün düpé trinlé ying
 Activity expanse of all buddhas united.
 རྒྱལ་ཡུམ་ཨཱརྱ་ཏཱ་རེ་མ། །
 gyalyumaryataré ma
-OĀryāTārā, Mother of the Victors,
+O Āryā Tārā, Mother of the Victors,
 རྩེ་གཅིག་གུས་པས་གསོལ་བ་འདེབས། །
 tsé chik güpé sölwa deb
 I pray to you with one-pointed devotion:
@@ -2024,13 +2024,13 @@ om ah hung༔
 om arya taré sapariwara idam balingta kha kha khahi khahi
 
 <small>ལན་གསུམ་གྱིས་གཙོ་མོ་དང་།</small>
-<small>Recite the above mantra three times— to make the offering to the principal Lady.</small>
+<small>Recite the above mantra three times—to make the offering to the principal Lady.</small>
 
 ཨོཾ་ཨ་ཀཱ་རོ་མུ་ཁཾ་སརྦ་དྷརྨཱ་ནཱཾ་ཨཱདྱ་ནུཏྤནྣ་ཏོཏྟ་ཨོཾ་ཨཱཿཧཱུྃ་ཕཊ་སྭཱ་ཧཱ།
 om akaro mukham sarva dharma nam adya nutpanen totta om ah hung pé soha
 
 <small>ལན་གསུམ་གྱིས་མགྲོན་ཐབས་རྣམས་ལ་ཕུལ།</small>
-<small>Recite this mantra, also, three times— to make the offering to all the guests.</small>
+<small>Recite this mantra, also, three times—to make the offering to all the guests.</small>
 
 ཨོཾ༔ མཆོད་སྦྱིན་གཏོར་མ་དམ་པ་འདི༔
 om, chöjin torma dampa di༔
@@ -2401,7 +2401,7 @@ chö dang trashi pelwar dzedu söl
 And make the Dharma and auspiciousness increase!
 
 ## ༄༅། །འཕགས་མ་ཡིད་བཞིན་འཁོར་ལོའི་ཐུགས་དམ་གནད་ནས་བསྐུལ་བའི་གསོལ་འདེབས་མོས་གུས་ཀྱི་ཏམྦུ་ར།
-The Tambura of Devotion: A Supplication Invokingthe Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel
+The Tambura of Devotion: A Supplication Invoking the Crucial Essence of the Vows of the Noble Lady Wish-Fulfilling Wheel
 
 སྤྱན་རས་གཟིགས་དབང་སྙིང་རྗེའི་ཆུ་གཏེར་ལས། །
 chenrezikwangnyingjéchuterlé
@@ -2427,7 +2427,7 @@ tserabtrengwarpül du machipé
 In all my lifetimes, you have been my most sublime protector.
 སྐྱབས་ཁྱོད་སྙིང་པོའི་བར་དུ་སྐྱབས་སུ་བསྟེན། །
 kyabkhyönyingpö bar du kyabsuten
-Until the heart of awakening,I rely on you for refuge!
+Until the heart of awakening, I rely on you for refuge!
 
 བདག་སོགས་ལས་ཀྱིས་མནར་བའི་འགྲོ་བ་རྣམས། །
 daksoklékyinarwédrowanam
@@ -2479,7 +2479,7 @@ yichémakyéchenzenngurmikdok
 I’m just a wild beast clad in saffron robes.
 བདག་ཡིད་དགེ་ལ་དྲོངས་ཤིག་རྗེ་བཙུན་མ། །
 dakyigé la drongshikjetsünma
-Lead my mindto virtue, O Noble Lady!
+Lead my mind to virtue, O Noble Lady!
 
 ཉིན་མཚན་སྐད་ཅིག་མི་རྟག་མི་ཡི་ལུས། །
 nyintsenkéchikmitak mi yilü
@@ -2496,7 +2496,7 @@ With your sword of wisdom, O Noble Lady!
 
 གནས་སྐབས་སུ་ཡང་གདོན་དང་རིམས་དུག་མཚོན། །
 nekabsuyangdön dang rimduktsön
-In every situation, quickly protect mefrom the eight or sixteen dangers—
+In every situation, quickly protect me from the eight or sixteen dangers—
 གློ་བུར་ཉིད་དུ་གཤིས་ངན་འཆི་བ་དང་། །
 loburnyi du shingenchiwa dang
 Evil forces, epidemics, poison, weapons,
@@ -2531,7 +2531,7 @@ dakdéngösujewépanamkyi
 Heroic bodhisattvas exchange their happiness for others’ suffering.
 སྙིང་སྟོབས་རླབས་ཆེན་སྐྱེད་ཅིག་རྗེ་བཙུན་མ། །
 nyingtob lab chenkyéchikjetsünma
-Help me to muster suchvast courage, O Noble Lady!
+Help me to muster such vast courage, O Noble Lady!
 
 ཚེ་རབས་ཀུན་ཏུ་ཕྱིན་ཅི་མ་ལོག་པའི། །
 tserabkün tu chinchima log pé
@@ -2557,7 +2557,7 @@ lab la rabgüdren dang shezhin par
 Which fosters deep devotion to spiritual training with mindfulness and alertness.
 བདག་རྒྱུད་ཆོས་དང་བསྲེས་ཤིག་རྗེ་བཙུན་མ། །
 dakgyüchödangséshikjetsünma
-Mergemy mind with the Dharma, O Noble Lady!
+Merge my mind with the Dharma, O Noble Lady!
 
 ནམ་ཞིག་ཚེ་ཡི་འཕེན་པ་རྫོགས་པའི་ཚེ། །
 namzhiktséyipenpadzogpétsé
@@ -2567,7 +2567,7 @@ néchödmepardushéchutokné
 Ease the agonies of death and help me realize the eleven thoughts;
 སྐྱེ་འགག་མཐའ་བྲལ་དབྱིངས་སུ་ལ་བཟླ་བའི། །
 kyegaktadralyingsu la dawé
-Show me mytrue nature, luminosity, with decisive recognition of the dhātu,
+Show me my true nature, luminosity, with decisive recognition of the dhātu,
 འོད་གསལ་རང་ངོ་སྤྲོད་ཅིག་རྗེ་བཙུན་མ། །
 ösal rang ngotröchikjetsünma
 Free from the extremes of origination and cessation, O Noble Lady!
@@ -2577,7 +2577,7 @@ bardokéchikyütsamshar na yang
 Even if the bardo arises for just a fleeting instant,
 དག་སྣང་དཀྱིལ་འཁོར་འཁོར་ལོའི་སྤྲོ་བསྡུ་རྫོགས།
 dagnangkyilkhorkhorlötro du dzok
-Let my pure perception ofthe emanation and dissolution of the maṇḍala be complete.
+Let my pure perception of the emanation and dissolution of the maṇḍala be complete.
 མངོན་དགའ་བདེ་ལྡན་པདྨོ་བཀོད་ལ་སོགས།
 ngöngadedenpemokö la sok
 Take me to Abhirati, the lotus-arrayed realm of Sukhāvatī,
@@ -2593,14 +2593,14 @@ wangmélékyikhorwar mi khorwar
 Don’t let me circle helplessly here due to my karma.
 ཚེ་འོད་མཐའ་ཡས་རྒྱལ་བའི་ཞབས་དྲུང་དུ། །
 tsé ö tayegyalwézhabdrung du
-Guide me toBuddha Boundless Life and Light
+Guide me to Buddha Boundless Life and Light
 ལུང་སྟོན་ལམ་སྣ་དྲོངས་ཤིག་རྗེ་བཙུན་མ། །
 lung tön lamnadrongshikjetsünma
 To receive his prophecy, O Noble Lady!
 
 སངས་རྒྱས་འབྱོན་དང་མ་བྱོན་ཞིང་རྒྱ་མཚོ། །
 sangyéjön dang majönzhinggyatso
-In the vast ocean of realms,whether there are buddhas or not,
+In the vast ocean of realms, whether there are buddhas or not,
 མཐའ་ཡས་ཀུན་ཏུ་དམ་ཆོས་སྲོག་ལྟར་བཟུང་། །
 tayékün tu damchösoktarzung
 May I guard the sublime Dharma with my life
@@ -2645,7 +2645,7 @@ beténaksubarchödmachipar
 So that in the solitude of the woods, unbothered by obstacles,
 སྒྲུབ་ལ་སྙིང་པོར་དྲིལ་བས་ཚེ་འདི་རུ། །
 drub la nyingpordrilwétsédiru
-I may concentrate on meditation practicealone.
+I may concentrate on meditation practice alone.
 མི་ལུས་དོན་ལྡན་མཛོད་ཅིག་རྗེ་བཙུན་མ། །
 milüdöndendzöchikjetsünma
 In this way, make this human life meaningful, O Noble Lady!
@@ -2674,7 +2674,7 @@ dédzinkyechendampamalüpé
 And please prolong the lives of all the great masters
 སྐུ་ཚེ་རིང་དུ་སྲིངས་ཤིག་རྗེ་བཙུན་མ། །
 kutse ring du sing shikjetsünma
-Who upholdit, O Noble Lady!
+Who uphold it, O Noble Lady!
 
 ཁྱད་པར་ངེས་དོན་སྙིང་པོ་ཟབ་མོའི་དོན། །
 khyeparngedönnyingpozabmödön
@@ -2775,7 +2775,7 @@ dorjédewélangtsoshintudzok
 Flush with the youthful vigor of vajra bliss.
 དྲི་མེད་འོད་ཀྱི་དཀྱིལ་འཁོར་མཐའ་ཀླས་པས། །
 drimé ö kyikyilkhortalepé
-With the boundless halo ofyour stainless light,
+With the boundless halo of your stainless light,
 ལས་བཞིའི་ཕྲིན་ལས་སྩོལ་ཞིག་རྗེ་བཙུན་མ། །
 lézhitrinlétsölzhikjetsünma
 Grant the four enlightened activities, O Noble Lady!
@@ -2859,7 +2859,7 @@ dönnyitaruchinpékadrintsöl
 And grant your grace so I bring the twofold benefit to completion!
 
 <small>ཅེས་ཡོན་ཏན་རྒྱ་མཚོ་བདག་རང་ལོ་སུམ་ཅུ་པར་བྲོ་ནད་ཚབ་པོ་ཆེས་ཉེན་ཅིང་རྒྱལ་ཁམས་སུའང་སྙིགས་མའི་རྒུད་པ་མངོན་དུ་གྱུར་པའི་སྐབས་གསོལ་བ་ཅི་དྲན་དུ་བཏབ་པ་དཀོན་མཆོག་གསུམ་གྱི་བདེན་པས་འགྲུབ་པར་གྱུར་ཅིག། །།</small>
-<small>At the age of thirty I, Yönten Gyatso,formulated this spontaneous prayer while I was severely ill, andthe country, too, was suffering from decline and degeneration.By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)</small>
+<small>At the age of thirty I, Yönten Gyatso, formulated this spontaneous prayer while I was severely ill, and the country, too, was suffering from decline and degeneration. By the truth of the Three Jewels, may it be answered! Translated by Khyentse Vision Project (Heidi Nevin and Jamie Creek)</small>
 
 ## ༄༅། །འཕགས་མ་སྒྲོལ་མ་ལ་རྩ་སྔགས་དང་སྦྱར་བའི་སྒོ་ནས་གསོལ་བ་འདེབས་པ་དོན་ཀུན་གྲུབ་པའི་དབྱངས་སྙན་ཞེས་བྱ་བ་བཞུགས་སོ། །
 The Sweet-Sounding Song That Fulfills All Aims
@@ -3460,7 +3460,7 @@ Tea offering prayers
 
 ལྷ་དང་ལྷ་མིན་ཅོད་པན་གྱིས། །
 lha dang lhamin chöpen gyi
-Devas and asuras,with their crowned heads,
+Devas and asuras, with their crowned heads,
 ཞབས་ཀྱི་པདྨོ་ལ་བཏུད་དེ། །
 zhab kyi pemo la tü dé
 Bow to your lotus feet.
@@ -3486,7 +3486,7 @@ Mother of the buddhas, holder of the utpala flower, to you I make this offering.
 
 ༈ ཞལ་ཟས་རོ་བརྒྱ་ལྡན་ཞིང་ཡིད་འཕྲོག་པ། །
 zhalzé rogya den zhing yitrogpa
-This exquisite food, with a hundred flavors,so perfectly prepared,
+This exquisite food, with a hundred flavors, so perfectly prepared,
 ལེགས་སྦྱར་འདི་ནི་རྒྱལ་བ་སྲས་བཅས་ལ། །
 legjar di ni gyalwa sé ché la
 I offer with devotion to the victors and their heirs.

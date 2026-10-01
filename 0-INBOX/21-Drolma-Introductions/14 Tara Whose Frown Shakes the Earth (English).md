@@ -1,7 +1,11 @@
 Tara Whose Frown Shakes the Earth
 སྒྲོལ་མ་ཁྲོ་གཉེར་གཡོ་བ།
 
-The fourteenth of the twenty-one is shown striking the very surface of the earth with the flat of her palm — Mount Meru and its four surrounding continents together — and stamping it further with her foot, so that her wrathful expression alone, sharpened by the seed-syllable HUM, is enough to crush all seven levels said to lie beneath the ground: the dwelling places of nagas, asuras, and the lords of death.
+**Name** : Tara Whose Frown Shakes the Earth
+**Mantra** : oṃ tāre tuttāre ture vajra mahāpāda bhasmiṃ kuru svāhā
+**Accomplishment** : Striking down obstructing forces
+
+Those who wish to strike down obstructing forces should rely on Tara Whose Frown Shakes the Earth. The fourteenth of the twenty-one is shown striking the very surface of the earth with the flat of her palm — Mount Meru and its four surrounding continents together — and stamping it further with her foot, so that her wrathful expression alone, sharpened by the seed-syllable HUM, is enough to crush all seven levels said to lie beneath the ground: the dwelling places of nagas, asuras, and the lords of death.
 
 She is generally depicted dark and fiercely wrathful, a form suited to the scale of what she confronts — not a single spirit or obstacle but entire subterranean realms of beings whose presence can disturb the stability of life above them. Where earlier Taras in the sequence dispel poverty, fear, or spirit-harm one encounter at a time, this Tara's action reaches all the way down, unsettling the deepest and least visible layers where trouble can take root long before it ever surfaces.
 

@@ -1,7 +1,11 @@
 Tara Whom None Can Overcome
 སྒྲོལ་མ་གཞན་གྱིས་མི་ཐུབ་མ།
 
-Seventh in the sequence, she is praised through two seed-syllables, TRAT and PHAT, said to instantly shatter any hostile magic or ill intention that others might direct outward — an image less of Tara attacking anyone than of every weapon aimed at her simply failing to land, dissolved before it can do harm. Her name states this plainly: she cannot be overcome, not because she seeks contest, but because nothing hostile has any real power in her presence.
+**Name** : Tara Whom None Can Overcome
+**Mantra** : oṃ tāre tuttāre ture sarva vidyā aparavaraṇāya svāhā
+**Accomplishment** : Turning back the spells of others
+
+Those who wish to turn back the spells of others should rely on Tara Whom None Can Overcome. Seventh in the sequence, she is praised through two seed-syllables, TRAT and PHAT, said to instantly shatter any hostile magic or ill intention that others might direct outward — an image less of Tara attacking anyone than of every weapon aimed at her simply failing to land, dissolved before it can do harm. Her name states this plainly: she cannot be overcome, not because she seeks contest, but because nothing hostile has any real power in her presence.
 
 She is shown standing with one leg bent and the other extended, a stance of readiness rather than repose, positioned amid blazing fire that surrounds her without touching her — flames that mark the presence of a force capable of consuming harm the instant it approaches, while leaving her, and those who take refuge in her, completely unburned.
 
