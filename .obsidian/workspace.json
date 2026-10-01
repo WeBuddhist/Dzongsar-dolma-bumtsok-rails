@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
+                "file": "0-INBOX/21-Drolma-Introductions/21 Tara of Rays of Light (Chinese).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Tara the Swift, the Heroine (Chinese)"
+              "title": "21 Tara of Rays of Light (Chinese)"
             }
           }
         ]
@@ -199,7 +199,14 @@
   },
   "active": "2b2b8c3d4ba52484",
   "lastOpenFiles": [
+    "0-INBOX/21-Drolma-Introductions/21 Tara of Rays of Light (Tibetan).md",
+    "0-INBOX/21-Drolma-Introductions/20 Tara Clad in Leaves of the Mountain Retreat (Chinese).md",
+    "0-INBOX/21-Drolma-Introductions/19 Tara Unconquerable, Full of Splendor (Chinese).md",
+    "0-INBOX/21-Drolma-Introductions/18 Tara the Great Peacock (Chinese).md",
+    "0-INBOX/21-Drolma-Introductions/17 Tara Who Subdues the Immeasurable (Chinese).md",
+    "0-INBOX/21-Drolma-Introductions/16 Tara Who Destroys Attachment (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/15 Tara the Great Peace (Chinese).md",
+    "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/14 Tara Whose Frown Shakes the Earth (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/13 Tara Blazing Like Fire (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/12 Tara Who Grants Auspicious Accomplishment (Chinese).md",
@@ -215,7 +222,6 @@
     "0-INBOX/21-Drolma-Introductions/02 Tara the Radiant, Treasury of Wisdom (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/06 Tara the Great Terror to Every Evil Force (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/05 Tara Who Roars with HUM (English).md",
-    "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (Chinese).md",
     "1-SOURCES/Translations/zh-21_Tara_Chinese_Subtitles_Long_TC+SC.md",
     "conflict-files-obsidian-git.md",
     "4-SYSTEM/scripts/parser-commentary/README.md",
@@ -223,18 +229,12 @@
     "4-SYSTEM/scripts/linter-commentary/lookup.py",
     "4-SYSTEM/scripts/linter-commentary/validate.py",
     "4-SYSTEM/scripts/linter-commentary/requirements.txt",
-    "4-SYSTEM/scripts/linter-commentary/README.md",
     "4-SYSTEM/scripts/linter-commentary/lint_text_input.py",
     "4-SYSTEM/scripts/linter-commentary/languages.py",
     "4-SYSTEM/scripts/linter-commentary/constants.py",
     "4-SYSTEM/scripts/linter-commentary/build.py",
     "4-SYSTEM/scripts/parser-commentary",
     "4-SYSTEM/scripts/linter-commentary",
-    "4-TRANSFORMATIONS/Translations/Gemini/zh-Hant-TW-commentaries/style.md",
-    "4-TRANSFORMATIONS/Translations/Gemini/zh-Hant-TW-commentaries/en-a-ship-sailing-the-ocean-of-the-two-accumulations-zh.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/zh-commentaries/bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-ཟབ་ཏིག་སྒྲོལ་ཆོག-zh.md",
-    "4-TRANSFORMATIONS/Translations/Dharmamitra/en-commentaries/bo-རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།-ཟབ་ཏིག་སྒྲོལ་ཆོག-en.md",
-    "3-SKILLS/yigchung-upload/scripts/output/Hi-Tārā’s_Profound_Essence.yigchung-review.md",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/01_DROLMA NYURMA PAMO སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། - Edited - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/02_DROLMA OKAR CHEN སྒྲོལ་མ་འོད་དཀར་ཅན། - Edited.png",
     "0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/21_DROLMA YONGSU DZOGCHEMA སྒྲོལ་མ་ཡོངས་སུ་རྫོགས་བྱེད་མ། - Edited.png",
