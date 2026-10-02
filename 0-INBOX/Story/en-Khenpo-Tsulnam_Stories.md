@@ -30,7 +30,7 @@ Here, then, for the sake of increasing our own faith and acquainting us with the
 
 Long ago in India, a man of royal caste was sleeping in a pleasure grove when he found himself surrounded by a host of enemy soldiers bearing weapons. Having no other refuge, he remembered having heard of one called Tārā who protects from the sixteen fears. Thinking, "I will go to her for refuge," he called out Tārā's name and prayed to her. Immediately Tārā appeared in the sky before him, and a fierce wind rose from beneath her feet, scattering the soldiers in every direction — so that he is said to have reached his own home safely. ^1-1
 
-### 2. Protection from the Fear of Lions
+### 2. Protection from the Fear of Lions ^1-2-0
 
 Long ago, in a certain region of India, a woodcutter went deep into a forest to gather wood. There he came upon a hungry lioness, who seized him in her mouth and began carrying him toward her den. As she neared it, he prayed one-pointedly to Tārā. At once a woman clad in leaves appeared before him, drew him from the lion's mouth, and set him down safely in the marketplace of a town. ^1-2
 
@@ -54,15 +54,15 @@ Long ago there lived in a certain land a merchant of very great wealth. One day,
 
 A chief among thieves, on his way to rob the king's treasury, drank some fine beer and, overcome by drunkenness, fell asleep. The king's men found him there, seized him as the thief, and threw him into prison, where he suffered various punishments. In his suffering he prayed to Tārā, whereupon a bird of many colors appeared and untied his bonds; even the prison door swung open by itself, and the thief escaped. That night he dreamed of a woman adorned with many kinds of ornaments, who said to him, "It is by my kindness that you have been freed from prison. If you remember this kindness, you and your companions must give up thieving." From then on they abandoned thieving for trade and other honest livelihoods, and came to perform great virtuous deeds. ^1-7
 
-### 8. Protection from the Fear of the Ocean's Waters
+### 8. Protection from the Fear of the Ocean's Waters ^1-8-0
 
-Long ago many merchants sailed beyond the ocean south of India to trade, and having obtained jewels, sandalwood, and other goods on the far shore, they set out again upon the sea. A great ocean wind arose, churning the waves, which battered the ship until it was on the verge of breaking apart. At their wits' end, the merchants prayed to Brahmā, Viṣṇu, Śiva, and other gods, but to no avail. Then the ship's rope snapped, and as the goods began scattering into the water, one among the merchants — a lay devotee with faith in the Buddha — remembered Tārā, recited her ten-syllable mantra, and prayed to her. At once the winds died down, a wind favorable for sailing arose, and they arrived safely at the near shore of the ocean.
+Long ago many merchants sailed beyond the ocean south of India to trade, and having obtained jewels, sandalwood, and other goods on the far shore, they set out again upon the sea. A great ocean wind arose, churning the waves, which battered the ship until it was on the verge of breaking apart. At their wits' end, the merchants prayed to Brahmā, Viṣṇu, Śiva, and other gods, but to no avail. Then the ship's rope snapped, and as the goods began scattering into the water, one among the merchants — a lay devotee with faith in the Buddha — remembered Tārā, recited her ten-syllable mantra, and prayed to her. At once the winds died down, a wind favorable for sailing arose, and they arrived safely at the near shore of the ocean. ^1-8
 
 ### 9. Protection from the Fear of Flesh-Eating Demons ^1-9-0
 
 Long ago a great assembly of monks lived in a certain monastery. Once, several monks who had gone outside the monastery at night had died there, and one day a novice monk, out walking, was seized by the head by a flesh-eating demon — black, fanged, and terrible to behold. The novice, having heard that Tārā protects from the eight fears, called out her name and prayed to her. At once a dark goddess bearing a sword appeared and threatened the demon, who, terrified, begged the novice's forgiveness and released him. From that time on, harm to that monastery ceased entirely. ^1-9
 
-### 10. Protection from the Fear of Leprosy
+### 10. Protection from the Fear of Leprosy ^1-10-0
 
 Long ago a brahmin teacher fell ill with leprosy. The disease spread to many of his fellow brahmins, and once they too had contracted it, all his friends and even the physicians abandoned him, so that he had to wander about begging. On the road he saw a stone image of Jetsün Tārā, and faith arose in him; he prayed to her. From the hand of the stone image there then flowed a continuous stream of medicinal nectar; the sick who drank of it and bathed in it were freed from the disease, their bodies becoming even more beautiful than before. ^1-10
 
@@ -92,7 +92,7 @@ Long ago, near the town of Sershkya close to Magadha in central India, King Ashv
 
 Some fainted outright and fled despite the king's reproach and threats of punishment. Ashvaka's soldiers explained it this way: "The enemy's troops were unlike anything we had seen before — countless dark, terrifying women bearing weapons and spears filled the whole space between heaven and earth, and we, with no courage left to fight, came fleeing." ^1-17
 
-### 17. Protection from the Fear of Rivers
+### 17. Protection from the Fear of Rivers ^1-17-0
 
 Two men from the land of Nepal, while fording a river, were swept away by the powerful current. One of them prayed to Tārā, whereupon a wild man — an emanation of the Mother — threw a great tree trunk into the water. The man caught hold of it and, relying on it, was freed from the water. ^1-18
 
@@ -104,7 +104,7 @@ Also, long ago, a great epidemic broke out in a certain region of Tibet, and no 
 
 Also, the king of Jang once had two thieves thrown into prison. One of them recited Tārā's mantra without ceasing, day and night. The other, having no faith in Tārā, found the sound grating and could not sleep, and told his companion to stop reciting and let him rest. But the first thief paid him no heed and continued reciting; after about six months, the iron shackles on his hands and feet melted away, an opening appeared in the wall of the cell, and he escaped. The doubting companion, however, remained behind, unfreed. ^1-20
 
-### 20. The Pacification of Harm from Evil Spirits
+### 20. The Pacification of Harm from Evil Spirits ^1-20-0
 
 Long ago, in a certain district, there was a bridge over a river that had become a thoroughfare for evil spirits and demons, bringing misfortune to that land. Later, a cairn of stones carved with images of Tārā was placed along the bridge. The spirits no longer dared pass; their thoroughfare was cut off, and they were unable to travel through that place again — so that afterward all obstacles there are said to have been pacified. ^1-21
 
@@ -126,11 +126,11 @@ Long ago, on the summit of a mountain, many prayer flags had been planted, most 
 
 Long ago a king took a queen, but though much time passed, no son was born to her. He then took several more queens, but not one of them bore an heir either, so that the king and his ministers grew anxious. Deliberating on what to do, they consulted the gods and lamas and performed divinations. All the people of his realm were gathered, and it was prophesied that a son would be born if they performed Tārā practice. The king then assembled many people and had them recite Tārā's mantra; after it had been recited many hundreds of thousands of times, a royal son was born. Because they had recited Tārā's mantra a hundred hundred-thousand times, Tārā herself declared, "I grant this to you" — and so the king had to name his son Bumgya ("Hundred Hundred-Thousand"). That prince later became a king of great power and merit. ^1-26
 
-### 25. Protection from the Fear of Fire (Kongpo)
+### 25. Protection from the Fear of Fire (Kongpo) ^1-25-0
 
 Long ago, in the region of Kongpo in eastern Tibet, there was a family who took Tārā as their principal yidam deity. One day an evil spirit created an obstacle, and their house caught fire. Though the household tried to flee, they could not escape, and as the flames drew near, the whole family prayed one-pointedly to Tārā, weeping and crying out in anguish. There, appearing like the moon reflected in water, the Noble Jetsün herself appeared in the sky above them, and from her body fell a continuous rain of nectar, which extinguished the fire — so that not only was no one in the household harmed by the flames, but they also beheld the very face of Tārā. ^1-27
 
-### 26. Protection from the Fear of Illness
+### 26. Protection from the Fear of Illness ^1-26-0
 
 Also, a monk from eastern Tibet was afflicted by illness, and though he relied on many physicians, no cure was found. His condition worsened day by day. One night he dreamed that, overwhelmed by his sickness, he was being swept away by a great river; at his wits' end, a woman with a long arm reached out and drew him from the water, saying, "With my right hand I say Oṃ Tāre, and with my left I say Tuttāre," and so pulled him from the river. The next day his illness began, of its own accord, gradually to improve, and he later understood this to have been the blessing of Tārā. ^1-28
 
