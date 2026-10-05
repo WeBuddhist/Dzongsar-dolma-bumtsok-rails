@@ -1,5 +1,5 @@
 Tara Blazing Like Fire
-སྒྲོལ་མ་མེ་ལྟར་འབར་བ།
+སྒྲོལ་མ་མེ་ལྟར་འབར་མ།
 
 **Name** : Tara Blazing Like Fire
 **Mantra** : oṃ tāre tuttāre ture bhaya bhasmiṃ kuru svāhā

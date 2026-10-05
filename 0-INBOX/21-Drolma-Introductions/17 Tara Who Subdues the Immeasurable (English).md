@@ -1,11 +1,11 @@
-Tara Who Subdues the Immeasurable
-སྒྲོལ་མ་དཔག་མེད་གནོན་མ།
+Tara Who Shakes the Three Worlds
+སྒྲོལ་མ་འཇིག་རྟེན་གསུམ་གཡོ་བ།
 
-**Name** : Tara Who Subdues the Immeasurable
+**Name** : Tara Who Shakes the Three Worlds
 **Mantra** : oṃ tāre tuttāre sarva stambhani tāre svāhā
 **Accomplishment** : Pacifying maras and obstacles
 
-Those who wish to pacify maras and obstacles should rely on Tara Who Subdues the Immeasurable. Seventeenth among the twenty-one, she is invoked through the syllable TURE as her two feet stamp the ground with tremendous force, while HUM sounding at her heart is said to shake the three great mountains of classical cosmology — Meru, Mandara, and Vindhya — a scale of power vast enough that even the immovable centers of the universe respond to it.
+Those who wish to pacify maras and obstacles should rely on Tara Who Shakes the Three Worlds. Seventeenth among the twenty-one, she is invoked through the syllable TURE as her two feet stamp the ground with tremendous force, while HUM sounding at her heart is said to shake the three great mountains of classical cosmology — Meru, Mandara, and Vindhya — a scale of power vast enough that even the immovable centers of the universe respond to it.
 
 She goes by an unusually large number of alternate names across the different commentaries, more than almost any other Tara in the sequence, as though no single title could quite hold the immensity her verse describes; most traditions show her body in a striking red-gold or saffron hue, with a single face and two arms. Beneath this cosmic imagery, certain masters read a subtler meaning: Mount Meru, standing at the axis of the universe, is understood as an image of the practitioner's own central channel and spine, so that the mountain's shaking becomes an inner event as much as an outer one — the dissolving of rigidity at the very core of the body and mind.
 

@@ -1,11 +1,11 @@
-Tara the Radiant, Treasury of Wisdom
-སྒྲོལ་མ་བློ་གཏེར་དབྱངས་ཅན་མ།
+Tara the Great Pacifier
+སྒྲོལ་མ་ཞི་བ་ཆེན་མོ།
 
-**Name** : Tara the Radiant, Treasury of Wisdom
+**Name** : Tara the Great Pacifier
 **Mantra** : oṃ tāre tuttāre ture śāntiṃ kuru svāhā
 **Accomplishment** : Pacifying illness, harmful spirits, and obstructing forces
 
-Those who wish to pacify illness, harmful spirits, and obstructing forces should rely on Tara the Radiant, Treasury of Wisdom. She is the second of the twenty-one, and the root verse praises her by comparing her face to a hundred autumn moons stacked one behind the other, shining brighter than a thousand gathered stars. The commentators do not agree on a single name for her — some call her "the treasury of intellect, the melodious one," others "the radiant white Tara," and still others simply "the great pacifier" — but every version points toward the same quality: a luminous, wisdom-filled brilliance that clears away the dark of confusion the moment it touches it.
+Those who wish to pacify illness, harmful spirits, and obstructing forces should rely on Tara the Great Pacifier. She is the second of the twenty-one, and the root verse praises her by comparing her face to a hundred autumn moons stacked one behind the other, shining brighter than a thousand gathered stars. The commentators do not agree on a single name for her — some call her "the treasury of intellect, the melodious one," others "the radiant white Tara," and still others simply "the great pacifier" — but every version points toward the same quality: a luminous, wisdom-filled brilliance that clears away the dark of confusion the moment it touches it.
 
 She is shown in white, seated in a single pair of arms, her right hand open in the gesture of supreme giving while her left holds a blue lotus marked with a small mirror and a seed-syllable resting at its heart — a mirror because her light works the way reflected light works, dispelling ignorance simply by shining, without effort or strain, the way daybreak needs no argument to end the night. Some traditions also describe a more elaborate form of hers with three faces and twelve arms, emphasizing the same radiance multiplied across every direction.
 

@@ -1,11 +1,11 @@
-Tara Who Grants Auspicious Accomplishment
-སྒྲོལ་མ་བཀྲ་ཤིས་དོན་གྲུབ་མ།
+Tara Who Bestows All Auspiciousness
+སྒྲོལ་མ་བཀྲ་ཤིས་ཐམས་ཅད་འབྱིན་མ།
 
-**Name** : Tara Who Grants Auspicious Accomplishment
+**Name** : Tara Who Bestows All Auspiciousness
 **Mantra** : oṃ tāre tuttāre ture maṅgalaṃ svāhā
 **Accomplishment** : Auspiciousness
 
-Those who wish to have auspiciousness should rely on Tara Who Grants Auspicious Accomplishment. The twelfth of the twenty-one wears the crescent moon as her crown ornament, and within the knot of her hair sits the Buddha Amitabha, quietly presiding over her from above — a sign that whatever she accomplishes carries the blessing and the pure intention of the Buddha of Boundless Light woven directly into it. From this crown, auspicious light radiates outward, and wherever it falls, it is said to dispel suffering in its path.
+Those who wish to have auspiciousness should rely on Tara Who Bestows All Auspiciousness. The twelfth of the twenty-one wears the crescent moon as her crown ornament, and within the knot of her hair sits the Buddha Amitabha, quietly presiding over her from above — a sign that whatever she accomplishes carries the blessing and the pure intention of the Buddha of Boundless Light woven directly into it. From this crown, auspicious light radiates outward, and wherever it falls, it is said to dispel suffering in its path.
 
 Her name joins two ideas that Tibetan tradition treats as inseparable: tashi, auspiciousness, the sense that circumstances are aligning favorably, and döndrup, the actual accomplishment of one's aims. She is invoked, then, not simply for good fortune in the abstract but for good fortune that completes itself — the kind of favorable circumstance that does not simply appear and pass by, but carries a genuine undertaking all the way through to success. The commentaries describe two forms for her, one with two arms and a more elaborate one with eight, the fuller form multiplying her capacity to bring things to completion across many endeavors at once.
 
