@@ -21,7 +21,7 @@ Tara of the Khadira Forest
 
 ## Introduction
 
-![[0-INBOX/21-Drolma-Introductions/09 Tara of the Khadira Forest (English).md]]
+![[00 Tara of the Khadira Forest (English)]]
 
 ## Praise Stanza
 

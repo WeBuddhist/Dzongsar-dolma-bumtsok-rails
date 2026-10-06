@@ -21,7 +21,7 @@ status: draft
 
 ## 度母介绍
 
-![[0-INBOX/21-Drolma-Introductions/09 Tara of the Khadira Forest (Chinese).md]]
+![[00 Tara of the Khadira Forest (Chinese)]]
 
 ## 赞偈
 

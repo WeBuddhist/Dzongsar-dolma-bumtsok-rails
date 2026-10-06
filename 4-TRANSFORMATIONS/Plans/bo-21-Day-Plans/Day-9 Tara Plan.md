@@ -21,7 +21,7 @@ status: draft
 
 ## ངོ་སྤྲོད
 
-![[0-INBOX/21-Drolma-Introductions/09 Tara of the Khadira Forest (Tibetan).md]]
+![[00 Tara of the Khadira Forest (Tibetan)]]
 
 ## བསྟོད་པའི་ཚིགས་བཅད
 
