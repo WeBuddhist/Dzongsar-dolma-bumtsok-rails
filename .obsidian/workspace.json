@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (Tibetan).md",
+                "file": "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (English).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Tara Who Protects from All Fears (Tibetan)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "28a1ca88c4d2161c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "990a21e41f82a912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །"
+              "title": "09 Tara Who Protects from All Fears (English)"
             }
           }
         ]
@@ -220,9 +200,11 @@
   },
   "active": "c0388252e40afe72",
   "lastOpenFiles": [
-    "0-INBOX/21-Drolma-Introductions/10 Tara Who Subdues Maras and the World (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (Tibetan).md",
+    "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (Chinese).md",
+    "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (English).md",
     "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
+    "0-INBOX/21-Drolma-Introductions/10 Tara Who Subdues Maras and the World (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/07 Tara Whom None Can Overcome (Tibetan).md",
     "0-INBOX/21-Drolma-Introductions/00 Tara of the Khadira Forest (Tibetan).md",
     "0-INBOX/21-Drolma-Introductions/00 Tara of the Khadira Forest (English).md",
@@ -244,8 +226,6 @@
     "0-INBOX/21-Drolma-Introductions/08 Tara the Great Vanquisher of Fear (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/10 Tara Who Subdues Maras and the World (English).md",
     "0-INBOX/21-Drolma-Introductions/01 Tara the Swift, the Heroine (English).md",
-    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-21 Tara Plan.md",
-    "1-SOURCES/Translations/en-The Twenty-One Praises to Tara.md",
     "3-SKILLS/tara-plan-creator/sedHAe2Ww",
     "3-SKILLS/yigchung-upload/scripts/output/Hi-Tārā’s_Profound_Essence.yigchungs.json",
     "0-INBOX/temp/edition-spacing-fix/En-Tārā’s_Profound_Essence.toc-e5Ovlr4L4JSHpxXvjfMRK.rebuilt-2026-09-30T144204.json",
