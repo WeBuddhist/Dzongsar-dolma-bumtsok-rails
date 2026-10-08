@@ -3,7 +3,7 @@ plan: Tara-Plan-Creator
 day: 9
 language: bo
 tara_number: 9
-tara_name: "སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ།"
+tara_name: སྒྲོལ་མ་འཇིགས་པ་ཐམས་ཅད་སྐྱོབ་མ།
 story_number: 14
 generation_date: 2026-09-25
 status: draft
@@ -17,11 +17,11 @@ status: draft
 
 ## མཚན
 
-སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ།
+སྒྲོལ་མ་འཇིགས་པ་ཐམས་ཅད་སྐྱོབ་མ།
 
 ## ངོ་སྤྲོད
 
-![[00 Tara of the Khadira Forest (Tibetan)]]
+![[09 Tara Who Protects from All Fears (Tibetan)]]
 
 ## བསྟོད་པའི་ཚིགས་བཅད
 
