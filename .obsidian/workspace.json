@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །"
             }
+          },
+          {
+            "id": "192e687a539d1d70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,15 +209,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6b7b9829e184c1da",
+  "active": "192e687a539d1d70",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
     "0-INBOX/Story/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-9 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-1 Tara Plan.md",
     "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (Tibetan).md",
     "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (English).md",
     "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (Chinese).md",
-    "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
     "0-INBOX/21-Drolma-Introductions/10 Tara Who Subdues Maras and the World (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/07 Tara Whom None Can Overcome (Tibetan).md",
     "0-INBOX/21-Drolma-Introductions/00 Tara of the Khadira Forest (Tibetan).md",
