@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-00 Tara Plan.md",
+                "file": "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-09 Tara Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day-00 Tara Plan"
+              "title": "Day-09 Tara Plan"
             }
           },
           {
@@ -61,20 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "en-Khenpo-Tsulnam_Stories"
-            }
-          },
-          {
-            "id": "fe6088d539320e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/en-The Twenty-One Praises to Tara.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "en-The Twenty-One Praises to Tara"
             }
           }
         ],
@@ -257,14 +243,20 @@
   },
   "active": "192e687a539d1d70",
   "lastOpenFiles": [
-    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-01 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-09 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-00 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-10 Tara Plan.md",
+    "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-10 Tara Plan.md",
+    "0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md",
+    "1-SOURCES/Translations/en-The Twenty-One Praises to Tara.md",
+    "0-INBOX/Story/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md",
+    "0-INBOX/raw-data/ཇོ་ལུགས་སྒྲོལ་མ་ཉེར་གཅིག་གི་སྒྲུབ་ཐབས་རྗེས་གནང་དང་བཅས་པ་བཞུགས་སོ། །.md",
+    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-01 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-13 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-09 Tara Plan.md",
     "09_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.png",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-00 Tara Plan.md",
     "0-INBOX/21-Drolma-Introductions/00 Tara of the Khadira Forest (English).md",
-    "4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-00 Tara Plan.md",
     "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (Chinese).md",
     "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (English).md",
     "0-INBOX/21-Drolma-Introductions/09 Tara Who Protects from All Fears (Tibetan).md",
@@ -279,13 +271,7 @@
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-04 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-03 Tara Plan.md",
     "4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-02 Tara Plan.md",
-    "0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md",
-    "0-INBOX/Story/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md",
-    "1-SOURCES/Translations/en-The Twenty-One Praises to Tara.md",
     "1-SOURCES/Text/bo-སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
-    "0-INBOX/21-Drolma-Introductions/08 Tara the Great Vanquisher of Fear (Tibetan).md",
-    "0-INBOX/21-Drolma-Introductions/08 Tara the Great Vanquisher of Fear (English).md",
-    "0-INBOX/21-Drolma-Introductions/08 Tara the Great Vanquisher of Fear (Chinese).md",
     "3-SKILLS/tara-plan-creator/sedYYIDFy",
     "3-SKILLS/tara-plan-creator/seda5iYmz",
     "3-SKILLS/tara-plan-creator/sedkVRHJg",
