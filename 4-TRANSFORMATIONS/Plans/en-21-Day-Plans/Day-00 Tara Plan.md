@@ -13,7 +13,7 @@ status: draft
 
 ## Tara's Image
 
-![[0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/09_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.png]]
+![[00_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.jpeg]]
 
 ## Tara's Name
 
