@@ -1,9 +1,9 @@
 ---
 name: tara-plan-creator
-description: Generate one or more days of the 21-Taras day-plan — today's Tara image, name and introduction; the day's praise stanza from the Twenty-One Praises to Tara; and a never-repeating story — in Tibetan, English and Chinese. Trigger whenever the human contributor asks to run Tara-Plan-Creator, build/generate the Tara day-plan(s), or create Day-N Tara Plan for one day, a range of days, or a list of days.
+description: Generate one or more days of the 21-Taras day-plan — today's Tara image, name and introduction; the day's praise stanza from the Twenty-One Praises to Tara; and a never-repeating story — in Tibetan, English and Chinese. Trigger whenever the human contributor asks to run Tara-Plan-Creator, build/generate the Tara day-plan(s), or create Day-NN Tara Plan for one day, a range of days, or a list of days.
 profile: vault-local
 creator: Tigerboy
-supersedes: none — this is the first formal registration of the ad hoc process that produced the pre-existing bo-21-Day-Plans/Day-1 and Day-2 files
+supersedes: none — this is the first formal registration of the ad hoc process that produced the pre-existing bo-21-Day-Plans/Day-01 and Day-02 files
 ---
 
 # Tara-Plan-Creator
@@ -40,12 +40,12 @@ If any of these paths does not exist when the skill runs, stop and report exactl
 Three files per requested day, one per language:
 
 ```
-4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-<N> Tara Plan.md
-4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-<N> Tara Plan.md
-4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-<N> Tara Plan.md
+4-TRANSFORMATIONS/Plans/bo-21-Day-Plans/Day-<NN> Tara Plan.md
+4-TRANSFORMATIONS/Plans/en-21-Day-Plans/Day-<NN> Tara Plan.md
+4-TRANSFORMATIONS/Plans/zh-21-Day-Plans/Day-<NN> Tara Plan.md
 ```
 
-`<N>` is the plain day number (`Day-1 Tara Plan.md`, `Day-2 Tara Plan.md`, … `Day-21 Tara Plan.md`), matching the file names already in use in `bo-21-Day-Plans`.
+`<NN>` in file names is the two-digit, zero-padded day number (`Day-01 Tara Plan.md`, `Day-02 Tara Plan.md`, … `Day-21 Tara Plan.md`), matching the file names already in use in `bo-21-Day-Plans`. Everywhere else (frontmatter, headings, block references) `<N>` stays the plain, unpadded number.
 
 **Day 1 and Day 2, Tibetan, already exist and predate this skill.** They were built by an earlier, richer format (a full sadhana embed, the complete 21-praises recitation, a video-link section) that this skill does not reproduce — the human contributor's current specification for this skill is the leaner five-heading shape below. Do not silently overwrite those two files with the new shape. If a run is requested for Day 1 or Day 2, stop and ask the human contributor whether to (a) leave the existing Tibetan file untouched and only add the English/Chinese counterparts in the new shape, (b) regenerate the Tibetan file too in the new shape, or (c) skip those two days entirely. For every other day, if a target file already exists, update it in place only if asked — otherwise stop and report the collision rather than overwrite.
 
@@ -55,7 +55,7 @@ Three files per requested day, one per language:
 
 One file per language, all five sections at heading level `##` (never deeper), in this order: image, name, introduction, praise stanza, story. The bracketed labels below are fixed per language; do not translate them differently between runs.
 
-**Tibetan — `bo-21-Day-Plans/Day-<N> Tara Plan.md`:**
+**Tibetan — `bo-21-Day-Plans/Day-<NN> Tara Plan.md`:**
 
 ```markdown
 ---
@@ -94,7 +94,7 @@ status: draft
 ![[0-INBOX/Story/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md#^1-<M>]]
 ```
 
-**English — `en-21-Day-Plans/Day-<N> Tara Plan.md`:**
+**English — `en-21-Day-Plans/Day-<NN> Tara Plan.md`:**
 
 ```markdown
 ---
@@ -133,7 +133,7 @@ status: draft
 ![[0-INBOX/Story/en-Khenpo-Tsulnam_Stories.md#^1-<M>]]
 ```
 
-**Chinese — `zh-21-Day-Plans/Day-<N> Tara Plan.md`:**
+**Chinese — `zh-21-Day-Plans/Day-<NN> Tara Plan.md`:**
 
 ```markdown
 ---
@@ -172,7 +172,7 @@ status: draft
 ![[0-INBOX/Story/zh-Khenpo-Tsulnam_Stories.md#^1-<M>]]
 ```
 
-`<N>` = day number = Tara number. `<M>` = the story number assigned to that day (Rule 4). `<NN>` = the two-digit, zero-padded Tara number as it appears in the image filename prefix (`01`… `21`).
+`<N>` = day number = Tara number. `<M>` = the story number assigned to that day (Rule 4). `<NN>` = the two-digit, zero-padded Tara number as it appears in the image filename prefix and in the plan file names (`01`… `21`).
 
 ---
 
@@ -230,5 +230,5 @@ Fact-check every one of these against the files actually on disk — do not tick
 - [ ] The Name text under `## Tara's Name` / `## མཚན` / `## 度母名号` matches, character for character, the first line of the introduction file transcluded immediately below it.
 - [ ] Every transclusion link (`![[...]]`) resolves to a file and, where a block ID is used, an anchor that actually exists in the vault — no broken link, no guessed anchor.
 - [ ] Any block-ID anchor added under Rule 7 was inserted at the end of the existing line/paragraph only, with no wording changed, added, or removed in the source file.
-- [ ] Every file was saved to the correct language folder under the correct exact filename (`Day-<N> Tara Plan.md`), and no existing file was overwritten without the human contributor's go-ahead.
+- [ ] Every file was saved to the correct language folder under the correct exact filename (`Day-<NN> Tara Plan.md`), and no existing file was overwritten without the human contributor's go-ahead.
 - [ ] The Day 1/2 legacy-format question was asked and resolved before writing anything for those two days, if they were part of this run.

@@ -1,5 +1,5 @@
 Tara the Great Peace
-སྒྲོལ་མ་ཞི་བ་ཆེན་མོ།
+སྒྲོལ་མ་ཞི་བ་ཆེན་པོ།
 
 **Name** : Tara the Great Peace
 **Mantra** : oṃ tāre tuttāre sarva pāpaṃ praśamanāya svāhā

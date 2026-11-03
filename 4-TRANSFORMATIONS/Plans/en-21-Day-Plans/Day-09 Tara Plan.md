@@ -13,15 +13,15 @@ status: draft
 
 ## Tara's Image
 
-![[0-INBOX/21-Tara's-Images/21-Surya-Gupta-Taras-Images/09_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.png]]
+![[09_SENGDENG NAGKYI DROLMA སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མ། - Edited.png]]
 
 ## Tara's Name
 
-Tara of the Khadira Forest
+Tara Who Protects from All Fears
 
 ## Introduction
 
-![[0-INBOX/21-Drolma-Introductions/09 Tara of the Khadira Forest (English).md]]
+![[09 Tara Who Protects from All Fears (English)]]
 
 ## Praise Stanza
 

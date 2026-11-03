@@ -1,5 +1,5 @@
 Tara Who Roars with HUM
-སྒྲོལ་མ་ཧཱུཾ་སྒྲ་སྒྲོག་མ།
+སྒྲོལ་མ་ཧཱུྃ་སྒྲ་སྒྲོགས་མ།
 
 **Name** : Tara Who Roars with HUM
 **Mantra** : oṃ tāre tuttāre ture sarva strī ākarṣaya hrīḥ svāhā

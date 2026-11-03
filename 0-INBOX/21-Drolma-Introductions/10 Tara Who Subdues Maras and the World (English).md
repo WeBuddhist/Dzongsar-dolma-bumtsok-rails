@@ -1,5 +1,5 @@
 Tara Who Subdues Maras and the World
-སྒྲོལ་མ་བདུད་དང་འཇིག་རྟེན་དབང་སྡུད་མ།
+སྒྲོལ་མ་བདུད་དང་འཇིག་རྟེན་དབང་དུ་སྡུད་མ།
 
 **Name** : Tara Who Subdues Maras and the World
 **Mantra** : oṃ tāre tuttāre ture sarva māra pramardhāni svāhā
